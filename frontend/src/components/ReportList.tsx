@@ -18,8 +18,8 @@ export const ReportList: React.FC<Props> = ({ items, onSelect, selectedId, onExp
           return (
             <li key={r.id} className={`group ${active ? 'selected' : ''}`} style={active ? {borderColor:'#2563eb', background:'#e1effe'}:undefined}>
               <div className="flex items-center justify-between" style={{gap:'.5rem'}}>
-                <button onClick={() => onSelect(r.id)} style={{fontFamily:'monospace', fontSize:'10px', letterSpacing:'-.25px', overflow:'hidden', textOverflow:'ellipsis'}}>
-                  {r.id}
+                <button onClick={() => onSelect(r.id)} style={{fontFamily:'monospace', fontSize:'10px', letterSpacing:'-.25px', overflow:'hidden', textOverflow:'ellipsis'}} title={r.displayName && r.displayName !== r.id ? r.id : undefined}>
+                  {r.displayName || r.id}
                 </button>
                 <div style={{display:'flex', gap:'.35rem'}}>
                   <button onClick={() => onExportCSV(r.id)} className="btn" style={{fontSize:'9px', padding:'2px 6px'}}>CSV</button>

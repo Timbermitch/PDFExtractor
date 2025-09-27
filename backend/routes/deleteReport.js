@@ -42,7 +42,8 @@ router.delete('/:id', async (req, res, next) => {
   if (!id) return res.status(400).json({ error: 'Missing id' });
   try {
     const targets = [
-      path.join(bronzeDir, id + '.txt'),
+      path.join(bronzeDir, id + '.json'), // new bronze storage format
+      path.join(bronzeDir, id + '.txt'),  // legacy
       path.join(silverDir, id + '.json'),
       path.join(goldDir, id + '.json'),
       path.join(goldDir, id + '.csv')

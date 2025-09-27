@@ -4,6 +4,7 @@ import { ProcessControls } from './components/ProcessControls';
 import { ReportDashboard } from './components/ReportDashboard';
 import { ReportList } from './components/ReportList';
 import { api } from './services/api';
+import { AccuracyRequirements } from './components/AccuracyRequirements';
 import { LoadingOverlay } from './components/ui/LoadingOverlay';
 import type { ExtractedReport, ReportListItem } from './types';
 
@@ -122,6 +123,7 @@ function App() {
                 }
               }}
             />
+            <AccuracyRequirements />
           </div>
         </div>
         <div className="content-stack">

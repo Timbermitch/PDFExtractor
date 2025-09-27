@@ -3,8 +3,11 @@ import type { ExtractedReport, ReportListItem } from '../types';
 
 // Determine base API URL with a resilient fallback strategy
 const envBase = (process.env.REACT_APP_API_BASE || '').trim();
-const inferredBase = envBase || (typeof window !== 'undefined' ? `${window.location.protocol}//localhost:4000` : 'http://localhost:4000');
+// Prefer same-origin during dev when CRA proxy is configured; fallback to explicit port 4000.
+const inferredBase = envBase || (typeof window !== 'undefined' ? `${window.location.protocol}//${window.location.hostname}:4000` : 'http://localhost:4000');
 export const API_BASE = inferredBase.replace(/\/$/, '');
+// eslint-disable-next-line no-console
+console.log('[api] base URL resolved to', API_BASE);
 
 // Central axios instance for future interceptors (auth, tracing, etc.)
 const http = axios.create({ baseURL: API_BASE, timeout: 20000 });
@@ -56,6 +59,8 @@ export const api = {
       const { data } = await http.get<ReportsResponse>('/reports');
       return data.reports;
     } catch (e) {
+      // eslint-disable-next-line no-console
+      console.error('[api] listReports failed', e);
       throw normalizeError(e);
     }
   },

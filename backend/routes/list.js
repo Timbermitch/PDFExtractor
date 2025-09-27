@@ -14,7 +14,10 @@ router.get('/', async (req, res, next) => {
     for (const f of files) {
       try {
         const json = JSON.parse(await fs.promises.readFile(path.join(dir, f), 'utf-8'));
-        items.push({ id: path.basename(f, '.json'), summary: json.summary, generatedAt: json.generatedAt });
+        const id = path.basename(f, '.json');
+        const originalName = json?.metadata?.originalName;
+        const displayName = originalName ? path.basename(originalName, path.extname(originalName)) : id;
+        items.push({ id, displayName, summary: json.summary, generatedAt: json.generatedAt });
       } catch (_) { /* skip file */ }
     }
     res.json({ reports: items });
