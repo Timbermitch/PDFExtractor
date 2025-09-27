@@ -1,0 +1,28 @@
+{
+  "name": "pdf-extractor-backend",
+  "version": "1.0.0",
+  "description": "PDF Extraction Tool Backend (Medallion Architecture Demo)",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "lint": "echo 'add linter later'",
+    "validate:sample": "node validation/validate.js backend/data/silver/sample.json"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "openai": "^4.54.0",
+    "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^5.4.149",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

@@ -1,0 +1,47 @@
+/* Tailwind layer directives (the build pipeline via PostCSS + tailwindcss will expand these). */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Utility application. Some editors flag @apply without Tailwind language server; that's safe to ignore. */
+body { background: #f1f5f9; color: #1e293b; -webkit-font-smoothing: antialiased; }
+
+/* Simplified base typography without @apply (fallback if Tailwind not processed) */
+h1 { font-size: 1.5rem; font-weight:600; letter-spacing:-0.5px; }
+h2 { font-size: 1.125rem; font-weight:600; margin:1.5rem 0 .5rem; }
+h3 { font-size: 1rem; font-weight:500; margin:1rem 0 .5rem; }
+table { width:100%; }
+th { font-weight:500; color:#475569; font-size:0.75rem; }
+td { vertical-align:top; }
+.btn { display:inline-flex; align-items:center; gap:4px; border:1px solid #cbd5e1; background:#fff; padding:2px 10px; font-size:0.75rem; font-weight:500; color:#334155; border-radius:4px; }
+.btn:hover { background:#f1f5f9; }
+.btn-primary { background:#2563eb; color:#fff; border-color:#2563eb; }
+.btn-primary:hover { background:#1d4ed8; }
+.card { background:#fff; border:1px solid #e2e8f0; border-radius:8px; box-shadow:0 1px 2px rgba(0,0,0,0.04); }
+
+/* Optional minimal scrollbar */
+*::-webkit-scrollbar { width: 8px; }
+*::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 4px; }
+
+/* Selection */
+::selection { background: #bfdbfe; color: #0f172a; }
+
+/* Reusable utility groups */
+/* Minimal utility classes */
+.app-heading { font-size: 1.25rem; font-weight: 600; color: #1e293b; }
+.subtle { color: #64748b; }
+
+/* Animations */
+@keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
+.fade-in { animation: fade-in 0.25s ease both; }
+
+/* Radial progress via mask */
+/* Removed radial progress utilities (simplified design) */
+
+/* Table tweaks */
+table thead th { font-size: 0.75rem; font-weight: 500; color: #64748b; padding: 0.25rem 0; }
+table tbody td { padding: 0.25rem 0; border-top: 1px solid #e2e8f0; font-size: 0.75rem; }
+
+/* Fallback (in case Tailwind isn't processed, uncomment below)
+body { background-color: #f8fafc; color: #1e293b; }
+*/

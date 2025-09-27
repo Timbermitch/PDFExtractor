@@ -1,0 +1,49 @@
+# Node dependencies
+node_modules/
+**/node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+frontend/build/
+frontend/dist/
+backend/dist/
+coverage/
+
+# Local environment
+.env
+.env.local
+backend/.env
+frontend/.env
+
+# IDE / Editor
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
+
+# Cache
+.tmp/
+.temp/
+.cache/
+.eslintcache
+
+# Data layers (DO NOT COMMIT SAMPLE OUTPUTS)
+backend/data/bronze/
+backend/data/silver/
+backend/data/gold/
+!backend/data/.gitkeep
+
+# Generated exports
+*.csv
+
+# OS
+Desktop.ini
+
+# Misc
+*.pid

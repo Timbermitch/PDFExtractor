@@ -1,0 +1,19 @@
+{
+  "summary": {"totalGoals": 2, "totalBMPs": 2, "completionRate": 0.5},
+  "goals": [
+    {"id": "G1", "title": "Reduce sediment runoff", "status": "planned"},
+    {"id": "G2", "title": "Improve water quality", "status": "completed"}
+  ],
+  "bmps": [
+    {"id": "B1", "name": "Vegetative buffer strips", "category": "Erosion Control"},
+    {"id": "B2", "name": "Stormwater retention pond", "category": "Stormwater"}
+  ],
+  "implementation": [],
+  "monitoring": [
+    {"id": "M1", "metric": "TSS reduction", "value": null}
+  ],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2024-01-01T00:00:00.000Z",
+  "metadata": {"sourceId": "golden-set", "sourceFile": "golden.pdf"}
+}
