@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: pdf-extractor-backend
+    env: node
+    rootDir: backend
+    plan: free
+    buildCommand: npm install
+    startCommand: node server.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 10000
+      - key: BMP_FILTER
+        value: '1'
+      # OPENAI_API_KEY, ANTHROPIC_API_KEY (if used) should be set in Render dashboard as secrets
+    autoDeploy: true
+    healthCheckPath: /health
+    disk:
+      name: data
+      mountPath: /app/data
+      sizeGB: 1
