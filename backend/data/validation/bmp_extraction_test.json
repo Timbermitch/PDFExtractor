@@ -1,0 +1,427 @@
+{
+  "generatedAt": "2025-10-02T11:04:28.557Z",
+  "aggregate": {
+    "docs": 69,
+    "totalBMPs": 1869,
+    "docsWithBMPs": 53,
+    "totalCostTables": 159,
+    "docsWithCostTables": 39,
+    "truncatedSuspects": 0
+  },
+  "results": [
+    {
+      "file": "lake-washington-watershed-plan-2007.json",
+      "bmpCount": 622,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016.json",
+      "bmpCount": 182,
+      "costTableCount": 1,
+      "truncated": false
+    },
+    {
+      "file": "upper-porter-bayou-watershed-plan-2013.json",
+      "bmpCount": 165,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "middle-porter-bayou-watershed-plan-2013.json",
+      "bmpCount": 156,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "muddy-bayou-opossum-bayou-9-key-element-plan-2022.json",
+      "bmpCount": 88,
+      "costTableCount": 1,
+      "truncated": false
+    },
+    {
+      "file": "bear-lake-9-key-elelment-plan-2018.json",
+      "bmpCount": 78,
+      "costTableCount": 1,
+      "truncated": false
+    },
+    {
+      "file": "bear-lake-9-key-elelment-plan.json",
+      "bmpCount": 77,
+      "costTableCount": 1,
+      "truncated": false
+    },
+    {
+      "file": "dry-creek-9-key-element-plan-2017.json",
+      "bmpCount": 74,
+      "costTableCount": 17,
+      "truncated": false
+    },
+    {
+      "file": "dry-creek-9-key-element-plan.json",
+      "bmpCount": 74,
+      "costTableCount": 1,
+      "truncated": false
+    },
+    {
+      "file": "overcup-slough-watershed-plan-2013.json",
+      "bmpCount": 57,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "deer-creek-watershed-plan-2008.json",
+      "bmpCount": 54,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "upper-piney-creek-9-key-element-plan-2022.json",
+      "bmpCount": 32,
+      "costTableCount": 11,
+      "truncated": false
+    },
+    {
+      "file": "upper-piney-creek-9-key-element-plan.json",
+      "bmpCount": 32,
+      "costTableCount": 2,
+      "truncated": false
+    },
+    {
+      "file": "carmichael-creek-town-creek-9-key-element-plan-2019.json",
+      "bmpCount": 11,
+      "costTableCount": 2,
+      "truncated": false
+    },
+    {
+      "file": "carmichael-creek-town-creek-9-key-element-plan.json",
+      "bmpCount": 11,
+      "costTableCount": 2,
+      "truncated": false
+    },
+    {
+      "file": "magees-creek-watershed-plan-2007.json",
+      "bmpCount": 10,
+      "costTableCount": 3,
+      "truncated": false
+    },
+    {
+      "file": "upper-little-bayou-pierre-watershed-plan-2018.json",
+      "bmpCount": 10,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "fannegusha-creek-watershed-plan-2009.json",
+      "bmpCount": 9,
+      "costTableCount": 7,
+      "truncated": false
+    },
+    {
+      "file": "fannegusha-creek-watershed-plan.json",
+      "bmpCount": 9,
+      "costTableCount": 7,
+      "truncated": false
+    },
+    {
+      "file": "fourteen-mile-bakers-creek-watershed-plan-2009.json",
+      "bmpCount": 8,
+      "costTableCount": 6,
+      "truncated": false
+    },
+    {
+      "file": "owl-creek-little-hatchie-river-9-key-element-plan-2020.json",
+      "bmpCount": 8,
+      "costTableCount": 1,
+      "truncated": false
+    },
+    {
+      "file": "basket-creek-hickahala-creek-9-key-element-plan-2018.json",
+      "bmpCount": 6,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "basket-creek-hickahala-creek-9-key-element-plan.json",
+      "bmpCount": 6,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "bee-lake-watershed-plan-2006.json",
+      "bmpCount": 6,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "hickahala-creek-watershed-plan-2009.json",
+      "bmpCount": 6,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "hickahala-creek-watershed-plan.json",
+      "bmpCount": 6,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-phase-1-plan-2017.json",
+      "bmpCount": 5,
+      "costTableCount": 1,
+      "truncated": false
+    },
+    {
+      "file": "bear-creek-watershed-plan-2007.json",
+      "bmpCount": 4,
+      "costTableCount": 1,
+      "truncated": false
+    },
+    {
+      "file": "bear-creek-watershed-plan.json",
+      "bmpCount": 4,
+      "costTableCount": 1,
+      "truncated": false
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021.json",
+      "bmpCount": 4,
+      "costTableCount": 2,
+      "truncated": false
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan.json",
+      "bmpCount": 4,
+      "costTableCount": 2,
+      "truncated": false
+    },
+    {
+      "file": "jasper-creek-watershed-plan-2019.json",
+      "bmpCount": 4,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "yazoo-pass-9-key-element-plan-2021.json",
+      "bmpCount": 4,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "bell-creek-muddy-creek-watershed-plan-2012.json",
+      "bmpCount": 3,
+      "costTableCount": 30,
+      "truncated": false
+    },
+    {
+      "file": "bell-creek-muddy-creek-watershed-plan.json",
+      "bmpCount": 3,
+      "costTableCount": 6,
+      "truncated": false
+    },
+    {
+      "file": "fuller-creek-town-creek-9-key-element-plan-2022.json",
+      "bmpCount": 3,
+      "costTableCount": 2,
+      "truncated": false
+    },
+    {
+      "file": "platner-bayou-tippo-bayou-9-key-element-plan-2021.json",
+      "bmpCount": 3,
+      "costTableCount": 2,
+      "truncated": false
+    },
+    {
+      "file": "steele-bayou-watershed-plan-2009.json",
+      "bmpCount": 3,
+      "costTableCount": 19,
+      "truncated": false
+    },
+    {
+      "file": "steele-bayou-watershed-plan.json",
+      "bmpCount": 3,
+      "costTableCount": 3,
+      "truncated": false
+    },
+    {
+      "file": "tarebreeches-creek-tuscumbia-river-canal-watersehd-plan-2012.json",
+      "bmpCount": 3,
+      "costTableCount": 6,
+      "truncated": false
+    },
+    {
+      "file": "tarebreeches-creek-tuscumbia-river-canal-watersehd-plan.json",
+      "bmpCount": 3,
+      "costTableCount": 6,
+      "truncated": false
+    },
+    {
+      "file": "wolf-lake-broad-lake-watershed-plan-2009.json",
+      "bmpCount": 3,
+      "costTableCount": 1,
+      "truncated": false
+    },
+    {
+      "file": "booths-creek-bayou-pierre-watershed-plan-2017.json",
+      "bmpCount": 2,
+      "costTableCount": 1,
+      "truncated": false
+    },
+    {
+      "file": "booths-creek-bayou-pierre-watershed-plan.json",
+      "bmpCount": 2,
+      "costTableCount": 1,
+      "truncated": false
+    },
+    {
+      "file": "north-tippah-creek-watershed-plan-2013.json",
+      "bmpCount": 2,
+      "costTableCount": 1,
+      "truncated": false
+    },
+    {
+      "file": "sherman-creek-panola-quitman-floodway-9-key-element-plan-2018.json",
+      "bmpCount": 2,
+      "costTableCount": 2,
+      "truncated": false
+    },
+    {
+      "file": "sherman-creek-panola-quitman-floodway-9-key-element-plan.json",
+      "bmpCount": 2,
+      "costTableCount": 2,
+      "truncated": false
+    },
+    {
+      "file": "broken-pumpkin-9-key-element-plan-2019.json",
+      "bmpCount": 1,
+      "costTableCount": 2,
+      "truncated": false
+    },
+    {
+      "file": "broken-pumpkin-9-key-element-plan.json",
+      "bmpCount": 1,
+      "costTableCount": 2,
+      "truncated": false
+    },
+    {
+      "file": "chunky-okatibbee-watershed-plan-2007.json",
+      "bmpCount": 1,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "chunky-okatibbee-watershed-plan.json",
+      "bmpCount": 1,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "turkey-creek-watershed-plan-2006.json",
+      "bmpCount": 1,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "wolf-river-watershed-plan-2009.json",
+      "bmpCount": 1,
+      "costTableCount": 1,
+      "truncated": false
+    },
+    {
+      "file": "bogue-chitto-creek-watershed-plan-2004.json",
+      "bmpCount": 0,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "bogue-chitto-creek-watershed-plan.json",
+      "bmpCount": 0,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "buttahatchee-river-watershed-plan.json",
+      "bmpCount": 0,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "coldwater-river-watershed-plan-2013.json",
+      "bmpCount": 0,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "luxapallila-creek-watershed-plan-2004.json",
+      "bmpCount": 0,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "luxapallila-creek-watershed-plan.json",
+      "bmpCount": 0,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "mill-creek-watershed-plan.json",
+      "bmpCount": 0,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "old-fort-bayou-watershed-plan.json",
+      "bmpCount": 0,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "pickwick-reservoir-watershed-plan-2009.json",
+      "bmpCount": 0,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "red-creek-watershed-action-plan.json",
+      "bmpCount": 0,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011.json",
+      "bmpCount": 0,
+      "costTableCount": 1,
+      "truncated": false
+    },
+    {
+      "file": "rotten-bayou-watershed-plan.json",
+      "bmpCount": 0,
+      "costTableCount": 1,
+      "truncated": false
+    },
+    {
+      "file": "tchoutacabouffa-river-watershed-action-plan-2007.json",
+      "bmpCount": 0,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "turkey-creek-watershed-plan.json",
+      "bmpCount": 0,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "upper-bay-of-st-louis-watershed-action-plan-2007.json",
+      "bmpCount": 0,
+      "costTableCount": 0,
+      "truncated": false
+    },
+    {
+      "file": "west-boley-creek-watershed-action-plan.json",
+      "bmpCount": 0,
+      "costTableCount": 0,
+      "truncated": false
+    }
+  ]
+}

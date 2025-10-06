@@ -1,16 +1,60 @@
 import axios, { AxiosError } from 'axios';
 import type { ExtractedReport, ReportListItem } from '../types';
 
-// Determine base API URL with a resilient fallback strategy
+// Auto-detect backend port if not explicitly supplied via REACT_APP_API_BASE.
+// The backend may retry up to two times (5200 -> 5201 -> 5202). We probe /health on each.
 const envBase = (process.env.REACT_APP_API_BASE || '').trim();
-// Prefer same-origin during dev when CRA proxy is configured; fallback to explicit port 4000.
-const inferredBase = envBase || (typeof window !== 'undefined' ? `${window.location.protocol}//${window.location.hostname}:4000` : 'http://localhost:4000');
-export const API_BASE = inferredBase.replace(/\/$/, '');
-// eslint-disable-next-line no-console
-console.log('[api] base URL resolved to', API_BASE);
+let resolvedBasePromise: Promise<string> | null = null;
 
-// Central axios instance for future interceptors (auth, tracing, etc.)
-const http = axios.create({ baseURL: API_BASE, timeout: 20000 });
+async function detectBase(): Promise<string> {
+  if (envBase) return envBase.replace(/\/$/, '');
+  if (resolvedBasePromise) return resolvedBasePromise; // memoize concurrent callers
+  if (typeof window === 'undefined') return 'http://localhost:5200';
+  const originHost = window.location.hostname; // typically localhost
+  const protocol = window.location.protocol;
+  const candidatePorts = [5200, 5201, 5202];
+  resolvedBasePromise = (async () => {
+    for (const p of candidatePorts) {
+      const base = `${protocol}//${originHost}:${p}`;
+      try {
+        const ctrl = new AbortController();
+        const timeout = setTimeout(() => ctrl.abort(), 1800);
+        const r = await fetch(`${base}/health`, { signal: ctrl.signal });
+        clearTimeout(timeout);
+        if (r.ok) {
+          // eslint-disable-next-line no-console
+            console.log('[api] detected backend port', p);
+          return base;
+        }
+      } catch { /* ignore and continue */ }
+    }
+    // Fallback to 5200 (may fail but surfaces consistent error path)
+    // eslint-disable-next-line no-console
+    console.warn('[api] autodetect failed; falling back to :5200');
+    return `${protocol}//${originHost}:5200`;
+  })();
+  return resolvedBasePromise;
+}
+
+// Lazy axios instance created after detection; callers await ensureHttp()
+let http: ReturnType<typeof axios.create> | null = null;
+let API_BASE = 'http://localhost:5200';
+export async function ensureHttp() {
+  if (!http) {
+    API_BASE = (await detectBase()).replace(/\/$/, '');
+    // eslint-disable-next-line no-console
+    console.log('[api] base URL resolved to', API_BASE);
+    http = axios.create({ baseURL: API_BASE, timeout: 20000 });
+  }
+  return http;
+}
+export async function forceRedetect() {
+  // Reset and re-run detection; useful if backend restarted on another port mid-session.
+  http = null;
+  resolvedBasePromise = null;
+  return ensureHttp();
+}
+export { API_BASE };
 
 // Shape definitions for responses
 interface UploadResponse { id: string; rawText: string; metadata: Record<string, unknown>; }
@@ -31,15 +75,34 @@ export const api = {
     try {
       const form = new FormData();
       form.append('file', file);
-      const { data } = await http.post<UploadResponse>('/upload', form, { headers: { 'Content-Type': 'multipart/form-data' } });
+      // Allow axios to set correct multipart boundary automatically (do NOT override Content-Type)
+  const client = await ensureHttp();
+  const { data } = await client.post<UploadResponse>('/upload', form);
       return data;
     } catch (e) {
+      // eslint-disable-next-line no-console
+      if (axios.isAxiosError(e)) {
+        console.error('[api] upload failed axios', {
+          message: e.message,
+          code: e.code,
+          status: e.response?.status,
+          data: e.response?.data,
+          headers: e.response?.headers,
+          url: e.config?.url,
+          method: e.config?.method,
+          baseURL: e.config?.baseURL,
+          timeout: e.config?.timeout
+        });
+      } else {
+        console.error('[api] upload failed generic', e);
+      }
       throw normalizeError(e);
     }
   },
   async process(id: string): Promise<ExtractedReport> {
     try {
-      const { data } = await http.post<ExtractedReport>('/process', { id });
+  const client = await ensureHttp();
+  const { data } = await client.post<ExtractedReport>('/process', { id });
       return data;
     } catch (e) {
       throw normalizeError(e);
@@ -48,7 +111,8 @@ export const api = {
   async export(id: string, format: 'json'|'csv' = 'json'): Promise<ExtractedReport | Blob> {
     try {
       const url = `/export/${id}?format=${format}`;
-      const res = await http.get(url, { responseType: format === 'csv' ? 'blob' : 'json' });
+  const client = await ensureHttp();
+  const res = await client.get(url, { responseType: format === 'csv' ? 'blob' : 'json' });
       return res.data as any;
     } catch (e) {
       throw normalizeError(e);
@@ -56,7 +120,8 @@ export const api = {
   },
   async listReports(): Promise<ReportListItem[]> {
     try {
-      const { data } = await http.get<ReportsResponse>('/reports');
+  const client = await ensureHttp();
+  const { data } = await client.get<ReportsResponse>('/reports');
       return data.reports;
     } catch (e) {
       // eslint-disable-next-line no-console
@@ -66,7 +131,8 @@ export const api = {
   },
   async deleteReport(id: string): Promise<{ id: string; deleted: number }> {
     try {
-      const { data } = await http.delete<{ id: string; deleted: number }>(`/reports/${id}`);
+  const client = await ensureHttp();
+  const { data } = await client.delete<{ id: string; deleted: number }>(`/reports/${id}`);
       return data;
     } catch (e) {
       throw normalizeError(e);
@@ -74,7 +140,8 @@ export const api = {
   },
   async deleteAllReports(): Promise<{ purged: { bronze: number; silver: number; gold: number }; total: number }> {
     try {
-      const { data } = await http.delete<{ purged: { bronze: number; silver: number; gold: number }; total: number }>('/reports');
+  const client = await ensureHttp();
+  const { data } = await client.delete<{ purged: { bronze: number; silver: number; gold: number }; total: number }>('/reports');
       return data;
     } catch (e) {
       throw normalizeError(e);

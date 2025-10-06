@@ -1,0 +1,4973 @@
+{
+  "id": "red-bud-catalpa-creek-watershed-phase-1-plan-2017",
+  "summary": {
+    "totalGoals": 2,
+    "totalBMPs": 5,
+    "totalActivities": 36,
+    "primaryGoals": 1,
+    "completionRate": 0.5,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 1,
+      "inProgress": 0,
+      "planned": 1,
+      "pctCompleted": 0.5,
+      "pctInProgress": 0,
+      "pctPlanned": 0.5
+    },
+    "bmpCategories": {
+      "General": 5
+    },
+    "avgGoalConfidence": 0.125,
+    "strongGoals": 0
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "in the overall long term goals of developing a stream restoration design which improves stream model, the vegetation information collected can also be used to develop management goals restoration and protection goals and targets related to sediment, pathogens, nutrients, habitat, goal of the project is to obtain runoff data from every attainable event.",
+      "status": "planned",
+      "pollutant": "sediment",
+      "parameter": "sediment",
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "in the overall long term goals of developing a stream restoration design which improves stream model, the vegetation information collected can also be used to develop management goals restoration and protection goals and targets related to sediment, pathogens, nutrients, habitat, goal of the project is to obtain runoff data from every attainable event.",
+      "confidence": 0.2,
+      "fullParagraph": "in the overall long term goals of developing a stream restoration design which improves stream model, the vegetation information collected can also be used to develop management goals restoration and protection goals and targets related to sediment, pathogens, nutrients, habitat, goal of the project is to obtain runoff data from every attainable event. Set preliminary goals c. 3 Set goals and identify Set overall goals and management achieve goals* toward meeting watershed goals* 6.1 GOAL AND OBJECTIVES The educational goal of this plan is to enhance awareness and knowledge of watershed issues This goal will be achieved through accomplishing the following objectives:",
+      "description": "in the overall long term goals of developing a stream restoration design which improves stream model, the vegetation information collected can also be used to develop management goals restoration and protection goals and targets related to sediment, pathogens, nutrients, habitat, goal of the project is to obtain runoff data from every attainable event. Set preliminary goals c. 3 Set goals and identify Set overall goals and management achieve goals* toward meeting watershed goals* 6.1 GOAL AND OBJECTIVES The educational goal of this plan is to enhance awareness and knowledge of watershed issues This goal will be achieved through accomplishing the following objectives:",
+      "originalSentence": "in the overall long term goals of developing a stream restoration design which improves stream model, the vegetation information collected can also be used to develop management goals restoration and protection goals and targets related to sediment, pathogens, nutrients, habitat, goal of the project is to obtain runoff data from every attainable event.",
+      "shortTitle": "in the overall long term goals of developing a stream restoration design which improves…",
+      "_present": false
+    },
+    {
+      "id": "G2",
+      "title": "3 Set goals and identify Set overall goals and management achieve goals* toward meeting watershed goals* 6.1 GOAL AND OBJECTIVES The educational goal of this plan is to enhance awareness and knowledge of watershed issues This goal will be achieved through accomplishing the following objectives:",
+      "status": "completed",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "3 Set goals and identify Set overall goals and management achieve goals* toward meeting watershed goals* 6.1 GOAL AND OBJECTIVES The educational goal of this plan is to enhance awareness and knowledge of watershed issues This goal will be achieved through accomplishing the following objectives:",
+      "confidence": 0.05,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "description": "3 Set goals and identify Set overall goals and management achieve goals* toward meeting watershed goals* 6.1 GOAL AND OBJECTIVES The educational goal of this plan is to enhance awareness and knowledge of watershed issues This goal will be achieved through accomplishing the following objectives:",
+      "originalSentence": "3 Set goals and identify Set overall goals and management achieve goals* toward meeting watershed goals* 6.1 GOAL AND OBJECTIVES The educational goal of this plan is to enhance awareness and knowledge of watershed issues This goal will be achieved through accomplishing the following objectives:",
+      "shortTitle": "3 Set goals and identify Set overall goals and management achieve goals* toward meeting…",
+      "_present": false
+    }
+  ],
+  "mainGoals": [
+    {
+      "id": "G2",
+      "title": "3 Set goals and identify Set overall goals and management achieve goals* toward meeting watershed goals* 6.1 GOAL AND OBJECTIVES The educational goal of this plan is to enhance awareness and knowledge of watershed issues This goal will be achieved through accomplishing the following objectives:",
+      "status": "completed",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "3 Set goals and identify Set overall goals and management achieve goals* toward meeting watershed goals* 6.1 GOAL AND OBJECTIVES The educational goal of this plan is to enhance awareness and knowledge of watershed issues This goal will be achieved through accomplishing the following objectives:",
+      "confidence": 0.05,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "description": "3 Set goals and identify Set overall goals and management achieve goals* toward meeting watershed goals* 6.1 GOAL AND OBJECTIVES The educational goal of this plan is to enhance awareness and knowledge of watershed issues This goal will be achieved through accomplishing the following objectives:",
+      "originalSentence": "3 Set goals and identify Set overall goals and management achieve goals* toward meeting watershed goals* 6.1 GOAL AND OBJECTIVES The educational goal of this plan is to enhance awareness and knowledge of watershed issues This goal will be achieved through accomplishing the following objectives:",
+      "shortTitle": "3 Set goals and identify Set overall goals and management achieve goals* toward meeting…",
+      "_present": false
+    }
+  ],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "Salaries",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.55,
+      "source": "summary_line:Salaries   $20800",
+      "_present": true
+    },
+    {
+      "id": "B2",
+      "name": "Project Oversight",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.55,
+      "source": "summary_line:Project Oversight  $4732",
+      "_present": true
+    },
+    {
+      "id": "B3",
+      "name": "Summer Intern/Project Assistance",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.55,
+      "source": "summary_line:Summer Intern/Project Assistance $12079",
+      "_present": true
+    },
+    {
+      "id": "B4",
+      "name": "Trailer Repairs",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.55,
+      "source": "summary_line:Trailer Repairs $1000",
+      "_present": true
+    },
+    {
+      "id": "B5",
+      "name": "Virtual field trip development",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.55,
+      "source": "summary_line:Virtual field trip development $13900",
+      "_present": true
+    }
+  ],
+  "bmpCostTable": {
+    "id": "adaptive_generic_costs",
+    "title": "Direct Costs $21663 $10043 14998",
+    "table": {
+      "columns": [
+        "Item",
+        "Cost",
+        "Extra?"
+      ],
+      "rows": [
+        {
+          "Item": "Direct Costs",
+          "Cost": "$21663",
+          "Extra": "$10043"
+        },
+        {
+          "Item": "Total $21663",
+          "Cost": "$14613",
+          "Extra": "$29542"
+        },
+        {
+          "Item": "Direct Costs $15253",
+          "Cost": "$5568",
+          "Extra": "$10571"
+        },
+        {
+          "Item": "Total $15253",
+          "Cost": "$15042",
+          "Extra": "$15385"
+        },
+        {
+          "Item": "Salaries",
+          "Cost": "$20800",
+          "Extra": null
+        }
+      ],
+      "total": null
+    },
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTableNormalized": {
+    "id": "adaptive_generic_costs",
+    "title": "Direct Costs $21663 $10043 14998",
+    "rows": [
+      {
+        "name": "Direct Costs",
+        "totalCost": 21663,
+        "rawCost": "$21663"
+      },
+      {
+        "name": "Total $21663",
+        "totalCost": 14613,
+        "rawCost": "$14613"
+      },
+      {
+        "name": "Direct Costs $15253",
+        "totalCost": 5568,
+        "rawCost": "$5568"
+      },
+      {
+        "name": "Total $15253",
+        "totalCost": 15042,
+        "rawCost": "$15042"
+      },
+      {
+        "name": "Salaries",
+        "totalCost": 20800,
+        "rawCost": "$20800"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 77686,
+    "discrepancy": null,
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTables": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Direct Costs $21663 $10043 14998",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Direct Costs",
+            "Cost": "$21663",
+            "Extra": "$10043"
+          },
+          {
+            "Item": "Total $21663",
+            "Cost": "$14613",
+            "Extra": "$29542"
+          },
+          {
+            "Item": "Direct Costs $15253",
+            "Cost": "$5568",
+            "Extra": "$10571"
+          },
+          {
+            "Item": "Total $15253",
+            "Cost": "$15042",
+            "Extra": "$15385"
+          },
+          {
+            "Item": "Salaries",
+            "Cost": "$20800",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Direct Costs $15253 $5568 $10571",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Direct Costs $15253",
+            "Cost": "$5568",
+            "Extra": "$10571"
+          },
+          {
+            "Item": "Total $15253",
+            "Cost": "$15042",
+            "Extra": "$15385"
+          },
+          {
+            "Item": "Salaries",
+            "Cost": "$20800",
+            "Extra": null
+          },
+          {
+            "Item": "Total 0 0",
+            "Cost": "$33300",
+            "Extra": null
+          },
+          {
+            "Item": "Salaries",
+            "Cost": "$14780",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Salaries   $20800",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Salaries",
+            "Cost": "$20800",
+            "Extra": null
+          },
+          {
+            "Item": "Total 0 0",
+            "Cost": "$33300",
+            "Extra": null
+          },
+          {
+            "Item": "Salaries",
+            "Cost": "$14780",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$17980",
+            "Extra": null
+          },
+          {
+            "Item": "Total $69571",
+            "Cost": "$117665",
+            "Extra": "$187236"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total 0 0 $33300",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Total 0 0",
+            "Cost": "$33300",
+            "Extra": null
+          },
+          {
+            "Item": "Salaries",
+            "Cost": "$14780",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$17980",
+            "Extra": null
+          },
+          {
+            "Item": "Total $69571",
+            "Cost": "$117665",
+            "Extra": "$187236"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Salaries $14780",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Salaries",
+            "Cost": "$14780",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$17980",
+            "Extra": null
+          },
+          {
+            "Item": "Total $69571",
+            "Cost": "$117665",
+            "Extra": "$187236"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "561-Heavy Use Area Protection1f4500sqft$1.27$5,715$3,429",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "561Heavy Use Area Protection1f4500sqft$1.27$5,715",
+            "Cost": "$3,429"
+          },
+          {
+            "Item": "561Heavy Use Area Protection1g4500sqft1.27$5,715",
+            "Cost": "$3,429"
+          },
+          {
+            "Item": "576Livestock Shelter Structure2m1000sqft3.94$3,940",
+            "Cost": "$2,364"
+          },
+          {
+            "Item": "576Livestock Shelter Structure2p1000sqft3.94$3,940",
+            "Cost": "$2,364"
+          },
+          {
+            "Item": "576Livestock Shelter Structure2Q1000sqft3.94$3,940",
+            "Cost": "$2,364"
+          },
+          {
+            "Item": "512Native Grass Planting5a$1,693",
+            "Cost": "$1,016"
+          },
+          {
+            "Item": "382Fencing6a2200ft3.03$6,666",
+            "Cost": "$4,000"
+          },
+          {
+            "Item": "342Critical Area Planting (Heavy)3f-sites around fences$1,107",
+            "Cost": "$664"
+          },
+          {
+            "Item": "Bank StabilizationWest Line Road$52,654",
+            "Cost": "$31,592"
+          },
+          {
+            "Item": "Estimated Total for Critical Area #1$85,370",
+            "Cost": "$51,222"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "561-Heavy Use Area Protection1g4500sqft1.27$5,715$3,429",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "561Heavy Use Area Protection1g4500sqft1.27$5,715",
+            "Cost": "$3,429"
+          },
+          {
+            "Item": "576Livestock Shelter Structure2m1000sqft3.94$3,940",
+            "Cost": "$2,364"
+          },
+          {
+            "Item": "576Livestock Shelter Structure2p1000sqft3.94$3,940",
+            "Cost": "$2,364"
+          },
+          {
+            "Item": "576Livestock Shelter Structure2Q1000sqft3.94$3,940",
+            "Cost": "$2,364"
+          },
+          {
+            "Item": "512Native Grass Planting5a$1,693",
+            "Cost": "$1,016"
+          },
+          {
+            "Item": "382Fencing6a2200ft3.03$6,666",
+            "Cost": "$4,000"
+          },
+          {
+            "Item": "342Critical Area Planting (Heavy)3f-sites around fences$1,107",
+            "Cost": "$664"
+          },
+          {
+            "Item": "Bank StabilizationWest Line Road$52,654",
+            "Cost": "$31,592"
+          },
+          {
+            "Item": "Estimated Total for Critical Area #1$85,370",
+            "Cost": "$51,222"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "576-Livestock Shelter Structure2m1000sqft3.94$3,940$2,364",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "576Livestock Shelter Structure2m1000sqft3.94$3,940",
+            "Cost": "$2,364"
+          },
+          {
+            "Item": "576Livestock Shelter Structure2p1000sqft3.94$3,940",
+            "Cost": "$2,364"
+          },
+          {
+            "Item": "576Livestock Shelter Structure2Q1000sqft3.94$3,940",
+            "Cost": "$2,364"
+          },
+          {
+            "Item": "512Native Grass Planting5a$1,693",
+            "Cost": "$1,016"
+          },
+          {
+            "Item": "382Fencing6a2200ft3.03$6,666",
+            "Cost": "$4,000"
+          },
+          {
+            "Item": "342Critical Area Planting (Heavy)3f-sites around fences$1,107",
+            "Cost": "$664"
+          },
+          {
+            "Item": "Bank StabilizationWest Line Road$52,654",
+            "Cost": "$31,592"
+          },
+          {
+            "Item": "Estimated Total for Critical Area #1$85,370",
+            "Cost": "$51,222"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "576-Livestock Shelter Structure2p1000sqft3.94$3,940$2,364",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "576Livestock Shelter Structure2p1000sqft3.94$3,940",
+            "Cost": "$2,364"
+          },
+          {
+            "Item": "576Livestock Shelter Structure2Q1000sqft3.94$3,940",
+            "Cost": "$2,364"
+          },
+          {
+            "Item": "512Native Grass Planting5a$1,693",
+            "Cost": "$1,016"
+          },
+          {
+            "Item": "382Fencing6a2200ft3.03$6,666",
+            "Cost": "$4,000"
+          },
+          {
+            "Item": "342Critical Area Planting (Heavy)3f-sites around fences$1,107",
+            "Cost": "$664"
+          },
+          {
+            "Item": "Bank StabilizationWest Line Road$52,654",
+            "Cost": "$31,592"
+          },
+          {
+            "Item": "Estimated Total for Critical Area #1$85,370",
+            "Cost": "$51,222"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "576-Livestock Shelter Structure2Q1000sqft3.94$3,940$2,364",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "576Livestock Shelter Structure2Q1000sqft3.94$3,940",
+            "Cost": "$2,364"
+          },
+          {
+            "Item": "512Native Grass Planting5a$1,693",
+            "Cost": "$1,016"
+          },
+          {
+            "Item": "382Fencing6a2200ft3.03$6,666",
+            "Cost": "$4,000"
+          },
+          {
+            "Item": "342Critical Area Planting (Heavy)3f-sites around fences$1,107",
+            "Cost": "$664"
+          },
+          {
+            "Item": "Bank StabilizationWest Line Road$52,654",
+            "Cost": "$31,592"
+          },
+          {
+            "Item": "Estimated Total for Critical Area #1$85,370",
+            "Cost": "$51,222"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "512-Native Grass Planting5a$1,693$1,016",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "512Native Grass Planting5a$1,693",
+            "Cost": "$1,016"
+          },
+          {
+            "Item": "382Fencing6a2200ft3.03$6,666",
+            "Cost": "$4,000"
+          },
+          {
+            "Item": "342Critical Area Planting (Heavy)3f-sites around fences$1,107",
+            "Cost": "$664"
+          },
+          {
+            "Item": "Bank StabilizationWest Line Road$52,654",
+            "Cost": "$31,592"
+          },
+          {
+            "Item": "Estimated Total for Critical Area #1$85,370",
+            "Cost": "$51,222"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "382-Fencing6a2200ft3.03$6,666$4,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "382Fencing6a2200ft3.03$6,666",
+            "Cost": "$4,000"
+          },
+          {
+            "Item": "342Critical Area Planting (Heavy)3f-sites around fences$1,107",
+            "Cost": "$664"
+          },
+          {
+            "Item": "Bank StabilizationWest Line Road$52,654",
+            "Cost": "$31,592"
+          },
+          {
+            "Item": "Estimated Total for Critical Area #1$85,370",
+            "Cost": "$51,222"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "342-Critical Area Planting (Heavy)3f-sites around fences$1,107$664",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "342-Critical Area Planting (Heavy)3f-sites around fences",
+            "Cost": "$1,107",
+            "Extra": "$664"
+          },
+          {
+            "Item": "Bank StabilizationWest Line Road",
+            "Cost": "$52,654",
+            "Extra": "$31,592"
+          },
+          {
+            "Item": "Estimated Total for Critical Area #1",
+            "Cost": "$85,370",
+            "Extra": "$51,222"
+          },
+          {
+            "Item": "BMP Total All Critical Areas24 BMP sites",
+            "Cost": "$253,110",
+            "Extra": "$151,866"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Rock Riprap   325.0 Tons       $120/Ton   $39,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Rock Riprap   325.0 Tons       $120/Ton",
+            "Cost": "$39,000",
+            "Extra": null
+          },
+          {
+            "Item": "Concrete Grout   19.0 Cu. Yd.",
+            "Cost": "$250",
+            "Extra": null
+          },
+          {
+            "Item": "Geotextile   476.0 Sq. Yd.",
+            "Cost": "$4",
+            "Extra": null
+          },
+          {
+            "Item": "Excavation   300.0 Cu. Yd.",
+            "Cost": "$10",
+            "Extra": null
+          },
+          {
+            "Item": "Earth Fill   200.0 Cu. Yd.",
+            "Cost": "$20",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Concrete Grout   19.0 Cu. Yd.       $250/Cu. Yd.   $  4,750",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Concrete Grout   19.0 Cu. Yd.",
+            "Cost": "$250",
+            "Extra": null
+          },
+          {
+            "Item": "Geotextile   476.0 Sq. Yd.",
+            "Cost": "$4",
+            "Extra": null
+          },
+          {
+            "Item": "Excavation   300.0 Cu. Yd.",
+            "Cost": "$10",
+            "Extra": null
+          },
+          {
+            "Item": "Earth Fill   200.0 Cu. Yd.",
+            "Cost": "$20",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Geotextile   476.0 Sq. Yd.       $4/Sq. Yd.   $  1,904",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Geotextile   476.0 Sq. Yd.",
+            "Cost": "$4",
+            "Extra": null
+          },
+          {
+            "Item": "Excavation   300.0 Cu. Yd.",
+            "Cost": "$10",
+            "Extra": null
+          },
+          {
+            "Item": "Earth Fill   200.0 Cu. Yd.",
+            "Cost": "$20",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Estimated Total – Critical Area #2 $120653 $72392 $48261",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Estimated Total – Critical Area #2 $120653",
+            "Cost": "$72392",
+            "Extra": "$48261"
+          },
+          {
+            "Item": "342 – Critical Area Planting (Heavy) 11a",
+            "Cost": "$2214",
+            "Extra": "$1328"
+          },
+          {
+            "Item": "Estimated Total – Critical Area #3 $47087",
+            "Cost": "$28252",
+            "Extra": "$18835"
+          },
+          {
+            "Item": "Estimated Total – Critical Areas 1, 2, & 3 24 Sites $253110",
+            "Cost": "$151866",
+            "Extra": "$101244"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "342 – Critical Area Planting (Heavy) 11a $2214 $1328",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "342 – Critical Area Planting (Heavy) 11a",
+            "Cost": "$2214",
+            "Extra": "$1328"
+          },
+          {
+            "Item": "Estimated Total – Critical Area #3 $47087",
+            "Cost": "$28252",
+            "Extra": "$18835"
+          },
+          {
+            "Item": "Estimated Total – Critical Areas 1, 2, & 3 24 Sites $253110",
+            "Cost": "$151866",
+            "Extra": "$101244"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Project Oversight  $4732",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Project Oversight",
+            "Cost": "$4732",
+            "Extra": null
+          },
+          {
+            "Item": "Summer Intern/Project Assistance",
+            "Cost": "$12079",
+            "Extra": null
+          },
+          {
+            "Item": "Trailer Repairs",
+            "Cost": "$1000",
+            "Extra": null
+          },
+          {
+            "Item": "Virtual field trip development",
+            "Cost": "$13900",
+            "Extra": null
+          },
+          {
+            "Item": "Estimated Total – Information and Education           $89102",
+            "Cost": "$53461",
+            "Extra": "$35641"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Virtual field trip development $13900",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Virtual field trip development",
+            "Cost": "$13900",
+            "Extra": null
+          },
+          {
+            "Item": "Estimated Total – Information and Education           $89102",
+            "Cost": "$53461",
+            "Extra": "$35641"
+          },
+          {
+            "Item": "Transportation of Samples to Jackson $1438",
+            "Cost": "$1438",
+            "Extra": "$2876"
+          },
+          {
+            "Item": "Estimated Total – Monitoring             $24458",
+            "Cost": "$14675",
+            "Extra": "$9783"
+          },
+          {
+            "Item": "on Projects Total of $220,002 44000",
+            "Cost": "$29333",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Transportation of Samples to Jackson $1438 $1438 $2876",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Transportation of Samples to Jackson $1438",
+            "Cost": "$1438",
+            "Extra": "$2876"
+          },
+          {
+            "Item": "Estimated Total – Monitoring             $24458",
+            "Cost": "$14675",
+            "Extra": "$9783"
+          },
+          {
+            "Item": "on Projects Total of $220,002 44000",
+            "Cost": "$29333",
+            "Extra": null
+          },
+          {
+            "Item": "A. Phase 1 BMP Implementation $253110",
+            "Cost": "$151866",
+            "Extra": "$101244"
+          },
+          {
+            "Item": "Estimated Total Phase 1 Project Costs $440003",
+            "Cost": "$264002",
+            "Extra": "$176001"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Project Oversight  $4732",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Project Oversight",
+            "Cost": "$4732",
+            "Extra": null
+          },
+          {
+            "Item": "Summer Intern/Project Assistance",
+            "Cost": "$12079",
+            "Extra": null
+          },
+          {
+            "Item": "Trailer Repairs",
+            "Cost": "$1000",
+            "Extra": null
+          },
+          {
+            "Item": "Virtual field trip development",
+            "Cost": "$13900",
+            "Extra": null
+          },
+          {
+            "Item": "Information and Education   -----   Estimated Total Costs     $89102",
+            "Cost": "$53461",
+            "Extra": "$35641"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Estimated Total – Critical Area #2 $120653 $72392 $48261",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Estimated Total – Critical Area #2 $120653",
+            "Cost": "$72392",
+            "Extra": "$48261"
+          },
+          {
+            "Item": "342 – Critical Area Planting (Heavy) 11a",
+            "Cost": "$2214",
+            "Extra": "$1328"
+          },
+          {
+            "Item": "Estimated Total – Critical Area #3 $47087",
+            "Cost": "$28252",
+            "Extra": "$18835"
+          },
+          {
+            "Item": "Estimated Total – Critical Areas 1, 2, & 3 23 Sites $253110",
+            "Cost": "$151866",
+            "Extra": "$101244"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "342 – Critical Area Planting (Heavy) 11a $2214 $1328",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "342 – Critical Area Planting (Heavy) 11a",
+            "Cost": "$2214",
+            "Extra": "$1328"
+          },
+          {
+            "Item": "Estimated Total – Critical Area #3 $47087",
+            "Cost": "$28252",
+            "Extra": "$18835"
+          },
+          {
+            "Item": "Estimated Total – Critical Areas 1, 2, & 3 23 Sites $253110",
+            "Cost": "$151866",
+            "Extra": "$101244"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Direct Costs $21663 $10043 14998",
+      "rows": [
+        {
+          "name": "Direct Costs",
+          "totalCost": 21663,
+          "rawCost": "$21663"
+        },
+        {
+          "name": "Total $21663",
+          "totalCost": 14613,
+          "rawCost": "$14613"
+        },
+        {
+          "name": "Direct Costs $15253",
+          "totalCost": 5568,
+          "rawCost": "$5568"
+        },
+        {
+          "name": "Total $15253",
+          "totalCost": 15042,
+          "rawCost": "$15042"
+        },
+        {
+          "name": "Salaries",
+          "totalCost": 20800,
+          "rawCost": "$20800"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 77686,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Direct Costs $15253 $5568 $10571",
+      "rows": [
+        {
+          "name": "Direct Costs $15253",
+          "totalCost": 5568,
+          "rawCost": "$5568"
+        },
+        {
+          "name": "Total $15253",
+          "totalCost": 15042,
+          "rawCost": "$15042"
+        },
+        {
+          "name": "Salaries",
+          "totalCost": 20800,
+          "rawCost": "$20800"
+        },
+        {
+          "name": "Total 0 0",
+          "totalCost": 33300,
+          "rawCost": "$33300"
+        },
+        {
+          "name": "Salaries",
+          "totalCost": 14780,
+          "rawCost": "$14780"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 89490,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Salaries   $20800",
+      "rows": [
+        {
+          "name": "Salaries",
+          "totalCost": 20800,
+          "rawCost": "$20800"
+        },
+        {
+          "name": "Total 0 0",
+          "totalCost": 33300,
+          "rawCost": "$33300"
+        },
+        {
+          "name": "Salaries",
+          "totalCost": 14780,
+          "rawCost": "$14780"
+        },
+        {
+          "name": "Total",
+          "totalCost": 17980,
+          "rawCost": "$17980"
+        },
+        {
+          "name": "Total $69571",
+          "totalCost": 117665,
+          "rawCost": "$117665"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 204525,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total 0 0 $33300",
+      "rows": [
+        {
+          "name": "Total 0 0",
+          "totalCost": 33300,
+          "rawCost": "$33300"
+        },
+        {
+          "name": "Salaries",
+          "totalCost": 14780,
+          "rawCost": "$14780"
+        },
+        {
+          "name": "Total",
+          "totalCost": 17980,
+          "rawCost": "$17980"
+        },
+        {
+          "name": "Total $69571",
+          "totalCost": 117665,
+          "rawCost": "$117665"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 183725,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Salaries $14780",
+      "rows": [
+        {
+          "name": "Salaries",
+          "totalCost": 14780,
+          "rawCost": "$14780"
+        },
+        {
+          "name": "Total",
+          "totalCost": 17980,
+          "rawCost": "$17980"
+        },
+        {
+          "name": "Total $69571",
+          "totalCost": 117665,
+          "rawCost": "$117665"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 150425,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "561-Heavy Use Area Protection1f4500sqft$1.27$5,715$3,429",
+      "rows": [
+        {
+          "name": "561Heavy Use Area Protection1f4500sqft$1.27$5,715",
+          "totalCost": 3429,
+          "rawCost": "$3,429"
+        },
+        {
+          "name": "561Heavy Use Area Protection1g4500sqft1.27$5,715",
+          "totalCost": 3429,
+          "rawCost": "$3,429"
+        },
+        {
+          "name": "576Livestock Shelter Structure2m1000sqft3.94$3,940",
+          "totalCost": 2364,
+          "rawCost": "$2,364"
+        },
+        {
+          "name": "576Livestock Shelter Structure2p1000sqft3.94$3,940",
+          "totalCost": 2364,
+          "rawCost": "$2,364"
+        },
+        {
+          "name": "576Livestock Shelter Structure2Q1000sqft3.94$3,940",
+          "totalCost": 2364,
+          "rawCost": "$2,364"
+        },
+        {
+          "name": "512Native Grass Planting5a$1,693",
+          "totalCost": 1016,
+          "rawCost": "$1,016"
+        },
+        {
+          "name": "382Fencing6a2200ft3.03$6,666",
+          "totalCost": 4000,
+          "rawCost": "$4,000"
+        },
+        {
+          "name": "342Critical Area Planting (Heavy)3f-sites around fences$1,107",
+          "totalCost": 664,
+          "rawCost": "$664"
+        },
+        {
+          "name": "Bank StabilizationWest Line Road$52,654",
+          "totalCost": 31592,
+          "rawCost": "$31,592"
+        },
+        {
+          "name": "Estimated Total for Critical Area #1$85,370",
+          "totalCost": 51222,
+          "rawCost": "$51,222"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 102444,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "561-Heavy Use Area Protection1g4500sqft1.27$5,715$3,429",
+      "rows": [
+        {
+          "name": "561Heavy Use Area Protection1g4500sqft1.27$5,715",
+          "totalCost": 3429,
+          "rawCost": "$3,429"
+        },
+        {
+          "name": "576Livestock Shelter Structure2m1000sqft3.94$3,940",
+          "totalCost": 2364,
+          "rawCost": "$2,364"
+        },
+        {
+          "name": "576Livestock Shelter Structure2p1000sqft3.94$3,940",
+          "totalCost": 2364,
+          "rawCost": "$2,364"
+        },
+        {
+          "name": "576Livestock Shelter Structure2Q1000sqft3.94$3,940",
+          "totalCost": 2364,
+          "rawCost": "$2,364"
+        },
+        {
+          "name": "512Native Grass Planting5a$1,693",
+          "totalCost": 1016,
+          "rawCost": "$1,016"
+        },
+        {
+          "name": "382Fencing6a2200ft3.03$6,666",
+          "totalCost": 4000,
+          "rawCost": "$4,000"
+        },
+        {
+          "name": "342Critical Area Planting (Heavy)3f-sites around fences$1,107",
+          "totalCost": 664,
+          "rawCost": "$664"
+        },
+        {
+          "name": "Bank StabilizationWest Line Road$52,654",
+          "totalCost": 31592,
+          "rawCost": "$31,592"
+        },
+        {
+          "name": "Estimated Total for Critical Area #1$85,370",
+          "totalCost": 51222,
+          "rawCost": "$51,222"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 99015,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "576-Livestock Shelter Structure2m1000sqft3.94$3,940$2,364",
+      "rows": [
+        {
+          "name": "576Livestock Shelter Structure2m1000sqft3.94$3,940",
+          "totalCost": 2364,
+          "rawCost": "$2,364"
+        },
+        {
+          "name": "576Livestock Shelter Structure2p1000sqft3.94$3,940",
+          "totalCost": 2364,
+          "rawCost": "$2,364"
+        },
+        {
+          "name": "576Livestock Shelter Structure2Q1000sqft3.94$3,940",
+          "totalCost": 2364,
+          "rawCost": "$2,364"
+        },
+        {
+          "name": "512Native Grass Planting5a$1,693",
+          "totalCost": 1016,
+          "rawCost": "$1,016"
+        },
+        {
+          "name": "382Fencing6a2200ft3.03$6,666",
+          "totalCost": 4000,
+          "rawCost": "$4,000"
+        },
+        {
+          "name": "342Critical Area Planting (Heavy)3f-sites around fences$1,107",
+          "totalCost": 664,
+          "rawCost": "$664"
+        },
+        {
+          "name": "Bank StabilizationWest Line Road$52,654",
+          "totalCost": 31592,
+          "rawCost": "$31,592"
+        },
+        {
+          "name": "Estimated Total for Critical Area #1$85,370",
+          "totalCost": 51222,
+          "rawCost": "$51,222"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 95586,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "576-Livestock Shelter Structure2p1000sqft3.94$3,940$2,364",
+      "rows": [
+        {
+          "name": "576Livestock Shelter Structure2p1000sqft3.94$3,940",
+          "totalCost": 2364,
+          "rawCost": "$2,364"
+        },
+        {
+          "name": "576Livestock Shelter Structure2Q1000sqft3.94$3,940",
+          "totalCost": 2364,
+          "rawCost": "$2,364"
+        },
+        {
+          "name": "512Native Grass Planting5a$1,693",
+          "totalCost": 1016,
+          "rawCost": "$1,016"
+        },
+        {
+          "name": "382Fencing6a2200ft3.03$6,666",
+          "totalCost": 4000,
+          "rawCost": "$4,000"
+        },
+        {
+          "name": "342Critical Area Planting (Heavy)3f-sites around fences$1,107",
+          "totalCost": 664,
+          "rawCost": "$664"
+        },
+        {
+          "name": "Bank StabilizationWest Line Road$52,654",
+          "totalCost": 31592,
+          "rawCost": "$31,592"
+        },
+        {
+          "name": "Estimated Total for Critical Area #1$85,370",
+          "totalCost": 51222,
+          "rawCost": "$51,222"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 93222,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "576-Livestock Shelter Structure2Q1000sqft3.94$3,940$2,364",
+      "rows": [
+        {
+          "name": "576Livestock Shelter Structure2Q1000sqft3.94$3,940",
+          "totalCost": 2364,
+          "rawCost": "$2,364"
+        },
+        {
+          "name": "512Native Grass Planting5a$1,693",
+          "totalCost": 1016,
+          "rawCost": "$1,016"
+        },
+        {
+          "name": "382Fencing6a2200ft3.03$6,666",
+          "totalCost": 4000,
+          "rawCost": "$4,000"
+        },
+        {
+          "name": "342Critical Area Planting (Heavy)3f-sites around fences$1,107",
+          "totalCost": 664,
+          "rawCost": "$664"
+        },
+        {
+          "name": "Bank StabilizationWest Line Road$52,654",
+          "totalCost": 31592,
+          "rawCost": "$31,592"
+        },
+        {
+          "name": "Estimated Total for Critical Area #1$85,370",
+          "totalCost": 51222,
+          "rawCost": "$51,222"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 90858,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "512-Native Grass Planting5a$1,693$1,016",
+      "rows": [
+        {
+          "name": "512Native Grass Planting5a$1,693",
+          "totalCost": 1016,
+          "rawCost": "$1,016"
+        },
+        {
+          "name": "382Fencing6a2200ft3.03$6,666",
+          "totalCost": 4000,
+          "rawCost": "$4,000"
+        },
+        {
+          "name": "342Critical Area Planting (Heavy)3f-sites around fences$1,107",
+          "totalCost": 664,
+          "rawCost": "$664"
+        },
+        {
+          "name": "Bank StabilizationWest Line Road$52,654",
+          "totalCost": 31592,
+          "rawCost": "$31,592"
+        },
+        {
+          "name": "Estimated Total for Critical Area #1$85,370",
+          "totalCost": 51222,
+          "rawCost": "$51,222"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 88494,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "382-Fencing6a2200ft3.03$6,666$4,000",
+      "rows": [
+        {
+          "name": "382Fencing6a2200ft3.03$6,666",
+          "totalCost": 4000,
+          "rawCost": "$4,000"
+        },
+        {
+          "name": "342Critical Area Planting (Heavy)3f-sites around fences$1,107",
+          "totalCost": 664,
+          "rawCost": "$664"
+        },
+        {
+          "name": "Bank StabilizationWest Line Road$52,654",
+          "totalCost": 31592,
+          "rawCost": "$31,592"
+        },
+        {
+          "name": "Estimated Total for Critical Area #1$85,370",
+          "totalCost": 51222,
+          "rawCost": "$51,222"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 87478,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "342-Critical Area Planting (Heavy)3f-sites around fences$1,107$664",
+      "rows": [
+        {
+          "name": "342-Critical Area Planting (Heavy)3f-sites around fences",
+          "totalCost": 1107,
+          "rawCost": "$1,107"
+        },
+        {
+          "name": "Bank StabilizationWest Line Road",
+          "totalCost": 52654,
+          "rawCost": "$52,654"
+        },
+        {
+          "name": "Estimated Total for Critical Area #1",
+          "totalCost": 85370,
+          "rawCost": "$85,370"
+        },
+        {
+          "name": "BMP Total All Critical Areas24 BMP sites",
+          "totalCost": 253110,
+          "rawCost": "$253,110"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 392241,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Rock Riprap   325.0 Tons       $120/Ton   $39,000",
+      "rows": [
+        {
+          "name": "Rock Riprap   325.0 Tons       $120/Ton",
+          "totalCost": 39000,
+          "rawCost": "$39,000"
+        },
+        {
+          "name": "Concrete Grout   19.0 Cu. Yd.",
+          "totalCost": 250,
+          "rawCost": "$250"
+        },
+        {
+          "name": "Geotextile   476.0 Sq. Yd.",
+          "totalCost": 4,
+          "rawCost": "$4"
+        },
+        {
+          "name": "Excavation   300.0 Cu. Yd.",
+          "totalCost": 10,
+          "rawCost": "$10"
+        },
+        {
+          "name": "Earth Fill   200.0 Cu. Yd.",
+          "totalCost": 20,
+          "rawCost": "$20"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 39284,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Concrete Grout   19.0 Cu. Yd.       $250/Cu. Yd.   $  4,750",
+      "rows": [
+        {
+          "name": "Concrete Grout   19.0 Cu. Yd.",
+          "totalCost": 250,
+          "rawCost": "$250"
+        },
+        {
+          "name": "Geotextile   476.0 Sq. Yd.",
+          "totalCost": 4,
+          "rawCost": "$4"
+        },
+        {
+          "name": "Excavation   300.0 Cu. Yd.",
+          "totalCost": 10,
+          "rawCost": "$10"
+        },
+        {
+          "name": "Earth Fill   200.0 Cu. Yd.",
+          "totalCost": 20,
+          "rawCost": "$20"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 284,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Geotextile   476.0 Sq. Yd.       $4/Sq. Yd.   $  1,904",
+      "rows": [
+        {
+          "name": "Geotextile   476.0 Sq. Yd.",
+          "totalCost": 4,
+          "rawCost": "$4"
+        },
+        {
+          "name": "Excavation   300.0 Cu. Yd.",
+          "totalCost": 10,
+          "rawCost": "$10"
+        },
+        {
+          "name": "Earth Fill   200.0 Cu. Yd.",
+          "totalCost": 20,
+          "rawCost": "$20"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 34,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Estimated Total – Critical Area #2 $120653 $72392 $48261",
+      "rows": [
+        {
+          "name": "Estimated Total – Critical Area #2 $120653",
+          "totalCost": 72392,
+          "rawCost": "$72392"
+        },
+        {
+          "name": "342 – Critical Area Planting (Heavy) 11a",
+          "totalCost": 2214,
+          "rawCost": "$2214"
+        },
+        {
+          "name": "Estimated Total – Critical Area #3 $47087",
+          "totalCost": 28252,
+          "rawCost": "$28252"
+        },
+        {
+          "name": "Estimated Total – Critical Areas 1, 2, & 3 24 Sites $253110",
+          "totalCost": 151866,
+          "rawCost": "$151866"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 254724,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "342 – Critical Area Planting (Heavy) 11a $2214 $1328",
+      "rows": [
+        {
+          "name": "342 – Critical Area Planting (Heavy) 11a",
+          "totalCost": 2214,
+          "rawCost": "$2214"
+        },
+        {
+          "name": "Estimated Total – Critical Area #3 $47087",
+          "totalCost": 28252,
+          "rawCost": "$28252"
+        },
+        {
+          "name": "Estimated Total – Critical Areas 1, 2, & 3 24 Sites $253110",
+          "totalCost": 151866,
+          "rawCost": "$151866"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 182332,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Project Oversight  $4732",
+      "rows": [
+        {
+          "name": "Project Oversight",
+          "totalCost": 4732,
+          "rawCost": "$4732"
+        },
+        {
+          "name": "Summer Intern/Project Assistance",
+          "totalCost": 12079,
+          "rawCost": "$12079"
+        },
+        {
+          "name": "Trailer Repairs",
+          "totalCost": 1000,
+          "rawCost": "$1000"
+        },
+        {
+          "name": "Virtual field trip development",
+          "totalCost": 13900,
+          "rawCost": "$13900"
+        },
+        {
+          "name": "Estimated Total – Information and Education           $89102",
+          "totalCost": 53461,
+          "rawCost": "$53461"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 85172,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Virtual field trip development $13900",
+      "rows": [
+        {
+          "name": "Virtual field trip development",
+          "totalCost": 13900,
+          "rawCost": "$13900"
+        },
+        {
+          "name": "Estimated Total – Information and Education           $89102",
+          "totalCost": 53461,
+          "rawCost": "$53461"
+        },
+        {
+          "name": "Transportation of Samples to Jackson $1438",
+          "totalCost": 1438,
+          "rawCost": "$1438"
+        },
+        {
+          "name": "Estimated Total – Monitoring             $24458",
+          "totalCost": 14675,
+          "rawCost": "$14675"
+        },
+        {
+          "name": "on Projects Total of $220,002 44000",
+          "totalCost": 29333,
+          "rawCost": "$29333"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 112807,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Transportation of Samples to Jackson $1438 $1438 $2876",
+      "rows": [
+        {
+          "name": "Transportation of Samples to Jackson $1438",
+          "totalCost": 1438,
+          "rawCost": "$1438"
+        },
+        {
+          "name": "Estimated Total – Monitoring             $24458",
+          "totalCost": 14675,
+          "rawCost": "$14675"
+        },
+        {
+          "name": "on Projects Total of $220,002 44000",
+          "totalCost": 29333,
+          "rawCost": "$29333"
+        },
+        {
+          "name": "A. Phase 1 BMP Implementation $253110",
+          "totalCost": 151866,
+          "rawCost": "$151866"
+        },
+        {
+          "name": "Estimated Total Phase 1 Project Costs $440003",
+          "totalCost": 264002,
+          "rawCost": "$264002"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 461314,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Project Oversight  $4732",
+      "rows": [
+        {
+          "name": "Project Oversight",
+          "totalCost": 4732,
+          "rawCost": "$4732"
+        },
+        {
+          "name": "Summer Intern/Project Assistance",
+          "totalCost": 12079,
+          "rawCost": "$12079"
+        },
+        {
+          "name": "Trailer Repairs",
+          "totalCost": 1000,
+          "rawCost": "$1000"
+        },
+        {
+          "name": "Virtual field trip development",
+          "totalCost": 13900,
+          "rawCost": "$13900"
+        },
+        {
+          "name": "Information and Education   -----   Estimated Total Costs     $89102",
+          "totalCost": 53461,
+          "rawCost": "$53461"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 85172,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Estimated Total – Critical Area #2 $120653 $72392 $48261",
+      "rows": [
+        {
+          "name": "Estimated Total – Critical Area #2 $120653",
+          "totalCost": 72392,
+          "rawCost": "$72392"
+        },
+        {
+          "name": "342 – Critical Area Planting (Heavy) 11a",
+          "totalCost": 2214,
+          "rawCost": "$2214"
+        },
+        {
+          "name": "Estimated Total – Critical Area #3 $47087",
+          "totalCost": 28252,
+          "rawCost": "$28252"
+        },
+        {
+          "name": "Estimated Total – Critical Areas 1, 2, & 3 23 Sites $253110",
+          "totalCost": 151866,
+          "rawCost": "$151866"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 254724,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "342 – Critical Area Planting (Heavy) 11a $2214 $1328",
+      "rows": [
+        {
+          "name": "342 – Critical Area Planting (Heavy) 11a",
+          "totalCost": 2214,
+          "rawCost": "$2214"
+        },
+        {
+          "name": "Estimated Total – Critical Area #3 $47087",
+          "totalCost": 28252,
+          "rawCost": "$28252"
+        },
+        {
+          "name": "Estimated Total – Critical Areas 1, 2, & 3 23 Sites $253110",
+          "totalCost": 151866,
+          "rawCost": "$151866"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 182332,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "activities": [
+    {
+      "id": "A1",
+      "description": "Microbial Analysis (10/sample x 10)",
+      "verb": "sample",
+      "object": "Microbial Analysis (10/sample x 10)",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.3,
+      "source": "Microbial Analysis (10/sample x 10)"
+    },
+    {
+      "id": "A2",
+      "description": "Red Bud-Catalpa Creek Watershed Phase 1 were formulated to restore and protect the ecosystem health, ecosystem services and quality of life, and water resources within the watershed; and create experiential learning activities for students, educators, and practitioners.",
+      "verb": "restore",
+      "object": "Red Bud-Catalpa Creek Watershed Phase 1 were formulated to restore and protect the ecosystem health, ecosystem services and quality of life, and water resources within the watershed; and create experiential learning activities for students, educators, and practitioners.",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "Red Bud-Catalpa Creek Watershed Phase 1 were formulated to restore and protect the ecosystem health, ecosystem services and quality of life, and water resources within the watershed; and create experiential learning activities for students, educators, and practitioners."
+    },
+    {
+      "id": "A3",
+      "description": "The project will start on March 1st, 2017. Initial field reconnaissance will help to identify potential locations to develop systematic survey assessments to characterize physico-chemical",
+      "verb": "survey",
+      "object": "The project will start on March 1st, 2017. Initial field reconnaissance will help to identify potential locations to develop systematic survey assessments to characterize physico-chemical",
+      "frequency": null,
+      "dueYear": "2017",
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.4,
+      "source": "The project will start on March 1st, 2017. Initial field reconnaissance will help to identify potential locations to develop systematic survey assessments to characterize physico-chemical"
+    },
+    {
+      "id": "A4",
+      "description": "widening or contraction, and the changes in streambed elevation will be estimated for each survey. Volume and mass of eroded streambank and streambed material will be assessed by comparing cross section changes in different surveying dates. A total event, seasonal and",
+      "verb": "survey",
+      "object": "widening or contraction, and the changes in streambed elevation will be estimated for each survey. Volume and mass of eroded streambank and streambed material will be assessed by comparing cross section changes in different surveying dates. A total event, seasonal and",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "widening or contraction, and the changes in streambed elevation will be estimated for each survey. Volume and mass of eroded streambank and streambed material will be assessed by comparing cross section changes in different surveying dates. A total event, seasonal and"
+    },
+    {
+      "id": "A5",
+      "description": "survey tasks such as pre-/post-construction surveys and cut/fill analysis. The project activities and results will be presented and transferred to a broad group of stakeholders including watershed citizens, the entire MSU campus community, Starkville schools, and private, state",
+      "verb": "survey",
+      "object": "survey tasks such as pre-/post-construction surveys and cut/fill analysis. The project activities and results will be presented and transferred to a broad group of stakeholders including watershed citizens, the entire MSU campus community, Starkville schools, and private, state",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "survey tasks such as pre-/post-construction surveys and cut/fill analysis. The project activities and results will be presented and transferred to a broad group of stakeholders including watershed citizens, the entire MSU campus community, Starkville schools, and private, state"
+    },
+    {
+      "id": "A6",
+      "description": "extend this approach to evaluate the ability of SfM to monitor erosion over time. Derived values will be incorporated into existing models (e.g., BSTEM, CAESAR-Lisflood) to determine if",
+      "verb": "monitor",
+      "object": "extend this approach to evaluate the ability of SfM to monitor erosion over time. Derived values will be incorporated into existing models (e.g., BSTEM, CAESAR-Lisflood) to determine if",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.3,
+      "source": "extend this approach to evaluate the ability of SfM to monitor erosion over time. Derived values will be incorporated into existing models (e.g., BSTEM, CAESAR-Lisflood) to determine if"
+    },
+    {
+      "id": "A7",
+      "description": "When used appropriately, UAVs have the potential to enable rapid assessment of landscapes with reduced labor costs. The research serves as a proof-of-concept project to develop a method by which UAVs could be employed to identify, quantify, and monitor erosion in",
+      "verb": "monitor",
+      "object": "When used appropriately, UAVs have the potential to enable rapid assessment of landscapes with reduced labor costs. The research serves as a proof-of-concept project to develop a method by which UAVs could be employed to identify, quantify, and monitor erosion in",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.3,
+      "source": "When used appropriately, UAVs have the potential to enable rapid assessment of landscapes with reduced labor costs. The research serves as a proof-of-concept project to develop a method by which UAVs could be employed to identify, quantify, and monitor erosion in"
+    },
+    {
+      "id": "A8",
+      "description": "drainage channels and other eroded areas. This would enable federal, state, and local agencies to utilize this technology to more efficiently monitor, remediate, and regulate degradation of surface waters. Outputs from this research project include transfer of information on the",
+      "verb": "monitor",
+      "object": "drainage channels and other eroded areas. This would enable federal, state, and local agencies to utilize this technology to more efficiently monitor, remediate, and regulate degradation of surface waters. Outputs from this research project include transfer of information on the",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.3,
+      "source": "drainage channels and other eroded areas. This would enable federal, state, and local agencies to utilize this technology to more efficiently monitor, remediate, and regulate degradation of surface waters. Outputs from this research project include transfer of information on the"
+    },
+    {
+      "id": "A9",
+      "description": "the accuracy of this approach for use in calculating erosion values, and extend this approach to evaluate the ability of SfM to monitor erosion over time. Derived values will be incorporated into existing models to determine if SfM data are a valid model input. Because of the nature of",
+      "verb": "monitor",
+      "object": "the accuracy of this approach for use in calculating erosion values, and extend this approach to evaluate the ability of SfM to monitor erosion over time. Derived values will be incorporated into existing models to determine if SfM data are a valid model input. Because of the nature of",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.3,
+      "source": "the accuracy of this approach for use in calculating erosion values, and extend this approach to evaluate the ability of SfM to monitor erosion over time. Derived values will be incorporated into existing models to determine if SfM data are a valid model input. Because of the nature of"
+    },
+    {
+      "id": "A10",
+      "description": "months of the research. The depth of streambank widening or contraction, and the displaced volume of soil in gullies will be estimated for each survey. Volume and mass of eroded streambank and streambed material will be assessed by comparing cross-section changes",
+      "verb": "survey",
+      "object": "months of the research. The depth of streambank widening or contraction, and the displaced volume of soil in gullies will be estimated for each survey. Volume and mass of eroded streambank and streambed material will be assessed by comparing cross-section changes",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "months of the research. The depth of streambank widening or contraction, and the displaced volume of soil in gullies will be estimated for each survey. Volume and mass of eroded streambank and streambed material will be assessed by comparing cross-section changes"
+    },
+    {
+      "id": "A11",
+      "description": "Additional physical measurements will be taken in the field to monitor dimensionality of sheet, rill, and gully erosion identified as study sites. Markers will be also placed which passively illustrate erosion, and which will be captured in UAV imagery as well. In order to accomplish the",
+      "verb": "monitor",
+      "object": "Additional physical measurements will be taken in the field to monitor dimensionality of sheet, rill, and gully erosion identified as study sites. Markers will be also placed which passively illustrate erosion, and which will be captured in UAV imagery as well. In order to accomplish the",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.3,
+      "source": "Additional physical measurements will be taken in the field to monitor dimensionality of sheet, rill, and gully erosion identified as study sites. Markers will be also placed which passively illustrate erosion, and which will be captured in UAV imagery as well. In order to accomplish the"
+    },
+    {
+      "id": "A12",
+      "description": "primary research objective, field and SfM measurements will be compared to evaluate the agreement between the two methods. To capture the ability of this method to monitor erosion over time, change detection analysis will be performed on the time series of SfM surfaces to",
+      "verb": "monitor",
+      "object": "primary research objective, field and SfM measurements will be compared to evaluate the agreement between the two methods. To capture the ability of this method to monitor erosion over time, change detection analysis will be performed on the time series of SfM surfaces to",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.3,
+      "source": "primary research objective, field and SfM measurements will be compared to evaluate the agreement between the two methods. To capture the ability of this method to monitor erosion over time, change detection analysis will be performed on the time series of SfM surfaces to"
+    },
+    {
+      "id": "A13",
+      "description": "determine the extent and location of erosion, and monitor development of additional erosion in these research areas. Field data collected will be used to validate change detection analysis.",
+      "verb": "monitor",
+      "object": "determine the extent and location of erosion, and monitor development of additional erosion in these research areas. Field data collected will be used to validate change detection analysis.",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.3,
+      "source": "determine the extent and location of erosion, and monitor development of additional erosion in these research areas. Field data collected will be used to validate change detection analysis."
+    },
+    {
+      "id": "A14",
+      "description": "survey tasks such as pre-/post-construction surveys and cut/fill analysis. In short, assessing erosion with UAVs would be a significant application of UAV technology with tangible economic benefits that could be implemented in the near-term future.",
+      "verb": "survey",
+      "object": "survey tasks such as pre-/post-construction surveys and cut/fill analysis. In short, assessing erosion with UAVs would be a significant application of UAV technology with tangible economic benefits that could be implemented in the near-term future.",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "survey tasks such as pre-/post-construction surveys and cut/fill analysis. In short, assessing erosion with UAVs would be a significant application of UAV technology with tangible economic benefits that could be implemented in the near-term future."
+    },
+    {
+      "id": "A15",
+      "description": "Resources Research Institute (MWRI) at MSU, in conjunction with MAFES, 21 units on campus have contributed to a comprehensive watershed management plan to restore the Red Bud-",
+      "verb": "restore",
+      "object": "Resources Research Institute (MWRI) at MSU, in conjunction with MAFES, 21 units on campus have contributed to a comprehensive watershed management plan to restore the Red Bud-",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "Resources Research Institute (MWRI) at MSU, in conjunction with MAFES, 21 units on campus have contributed to a comprehensive watershed management plan to restore the Red Bud-"
+    },
+    {
+      "id": "A16",
+      "description": "BMPs, as well as predict and monitor improvements to impairments within Catalpa Creek, enabling future efforts in demonstration, research, and experiential learning for MSU. This supports the mission and vision set forth in the watershed management plan which was",
+      "verb": "monitor",
+      "object": "BMPs, as well as predict and monitor improvements to impairments within Catalpa Creek, enabling future efforts in demonstration, research, and experiential learning for MSU. This supports the mission and vision set forth in the watershed management plan which was",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.3,
+      "source": "BMPs, as well as predict and monitor improvements to impairments within Catalpa Creek, enabling future efforts in demonstration, research, and experiential learning for MSU. This supports the mission and vision set forth in the watershed management plan which was"
+    },
+    {
+      "id": "A17",
+      "description": "Red Bud-Catalpa Creek Watershed as an EPA 319(h) priority watershed, and an anticipated award from the Mississippi Department of Environmental Quality and U.S. EPA to restore water quality within the watershed. This anticipated 319(h) award represents an investment in excess",
+      "verb": "restore",
+      "object": "Red Bud-Catalpa Creek Watershed as an EPA 319(h) priority watershed, and an anticipated award from the Mississippi Department of Environmental Quality and U.S. EPA to restore water quality within the watershed. This anticipated 319(h) award represents an investment in excess",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "Red Bud-Catalpa Creek Watershed as an EPA 319(h) priority watershed, and an anticipated award from the Mississippi Department of Environmental Quality and U.S. EPA to restore water quality within the watershed. This anticipated 319(h) award represents an investment in excess"
+    },
+    {
+      "id": "A18",
+      "description": "the relationship between vegetative cover and streambank erosion. Vegetative cover in a 1-m wide belt transect, running parallel to each confluence of tributary and main channel, will be quantified in February, June, and October to observe and monitor community competition.",
+      "verb": "monitor",
+      "object": "the relationship between vegetative cover and streambank erosion. Vegetative cover in a 1-m wide belt transect, running parallel to each confluence of tributary and main channel, will be quantified in February, June, and October to observe and monitor community competition.",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.3,
+      "source": "the relationship between vegetative cover and streambank erosion. Vegetative cover in a 1-m wide belt transect, running parallel to each confluence of tributary and main channel, will be quantified in February, June, and October to observe and monitor community competition."
+    },
+    {
+      "id": "A19",
+      "description": "active and stable streambanks. Transects will be resurveyed after a stormflow event occurs. The depth of streambank widening or contraction will be estimated for each survey and related.",
+      "verb": "survey",
+      "object": "active and stable streambanks. Transects will be resurveyed after a stormflow event occurs. The depth of streambank widening or contraction will be estimated for each survey and related.",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "active and stable streambanks. Transects will be resurveyed after a stormflow event occurs. The depth of streambank widening or contraction will be estimated for each survey and related."
+    },
+    {
+      "id": "A20",
+      "description": "This research will generate information and tools necessary to inform targeted placement of best management practices, as well as predict and monitor improvements to impairments within Catalpa Creek, enabling future efforts in demonstration, research, and experiential",
+      "verb": "monitor",
+      "object": "This research will generate information and tools necessary to inform targeted placement of best management practices, as well as predict and monitor improvements to impairments within Catalpa Creek, enabling future efforts in demonstration, research, and experiential",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.3,
+      "source": "This research will generate information and tools necessary to inform targeted placement of best management practices, as well as predict and monitor improvements to impairments within Catalpa Creek, enabling future efforts in demonstration, research, and experiential"
+    },
+    {
+      "id": "A21",
+      "description": "location of erosion, and monitor development of additional erosion in these research areas.",
+      "verb": "monitor",
+      "object": "location of erosion, and monitor development of additional erosion in these research areas.",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.3,
+      "source": "location of erosion, and monitor development of additional erosion in these research areas."
+    },
+    {
+      "id": "A22",
+      "description": "With this approach, MSU will be uniquely positioned to conduct future research endeavors into precision conservation (i.e., strategic placement of BMPs on the landscape for maximum conservation benefit). It will also be possible to provide monitoring and assessment of BMP",
+      "verb": "conduct",
+      "object": "With this approach, MSU will be uniquely positioned to conduct future research endeavors into precision conservation (i.e., strategic placement of BMPs on the landscape for maximum conservation benefit). It will also be possible to provide monitoring and assessment of BMP",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "With this approach, MSU will be uniquely positioned to conduct future research endeavors into precision conservation (i.e., strategic placement of BMPs on the landscape for maximum conservation benefit). It will also be possible to provide monitoring and assessment of BMP"
+    },
+    {
+      "id": "A23",
+      "description": "SfM surfaces is sufficient, the engineering industry could greatly reduce labor costs associated with survey tasks such as pre-/post-construction surveys and cut/fill analysis. This could include mining and restoration activities as well. This would be a significant application of UAV",
+      "verb": "survey",
+      "object": "SfM surfaces is sufficient, the engineering industry could greatly reduce labor costs associated with survey tasks such as pre-/post-construction surveys and cut/fill analysis. This could include mining and restoration activities as well. This would be a significant application of UAV",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "SfM surfaces is sufficient, the engineering industry could greatly reduce labor costs associated with survey tasks such as pre-/post-construction surveys and cut/fill analysis. This could include mining and restoration activities as well. This would be a significant application of UAV"
+    },
+    {
+      "id": "A24",
+      "description": "Initial Survey",
+      "verb": "survey",
+      "object": "Initial Survey",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "Initial Survey"
+    },
+    {
+      "id": "A25",
+      "description": "Baseline Survey",
+      "verb": "survey",
+      "object": "Baseline Survey",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "Baseline Survey"
+    },
+    {
+      "id": "A26",
+      "description": "Monitoring Survey",
+      "verb": "survey",
+      "object": "Monitoring Survey",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "Monitoring Survey"
+    },
+    {
+      "id": "A27",
+      "description": "Microbial Analysis (10/sample x 10)",
+      "verb": "sample",
+      "object": "Microbial Analysis (10/sample x 10)",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.3,
+      "source": "Microbial Analysis (10/sample x 10)"
+    },
+    {
+      "id": "A28",
+      "description": "USEPA 2008: Handbook for Developing Watershed Plans to Restore and Protect Our Waters,",
+      "verb": "restore",
+      "object": "USEPA 2008: Handbook for Developing Watershed Plans to Restore and Protect Our Waters,",
+      "frequency": null,
+      "dueYear": "2008",
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.4,
+      "source": "USEPA 2008: Handbook for Developing Watershed Plans to Restore and Protect Our Waters,"
+    },
+    {
+      "id": "A29",
+      "description": "Implement",
+      "verb": "implement",
+      "object": "Implement",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "Implement"
+    },
+    {
+      "id": "A30",
+      "description": "Fully Implement",
+      "verb": "implement",
+      "object": "Fully Implement",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "Fully Implement"
+    },
+    {
+      "id": "A31",
+      "description": "Microbial Analysis (10/sample x 10) 600 6000 1200",
+      "verb": "sample",
+      "object": "Microbial Analysis (10/sample x 10) 600 6000 1200",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.3,
+      "source": "Microbial Analysis (10/sample x 10) 600 6000 1200"
+    },
+    {
+      "id": "A32",
+      "description": "ESTIMATED COSTS TO FULLY IMPLEMENT BMPS (100% BASIS).  The cost estimates provided by NRCS for these",
+      "verb": "implement",
+      "object": "ESTIMATED COSTS TO FULLY IMPLEMENT BMPS (100% BASIS).  The cost estimates provided by NRCS for these",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "ESTIMATED COSTS TO FULLY IMPLEMENT BMPS (100% BASIS).  The cost estimates provided by NRCS for these"
+    },
+    {
+      "id": "A33",
+      "description": "50% of the costs to actually implement the practice in these three States. The estimated costs to fully implement the Phase 1 BMPs listed in the preceding table represent 100% of the total costs (or NRCS’",
+      "verb": "implement",
+      "object": "50% of the costs to actually implement the practice in these three States. The estimated costs to fully implement the Phase 1 BMPs listed in the preceding table represent 100% of the total costs (or NRCS’",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "50% of the costs to actually implement the practice in these three States. The estimated costs to fully implement the Phase 1 BMPs listed in the preceding table represent 100% of the total costs (or NRCS’"
+    },
+    {
+      "id": "A34",
+      "description": "319 ELIGIBLE FUNDING (60% OF COSTS TO FULLY IMPLEMENT BMPS).  These costs represent 60% of the estimated costs to fully implement the selected BMPs, which is the amount that is eligible for a 319 NPS",
+      "verb": "implement",
+      "object": "319 ELIGIBLE FUNDING (60% OF COSTS TO FULLY IMPLEMENT BMPS).  These costs represent 60% of the estimated costs to fully implement the selected BMPs, which is the amount that is eligible for a 319 NPS",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "319 ELIGIBLE FUNDING (60% OF COSTS TO FULLY IMPLEMENT BMPS).  These costs represent 60% of the estimated costs to fully implement the selected BMPs, which is the amount that is eligible for a 319 NPS"
+    },
+    {
+      "id": "A35",
+      "description": "(in-kind services or monetary contribution). It is anticipated that MSU will contribute in-kind services to install the designated BMPs and cover this requirement.",
+      "verb": "install",
+      "object": "(in-kind services or monetary contribution). It is anticipated that MSU will contribute in-kind services to install the designated BMPs and cover this requirement.",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "(in-kind services or monetary contribution). It is anticipated that MSU will contribute in-kind services to install the designated BMPs and cover this requirement."
+    },
+    {
+      "id": "A36",
+      "description": " Education and funding needed to assist private landowners implement BMPs",
+      "verb": "implement",
+      "object": " Education and funding needed to assist private landowners implement BMPs",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": " Education and funding needed to assist private landowners implement BMPs"
+    }
+  ],
+  "implementation": [
+    {
+      "id": "I1",
+      "description": "Microbial Analysis (10/sample x 10)",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "Microbial Analysis (10/sample x 10)",
+      "_present": true
+    },
+    {
+      "id": "I2",
+      "description": "Red Bud-Catalpa Creek Watershed Phase 1 were formulated to restore and protect the ecosystem health, ecosystem services and quality of life, and water resources within the watershed; and create experiential learning activities for students, educators, and practitioners.",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "Red Bud-Catalpa Creek Watershed Phase 1 were formulated to restore and protect the ecosystem health, ecosystem services and quality of life, and water resources within the watershed; and create experiential learning activities for students, educators, and practitioners.",
+      "_present": false
+    },
+    {
+      "id": "I3",
+      "description": "The project will start on March 1st, 2017. Initial field reconnaissance will help to identify potential locations to develop systematic survey assessments to characterize physico-chemical",
+      "date": "2017-01-01",
+      "target": null,
+      "achieved": null,
+      "source": "The project will start on March 1st, 2017. Initial field reconnaissance will help to identify potential locations to develop systematic survey assessments to characterize physico-chemical",
+      "_present": false
+    },
+    {
+      "id": "I4",
+      "description": "widening or contraction, and the changes in streambed elevation will be estimated for each survey. Volume and mass of eroded streambank and streambed material will be assessed by comparing cross section changes in different surveying dates. A total event, seasonal and",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "widening or contraction, and the changes in streambed elevation will be estimated for each survey. Volume and mass of eroded streambank and streambed material will be assessed by comparing cross section changes in different surveying dates. A total event, seasonal and",
+      "_present": false
+    },
+    {
+      "id": "I5",
+      "description": "survey tasks such as pre-/post-construction surveys and cut/fill analysis. The project activities and results will be presented and transferred to a broad group of stakeholders including watershed citizens, the entire MSU campus community, Starkville schools, and private, state",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "survey tasks such as pre-/post-construction surveys and cut/fill analysis. The project activities and results will be presented and transferred to a broad group of stakeholders including watershed citizens, the entire MSU campus community, Starkville schools, and private, state",
+      "_present": false
+    },
+    {
+      "id": "I6",
+      "description": "extend this approach to evaluate the ability of SfM to monitor erosion over time. Derived values will be incorporated into existing models (e.g., BSTEM, CAESAR-Lisflood) to determine if",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "extend this approach to evaluate the ability of SfM to monitor erosion over time. Derived values will be incorporated into existing models (e.g., BSTEM, CAESAR-Lisflood) to determine if",
+      "_present": false
+    },
+    {
+      "id": "I7",
+      "description": "When used appropriately, UAVs have the potential to enable rapid assessment of landscapes with reduced labor costs. The research serves as a proof-of-concept project to develop a method by which UAVs could be employed to identify, quantify, and monitor erosion in",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "When used appropriately, UAVs have the potential to enable rapid assessment of landscapes with reduced labor costs. The research serves as a proof-of-concept project to develop a method by which UAVs could be employed to identify, quantify, and monitor erosion in",
+      "_present": false
+    },
+    {
+      "id": "I8",
+      "description": "drainage channels and other eroded areas. This would enable federal, state, and local agencies to utilize this technology to more efficiently monitor, remediate, and regulate degradation of surface waters. Outputs from this research project include transfer of information on the",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "drainage channels and other eroded areas. This would enable federal, state, and local agencies to utilize this technology to more efficiently monitor, remediate, and regulate degradation of surface waters. Outputs from this research project include transfer of information on the",
+      "_present": false
+    },
+    {
+      "id": "I9",
+      "description": "the accuracy of this approach for use in calculating erosion values, and extend this approach to evaluate the ability of SfM to monitor erosion over time. Derived values will be incorporated into existing models to determine if SfM data are a valid model input. Because of the nature of",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "the accuracy of this approach for use in calculating erosion values, and extend this approach to evaluate the ability of SfM to monitor erosion over time. Derived values will be incorporated into existing models to determine if SfM data are a valid model input. Because of the nature of",
+      "_present": false
+    },
+    {
+      "id": "I10",
+      "description": "months of the research. The depth of streambank widening or contraction, and the displaced volume of soil in gullies will be estimated for each survey. Volume and mass of eroded streambank and streambed material will be assessed by comparing cross-section changes",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "months of the research. The depth of streambank widening or contraction, and the displaced volume of soil in gullies will be estimated for each survey. Volume and mass of eroded streambank and streambed material will be assessed by comparing cross-section changes",
+      "_present": false
+    },
+    {
+      "id": "I11",
+      "description": "Additional physical measurements will be taken in the field to monitor dimensionality of sheet, rill, and gully erosion identified as study sites. Markers will be also placed which passively illustrate erosion, and which will be captured in UAV imagery as well. In order to accomplish the",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "Additional physical measurements will be taken in the field to monitor dimensionality of sheet, rill, and gully erosion identified as study sites. Markers will be also placed which passively illustrate erosion, and which will be captured in UAV imagery as well. In order to accomplish the",
+      "_present": false
+    },
+    {
+      "id": "I12",
+      "description": "primary research objective, field and SfM measurements will be compared to evaluate the agreement between the two methods. To capture the ability of this method to monitor erosion over time, change detection analysis will be performed on the time series of SfM surfaces to",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "primary research objective, field and SfM measurements will be compared to evaluate the agreement between the two methods. To capture the ability of this method to monitor erosion over time, change detection analysis will be performed on the time series of SfM surfaces to",
+      "_present": false
+    },
+    {
+      "id": "I13",
+      "description": "determine the extent and location of erosion, and monitor development of additional erosion in these research areas. Field data collected will be used to validate change detection analysis.",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "determine the extent and location of erosion, and monitor development of additional erosion in these research areas. Field data collected will be used to validate change detection analysis.",
+      "_present": false
+    },
+    {
+      "id": "I14",
+      "description": "survey tasks such as pre-/post-construction surveys and cut/fill analysis. In short, assessing erosion with UAVs would be a significant application of UAV technology with tangible economic benefits that could be implemented in the near-term future.",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "survey tasks such as pre-/post-construction surveys and cut/fill analysis. In short, assessing erosion with UAVs would be a significant application of UAV technology with tangible economic benefits that could be implemented in the near-term future.",
+      "_present": false
+    },
+    {
+      "id": "I15",
+      "description": "Resources Research Institute (MWRI) at MSU, in conjunction with MAFES, 21 units on campus have contributed to a comprehensive watershed management plan to restore the Red Bud-",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "Resources Research Institute (MWRI) at MSU, in conjunction with MAFES, 21 units on campus have contributed to a comprehensive watershed management plan to restore the Red Bud-",
+      "_present": false
+    },
+    {
+      "id": "I16",
+      "description": "BMPs, as well as predict and monitor improvements to impairments within Catalpa Creek, enabling future efforts in demonstration, research, and experiential learning for MSU. This supports the mission and vision set forth in the watershed management plan which was",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "BMPs, as well as predict and monitor improvements to impairments within Catalpa Creek, enabling future efforts in demonstration, research, and experiential learning for MSU. This supports the mission and vision set forth in the watershed management plan which was",
+      "_present": false
+    },
+    {
+      "id": "I17",
+      "description": "Red Bud-Catalpa Creek Watershed as an EPA 319(h) priority watershed, and an anticipated award from the Mississippi Department of Environmental Quality and U.S. EPA to restore water quality within the watershed. This anticipated 319(h) award represents an investment in excess",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "Red Bud-Catalpa Creek Watershed as an EPA 319(h) priority watershed, and an anticipated award from the Mississippi Department of Environmental Quality and U.S. EPA to restore water quality within the watershed. This anticipated 319(h) award represents an investment in excess",
+      "_present": false
+    },
+    {
+      "id": "I18",
+      "description": "the relationship between vegetative cover and streambank erosion. Vegetative cover in a 1-m wide belt transect, running parallel to each confluence of tributary and main channel, will be quantified in February, June, and October to observe and monitor community competition.",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "the relationship between vegetative cover and streambank erosion. Vegetative cover in a 1-m wide belt transect, running parallel to each confluence of tributary and main channel, will be quantified in February, June, and October to observe and monitor community competition.",
+      "_present": false
+    },
+    {
+      "id": "I19",
+      "description": "active and stable streambanks. Transects will be resurveyed after a stormflow event occurs. The depth of streambank widening or contraction will be estimated for each survey and related.",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "active and stable streambanks. Transects will be resurveyed after a stormflow event occurs. The depth of streambank widening or contraction will be estimated for each survey and related.",
+      "_present": false
+    },
+    {
+      "id": "I20",
+      "description": "This research will generate information and tools necessary to inform targeted placement of best management practices, as well as predict and monitor improvements to impairments within Catalpa Creek, enabling future efforts in demonstration, research, and experiential",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "This research will generate information and tools necessary to inform targeted placement of best management practices, as well as predict and monitor improvements to impairments within Catalpa Creek, enabling future efforts in demonstration, research, and experiential",
+      "_present": false
+    },
+    {
+      "id": "I21",
+      "description": "location of erosion, and monitor development of additional erosion in these research areas.",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "location of erosion, and monitor development of additional erosion in these research areas.",
+      "_present": true
+    },
+    {
+      "id": "I22",
+      "description": "With this approach, MSU will be uniquely positioned to conduct future research endeavors into precision conservation (i.e., strategic placement of BMPs on the landscape for maximum conservation benefit). It will also be possible to provide monitoring and assessment of BMP",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "With this approach, MSU will be uniquely positioned to conduct future research endeavors into precision conservation (i.e., strategic placement of BMPs on the landscape for maximum conservation benefit). It will also be possible to provide monitoring and assessment of BMP",
+      "_present": false
+    },
+    {
+      "id": "I23",
+      "description": "SfM surfaces is sufficient, the engineering industry could greatly reduce labor costs associated with survey tasks such as pre-/post-construction surveys and cut/fill analysis. This could include mining and restoration activities as well. This would be a significant application of UAV",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "SfM surfaces is sufficient, the engineering industry could greatly reduce labor costs associated with survey tasks such as pre-/post-construction surveys and cut/fill analysis. This could include mining and restoration activities as well. This would be a significant application of UAV",
+      "_present": false
+    },
+    {
+      "id": "I24",
+      "description": "Initial Survey",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "Initial Survey",
+      "_present": true
+    },
+    {
+      "id": "I25",
+      "description": "Baseline Survey",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "Baseline Survey",
+      "_present": true
+    },
+    {
+      "id": "I26",
+      "description": "Monitoring Survey",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "Monitoring Survey",
+      "_present": true
+    },
+    {
+      "id": "I27",
+      "description": "Microbial Analysis (10/sample x 10)",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "Microbial Analysis (10/sample x 10)",
+      "_present": true
+    },
+    {
+      "id": "I28",
+      "description": "USEPA 2008: Handbook for Developing Watershed Plans to Restore and Protect Our Waters,",
+      "date": "2008-01-01",
+      "target": null,
+      "achieved": null,
+      "source": "USEPA 2008: Handbook for Developing Watershed Plans to Restore and Protect Our Waters,",
+      "_present": true
+    },
+    {
+      "id": "I29",
+      "description": "Implement",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "Implement",
+      "_present": true
+    },
+    {
+      "id": "I30",
+      "description": "Fully Implement",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "Fully Implement",
+      "_present": true
+    },
+    {
+      "id": "I31",
+      "description": "Microbial Analysis (10/sample x 10) 600 6000 1200",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "Microbial Analysis (10/sample x 10) 600 6000 1200",
+      "_present": true
+    },
+    {
+      "id": "I32",
+      "description": "ESTIMATED COSTS TO FULLY IMPLEMENT BMPS (100% BASIS).  The cost estimates provided by NRCS for these",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "ESTIMATED COSTS TO FULLY IMPLEMENT BMPS (100% BASIS).  The cost estimates provided by NRCS for these",
+      "_present": true
+    },
+    {
+      "id": "I33",
+      "description": "50% of the costs to actually implement the practice in these three States. The estimated costs to fully implement the Phase 1 BMPs listed in the preceding table represent 100% of the total costs (or NRCS’",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "50% of the costs to actually implement the practice in these three States. The estimated costs to fully implement the Phase 1 BMPs listed in the preceding table represent 100% of the total costs (or NRCS’",
+      "_present": false
+    },
+    {
+      "id": "I34",
+      "description": "319 ELIGIBLE FUNDING (60% OF COSTS TO FULLY IMPLEMENT BMPS).  These costs represent 60% of the estimated costs to fully implement the selected BMPs, which is the amount that is eligible for a 319 NPS",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "319 ELIGIBLE FUNDING (60% OF COSTS TO FULLY IMPLEMENT BMPS).  These costs represent 60% of the estimated costs to fully implement the selected BMPs, which is the amount that is eligible for a 319 NPS",
+      "_present": false
+    },
+    {
+      "id": "I35",
+      "description": "(in-kind services or monetary contribution). It is anticipated that MSU will contribute in-kind services to install the designated BMPs and cover this requirement.",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "(in-kind services or monetary contribution). It is anticipated that MSU will contribute in-kind services to install the designated BMPs and cover this requirement.",
+      "_present": false
+    },
+    {
+      "id": "I36",
+      "description": " Education and funding needed to assist private landowners implement BMPs",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": " Education and funding needed to assist private landowners implement BMPs",
+      "_present": true
+    }
+  ],
+  "monitoring": [],
+  "outreach": [
+    {
+      "id": "O1",
+      "activity": "Natural Resources Conservation Service",
+      "audience": "General",
+      "source": "Natural Resources Conservation Service",
+      "_present": true
+    },
+    {
+      "id": "O2",
+      "activity": "Chapman, Janet watershed/basin",
+      "audience": "General",
+      "source": "Chapman, Janet watershed/basin",
+      "_present": true
+    },
+    {
+      "id": "O3",
+      "activity": "coordination",
+      "audience": "General",
+      "source": "coordination",
+      "_present": true
+    },
+    {
+      "id": "O4",
+      "activity": "Mississippi Department of Environmental Quality",
+      "audience": "General",
+      "source": "Mississippi Department of Environmental Quality",
+      "_present": true
+    },
+    {
+      "id": "O5",
+      "activity": "Cossman, Ron social indicators Social Science Research Center, MSU",
+      "audience": "General",
+      "source": "Cossman, Ron social indicators Social Science Research Center, MSU",
+      "_present": true
+    },
+    {
+      "id": "O6",
+      "activity": "Downey, Laura program evaluation School of Human Sciences, MSU",
+      "audience": "Education",
+      "source": "Downey, Laura program evaluation School of Human Sciences, MSU",
+      "_present": true
+    },
+    {
+      "id": "O7",
+      "activity": "Ingram, Richard water resources research",
+      "audience": "General",
+      "source": "Ingram, Richard water resources research",
+      "_present": true
+    },
+    {
+      "id": "O8",
+      "activity": "and management",
+      "audience": "General",
+      "source": "and management",
+      "_present": true
+    },
+    {
+      "id": "O9",
+      "activity": "Water Resources Research Institute",
+      "audience": "General",
+      "source": "Water Resources Research Institute",
+      "_present": true
+    },
+    {
+      "id": "O10",
+      "activity": "Jack, Linda FFA/Environmental",
+      "audience": "General",
+      "source": "Jack, Linda FFA/Environmental",
+      "_present": true
+    },
+    {
+      "id": "O11",
+      "activity": "Science instructor",
+      "audience": "General",
+      "source": "Science instructor",
+      "_present": true
+    },
+    {
+      "id": "O12",
+      "activity": "Starkville School District",
+      "audience": "Education",
+      "source": "Starkville School District",
+      "_present": true
+    },
+    {
+      "id": "O13",
+      "activity": "Neal, Kayla soil and water",
+      "audience": "General",
+      "source": "Neal, Kayla soil and water",
+      "_present": true
+    },
+    {
+      "id": "O14",
+      "activity": "conservation",
+      "audience": "General",
+      "source": "conservation",
+      "_present": true
+    },
+    {
+      "id": "O15",
+      "activity": "Oktibbeha County Soil and Water Conservation District",
+      "audience": "General",
+      "source": "Oktibbeha County Soil and Water Conservation District",
+      "_present": true
+    },
+    {
+      "id": "O16",
+      "activity": "Implementation Plan for the Red Bud-Catalpa Creek Watershed Phase 1_2/28/17 38",
+      "audience": "General",
+      "source": "Implementation Plan for the Red Bud-Catalpa Creek Watershed Phase 1_2/28/17 38",
+      "_present": true
+    },
+    {
+      "id": "O17",
+      "activity": "Kelly, Lelia Master Gardener",
+      "audience": "General",
+      "source": "Kelly, Lelia Master Gardener",
+      "_present": true
+    },
+    {
+      "id": "O18",
+      "activity": "Coordinator/native plant",
+      "audience": "General",
+      "source": "Coordinator/native plant",
+      "_present": true
+    },
+    {
+      "id": "O19",
+      "activity": "North MS Research and Extension Center/Extension",
+      "audience": "General",
+      "source": "North MS Research and Extension Center/Extension",
+      "_present": true
+    },
+    {
+      "id": "O20",
+      "activity": "Service, MSU",
+      "audience": "General",
+      "source": "Service, MSU",
+      "_present": true
+    },
+    {
+      "id": "O21",
+      "activity": "Lemus, Rocky range management Plant and Soil Science, MSU",
+      "audience": "General",
+      "source": "Lemus, Rocky range management Plant and Soil Science, MSU",
+      "_present": true
+    },
+    {
+      "id": "O22",
+      "activity": "Linhoss, Anna environmental",
+      "audience": "General",
+      "source": "Linhoss, Anna environmental",
+      "_present": true
+    },
+    {
+      "id": "O23",
+      "activity": "engineering and water",
+      "audience": "General",
+      "source": "engineering and water",
+      "_present": true
+    },
+    {
+      "id": "O24",
+      "activity": "resources",
+      "audience": "General",
+      "source": "resources",
+      "_present": true
+    },
+    {
+      "id": "O25",
+      "activity": "Agricultural and Biological Engineering, MSU",
+      "audience": "General",
+      "source": "Agricultural and Biological Engineering, MSU",
+      "_present": true
+    },
+    {
+      "id": "O26",
+      "activity": "Oldham, Larry soil science outreach Plant and Soil Science/Extension Service, MSU",
+      "audience": "General",
+      "source": "Oldham, Larry soil science outreach Plant and Soil Science/Extension Service, MSU",
+      "_present": true
+    },
+    {
+      "id": "O27",
+      "activity": "Philips, Tommy human development School of Human Science, MSU",
+      "audience": "Education",
+      "source": "Philips, Tommy human development School of Human Science, MSU",
+      "_present": true
+    },
+    {
+      "id": "O28",
+      "activity": "Tagert, Mary Love water management",
+      "audience": "General",
+      "source": "Tagert, Mary Love water management",
+      "_present": true
+    },
+    {
+      "id": "O29",
+      "activity": "science",
+      "audience": "General",
+      "source": "science",
+      "_present": true
+    },
+    {
+      "id": "O30",
+      "activity": "Agricultural and Biological Engineering/Extension Service,",
+      "audience": "General",
+      "source": "Agricultural and Biological Engineering/Extension Service,",
+      "_present": true
+    },
+    {
+      "id": "O31",
+      "activity": "MSU",
+      "audience": "General",
+      "source": "MSU",
+      "_present": true
+    },
+    {
+      "id": "O32",
+      "activity": "Smith, Brian complex system",
+      "audience": "General",
+      "source": "Smith, Brian complex system",
+      "_present": true
+    },
+    {
+      "id": "O33",
+      "activity": "modeling",
+      "audience": "General",
+      "source": "modeling",
+      "_present": true
+    },
+    {
+      "id": "O34",
+      "activity": "Industrial and Systems Engineering",
+      "audience": "General",
+      "source": "Industrial and Systems Engineering",
+      "_present": true
+    },
+    {
+      "id": "O35",
+      "activity": "Swortzel, Kirk agriculture education Agriculture and Extension Education, MSU",
+      "audience": "General",
+      "source": "Swortzel, Kirk agriculture education Agriculture and Extension Education, MSU",
+      "_present": true
+    },
+    {
+      "id": "O36",
+      "activity": "Veeder, Deb watershed outreach MS Adopt-A-Stream, MS Wildlife Federation, MDEQ",
+      "audience": "General",
+      "source": "Veeder, Deb watershed outreach MS Adopt-A-Stream, MS Wildlife Federation, MDEQ",
+      "_present": true
+    },
+    {
+      "id": "O37",
+      "activity": "6.4 PROPOSED BUDGET",
+      "audience": "General",
+      "source": "6.4 PROPOSED BUDGET",
+      "_present": true
+    },
+    {
+      "id": "O38",
+      "activity": "Table 6.4.1 illustrates the proposed information and education budget.",
+      "audience": "General",
+      "source": "Table 6.4.1 illustrates the proposed information and education budget.",
+      "_present": true
+    },
+    {
+      "id": "O39",
+      "activity": "Table 6.4.1",
+      "audience": "General",
+      "source": "Table 6.4.1",
+      "_present": true
+    },
+    {
+      "id": "O40",
+      "activity": "Proposed Information and Education Budget",
+      "audience": "General",
+      "source": "Proposed Information and Education Budget",
+      "_present": true
+    },
+    {
+      "id": "O41",
+      "activity": "Category Activity 60% of Costs",
+      "audience": "General",
+      "source": "Category Activity 60% of Costs",
+      "_present": true
+    },
+    {
+      "id": "O42",
+      "activity": "3",
+      "audience": "General",
+      "source": "3",
+      "_present": true
+    },
+    {
+      "id": "O43",
+      "activity": "Match",
+      "audience": "General",
+      "source": "Match",
+      "_present": true
+    },
+    {
+      "id": "O44",
+      "activity": "Salaries",
+      "audience": "General",
+      "source": "Salaries",
+      "_present": true
+    },
+    {
+      "id": "O45",
+      "activity": "Project Oversight  $4732",
+      "audience": "General",
+      "source": "Project Oversight  $4732",
+      "_present": true
+    },
+    {
+      "id": "O46",
+      "activity": "Summer Intern/Project Assistance $12079",
+      "audience": "General",
+      "source": "Summer Intern/Project Assistance $12079",
+      "_present": true
+    },
+    {
+      "id": "O47",
+      "activity": "Commodities",
+      "audience": "General",
+      "source": "Commodities",
+      "_present": true
+    },
+    {
+      "id": "O48",
+      "activity": "Trailer Repairs $1000",
+      "audience": "General",
+      "source": "Trailer Repairs $1000",
+      "_present": true
+    },
+    {
+      "id": "O49",
+      "activity": "BMP Signage 3000",
+      "audience": "General",
+      "source": "BMP Signage 3000",
+      "_present": true
+    },
+    {
+      "id": "O50",
+      "activity": "MSU Classes – Educational Materials 4500",
+      "audience": "General",
+      "source": "MSU Classes – Educational Materials 4500",
+      "_present": true
+    },
+    {
+      "id": "O51",
+      "activity": "Field Day for Local Schools – Materials and Support 2000",
+      "audience": "Education",
+      "source": "Field Day for Local Schools – Materials and Support 2000",
+      "_present": true
+    },
+    {
+      "id": "O52",
+      "activity": "Profession Development: NRCS Training 5000",
+      "audience": "General",
+      "source": "Profession Development: NRCS Training 5000",
+      "_present": true
+    },
+    {
+      "id": "O53",
+      "activity": "Educator Workshop 2500",
+      "audience": "General",
+      "source": "Educator Workshop 2500",
+      "_present": true
+    },
+    {
+      "id": "O54",
+      "activity": "In-Service Training: Extension Agents 1000",
+      "audience": "General",
+      "source": "In-Service Training: Extension Agents 1000",
+      "_present": true
+    },
+    {
+      "id": "O55",
+      "activity": "Watershed Management Workshop 500",
+      "audience": "General",
+      "source": "Watershed Management Workshop 500",
+      "_present": true
+    },
+    {
+      "id": "O56",
+      "activity": "Municipal Leaders’ Workshop    250",
+      "audience": "General",
+      "source": "Municipal Leaders’ Workshop    250",
+      "_present": true
+    },
+    {
+      "id": "O57",
+      "activity": "Publication Costs; Educational Materials, Surveys 3000",
+      "audience": "Community",
+      "source": "Publication Costs; Educational Materials, Surveys 3000",
+      "_present": true
+    },
+    {
+      "id": "O58",
+      "activity": "Contractual",
+      "audience": "General",
+      "source": "Contractual",
+      "_present": true
+    },
+    {
+      "id": "O59",
+      "activity": "Virtual field trip development $13900",
+      "audience": "General",
+      "source": "Virtual field trip development $13900",
+      "_present": true
+    },
+    {
+      "id": "O60",
+      "activity": "Information and Education   -----   Estimated Total Costs     $89102 $53461 $35641",
+      "audience": "General",
+      "source": "Information and Education   -----   Estimated Total Costs     $89102 $53461 $35641",
+      "_present": true
+    },
+    {
+      "id": "O61",
+      "activity": "Implementation Plan for the Red Bud-Catalpa Creek Watershed Phase 1_2/28/17 39",
+      "audience": "General",
+      "source": "Implementation Plan for the Red Bud-Catalpa Creek Watershed Phase 1_2/28/17 39",
+      "_present": true
+    },
+    {
+      "id": "O62",
+      "activity": "7 IMPLEMENTATION SCHEDULE (ELEMENT 6 OF EPA’S 9 KEY ELEMENTS)",
+      "audience": "General",
+      "source": "7 IMPLEMENTATION SCHEDULE (ELEMENT 6 OF EPA’S 9 KEY ELEMENTS)",
+      "_present": true
+    },
+    {
+      "id": "O63",
+      "activity": "Chapter 3 provides an overview of the phased implementation approach that is being designed",
+      "audience": "General",
+      "source": "Chapter 3 provides an overview of the phased implementation approach that is being designed",
+      "_present": true
+    },
+    {
+      "id": "O64",
+      "activity": "for the Red Bud-Catalpa Creek Watershed to restore and protect water quality and",
+      "audience": "General",
+      "source": "for the Red Bud-Catalpa Creek Watershed to restore and protect water quality and",
+      "_present": true
+    },
+    {
+      "id": "O65",
+      "activity": "habitat/ecosystem health, and Chapter 5 describes the proposed management measures",
+      "audience": "General",
+      "source": "habitat/ecosystem health, and Chapter 5 describes the proposed management measures",
+      "_present": true
+    },
+    {
+      "id": "O66",
+      "activity": "(implementation activities) planned for the watershed. This chapter provides a schedule for the",
+      "audience": "General",
+      "source": "(implementation activities) planned for the watershed. This chapter provides a schedule for the",
+      "_present": true
+    },
+    {
+      "id": "O67",
+      "activity": "implementation of these activities during Phase 1. Activities planned for use of potential 319",
+      "audience": "General",
+      "source": "implementation of these activities during Phase 1. Activities planned for use of potential 319",
+      "_present": true
+    },
+    {
+      "id": "O68",
+      "activity": "NPS funding are noted with *.",
+      "audience": "General",
+      "source": "NPS funding are noted with *.",
+      "_present": true
+    },
+    {
+      "id": "O69",
+      "activity": "Months 1-3:    1. Establish pre-implementation monitoring to establish pre-project baselines*.",
+      "audience": "General",
+      "source": "Months 1-3:    1. Establish pre-implementation monitoring to establish pre-project baselines*.",
+      "_present": true
+    },
+    {
+      "id": "O70",
+      "activity": "Months 1-12:   1. Prepare educational and outreach materials, and facilitate leveraging",
+      "audience": "General",
+      "source": "Months 1-12:   1. Prepare educational and outreach materials, and facilitate leveraging",
+      "_present": true
+    },
+    {
+      "id": "O71",
+      "activity": "opportunities for experiential learning applications*;",
+      "audience": "General",
+      "source": "opportunities for experiential learning applications*;",
+      "_present": true
+    },
+    {
+      "id": "O72",
+      "activity": "2. Collect needed data to support development of a hydrologic model;",
+      "audience": "General",
+      "source": "2. Collect needed data to support development of a hydrologic model;",
+      "_present": true
+    },
+    {
+      "id": "O73",
+      "activity": "3. Identify and assimilate South Farm nonstructural management",
+      "audience": "General",
+      "source": "3. Identify and assimilate South Farm nonstructural management",
+      "_present": true
+    },
+    {
+      "id": "O74",
+      "activity": "practices/plans to highlight MSU activities;",
+      "audience": "General",
+      "source": "practices/plans to highlight MSU activities;",
+      "_present": true
+    },
+    {
+      "id": "O75",
+      "activity": "4. Engage MSU Master Planning Committee to identify collaboration/leveraging",
+      "audience": "General",
+      "source": "4. Engage MSU Master Planning Committee to identify collaboration/leveraging",
+      "_present": true
+    },
+    {
+      "id": "O76",
+      "activity": "opportunities during south entry road construction and Master Plan revision;",
+      "audience": "General",
+      "source": "opportunities during south entry road construction and Master Plan revision;",
+      "_present": true
+    },
+    {
+      "id": "O77",
+      "activity": "5. Engage City of Starkville and Oktibbeha County to discuss storm water",
+      "audience": "General",
+      "source": "5. Engage City of Starkville and Oktibbeha County to discuss storm water",
+      "_present": true
+    },
+    {
+      "id": "O78",
+      "activity": "management needs in the watershed;",
+      "audience": "General",
+      "source": "management needs in the watershed;",
+      "_present": true
+    },
+    {
+      "id": "O79",
+      "activity": "6. If resources are available, develop and implement social indicators and civic",
+      "audience": "General",
+      "source": "6. If resources are available, develop and implement social indicators and civic",
+      "_present": true
+    },
+    {
+      "id": "O80",
+      "activity": "engagement indicator surveys in watershed and metropolitan area; and",
+      "audience": "General",
+      "source": "engagement indicator surveys in watershed and metropolitan area; and",
+      "_present": true
+    },
+    {
+      "id": "O81",
+      "activity": "7. Finalize phased implementation plan for the entire Red Bud-Catalpa",
+      "audience": "General",
+      "source": "7. Finalize phased implementation plan for the entire Red Bud-Catalpa",
+      "_present": true
+    },
+    {
+      "id": "O82",
+      "activity": "Creek Watershed (HUC #031601040601) and incorporate into a revised Water",
+      "audience": "General",
+      "source": "Creek Watershed (HUC #031601040601) and incorporate into a revised Water",
+      "_present": true
+    },
+    {
+      "id": "O83",
+      "activity": "Resources Management Plan for the Red Bud-Catalpa Creek Watershed.",
+      "audience": "General",
+      "source": "Resources Management Plan for the Red Bud-Catalpa Creek Watershed.",
+      "_present": true
+    },
+    {
+      "id": "O84",
+      "activity": "Months 12-24:  1. Implement Phase 1 agricultural BMPs in headwaters at South Farm*;",
+      "audience": "General",
+      "source": "Months 12-24:  1. Implement Phase 1 agricultural BMPs in headwaters at South Farm*;",
+      "_present": true
+    },
+    {
+      "id": "O85",
+      "activity": "2. Implement education and outreach plan*; and",
+      "audience": "General",
+      "source": "2. Implement education and outreach plan*; and",
+      "_present": true
+    },
+    {
+      "id": "O86",
+      "activity": "3. Explore/advance collaboration and leveraging opportunities related to storm",
+      "audience": "General",
+      "source": "3. Explore/advance collaboration and leveraging opportunities related to storm",
+      "_present": true
+    },
+    {
+      "id": "O87",
+      "activity": "water management with the MSU Master Planning Committee, City of",
+      "audience": "General",
+      "source": "water management with the MSU Master Planning Committee, City of",
+      "_present": true
+    },
+    {
+      "id": "O88",
+      "activity": "Starkville, and Oktibbeha County",
+      "audience": "General",
+      "source": "Starkville, and Oktibbeha County",
+      "_present": true
+    },
+    {
+      "id": "O89",
+      "activity": "Months 25-36:  1. Conduct post-implementation monitoring*;",
+      "audience": "General",
+      "source": "Months 25-36:  1. Conduct post-implementation monitoring*;",
+      "_present": true
+    },
+    {
+      "id": "O90",
+      "activity": "2. Assess water quality and habitat/ecosystem health restoration and",
+      "audience": "General",
+      "source": "2. Assess water quality and habitat/ecosystem health restoration and",
+      "_present": true
+    },
+    {
+      "id": "O91",
+      "activity": "protection progress;",
+      "audience": "General",
+      "source": "protection progress;",
+      "_present": true
+    },
+    {
+      "id": "O92",
+      "activity": "3. Implement education and outreach plan*; and",
+      "audience": "General",
+      "source": "3. Implement education and outreach plan*; and",
+      "_present": true
+    },
+    {
+      "id": "O93",
+      "activity": "4. Prepare and submit final Phase 1 report",
+      "audience": "General",
+      "source": "4. Prepare and submit final Phase 1 report",
+      "_present": true
+    },
+    {
+      "id": "O94",
+      "activity": "Months 1-36:   Solicit additional resources to support monitoring, modeling and",
+      "audience": "General",
+      "source": "Months 1-36:   Solicit additional resources to support monitoring, modeling and",
+      "_present": true
+    },
+    {
+      "id": "O95",
+      "activity": "implementation activities for the entire Red Bud – Catalpa Creek Watershed",
+      "audience": "General",
+      "source": "implementation activities for the entire Red Bud – Catalpa Creek Watershed",
+      "_present": true
+    },
+    {
+      "id": "O96",
+      "activity": "Concurrent:   Visioning, planning, identifying and generating potential resources, and",
+      "audience": "General",
+      "source": "Concurrent:   Visioning, planning, identifying and generating potential resources, and",
+      "_present": true
+    },
+    {
+      "id": "O97",
+      "activity": "identifying leveraging opportunities for MSU’s Watershed DREAMS",
+      "audience": "General",
+      "source": "identifying leveraging opportunities for MSU’s Watershed DREAMS",
+      "_present": true
+    },
+    {
+      "id": "O98",
+      "activity": "(Demonstration, Research, Education, Application, Management and",
+      "audience": "General",
+      "source": "(Demonstration, Research, Education, Application, Management and",
+      "_present": true
+    },
+    {
+      "id": "O99",
+      "activity": "Sustainability) Center",
+      "audience": "General",
+      "source": "Sustainability) Center",
+      "_present": true
+    },
+    {
+      "id": "O100",
+      "activity": "Implementation Plan for the Red Bud-Catalpa Creek Watershed Phase 1_2/28/17 40",
+      "audience": "General",
+      "source": "Implementation Plan for the Red Bud-Catalpa Creek Watershed Phase 1_2/28/17 40",
+      "_present": true
+    },
+    {
+      "id": "O101",
+      "activity": "8 MEASURABLE MILESTONES AND PROJECT OUTCOMES (ELEMENT 7 OF",
+      "audience": "General",
+      "source": "8 MEASURABLE MILESTONES AND PROJECT OUTCOMES (ELEMENT 7 OF",
+      "_present": true
+    },
+    {
+      "id": "O102",
+      "activity": "EPA’S 9 KEY ELEMENTS)",
+      "audience": "General",
+      "source": "EPA’S 9 KEY ELEMENTS)",
+      "_present": true
+    },
+    {
+      "id": "O103",
+      "activity": "The identification of measurable milestones and project outcomes are required as Element 7 of",
+      "audience": "General",
+      "source": "The identification of measurable milestones and project outcomes are required as Element 7 of",
+      "_present": true
+    },
+    {
+      "id": "O104",
+      "activity": "EPA’s 9 Key Elements of a Watershed Plan.",
+      "audience": "General",
+      "source": "EPA’s 9 Key Elements of a Watershed Plan.",
+      "_present": true
+    },
+    {
+      "id": "O105",
+      "activity": "8.1 MEASURABLE MILESTONES",
+      "audience": "General",
+      "source": "8.1 MEASURABLE MILESTONES",
+      "_present": true
+    },
+    {
+      "id": "O106",
+      "activity": "Chapter 7 provides a schedule for the implementation of Phase 1 activities. Chapter 8",
+      "audience": "General",
+      "source": "Chapter 7 provides a schedule for the implementation of Phase 1 activities. Chapter 8",
+      "_present": true
+    },
+    {
+      "id": "O107",
+      "activity": "establishes interim, measurable milestones for determining whether the planned BMPs or",
+      "audience": "General",
+      "source": "establishes interim, measurable milestones for determining whether the planned BMPs or",
+      "_present": true
+    },
+    {
+      "id": "O108",
+      "activity": "other implementation activities are being implemented on schedule and for measuring",
+      "audience": "General",
+      "source": "other implementation activities are being implemented on schedule and for measuring",
+      "_present": true
+    },
+    {
+      "id": "O109",
+      "activity": "progress in implementing this plan. The Phase 1 activities listed below will potentially be",
+      "audience": "General",
+      "source": "progress in implementing this plan. The Phase 1 activities listed below will potentially be",
+      "_present": true
+    },
+    {
+      "id": "O110",
+      "activity": "supported by 319 NPS funding.",
+      "audience": "General",
+      "source": "supported by 319 NPS funding.",
+      "_present": true
+    },
+    {
+      "id": "O111",
+      "activity": "Milestone 1 End of Month 3 Pre-implementation monitoring has been implemented.",
+      "audience": "General",
+      "source": "Milestone 1 End of Month 3 Pre-implementation monitoring has been implemented.",
+      "_present": true
+    },
+    {
+      "id": "O112",
+      "activity": "Milestone 2 End of Month 12 Educational and outreach materials are prepared, and",
+      "audience": "General",
+      "source": "Milestone 2 End of Month 12 Educational and outreach materials are prepared, and",
+      "_present": true
+    },
+    {
+      "id": "O113",
+      "activity": "leveraging opportunities for experiential learning planned.",
+      "audience": "General",
+      "source": "leveraging opportunities for experiential learning planned.",
+      "_present": true
+    },
+    {
+      "id": "O114",
+      "activity": "Milestone 3 End of Month  18 All Phase 1 agricultural BMPs are installed in first critical",
+      "audience": "General",
+      "source": "Milestone 3 End of Month  18 All Phase 1 agricultural BMPs are installed in first critical",
+      "_present": true
+    },
+    {
+      "id": "O115",
+      "activity": "area at South Farm; all planned education and outreach",
+      "audience": "General",
+      "source": "area at South Farm; all planned education and outreach",
+      "_present": true
+    },
+    {
+      "id": "O116",
+      "activity": "activities for this period have been completed according to",
+      "audience": "General",
+      "source": "activities for this period have been completed according to",
+      "_present": true
+    },
+    {
+      "id": "O117",
+      "activity": "schedule.",
+      "audience": "General",
+      "source": "schedule.",
+      "_present": true
+    },
+    {
+      "id": "O118",
+      "activity": "Milestone 4 End of Month  21 All Phase 1 agricultural BMPs are installed in second critical",
+      "audience": "General",
+      "source": "Milestone 4 End of Month  21 All Phase 1 agricultural BMPs are installed in second critical",
+      "_present": true
+    },
+    {
+      "id": "O119",
+      "activity": "area at South Farm; all planned education and outreach",
+      "audience": "General",
+      "source": "area at South Farm; all planned education and outreach",
+      "_present": true
+    },
+    {
+      "id": "O120",
+      "activity": "activities for this quarter have been completed according",
+      "audience": "General",
+      "source": "activities for this quarter have been completed according",
+      "_present": true
+    },
+    {
+      "id": "O121",
+      "activity": "to schedule.",
+      "audience": "General",
+      "source": "to schedule.",
+      "_present": true
+    },
+    {
+      "id": "O122",
+      "activity": "Milestone 5 End of Month  24 All Phase 1 agricultural BMPs are installed in third critical",
+      "audience": "General",
+      "source": "Milestone 5 End of Month  24 All Phase 1 agricultural BMPs are installed in third critical",
+      "_present": true
+    },
+    {
+      "id": "O123",
+      "activity": "area at South Farm; all planned education and outreach",
+      "audience": "General",
+      "source": "area at South Farm; all planned education and outreach",
+      "_present": true
+    },
+    {
+      "id": "O124",
+      "activity": "activities for this quarter have been completed according",
+      "audience": "General",
+      "source": "activities for this quarter have been completed according",
+      "_present": true
+    },
+    {
+      "id": "O125",
+      "activity": "to schedule.",
+      "audience": "General",
+      "source": "to schedule.",
+      "_present": true
+    },
+    {
+      "id": "O126",
+      "activity": "Milestone 6 End of Month  24 Post-implementation monitoring has been implemented.",
+      "audience": "General",
+      "source": "Milestone 6 End of Month  24 Post-implementation monitoring has been implemented.",
+      "_present": true
+    },
+    {
+      "id": "O127",
+      "activity": "Milestone 7 End of Month 36 Final report is submitted to MDEQ.",
+      "audience": "General",
+      "source": "Milestone 7 End of Month 36 Final report is submitted to MDEQ.",
+      "_present": true
+    },
+    {
+      "id": "O128",
+      "activity": "8.2 MEASURABLE OUTCOMES",
+      "audience": "General",
+      "source": "8.2 MEASURABLE OUTCOMES",
+      "_present": true
+    },
+    {
+      "id": "O129",
+      "activity": "Chapter 10 of the Water Resources Management Plan for the Red Bud-Catalpa Creek",
+      "audience": "General",
+      "source": "Chapter 10 of the Water Resources Management Plan for the Red Bud-Catalpa Creek",
+      "_present": true
+    },
+    {
+      "id": "O130",
+      "activity": "Watershed provides significant narrative and information on the water quality biotic integrity",
+      "audience": "General",
+      "source": "Watershed provides significant narrative and information on the water quality biotic integrity",
+      "_present": true
+    },
+    {
+      "id": "O131",
+      "activity": "status within the watershed. Also included is a lengthy section that describes an integrated",
+      "audience": "General",
+      "source": "status within the watershed. Also included is a lengthy section that describes an integrated",
+      "_present": true
+    },
+    {
+      "id": "O132",
+      "activity": "restoration and protection goals and targets related to sediment, pathogens, nutrients, habitat,",
+      "audience": "General",
+      "source": "restoration and protection goals and targets related to sediment, pathogens, nutrients, habitat,",
+      "_present": true
+    },
+    {
+      "id": "O133",
+      "activity": "and social indicators.",
+      "audience": "General",
+      "source": "and social indicators.",
+      "_present": true
+    },
+    {
+      "id": "O134",
+      "activity": "Implementation Plan for the Red Bud-Catalpa Creek Watershed Phase 1_2/28/17 41",
+      "audience": "General",
+      "source": "Implementation Plan for the Red Bud-Catalpa Creek Watershed Phase 1_2/28/17 41",
+      "_present": true
+    },
+    {
+      "id": "O135",
+      "activity": "9 MONITORING (ELEMENT 9 OF EPA’S 9 KEY ELEMENTS) AND MODELING",
+      "audience": "General",
+      "source": "9 MONITORING (ELEMENT 9 OF EPA’S 9 KEY ELEMENTS) AND MODELING",
+      "_present": true
+    },
+    {
+      "id": "O136",
+      "activity": "9.1 PRE- AND POST-BMP IMPLEMENTATION MONITORING",
+      "audience": "General",
+      "source": "9.1 PRE- AND POST-BMP IMPLEMENTATION MONITORING",
+      "_present": true
+    },
+    {
+      "id": "O137",
+      "activity": "The purpose of this monitoring plan is to assess the ecological integrity of critical areas for",
+      "audience": "General",
+      "source": "The purpose of this monitoring plan is to assess the ecological integrity of critical areas for",
+      "_present": true
+    },
+    {
+      "id": "O138",
+      "activity": "restoration in the Catalpa Creek Watershed pre- and post-best management practice (BMP)",
+      "audience": "General",
+      "source": "restoration in the Catalpa Creek Watershed pre- and post-best management practice (BMP)",
+      "_present": true
+    },
+    {
+      "id": "O139",
+      "activity": "implementation. Monitoring activities will be performed on Mississippi State University owned",
+      "audience": "General",
+      "source": "implementation. Monitoring activities will be performed on Mississippi State University owned",
+      "_present": true
+    },
+    {
+      "id": "O140",
+      "activity": "lands adjacent to the Catalpa Creek Watershed. Monitoring is being performed to conduct pre-",
+      "audience": "General",
+      "source": "lands adjacent to the Catalpa Creek Watershed. Monitoring is being performed to conduct pre-",
+      "_present": true
+    },
+    {
+      "id": "O141",
+      "activity": "and post-conservation practice implementation water quality measurements in small-scale",
+      "audience": "General",
+      "source": "and post-conservation practice implementation water quality measurements in small-scale",
+      "_present": true
+    },
+    {
+      "id": "O142",
+      "activity": "watersheds utilizing edge-of-field/in-stream monitoring.  Three reference sites under similar",
+      "audience": "General",
+      "source": "watersheds utilizing edge-of-field/in-stream monitoring.  Three reference sites under similar",
+      "_present": true
+    },
+    {
+      "id": "O143",
+      "activity": "land use and agricultural management within the same priority watershed will also be",
+      "audience": "General",
+      "source": "land use and agricultural management within the same priority watershed will also be",
+      "_present": true
+    },
+    {
+      "id": "O144",
+      "activity": "monitored to evaluate the effectiveness of these practices for reduction of sediment and",
+      "audience": "General",
+      "source": "monitored to evaluate the effectiveness of these practices for reduction of sediment and",
+      "_present": true
+    },
+    {
+      "id": "O145",
+      "activity": "nutrients. While sediment is the primary impairment of concern in this watershed, parameters",
+      "audience": "General",
+      "source": "nutrients. While sediment is the primary impairment of concern in this watershed, parameters",
+      "_present": true
+    },
+    {
+      "id": "O146",
+      "activity": "to be analyzed at the Mississippi Department of Environmental Quality include Total Suspended",
+      "audience": "General",
+      "source": "to be analyzed at the Mississippi Department of Environmental Quality include Total Suspended",
+      "_present": true
+    },
+    {
+      "id": "O147",
+      "activity": "Solids, Ammonia, Total Kjeldahl Nitrogen, Total Nitrite-Nitrate Nitrogen, Total Nitrogen, and",
+      "audience": "General",
+      "source": "Solids, Ammonia, Total Kjeldahl Nitrogen, Total Nitrite-Nitrate Nitrogen, Total Nitrogen, and",
+      "_present": true
+    },
+    {
+      "id": "O148",
+      "activity": "Total Phosphorus.",
+      "audience": "General",
+      "source": "Total Phosphorus.",
+      "_present": true
+    },
+    {
+      "id": "O149",
+      "activity": "Due to land use in critical areas as well as the presence of developed TMDLs for pathogens in",
+      "audience": "General",
+      "source": "Due to land use in critical areas as well as the presence of developed TMDLs for pathogens in",
+      "_present": true
+    },
+    {
+      "id": "O150",
+      "activity": "the larger HUC in which the Red Bud-Catalpa Creek Watershed is located, replicate samples will",
+      "audience": "General",
+      "source": "the larger HUC in which the Red Bud-Catalpa Creek Watershed is located, replicate samples will",
+      "_present": true
+    },
+    {
+      "id": "O151",
+      "activity": "also be collected for microbial analysis at the U.S. Department of Agriculture – Agriculture",
+      "audience": "General",
+      "source": "also be collected for microbial analysis at the U.S. Department of Agriculture – Agriculture",
+      "_present": true
+    },
+    {
+      "id": "O152",
+      "activity": "Research Service, Genetics and Sustainable Agriculture Unit. Water from each replicate will be",
+      "audience": "General",
+      "source": "Research Service, Genetics and Sustainable Agriculture Unit. Water from each replicate will be",
+      "_present": true
+    },
+    {
+      "id": "O153",
+      "activity": "analyzed with few exceptions as stated in Brooks et al. (2012) for the presence of Escherichia",
+      "audience": "General",
+      "source": "analyzed with few exceptions as stated in Brooks et al. (2012) for the presence of Escherichia",
+      "_present": true
+    },
+    {
+      "id": "O154",
+      "activity": "coli (USEPA 1103.1, 2002), staphylococci, enterococci (USEPA 1106.1, 2002), and Clostridium",
+      "audience": "General",
+      "source": "coli (USEPA 1103.1, 2002), staphylococci, enterococci (USEPA 1106.1, 2002), and Clostridium",
+      "_present": true
+    },
+    {
+      "id": "O155",
+      "activity": "perfringens. Briefly, aliquots of water will be passed through membrane filter (0.45 um) and",
+      "audience": "General",
+      "source": "perfringens. Briefly, aliquots of water will be passed through membrane filter (0.45 um) and",
+      "_present": true
+    },
+    {
+      "id": "O156",
+      "activity": "placed onto appropriate media. E. coli will be plated to mTEC agar at 44.5C overnight,",
+      "audience": "General",
+      "source": "placed onto appropriate media. E. coli will be plated to mTEC agar at 44.5C overnight,",
+      "_present": true
+    },
+    {
+      "id": "O157",
+      "activity": "staphylococci onto manitol salt agar incubated at 35C for 48 hours, enterococci plated to mENT",
+      "audience": "General",
+      "source": "staphylococci onto manitol salt agar incubated at 35C for 48 hours, enterococci plated to mENT",
+      "_present": true
+    },
+    {
+      "id": "O158",
+      "activity": "agar incubated at 35C for 48 hours, and C. perfringens plated to CP chromoselect agar",
+      "audience": "General",
+      "source": "agar incubated at 35C for 48 hours, and C. perfringens plated to CP chromoselect agar",
+      "_present": true
+    },
+    {
+      "id": "O159",
+      "activity": "incubated anaerobically at 44.5C overnight. Selected isolates will be collected and further",
+      "audience": "General",
+      "source": "incubated anaerobically at 44.5C overnight. Selected isolates will be collected and further",
+      "_present": true
+    },
+    {
+      "id": "O160",
+      "activity": "subjected to confirmation using colony polymerase chain reaction (PCR) and appropriate",
+      "audience": "General",
+      "source": "subjected to confirmation using colony polymerase chain reaction (PCR) and appropriate",
+      "_present": true
+    },
+    {
+      "id": "O161",
+      "activity": "primers. Additionally, fecal samples will be collected from the surrounding grazing and poultry",
+      "audience": "General",
+      "source": "primers. Additionally, fecal samples will be collected from the surrounding grazing and poultry",
+      "_present": true
+    },
+    {
+      "id": "O162",
+      "activity": "operations. Similar methods will be applied to these samples. All sites will be pre-",
+      "audience": "General",
+      "source": "operations. Similar methods will be applied to these samples. All sites will be pre-",
+      "_present": true
+    },
+    {
+      "id": "O163",
+      "activity": "monitored/baseline monitored for one year or at least ten sample events prior to BMP",
+      "audience": "General",
+      "source": "monitored/baseline monitored for one year or at least ten sample events prior to BMP",
+      "_present": true
+    },
+    {
+      "id": "O164",
+      "activity": "implementation. After implementation, BMPs will be monitored for the same amount of at",
+      "audience": "General",
+      "source": "implementation. After implementation, BMPs will be monitored for the same amount of at",
+      "_present": true
+    },
+    {
+      "id": "O165",
+      "activity": "least ten events or one year.",
+      "audience": "General",
+      "source": "least ten events or one year.",
+      "_present": true
+    },
+    {
+      "id": "O166",
+      "activity": "SITE DESCRIPTION",
+      "audience": "General",
+      "source": "SITE DESCRIPTION",
+      "_present": true
+    },
+    {
+      "id": "O167",
+      "activity": "Monitoring sites will be downstream of the group of practices (i.e., Critical Management Areas)",
+      "audience": "General",
+      "source": "Monitoring sites will be downstream of the group of practices (i.e., Critical Management Areas)",
+      "_present": true
+    },
+    {
+      "id": "O168",
+      "activity": "listed in Table 9.2.1.",
+      "audience": "General",
+      "source": "listed in Table 9.2.1.",
+      "_present": true
+    },
+    {
+      "id": "O169",
+      "activity": "Implementation Plan for the Red Bud-Catalpa Creek Watershed Phase 1_2/28/17 42",
+      "audience": "General",
+      "source": "Implementation Plan for the Red Bud-Catalpa Creek Watershed Phase 1_2/28/17 42",
+      "_present": true
+    },
+    {
+      "id": "O170",
+      "activity": "Table 9.2.1",
+      "audience": "General",
+      "source": "Table 9.2.1",
+      "_present": true
+    },
+    {
+      "id": "O171",
+      "activity": "Monitoring Sites",
+      "audience": "General",
+      "source": "Monitoring Sites",
+      "_present": true
+    },
+    {
+      "id": "O172",
+      "activity": "Practices BMP Site #",
+      "audience": "General",
+      "source": "Practices BMP Site #",
+      "_present": true
+    },
+    {
+      "id": "O173",
+      "activity": "Monitoring Site #1 – Critical Management Area 1 (Livestock Forage Area)",
+      "audience": "General",
+      "source": "Monitoring Site #1 – Critical Management Area 1 (Livestock Forage Area)",
+      "_present": true
+    },
+    {
+      "id": "O174",
+      "activity": "561 – Heavy Use Protection (Beef Feeding Area) 1f",
+      "audience": "General",
+      "source": "561 – Heavy Use Protection (Beef Feeding Area) 1f",
+      "_present": true
+    },
+    {
+      "id": "O175",
+      "activity": "561 – Heavy Use Protection (Beef Feeding Area) 1g",
+      "audience": "General",
+      "source": "561 – Heavy Use Protection (Beef Feeding Area) 1g",
+      "_present": true
+    },
+    {
+      "id": "O176",
+      "activity": "576 – Livestock Shelter Structure 2m",
+      "audience": "General",
+      "source": "576 – Livestock Shelter Structure 2m",
+      "_present": true
+    },
+    {
+      "id": "O177",
+      "activity": "576 – Livestock Shelter Structure 2p",
+      "audience": "General",
+      "source": "576 – Livestock Shelter Structure 2p",
+      "_present": true
+    },
+    {
+      "id": "O178",
+      "activity": "576 – Livestock Shelter Structure 2Q",
+      "audience": "General",
+      "source": "576 – Livestock Shelter Structure 2Q",
+      "_present": true
+    },
+    {
+      "id": "O179",
+      "activity": "512 – Native Grass Planting  5a",
+      "audience": "General",
+      "source": "512 – Native Grass Planting  5a",
+      "_present": true
+    },
+    {
+      "id": "O180",
+      "activity": "382 – Fencing  6a",
+      "audience": "General",
+      "source": "382 – Fencing  6a",
+      "_present": true
+    },
+    {
+      "id": "O181",
+      "activity": "342 – Critical Area Planting (Heavy) Sites around fences",
+      "audience": "General",
+      "source": "342 – Critical Area Planting (Heavy) Sites around fences",
+      "_present": true
+    },
+    {
+      "id": "O182",
+      "activity": "Engineering Design – Stream Bank Stabilization West Line Road",
+      "audience": "General",
+      "source": "Engineering Design – Stream Bank Stabilization West Line Road",
+      "_present": true
+    },
+    {
+      "id": "O183",
+      "activity": "Monitoring Site #2 – Critical Management Area 2 (Beef Research Unit)",
+      "audience": "General",
+      "source": "Monitoring Site #2 – Critical Management Area 2 (Beef Research Unit)",
+      "_present": true
+    },
+    {
+      "id": "O184",
+      "activity": "561 – Heavy Use Protection (Concentrated Operations) 1j",
+      "audience": "General",
+      "source": "561 – Heavy Use Protection (Concentrated Operations) 1j",
+      "_present": true
+    },
+    {
+      "id": "O185",
+      "activity": "561 – Heavy Use Protection (Beef Runway) 1k",
+      "audience": "General",
+      "source": "561 – Heavy Use Protection (Beef Runway) 1k",
+      "_present": true
+    },
+    {
+      "id": "O186",
+      "activity": "342 – Critical Area Shaping/Grading (Heavy) 3d",
+      "audience": "General",
+      "source": "342 – Critical Area Shaping/Grading (Heavy) 3d",
+      "_present": true
+    },
+    {
+      "id": "O187",
+      "activity": "382 – Fencing 6b",
+      "audience": "General",
+      "source": "382 – Fencing 6b",
+      "_present": true
+    },
+    {
+      "id": "O188",
+      "activity": "410 – Grade Stabilization Structure (Standard Cantilever) 7a",
+      "audience": "General",
+      "source": "410 – Grade Stabilization Structure (Standard Cantilever) 7a",
+      "_present": true
+    },
+    {
+      "id": "O189",
+      "activity": "410 – Grade Stabilization Structure (Standard Cantilever) 7b",
+      "audience": "General",
+      "source": "410 – Grade Stabilization Structure (Standard Cantilever) 7b",
+      "_present": true
+    },
+    {
+      "id": "O190",
+      "activity": "410 – Grade Stabilization Structure (Drop Pipe/Riser) 7c",
+      "audience": "General",
+      "source": "410 – Grade Stabilization Structure (Drop Pipe/Riser) 7c",
+      "_present": true
+    },
+    {
+      "id": "O191",
+      "activity": "410 – Grade Stabilization Structure (Check Dams) 7d",
+      "audience": "General",
+      "source": "410 – Grade Stabilization Structure (Check Dams) 7d",
+      "_present": true
+    },
+    {
+      "id": "O192",
+      "activity": "Monitoring Site #3 – Critical Management Area 3 (Dairy Grazing Area)",
+      "audience": "General",
+      "source": "Monitoring Site #3 – Critical Management Area 3 (Dairy Grazing Area)",
+      "_present": true
+    },
+    {
+      "id": "O193",
+      "activity": "342 – Critical Area Planting (Heavy) 11a",
+      "audience": "General",
+      "source": "342 – Critical Area Planting (Heavy) 11a",
+      "_present": true
+    },
+    {
+      "id": "O194",
+      "activity": "410 – Grade Stabilization Structure (Check Dams) 12a",
+      "audience": "General",
+      "source": "410 – Grade Stabilization Structure (Check Dams) 12a",
+      "_present": true
+    },
+    {
+      "id": "O195",
+      "activity": "382 – Fencing  13a",
+      "audience": "General",
+      "source": "382 – Fencing  13a",
+      "_present": true
+    },
+    {
+      "id": "O196",
+      "activity": "391 – Riparian/Forest Buffer 14a",
+      "audience": "General",
+      "source": "391 – Riparian/Forest Buffer 14a",
+      "_present": true
+    },
+    {
+      "id": "O197",
+      "activity": "578 – Stream Crossing  15a",
+      "audience": "General",
+      "source": "578 – Stream Crossing  15a",
+      "_present": true
+    },
+    {
+      "id": "O198",
+      "activity": "578 – Stream Crossing  15b",
+      "audience": "General",
+      "source": "578 – Stream Crossing  15b",
+      "_present": true
+    },
+    {
+      "id": "O199",
+      "activity": "578 – Stream Crossing  15c",
+      "audience": "General",
+      "source": "578 – Stream Crossing  15c",
+      "_present": true
+    },
+    {
+      "id": "O200",
+      "activity": "Total 24",
+      "audience": "General",
+      "source": "Total 24",
+      "_present": true
+    },
+    {
+      "id": "O201",
+      "activity": "WATER QUALITY MONITORING",
+      "audience": "General",
+      "source": "WATER QUALITY MONITORING",
+      "_present": true
+    },
+    {
+      "id": "O202",
+      "activity": "System description.  Site specific monitoring equipment will be the following:",
+      "audience": "General",
+      "source": "System description.  Site specific monitoring equipment will be the following:",
+      "_present": true
+    },
+    {
+      "id": "O203",
+      "activity": " Pre-measured flow-structure: ditch/pipe section/box",
+      "audience": "General",
+      "source": " Pre-measured flow-structure: ditch/pipe section/box",
+      "_present": true
+    },
+    {
+      "id": "O204",
+      "activity": " Depth sensor: OTT PLS pressure level sensor SDI 12 compatible; 0-4m",
+      "audience": "General",
+      "source": " Depth sensor: OTT PLS pressure level sensor SDI 12 compatible; 0-4m",
+      "_present": true
+    },
+    {
+      "id": "O205",
+      "activity": " Area velocity sensor:  Starflow UNIDATA ultrasonic Doppler 2m range",
+      "audience": "General",
+      "source": " Area velocity sensor:  Starflow UNIDATA ultrasonic Doppler 2m range",
+      "_present": true
+    },
+    {
+      "id": "O206",
+      "activity": " Automated sampler: SD900 SIGMA Composite sampler",
+      "audience": "General",
+      "source": " Automated sampler: SD900 SIGMA Composite sampler",
+      "_present": true
+    },
+    {
+      "id": "O207",
+      "activity": " Manual Rain Gauge at one sampling location; additional precipitation from MSU",
+      "audience": "General",
+      "source": " Manual Rain Gauge at one sampling location; additional precipitation from MSU",
+      "_present": true
+    },
+    {
+      "id": "O208",
+      "activity": "weather station",
+      "audience": "General",
+      "source": "weather station",
+      "_present": true
+    },
+    {
+      "id": "O209",
+      "activity": " Power Source: Solar Panel 12V, 30W Pole/House mounted with Solar 1205 12V/5A",
+      "audience": "General",
+      "source": " Power Source: Solar Panel 12V, 30W Pole/House mounted with Solar 1205 12V/5A",
+      "_present": true
+    },
+    {
+      "id": "O210",
+      "activity": "charge controlled and a 12V deep cycle marine battery",
+      "audience": "General",
+      "source": "charge controlled and a 12V deep cycle marine battery",
+      "_present": true
+    },
+    {
+      "id": "O211",
+      "activity": " Housing: Framed 6x6’ house.",
+      "audience": "General",
+      "source": " Housing: Framed 6x6’ house.",
+      "_present": true
+    },
+    {
+      "id": "O212",
+      "activity": "Sampling Protocol. (See QAPP for full details.) Monitoring will take place year round and the",
+      "audience": "General",
+      "source": "Sampling Protocol. (See QAPP for full details.) Monitoring will take place year round and the",
+      "_present": true
+    },
+    {
+      "id": "O213",
+      "activity": "goal of the project is to obtain runoff data from every attainable event. Events on these",
+      "audience": "General",
+      "source": "goal of the project is to obtain runoff data from every attainable event. Events on these",
+      "_present": true
+    },
+    {
+      "id": "O214",
+      "activity": "particular sites will only be rainfall as pasture lands are non-irrigated and there is minimal",
+      "audience": "General",
+      "source": "particular sites will only be rainfall as pasture lands are non-irrigated and there is minimal",
+      "_present": true
+    },
+    {
+      "id": "O215",
+      "activity": "Implementation Plan for the Red Bud-Catalpa Creek Watershed Phase 1_2/28/17 43",
+      "audience": "General",
+      "source": "Implementation Plan for the Red Bud-Catalpa Creek Watershed Phase 1_2/28/17 43",
+      "_present": true
+    },
+    {
+      "id": "O216",
+      "activity": "chance of snow melt. Field crews will check samplers after every storm event to determine if",
+      "audience": "General",
+      "source": "chance of snow melt. Field crews will check samplers after every storm event to determine if",
+      "_present": true
+    },
+    {
+      "id": "O217",
+      "activity": "samples were collected. Within 24 hours of storm event cessation, field crews will be on site",
+      "audience": "General",
+      "source": "samples were collected. Within 24 hours of storm event cessation, field crews will be on site",
+      "_present": true
+    },
+    {
+      "id": "O218",
+      "activity": "and undertake the following tasks:",
+      "audience": "General",
+      "source": "and undertake the following tasks:",
+      "_present": true
+    },
+    {
+      "id": "O219",
+      "activity": "1. Open automated sampler and pour required samples into sampling containers for lab",
+      "audience": "General",
+      "source": "1. Open automated sampler and pour required samples into sampling containers for lab",
+      "_present": true
+    },
+    {
+      "id": "O220",
+      "activity": "analysis.",
+      "audience": "General",
+      "source": "analysis.",
+      "_present": true
+    },
+    {
+      "id": "O221",
+      "activity": " Samples will include:",
+      "audience": "General",
+      "source": " Samples will include:",
+      "_present": true
+    },
+    {
+      "id": "O222",
+      "activity": "– 1 L sample for inorganics (no acid preservation)",
+      "audience": "General",
+      "source": "– 1 L sample for inorganics (no acid preservation)",
+      "_present": true
+    },
+    {
+      "id": "O223",
+      "activity": "– 1 L sample for inorganics (acid preserved)",
+      "audience": "General",
+      "source": "– 1 L sample for inorganics (acid preserved)",
+      "_present": true
+    },
+    {
+      "id": "O224",
+      "activity": "– 1 L Field duplicate from one random sampling station",
+      "audience": "General",
+      "source": "– 1 L Field duplicate from one random sampling station",
+      "_present": true
+    },
+    {
+      "id": "O225",
+      "activity": "– 1 L container for turbidity measurements",
+      "audience": "General",
+      "source": "– 1 L container for turbidity measurements",
+      "_present": true
+    },
+    {
+      "id": "O226",
+      "activity": "– 1 L sample for microbial analysis (no preservation)",
+      "audience": "General",
+      "source": "– 1 L sample for microbial analysis (no preservation)",
+      "_present": true
+    },
+    {
+      "id": "O227",
+      "activity": "2. Fill a 1 L sampling container with DI water as a field blank",
+      "audience": "General",
+      "source": "2. Fill a 1 L sampling container with DI water as a field blank",
+      "_present": true
+    },
+    {
+      "id": "O228",
+      "activity": "3. Empty composite sampler and rinse twice with DI water",
+      "audience": "General",
+      "source": "3. Empty composite sampler and rinse twice with DI water",
+      "_present": true
+    },
+    {
+      "id": "O229",
+      "activity": "4. Replace composite sampler and reset sampler",
+      "audience": "General",
+      "source": "4. Replace composite sampler and reset sampler",
+      "_present": true
+    },
+    {
+      "id": "O230",
+      "activity": "5. Check sample intake for obstructions or debris",
+      "audience": "General",
+      "source": "5. Check sample intake for obstructions or debris",
+      "_present": true
+    },
+    {
+      "id": "O231",
+      "activity": "6. Check manual rain gauge and record rainfall amount",
+      "audience": "General",
+      "source": "6. Check manual rain gauge and record rainfall amount",
+      "_present": true
+    },
+    {
+      "id": "O232",
+      "activity": "7. Once over all equipment for defects, tears, obstructions etc.",
+      "audience": "General",
+      "source": "7. Once over all equipment for defects, tears, obstructions etc.",
+      "_present": true
+    },
+    {
+      "id": "O233",
+      "activity": "8. Collect physical water quality parameters of samples, including: pH, DO, Specific",
+      "audience": "General",
+      "source": "8. Collect physical water quality parameters of samples, including: pH, DO, Specific",
+      "_present": true
+    },
+    {
+      "id": "O234",
+      "activity": "Conductance, and temperature",
+      "audience": "General",
+      "source": "Conductance, and temperature",
+      "_present": true
+    },
+    {
+      "id": "O235",
+      "activity": "9. Measure Turbidity immediately following sample collection",
+      "audience": "General",
+      "source": "9. Measure Turbidity immediately following sample collection",
+      "_present": true
+    },
+    {
+      "id": "O236",
+      "activity": "10. Fill out field data sheet, including chain of custody form for MDEQ",
+      "audience": "General",
+      "source": "10. Fill out field data sheet, including chain of custody form for MDEQ",
+      "_present": true
+    },
+    {
+      "id": "O237",
+      "activity": "All runoff event samples will be analyzed for the following constituents:",
+      "audience": "General",
+      "source": "All runoff event samples will be analyzed for the following constituents:",
+      "_present": true
+    },
+    {
+      "id": "O238",
+      "activity": " Ammonium – NH",
+      "audience": "General",
+      "source": " Ammonium – NH",
+      "_present": true
+    },
+    {
+      "id": "O239",
+      "activity": "4",
+      "audience": "General",
+      "source": "4",
+      "_present": true
+    },
+    {
+      "id": "O240",
+      "activity": "-N",
+      "audience": "General",
+      "source": "-N",
+      "_present": true
+    },
+    {
+      "id": "O241",
+      "activity": " Nitrate+Nitrite – NO",
+      "audience": "General",
+      "source": " Nitrate+Nitrite – NO",
+      "_present": true
+    },
+    {
+      "id": "O242",
+      "activity": "3",
+      "audience": "General",
+      "source": "3",
+      "_present": true
+    },
+    {
+      "id": "O243",
+      "activity": "+NO",
+      "audience": "General",
+      "source": "+NO",
+      "_present": true
+    },
+    {
+      "id": "O244",
+      "activity": "2",
+      "audience": "General",
+      "source": "2",
+      "_present": true
+    },
+    {
+      "id": "O245",
+      "activity": " Total Kjeldahl Nitrogen – TKN",
+      "audience": "General",
+      "source": " Total Kjeldahl Nitrogen – TKN",
+      "_present": true
+    },
+    {
+      "id": "O246",
+      "activity": " Total phosphorus – TP",
+      "audience": "General",
+      "source": " Total phosphorus – TP",
+      "_present": true
+    },
+    {
+      "id": "O247",
+      "activity": " Total suspended solids – TSS",
+      "audience": "General",
+      "source": " Total suspended solids – TSS",
+      "_present": true
+    },
+    {
+      "id": "O248",
+      "activity": " Total Organic Carbon-TOC",
+      "audience": "General",
+      "source": " Total Organic Carbon-TOC",
+      "_present": true
+    },
+    {
+      "id": "O249",
+      "activity": "VEGETATION ASSESSMENTS",
+      "audience": "General",
+      "source": "VEGETATION ASSESSMENTS",
+      "_present": true
+    },
+    {
+      "id": "O250",
+      "activity": "Vegetation will be considered a major ecological assessment factor, where vegetation",
+      "audience": "General",
+      "source": "Vegetation will be considered a major ecological assessment factor, where vegetation",
+      "_present": true
+    },
+    {
+      "id": "O251",
+      "activity": "composition will be measured pre- and post-BMP implementation to serve as a condition",
+      "audience": "General",
+      "source": "composition will be measured pre- and post-BMP implementation to serve as a condition",
+      "_present": true
+    },
+    {
+      "id": "O252",
+      "activity": "indicator. Specifically, this metric is defined as the percent cover of the native plant species,",
+      "audience": "General",
+      "source": "indicator. Specifically, this metric is defined as the percent cover of the native plant species,",
+      "_present": true
+    },
+    {
+      "id": "O253",
+      "activity": "relative to total cover (sum of plant species). This method will be adapted from Faber-",
+      "audience": "General",
+      "source": "relative to total cover (sum of plant species). This method will be adapted from Faber-",
+      "_present": true
+    },
+    {
+      "id": "O254",
+      "activity": "Langendoen et al. (2011) and applied to survey the impacted area of each tributary where",
+      "audience": "General",
+      "source": "Langendoen et al. (2011) and applied to survey the impacted area of each tributary where",
+      "_present": true
+    },
+    {
+      "id": "O255",
+      "activity": "BMPs will be implemented. Vegetation surveys will be conducted using a 1 meter",
+      "audience": "General",
+      "source": "BMPs will be implemented. Vegetation surveys will be conducted using a 1 meter",
+      "_present": true
+    },
+    {
+      "id": "O256",
+      "activity": "2",
+      "audience": "General",
+      "source": "2",
+      "_present": true
+    },
+    {
+      "id": "O257",
+      "activity": "area to",
+      "audience": "General",
+      "source": "area to",
+      "_present": true
+    },
+    {
+      "id": "O258",
+      "activity": "perform grid sampling across the entire area of the BMP site. Fixed belt transects in each of",
+      "audience": "General",
+      "source": "perform grid sampling across the entire area of the BMP site. Fixed belt transects in each of",
+      "_present": true
+    },
+    {
+      "id": "O259",
+      "activity": "three zones will be sampled in each BMP site. The transects will be 1 meter wide and",
+      "audience": "General",
+      "source": "three zones will be sampled in each BMP site. The transects will be 1 meter wide and",
+      "_present": true
+    },
+    {
+      "id": "O260",
+      "activity": "positioned in the upper, middle, and lower elevations of the stream cross section. Species",
+      "audience": "General",
+      "source": "positioned in the upper, middle, and lower elevations of the stream cross section. Species",
+      "_present": true
+    },
+    {
+      "id": "O261",
+      "activity": "diversity will be quantified as species richness (Magurran 2013) and evenness (Simpson’s Index:",
+      "audience": "General",
+      "source": "diversity will be quantified as species richness (Magurran 2013) and evenness (Simpson’s Index:",
+      "_present": true
+    },
+    {
+      "id": "O262",
+      "activity": "Smith and Wilson 1996).",
+      "audience": "General",
+      "source": "Smith and Wilson 1996).",
+      "_present": true
+    },
+    {
+      "id": "O263",
+      "activity": "Implementation Plan for the Red Bud-Catalpa Creek Watershed Phase 1_2/28/17 44",
+      "audience": "General",
+      "source": "Implementation Plan for the Red Bud-Catalpa Creek Watershed Phase 1_2/28/17 44",
+      "_present": true
+    },
+    {
+      "id": "O264",
+      "activity": "It is the intention of the Planning and Implementation Team to work with MAFES personnel to",
+      "audience": "General",
+      "source": "It is the intention of the Planning and Implementation Team to work with MAFES personnel to",
+      "_present": true
+    },
+    {
+      "id": "O265",
+      "activity": "actively promote the management of invasive species throughout the growing season. The",
+      "audience": "General",
+      "source": "actively promote the management of invasive species throughout the growing season. The",
+      "_present": true
+    },
+    {
+      "id": "O266",
+      "activity": "impact of this effort will depend on the ability of team members to establish functional working",
+      "audience": "General",
+      "source": "impact of this effort will depend on the ability of team members to establish functional working",
+      "_present": true
+    },
+    {
+      "id": "O267",
+      "activity": "relationships, which has been actively encouraged by MAFES administration. This work will",
+      "audience": "General",
+      "source": "relationships, which has been actively encouraged by MAFES administration. This work will",
+      "_present": true
+    },
+    {
+      "id": "O268",
+      "activity": "engage graduate and undergraduate students in the sampling effort.  Photographic",
+      "audience": "Education",
+      "source": "engage graduate and undergraduate students in the sampling effort.  Photographic",
+      "_present": true
+    },
+    {
+      "id": "O269",
+      "activity": "documentation will also occur at each transect beginning at construction.",
+      "audience": "General",
+      "source": "documentation will also occur at each transect beginning at construction.",
+      "_present": true
+    },
+    {
+      "id": "O270",
+      "activity": "Table 9.2.2",
+      "audience": "General",
+      "source": "Table 9.2.2",
+      "_present": true
+    },
+    {
+      "id": "O271",
+      "activity": "Pre- and Post-BMP Implementation Monitoring (Funded by 319 NPS Award)",
+      "audience": "General",
+      "source": "Pre- and Post-BMP Implementation Monitoring (Funded by 319 NPS Award)",
+      "_present": true
+    },
+    {
+      "id": "O272",
+      "activity": "Project Needs",
+      "audience": "General",
+      "source": "Project Needs",
+      "_present": true
+    },
+    {
+      "id": "O273",
+      "activity": "Total",
+      "audience": "General",
+      "source": "Total",
+      "_present": true
+    },
+    {
+      "id": "O274",
+      "activity": "Cost",
+      "audience": "General",
+      "source": "Cost",
+      "_present": true
+    },
+    {
+      "id": "O275",
+      "activity": "Pre-BMP",
+      "audience": "General",
+      "source": "Pre-BMP",
+      "_present": true
+    }
+  ],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-06T01:30:57.462Z",
+  "metadata": {
+    "sourceId": "red-bud-catalpa-creek-watershed-phase-1-plan-2017",
+    "sourceFile": "red-bud-catalpa-creek-watershed-phase-1-plan-2017.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": true,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Direct Costs $21663 $10043 14998",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 77686
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Direct Costs $15253 $5568 $10571",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 89490
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Salaries   $20800",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 204525
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Total 0 0 $33300",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 183725
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Salaries $14780",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 150425
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "561-Heavy Use Area Protection1f4500sqft$1.27$5,715$3,429",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 102444
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "561-Heavy Use Area Protection1g4500sqft1.27$5,715$3,429",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 99015
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "576-Livestock Shelter Structure2m1000sqft3.94$3,940$2,364",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 95586
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "576-Livestock Shelter Structure2p1000sqft3.94$3,940$2,364",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 93222
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "576-Livestock Shelter Structure2Q1000sqft3.94$3,940$2,364",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 90858
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "512-Native Grass Planting5a$1,693$1,016",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 88494
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "382-Fencing6a2200ft3.03$6,666$4,000",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 87478
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "342-Critical Area Planting (Heavy)3f-sites around fences$1,107$664",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 392241
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Rock Riprap   325.0 Tons       $120/Ton   $39,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 39284
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Concrete Grout   19.0 Cu. Yd.       $250/Cu. Yd.   $  4,750",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 284
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Geotextile   476.0 Sq. Yd.       $4/Sq. Yd.   $  1,904",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 34
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Estimated Total – Critical Area #2 $120653 $72392 $48261",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 254724
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "342 – Critical Area Planting (Heavy) 11a $2214 $1328",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 182332
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Project Oversight  $4732",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 85172
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Virtual field trip development $13900",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 112807
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Transportation of Samples to Jackson $1438 $1438 $2876",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 461314
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Project Oversight  $4732",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 85172
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Estimated Total – Critical Area #2 $120653 $72392 $48261",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 254724
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "342 – Critical Area Planting (Heavy) 11a $2214 $1328",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 182332
+      }
+    ],
+    "originalName": "Red_Bud_Catalpa_Creek_Watershed_Phase_1_Plan_2017.pdf",
+    "presence": {
+      "goals": 0,
+      "bmps": 5,
+      "implementation": 12,
+      "monitoring": 0,
+      "outreach": 275
+    }
+  }
+}

@@ -1,0 +1,2785 @@
+{
+  "id": "upper-piney-creek-9-key-element-plan-2022",
+  "summary": {
+    "totalGoals": 1,
+    "totalBMPs": 32,
+    "totalActivities": 0,
+    "primaryGoals": 1,
+    "completionRate": 0,
+    "totalMetrics": 215,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 1,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "General": 31,
+      "Vegetative": 1
+    },
+    "avgGoalConfidence": 0.95,
+    "strongGoals": 1
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "confidence": 0.95,
+      "isPrimary": true,
+      "primaryReason": "bronze_direct_slice",
+      "description": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "originalSentence": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "shortTitle": "The ultimate goal is to bring about behavior changes and the use of \"best…",
+      "_present": false
+    }
+  ],
+  "mainGoals": [
+    {
+      "id": "G1",
+      "title": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "confidence": 0.95,
+      "isPrimary": true,
+      "primaryReason": "bronze_direct_slice",
+      "description": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "originalSentence": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "shortTitle": "The ultimate goal is to bring about behavior changes and the use of \"best…",
+      "_present": false
+    }
+  ],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "Amount  Estimated Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Amount  Estimated Cost",
+      "_present": true
+    },
+    {
+      "id": "B2",
+      "name": "Grade Stabilization Structure",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Grade Stabilization Structure 85 ea.$1,068,330|name_cost_tail_trim",
+      "originalName": "Grade Stabilization Structure 85 ea.$1,068,330",
+      "_present": true
+    },
+    {
+      "id": "B3",
+      "name": "Cover Crops",
+      "category": "Vegetative",
+      "keyword": "Cover Crop",
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.4,
+      "source": "Cover Crops 400 ac$30,800|name_cost_tail_trim",
+      "originalName": "Cover Crops 400 ac$30,800",
+      "_present": true
+    },
+    {
+      "id": "B4",
+      "name": "Structure for Water Control 20,000 Inft$80,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Structure for Water Control 20,000 Inft$80,000",
+      "_present": false
+    },
+    {
+      "id": "B5",
+      "name": "Streambank and Shoreline Protection",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Streambank and Shoreline Protection 867 cy$141,321|name_cost_tail_trim",
+      "originalName": "Streambank and Shoreline Protection 867 cy$141,321",
+      "_present": true
+    },
+    {
+      "id": "B6",
+      "name": "Technical Assistance*",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Technical Assistance*",
+      "_present": true
+    },
+    {
+      "id": "B7",
+      "name": "N/A$45,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "N/A$45,000",
+      "_present": true
+    },
+    {
+      "id": "B8",
+      "name": "Education and Outreach*",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Education and Outreach*",
+      "_present": true
+    },
+    {
+      "id": "B9",
+      "name": "N/A$28,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "N/A$28,000",
+      "_present": true
+    },
+    {
+      "id": "B10",
+      "name": "Monitoring*",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Monitoring*",
+      "_present": true
+    },
+    {
+      "id": "B11",
+      "name": "N/A$25,760",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "N/A$25,760",
+      "_present": true
+    },
+    {
+      "id": "B12",
+      "name": "Project Management, Implementation,",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Project Management, Implementation,",
+      "_present": true
+    },
+    {
+      "id": "B13",
+      "name": "Coordination, Plan Revision*",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Coordination, Plan Revision*",
+      "_present": true
+    },
+    {
+      "id": "B14",
+      "name": "$135,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$135,000",
+      "_present": true
+    },
+    {
+      "id": "B15",
+      "name": "Total Estimated Cost$1,554,211",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Total Estimated Cost$1,554,211",
+      "_present": true
+    },
+    {
+      "id": "B16",
+      "name": "Upper Piney Creek Watershed Plan GY2022",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.05,
+      "source": "Upper Piney Creek Watershed Plan GY2022",
+      "_present": true
+    },
+    {
+      "id": "B17",
+      "name": "7 this plan recommends funding be provided in 3 increments. To maximize education and outreach activities and monitoring efforts, MDEQ plans to leverage with existing programs already allocated for funding where possible.",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "7 this plan recommends funding be provided in 3 increments. To maximize education and outreach activities and monitoring efforts, MDEQ plans to leverage with existing programs already allocated for funding where possible.",
+      "_present": false
+    },
+    {
+      "id": "B18",
+      "name": "Below is the estimated budget for the first incremental funding (Phase 1) of this project:",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Below is the estimated budget for the first incremental funding (Phase 1) of this project:",
+      "_present": true
+    },
+    {
+      "id": "B19",
+      "name": "Cost Estimate: Phase 1 Implementation:",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Cost Estimate: Phase 1 Implementation:",
+      "_present": true
+    },
+    {
+      "id": "B20",
+      "name": "NOTE: Conservation Best Management Practices provide a 40% match at a minimum.",
+      "category": "General",
+      "keyword": null,
+      "quantity": 40,
+      "unit": "%",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "NOTE: Conservation Best Management Practices provide a 40% match at a minimum.",
+      "_present": true
+    },
+    {
+      "id": "B21",
+      "name": "Element e: Information and Education",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Element e: Information and Education",
+      "_present": true
+    },
+    {
+      "id": "B22",
+      "name": "The MDEQ, in cooperation with numerous federal, state, and local stakeholders has developed diversified information/education programs, best management practices manuals, literature, books, videos, and public service announcements that address pollutants from the seven (7)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "The MDEQ, in cooperation with numerous federal, state, and local stakeholders has developed diversified information/education programs, best management practices manuals, literature, books, videos, and public service announcements that address pollutants from the seven (7)",
+      "_present": false
+    },
+    {
+      "id": "B23",
+      "name": "major landuse categories of nonpoint source pollution: agriculture, construction, forestry, on-site waste water disposal, surface mining, urban storm water runoff, and hydrologic modification.",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "major landuse categories of nonpoint source pollution: agriculture, construction, forestry, on-site waste water disposal, surface mining, urban storm water runoff, and hydrologic modification.",
+      "_present": false
+    },
+    {
+      "id": "B24",
+      "name": "Audiences from pre-school to adults throughout the state are reached with a variety of mature, well-designed programs each year. These programs, events, manuals and literature can be used in the Upper Piney Creek Watershed project by tailoring them to address pollutants of concern.  A",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Audiences from pre-school to adults throughout the state are reached with a variety of mature, well-designed programs each year. These programs, events, manuals and literature can be used in the Upper Piney Creek Watershed project by tailoring them to address pollutants of concern.  A",
+      "_present": false
+    },
+    {
+      "id": "B25",
+      "name": "positive approach is used to reach the full diversity of people in the community with projects that foster a “sense of place”, a “sense of pride in community”, and a sense of the native plants, animals, and general ecology of their region.  Stakeholders and coordinators join together to",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "positive approach is used to reach the full diversity of people in the community with projects that foster a “sense of place”, a “sense of pride in community”, and a sense of the native plants, animals, and general ecology of their region.  Stakeholders and coordinators join together to",
+      "_present": false
+    },
+    {
+      "id": "B26",
+      "name": "participate in problem-solving, brainstorming, plan development, training workshops, soil and water conservation field days and other activities that promote collaboration and ownership of the watershed, as well as solutions to its problems.  The ultimate goal is to bring about behavior changes and the use of “best management practices” that will improve water quality and the overall quality of life in the watershed.  Evaluation forms, pre-test/ post-test, surveys, and reporting of the number of people who attend workshops, trainings and events are among the methods used to measure the success of education/information programs.  A partial list of MDEQ’s programs that could be used in the Upper Piney Creek watershed are listed below:   Water Model Presentations - Enviroscapes and groundwater aquifer models distributed statewide with training and related interactive lesson plans.",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "participate in problem-solving, brainstorming, plan development, training workshops, soil and water conservation field days and other activities that promote collaboration and ownership of the watershed, as well as solutions to its problems.  The ultimate goal is to bring about behavior changes and the use of “best management practices” that will improve water quality and the overall quality of life in the watershed.  Evaluation forms, pre-test/ post-test, surveys, and reporting of the number of people who attend workshops, trainings and events are among the methods used to measure the success of education/information programs.  A partial list of MDEQ’s programs that could be used in the Upper Piney Creek watershed are listed below:   Water Model Presentations - Enviroscapes and groundwater aquifer models distributed statewide with training and related interactive lesson plans.",
+      "_present": false
+    },
+    {
+      "id": "B27",
+      "name": "BMPsAmount   Estimated Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "BMPsAmount   Estimated Cost",
+      "_present": true
+    },
+    {
+      "id": "B28",
+      "name": "Grade Stabilization Structure (med. Flow/med. Fill) 25 each",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Grade Stabilization Structure (med. Flow/med. Fill) 25 each $235,550|name_cost_tail_trim",
+      "originalName": "Grade Stabilization Structure (med. Flow/med. Fill) 25 each $235,550",
+      "_present": true
+    },
+    {
+      "id": "B29",
+      "name": "Technical Assistance",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Technical Assistance",
+      "_present": true
+    },
+    {
+      "id": "B30",
+      "name": "N/A$15,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "N/A$15,000",
+      "_present": true
+    },
+    {
+      "id": "B31",
+      "name": "Education and Outreach",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Education and Outreach",
+      "_present": true
+    },
+    {
+      "id": "B32",
+      "name": "N/A$12,800",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "N/A$12,800",
+      "_present": true
+    }
+  ],
+  "bmpCostTable": {
+    "id": "adaptive_generic_costs",
+    "title": "85 ea.$1,068,330",
+    "table": {
+      "columns": [
+        "Item",
+        "Cost",
+        "Extra?"
+      ],
+      "rows": [
+        {
+          "Item": "85 ea.",
+          "Cost": "$1,068,330",
+          "Extra": null
+        },
+        {
+          "Item": "400 ac",
+          "Cost": "$30,800",
+          "Extra": null
+        },
+        {
+          "Item": "20,000 Inft",
+          "Cost": "$80,000",
+          "Extra": null
+        },
+        {
+          "Item": "867 cy",
+          "Cost": "$141,321",
+          "Extra": null
+        },
+        {
+          "Item": "Total Estimated Cost",
+          "Cost": "$1,554,211",
+          "Extra": null
+        }
+      ],
+      "total": null
+    },
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTableNormalized": {
+    "id": "adaptive_generic_costs",
+    "title": "85 ea.$1,068,330",
+    "rows": [
+      {
+        "name": "85 ea.",
+        "totalCost": 1068330,
+        "rawCost": "$1,068,330"
+      },
+      {
+        "name": "400 ac",
+        "totalCost": 30800,
+        "rawCost": "$30,800"
+      },
+      {
+        "name": "20,000 Inft",
+        "totalCost": 80000,
+        "rawCost": "$80,000"
+      },
+      {
+        "name": "867 cy",
+        "totalCost": 141321,
+        "rawCost": "$141,321"
+      },
+      {
+        "name": "Total Estimated Cost",
+        "totalCost": 1554211,
+        "rawCost": "$1,554,211"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 2874662,
+    "discrepancy": null,
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTables": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "85 ea.$1,068,330",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "85 ea.",
+            "Cost": "$1,068,330",
+            "Extra": null
+          },
+          {
+            "Item": "400 ac",
+            "Cost": "$30,800",
+            "Extra": null
+          },
+          {
+            "Item": "20,000 Inft",
+            "Cost": "$80,000",
+            "Extra": null
+          },
+          {
+            "Item": "867 cy",
+            "Cost": "$141,321",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$1,554,211",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "400 ac$30,800",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "400 ac",
+            "Cost": "$30,800",
+            "Extra": null
+          },
+          {
+            "Item": "20,000 Inft",
+            "Cost": "$80,000",
+            "Extra": null
+          },
+          {
+            "Item": "867 cy",
+            "Cost": "$141,321",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$1,554,211",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "20,000 Inft$80,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "20,000 Inft",
+            "Cost": "$80,000"
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$1,554,211"
+          },
+          {
+            "Item": "Grade Stabilization Structure (med. Flow/med. Fill) 25 each",
+            "Cost": "$235,550"
+          },
+          {
+            "Item": "Cover Crops  200 ac",
+            "Cost": "$15,400"
+          },
+          {
+            "Item": "Streambank and Shoreline Protection  367 cy",
+            "Cost": "$59,821"
+          },
+          {
+            "Item": "Total Estimated Phase 1 Cost",
+            "Cost": "$409,231"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total Estimated Cost$1,554,211",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$1,554,211"
+          },
+          {
+            "Item": "Grade Stabilization Structure (med. Flow/med. Fill) 25 each",
+            "Cost": "$235,550"
+          },
+          {
+            "Item": "Cover Crops  200 ac",
+            "Cost": "$15,400"
+          },
+          {
+            "Item": "Streambank and Shoreline Protection  367 cy",
+            "Cost": "$59,821"
+          },
+          {
+            "Item": "Total Estimated Phase 1 Cost",
+            "Cost": "$409,231"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "phase1_bmps",
+      "title": "BMPsAmount   Estimated Cost",
+      "table": {
+        "columns": [
+          "BMPs",
+          "Amount",
+          "Estimated Cost"
+        ],
+        "rows": [
+          {
+            "BMPs": "Grade Stabilization Structure (med. Flow/med. Fill)",
+            "Amount": "25 each",
+            "Estimated Cost": "$235,550"
+          },
+          {
+            "BMPs": "Cover Crops",
+            "Amount": "200 ac",
+            "Estimated Cost": "$15,400"
+          },
+          {
+            "BMPs": "Streambank and Shoreline Protection",
+            "Amount": "367 cy",
+            "Estimated Cost": "$59,821"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "phase1_bmps",
+      "patternConfidence": 0.9
+    },
+    {
+      "id": "cost_table",
+      "title": "Phase 1 Implementation BMPs",
+      "table": {
+        "columns": [
+          "BMPs",
+          "Amount",
+          "Estimated Cost"
+        ],
+        "rows": [
+          {
+            "BMPs": "Grade Stabilization Structure (med. Flow/med. Fill)",
+            "Amount": "25 each",
+            "Estimated Cost": "$235550"
+          },
+          {
+            "BMPs": "Cover Crops",
+            "Amount": "200 ac",
+            "Estimated Cost": "$15400"
+          },
+          {
+            "BMPs": "Streambank and Shoreline Protection",
+            "Amount": "367 cy",
+            "Estimated Cost": "$59821"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "phase1_bmps_format",
+      "patternConfidence": 0.8
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "85 ea.$1,068,330",
+      "rows": [
+        {
+          "name": "85 ea.",
+          "totalCost": 1068330,
+          "rawCost": "$1,068,330"
+        },
+        {
+          "name": "400 ac",
+          "totalCost": 30800,
+          "rawCost": "$30,800"
+        },
+        {
+          "name": "20,000 Inft",
+          "totalCost": 80000,
+          "rawCost": "$80,000"
+        },
+        {
+          "name": "867 cy",
+          "totalCost": 141321,
+          "rawCost": "$141,321"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 1554211,
+          "rawCost": "$1,554,211"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2874662,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "400 ac$30,800",
+      "rows": [
+        {
+          "name": "400 ac",
+          "totalCost": 30800,
+          "rawCost": "$30,800"
+        },
+        {
+          "name": "20,000 Inft",
+          "totalCost": 80000,
+          "rawCost": "$80,000"
+        },
+        {
+          "name": "867 cy",
+          "totalCost": 141321,
+          "rawCost": "$141,321"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 1554211,
+          "rawCost": "$1,554,211"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1806332,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "20,000 Inft$80,000",
+      "rows": [
+        {
+          "name": "20,000 Inft",
+          "totalCost": 80000,
+          "rawCost": "$80,000"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 1554211,
+          "rawCost": "$1,554,211"
+        },
+        {
+          "name": "Grade Stabilization Structure (med. Flow/med. Fill) 25 each",
+          "totalCost": 235550,
+          "rawCost": "$235,550"
+        },
+        {
+          "name": "Cover Crops  200 ac",
+          "totalCost": 15400,
+          "rawCost": "$15,400"
+        },
+        {
+          "name": "Streambank and Shoreline Protection  367 cy",
+          "totalCost": 59821,
+          "rawCost": "$59,821"
+        },
+        {
+          "name": "Total Estimated Phase 1 Cost",
+          "totalCost": 409231,
+          "rawCost": "$409,231"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2354213,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total Estimated Cost$1,554,211",
+      "rows": [
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 1554211,
+          "rawCost": "$1,554,211"
+        },
+        {
+          "name": "Grade Stabilization Structure (med. Flow/med. Fill) 25 each",
+          "totalCost": 235550,
+          "rawCost": "$235,550"
+        },
+        {
+          "name": "Cover Crops  200 ac",
+          "totalCost": 15400,
+          "rawCost": "$15,400"
+        },
+        {
+          "name": "Streambank and Shoreline Protection  367 cy",
+          "totalCost": 59821,
+          "rawCost": "$59,821"
+        },
+        {
+          "name": "Total Estimated Phase 1 Cost",
+          "totalCost": 409231,
+          "rawCost": "$409,231"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2274213,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "phase1_bmps",
+      "title": "BMPsAmount   Estimated Cost",
+      "rows": [
+        {
+          "name": "Grade Stabilization Structure (med. Flow/med. Fill)",
+          "quantity": 25,
+          "unit": "each",
+          "unitRaw": "each",
+          "unitCost": 9422,
+          "totalCost": 235550,
+          "rawSize": "25 each",
+          "rawCost": "$235,550"
+        },
+        {
+          "name": "Cover Crops",
+          "quantity": 200,
+          "unit": "ac",
+          "unitRaw": "ac",
+          "unitCost": 77,
+          "totalCost": 15400,
+          "rawSize": "200 ac",
+          "rawCost": "$15,400"
+        },
+        {
+          "name": "Streambank and Shoreline Protection",
+          "quantity": 367,
+          "unit": "cy",
+          "unitRaw": "cy",
+          "unitCost": 163,
+          "totalCost": 59821,
+          "rawSize": "367 cy",
+          "rawCost": "$59,821"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 310771,
+      "discrepancy": null,
+      "patternId": "phase1_bmps",
+      "patternConfidence": 0.9
+    },
+    {
+      "id": "cost_table",
+      "title": "Phase 1 Implementation BMPs",
+      "patternId": "phase1_bmps_format",
+      "patternConfidence": 0.8,
+      "rows": [
+        {
+          "name": "Grade Stabilization Structure (med. Flow/med. Fill)",
+          "quantity": 25,
+          "unit": "each",
+          "unitRaw": "each",
+          "unitCost": 9422,
+          "totalCost": 235550,
+          "rawSize": "25 each",
+          "rawCost": "$235550"
+        },
+        {
+          "name": "Cover Crops",
+          "quantity": 200,
+          "unit": "ac",
+          "unitRaw": "ac",
+          "unitCost": 77,
+          "totalCost": 15400,
+          "rawSize": "200 ac",
+          "rawCost": "$15400"
+        },
+        {
+          "name": "Streambank and Shoreline Protection",
+          "quantity": 367,
+          "unit": "cy",
+          "unitRaw": "cy",
+          "unitCost": 163,
+          "totalCost": 59821,
+          "rawSize": "367 cy",
+          "rawCost": "$59821"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 310771,
+      "discrepancy": null
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [
+    {
+      "id": "M1",
+      "metric": "N/A$19,500",
+      "value": null,
+      "unit": null,
+      "source": "N/A$19,500",
+      "_present": true
+    },
+    {
+      "id": "M2",
+      "metric": "Project Management, Implementation,",
+      "value": null,
+      "unit": null,
+      "source": "Project Management, Implementation,",
+      "_present": true
+    },
+    {
+      "id": "M3",
+      "metric": "Coordination, Plan Revision",
+      "value": null,
+      "unit": null,
+      "source": "Coordination, Plan Revision",
+      "_present": true
+    },
+    {
+      "id": "M4",
+      "metric": "$51,160",
+      "value": null,
+      "unit": null,
+      "source": "$51,160",
+      "_present": true
+    },
+    {
+      "id": "M5",
+      "metric": "Total Estimated Phase 1 Cost$409,231",
+      "value": null,
+      "unit": null,
+      "source": "Total Estimated Phase 1 Cost$409,231",
+      "_present": true
+    },
+    {
+      "id": "M6",
+      "metric": "Upper Piney Creek Watershed Plan GY2022",
+      "value": null,
+      "unit": null,
+      "source": "Upper Piney Creek Watershed Plan GY2022",
+      "_present": true
+    },
+    {
+      "id": "M7",
+      "metric": "8",
+      "value": null,
+      "unit": null,
+      "source": "8",
+      "_present": true
+    },
+    {
+      "id": "M8",
+      "metric": " Teacher workshops – train educators in proximity to the watershed about NPS pollution",
+      "value": null,
+      "unit": null,
+      "source": " Teacher workshops – train educators in proximity to the watershed about NPS pollution",
+      "_present": true
+    },
+    {
+      "id": "M9",
+      "metric": "and provide materials and information that can be used in their classrooms.",
+      "value": null,
+      "unit": null,
+      "source": "and provide materials and information that can be used in their classrooms.",
+      "_present": true
+    },
+    {
+      "id": "M10",
+      "metric": " Adopt A Stream - workshops and training venues for citizens, teachers, and students in",
+      "value": null,
+      "unit": null,
+      "source": " Adopt A Stream - workshops and training venues for citizens, teachers, and students in",
+      "_present": true
+    },
+    {
+      "id": "M11",
+      "metric": "the watershed.",
+      "value": null,
+      "unit": null,
+      "source": "the watershed.",
+      "_present": true
+    },
+    {
+      "id": "M12",
+      "metric": " Mobile Classroom Education and Outreach Events - for school ages kindergarten –5",
+      "value": null,
+      "unit": null,
+      "source": " Mobile Classroom Education and Outreach Events - for school ages kindergarten –5",
+      "_present": true
+    },
+    {
+      "id": "M13",
+      "metric": "th",
+      "value": null,
+      "unit": null,
+      "source": "th",
+      "_present": true
+    },
+    {
+      "id": "M14",
+      "metric": "grade students.",
+      "value": null,
+      "unit": null,
+      "source": "grade students.",
+      "_present": true
+    },
+    {
+      "id": "M15",
+      "metric": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help",
+      "value": null,
+      "unit": null,
+      "source": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help",
+      "_present": true
+    },
+    {
+      "id": "M16",
+      "metric": "Mississippi farmers and property owners minimize the environmental risks associated",
+      "value": null,
+      "unit": null,
+      "source": "Mississippi farmers and property owners minimize the environmental risks associated",
+      "_present": true
+    },
+    {
+      "id": "M17",
+      "metric": "with the disposal of waste-pesticide products by disposing of products in a safe and",
+      "value": null,
+      "unit": null,
+      "source": "with the disposal of waste-pesticide products by disposing of products in a safe and",
+      "_present": true
+    },
+    {
+      "id": "M18",
+      "metric": "efficient manner.",
+      "value": null,
+      "unit": null,
+      "source": "efficient manner.",
+      "_present": true
+    },
+    {
+      "id": "M19",
+      "metric": "As part of the education outreach efforts, the stakeholder group forming the Upper Piney Creek",
+      "value": null,
+      "unit": null,
+      "source": "As part of the education outreach efforts, the stakeholder group forming the Upper Piney Creek",
+      "_present": true
+    },
+    {
+      "id": "M20",
+      "metric": "Watershed Implementation Team (WIT) will participate in collaborative meetings. The purpose",
+      "value": null,
+      "unit": null,
+      "source": "Watershed Implementation Team (WIT) will participate in collaborative meetings. The purpose",
+      "_present": true
+    },
+    {
+      "id": "M21",
+      "metric": "of the meetings will be to identify partners, update the watershed plan, and host field days to",
+      "value": null,
+      "unit": null,
+      "source": "of the meetings will be to identify partners, update the watershed plan, and host field days to",
+      "_present": true
+    },
+    {
+      "id": "M22",
+      "metric": "showcase the implemented BMPs for the public.  In concert with these WIT meetings, and to",
+      "value": null,
+      "unit": null,
+      "source": "showcase the implemented BMPs for the public.  In concert with these WIT meetings, and to",
+      "_present": true
+    },
+    {
+      "id": "M23",
+      "metric": "incentivize stakeholder participation, project funding will be used to purchase food and other",
+      "value": null,
+      "unit": null,
+      "source": "incentivize stakeholder participation, project funding will be used to purchase food and other",
+      "_present": true
+    },
+    {
+      "id": "M24",
+      "metric": "refreshments for the WIT along with providing support for renting facilities in which to host",
+      "value": null,
+      "unit": null,
+      "source": "refreshments for the WIT along with providing support for renting facilities in which to host",
+      "_present": true
+    },
+    {
+      "id": "M25",
+      "metric": "those events. In accordance with 41 CFR § 301-74.11, light refreshments, meals, and/or",
+      "value": null,
+      "unit": null,
+      "source": "those events. In accordance with 41 CFR § 301-74.11, light refreshments, meals, and/or",
+      "_present": true
+    },
+    {
+      "id": "M26",
+      "metric": "beverages are an allowable expense under CWA Section 319, provided a description of the",
+      "value": null,
+      "unit": null,
+      "source": "beverages are an allowable expense under CWA Section 319, provided a description of the",
+      "_present": true
+    },
+    {
+      "id": "M27",
+      "metric": "agenda, purpose, location, costs, etc., are outlined in an approved 319 grant workplan. At this",
+      "value": null,
+      "unit": null,
+      "source": "agenda, purpose, location, costs, etc., are outlined in an approved 319 grant workplan. At this",
+      "_present": true
+    },
+    {
+      "id": "M28",
+      "metric": "time the exact number of participants and locations are not known therefore costs have been",
+      "value": null,
+      "unit": null,
+      "source": "time the exact number of participants and locations are not known therefore costs have been",
+      "_present": true
+    },
+    {
+      "id": "M29",
+      "metric": "estimated for the purposes of this plan and will be updated.",
+      "value": null,
+      "unit": null,
+      "source": "estimated for the purposes of this plan and will be updated.",
+      "_present": true
+    },
+    {
+      "id": "M30",
+      "metric": "Element f: Implementation Schedule",
+      "value": null,
+      "unit": null,
+      "source": "Element f: Implementation Schedule",
+      "_present": true
+    },
+    {
+      "id": "M31",
+      "metric": "The following schedule describes the approaches and tasks that will be undertaken with project",
+      "value": null,
+      "unit": null,
+      "source": "The following schedule describes the approaches and tasks that will be undertaken with project",
+      "_present": true
+    },
+    {
+      "id": "M32",
+      "metric": "partners to advance and implement this watershed-based plan. During this effort, resource",
+      "value": null,
+      "unit": null,
+      "source": "partners to advance and implement this watershed-based plan. During this effort, resource",
+      "_present": true
+    },
+    {
+      "id": "M33",
+      "metric": "agency partners will work with the Watershed Implementation Team and MDEQ Project",
+      "value": null,
+      "unit": null,
+      "source": "agency partners will work with the Watershed Implementation Team and MDEQ Project",
+      "_present": true
+    },
+    {
+      "id": "M34",
+      "metric": "Manager (where applicable), to perform the tasks identified below:",
+      "value": null,
+      "unit": null,
+      "source": "Manager (where applicable), to perform the tasks identified below:",
+      "_present": true
+    },
+    {
+      "id": "M35",
+      "metric": "1. Work to develop, execute, and implement a Subgrant Agreement that specifies the",
+      "value": null,
+      "unit": null,
+      "source": "1. Work to develop, execute, and implement a Subgrant Agreement that specifies the",
+      "_present": true
+    },
+    {
+      "id": "M36",
+      "metric": "roles, tasks, requirements, and milestones for project implementation. (Month 1)",
+      "value": null,
+      "unit": null,
+      "source": "roles, tasks, requirements, and milestones for project implementation. (Month 1)",
+      "_present": true
+    },
+    {
+      "id": "M37",
+      "metric": "2. Facilitate, in coordination with MDEQ and other partners, meetings, media and social",
+      "value": null,
+      "unit": null,
+      "source": "2. Facilitate, in coordination with MDEQ and other partners, meetings, media and social",
+      "_present": true
+    },
+    {
+      "id": "M38",
+      "metric": "media promotion of the project, and coordinate activities to fully implement this plan.",
+      "value": null,
+      "unit": null,
+      "source": "media promotion of the project, and coordinate activities to fully implement this plan.",
+      "_present": true
+    },
+    {
+      "id": "M39",
+      "metric": "(Months 1-36)",
+      "value": null,
+      "unit": null,
+      "source": "(Months 1-36)",
+      "_present": true
+    },
+    {
+      "id": "M40",
+      "metric": "3. Work with the Yazoo County SWCD, MSWCC, NRCS, and MDEQ to inform",
+      "value": null,
+      "unit": null,
+      "source": "3. Work with the Yazoo County SWCD, MSWCC, NRCS, and MDEQ to inform",
+      "_present": true
+    },
+    {
+      "id": "M41",
+      "metric": "landowners and operators within the watershed about the project and work to secure",
+      "value": null,
+      "unit": null,
+      "source": "landowners and operators within the watershed about the project and work to secure",
+      "_present": true
+    },
+    {
+      "id": "M42",
+      "metric": "commitments from priority area landowners and operators who are willing to",
+      "value": null,
+      "unit": null,
+      "source": "commitments from priority area landowners and operators who are willing to",
+      "_present": true
+    },
+    {
+      "id": "M43",
+      "metric": "participate in the project.  (Months 1-6)",
+      "value": null,
+      "unit": null,
+      "source": "participate in the project.  (Months 1-6)",
+      "_present": true
+    },
+    {
+      "id": "M44",
+      "metric": "4. Work with the local SWCD, MSWCC, NRCS, and MDEQ to determine through GIS",
+      "value": null,
+      "unit": null,
+      "source": "4. Work with the local SWCD, MSWCC, NRCS, and MDEQ to determine through GIS",
+      "_present": true
+    },
+    {
+      "id": "M45",
+      "metric": "applications and intensive site surveys the priority areas within the sub-watershed that",
+      "value": null,
+      "unit": null,
+      "source": "applications and intensive site surveys the priority areas within the sub-watershed that",
+      "_present": true
+    },
+    {
+      "id": "M46",
+      "metric": "are contributing significant pollutant loads.  All BMPs shall be installed in",
+      "value": null,
+      "unit": null,
+      "source": "are contributing significant pollutant loads.  All BMPs shall be installed in",
+      "_present": true
+    },
+    {
+      "id": "M47",
+      "metric": "Upper Piney Creek Watershed Plan GY2022",
+      "value": null,
+      "unit": null,
+      "source": "Upper Piney Creek Watershed Plan GY2022",
+      "_present": true
+    },
+    {
+      "id": "M48",
+      "metric": "9",
+      "value": null,
+      "unit": null,
+      "source": "9",
+      "_present": true
+    },
+    {
+      "id": "M49",
+      "metric": "accordance with the guidelines developed in the latest edition of the NRCS Technical",
+      "value": null,
+      "unit": null,
+      "source": "accordance with the guidelines developed in the latest edition of the NRCS Technical",
+      "_present": true
+    },
+    {
+      "id": "M50",
+      "metric": "Field Manual, or other approved guidelines.  (Months 1-36)",
+      "value": null,
+      "unit": null,
+      "source": "Field Manual, or other approved guidelines.  (Months 1-36)",
+      "_present": true
+    },
+    {
+      "id": "M51",
+      "metric": "5. Facilitate, in cooperation with MDEQ and other monitoring partners, the completion",
+      "value": null,
+      "unit": null,
+      "source": "5. Facilitate, in cooperation with MDEQ and other monitoring partners, the completion",
+      "_present": true
+    },
+    {
+      "id": "M52",
+      "metric": "and implementation of an effective and efficient plan to collect monitoring data and",
+      "value": null,
+      "unit": null,
+      "source": "and implementation of an effective and efficient plan to collect monitoring data and",
+      "_present": true
+    },
+    {
+      "id": "M53",
+      "metric": "information to measure changes in water quality resulting from the BMPs",
+      "value": null,
+      "unit": null,
+      "source": "information to measure changes in water quality resulting from the BMPs",
+      "_present": true
+    },
+    {
+      "id": "M54",
+      "metric": "implemented through this project.  Months 3-36",
+      "value": null,
+      "unit": null,
+      "source": "implemented through this project.  Months 3-36",
+      "_present": true
+    },
+    {
+      "id": "M55",
+      "metric": "6. Submit blank copies of standard maintenance agreements to MDEQ. (Months 3-36)",
+      "value": null,
+      "unit": null,
+      "source": "6. Submit blank copies of standard maintenance agreements to MDEQ. (Months 3-36)",
+      "_present": true
+    },
+    {
+      "id": "M56",
+      "metric": "7. Conduct inspections of BMPs during construction (Months 3-36)",
+      "value": null,
+      "unit": null,
+      "source": "7. Conduct inspections of BMPs during construction (Months 3-36)",
+      "_present": true
+    },
+    {
+      "id": "M57",
+      "metric": "8. Coordinate with and support the local SWCD, MSWCC and NRCS in the collection",
+      "value": null,
+      "unit": null,
+      "source": "8. Coordinate with and support the local SWCD, MSWCC and NRCS in the collection",
+      "_present": true
+    },
+    {
+      "id": "M58",
+      "metric": "of relevant GPS coordinates of all installed BMPs and incorporate this information",
+      "value": null,
+      "unit": null,
+      "source": "of relevant GPS coordinates of all installed BMPs and incorporate this information",
+      "_present": true
+    },
+    {
+      "id": "M59",
+      "metric": "into a GIS format.  All geospatial data shall be collected in a manner consistent with",
+      "value": null,
+      "unit": null,
+      "source": "into a GIS format.  All geospatial data shall be collected in a manner consistent with",
+      "_present": true
+    },
+    {
+      "id": "M60",
+      "metric": "the Federal Geographic Data committee-endorsed standards.  (Months 3-36)",
+      "value": null,
+      "unit": null,
+      "source": "the Federal Geographic Data committee-endorsed standards.  (Months 3-36)",
+      "_present": true
+    },
+    {
+      "id": "M61",
+      "metric": "9. Collect adequate photo documentation before, during, and after installation of the",
+      "value": null,
+      "unit": null,
+      "source": "9. Collect adequate photo documentation before, during, and after installation of the",
+      "_present": true
+    },
+    {
+      "id": "M62",
+      "metric": "approved BMPs. (Months 3-36)",
+      "value": null,
+      "unit": null,
+      "source": "approved BMPs. (Months 3-36)",
+      "_present": true
+    },
+    {
+      "id": "M63",
+      "metric": "10. Report measured, or estimated, nonpoint source pollutant load reduction, acreage",
+      "value": null,
+      "unit": null,
+      "source": "10. Report measured, or estimated, nonpoint source pollutant load reduction, acreage",
+      "_present": true
+    },
+    {
+      "id": "M64",
+      "metric": "affected, pre-and post- site conditions, and GIS data. (1-36)",
+      "value": null,
+      "unit": null,
+      "source": "affected, pre-and post- site conditions, and GIS data. (1-36)",
+      "_present": true
+    },
+    {
+      "id": "M65",
+      "metric": "Element g:  Milestones and Outcomes",
+      "value": null,
+      "unit": null,
+      "source": "Element g:  Milestones and Outcomes",
+      "_present": true
+    },
+    {
+      "id": "M66",
+      "metric": "Milestone Outcome Probable Completion",
+      "value": null,
+      "unit": null,
+      "source": "Milestone Outcome Probable Completion",
+      "_present": true
+    },
+    {
+      "id": "M67",
+      "metric": "Date",
+      "value": null,
+      "unit": null,
+      "source": "Date",
+      "_present": true
+    },
+    {
+      "id": "M68",
+      "metric": "Coordinate with the MDEQ, NRCS,",
+      "value": null,
+      "unit": null,
+      "source": "Coordinate with the MDEQ, NRCS,",
+      "_present": true
+    },
+    {
+      "id": "M69",
+      "metric": "MSWCC, and the Yazoo Co. Soil and",
+      "value": null,
+      "unit": null,
+      "source": "MSWCC, and the Yazoo Co. Soil and",
+      "_present": true
+    },
+    {
+      "id": "M70",
+      "metric": "Water Conservation District to",
+      "value": null,
+      "unit": null,
+      "source": "Water Conservation District to",
+      "_present": true
+    },
+    {
+      "id": "M71",
+      "metric": "determine priority areas that are",
+      "value": null,
+      "unit": null,
+      "source": "determine priority areas that are",
+      "_present": true
+    },
+    {
+      "id": "M72",
+      "metric": "contributing significant pollutant loads",
+      "value": null,
+      "unit": null,
+      "source": "contributing significant pollutant loads",
+      "_present": true
+    },
+    {
+      "id": "M73",
+      "metric": "to Upper Piney Creek",
+      "value": null,
+      "unit": null,
+      "source": "to Upper Piney Creek",
+      "_present": true
+    },
+    {
+      "id": "M74",
+      "metric": "Target priority areas",
+      "value": null,
+      "unit": null,
+      "source": "Target priority areas",
+      "_present": true
+    },
+    {
+      "id": "M75",
+      "metric": "for BMPs",
+      "value": null,
+      "unit": null,
+      "source": "for BMPs",
+      "_present": true
+    },
+    {
+      "id": "M76",
+      "metric": "Month 1-6",
+      "value": null,
+      "unit": null,
+      "source": "Month 1-6",
+      "_present": true
+    },
+    {
+      "id": "M77",
+      "metric": "Establish Watershed Implementation",
+      "value": null,
+      "unit": null,
+      "source": "Establish Watershed Implementation",
+      "_present": true
+    },
+    {
+      "id": "M78",
+      "metric": "Team.",
+      "value": null,
+      "unit": null,
+      "source": "Team.",
+      "_present": true
+    },
+    {
+      "id": "M79",
+      "metric": "Establish WIT",
+      "value": null,
+      "unit": null,
+      "source": "Establish WIT",
+      "_present": true
+    },
+    {
+      "id": "M80",
+      "metric": "Month 1-2",
+      "value": null,
+      "unit": null,
+      "source": "Month 1-2",
+      "_present": true
+    },
+    {
+      "id": "M81",
+      "metric": "Initiate watershed monitoring Baseline Condition",
+      "value": null,
+      "unit": null,
+      "source": "Initiate watershed monitoring Baseline Condition",
+      "_present": true
+    },
+    {
+      "id": "M82",
+      "metric": "Completed using historical",
+      "value": null,
+      "unit": null,
+      "source": "Completed using historical",
+      "_present": true
+    },
+    {
+      "id": "M83",
+      "metric": "data",
+      "value": null,
+      "unit": null,
+      "source": "data",
+      "_present": true
+    },
+    {
+      "id": "M84",
+      "metric": "Meet with landowners and cooperators",
+      "value": null,
+      "unit": null,
+      "source": "Meet with landowners and cooperators",
+      "_present": true
+    },
+    {
+      "id": "M85",
+      "metric": "to secure commitments to install BMPs",
+      "value": null,
+      "unit": null,
+      "source": "to secure commitments to install BMPs",
+      "_present": true
+    },
+    {
+      "id": "M86",
+      "metric": "in priority areas",
+      "value": null,
+      "unit": null,
+      "source": "in priority areas",
+      "_present": true
+    },
+    {
+      "id": "M87",
+      "metric": "Landowner",
+      "value": null,
+      "unit": null,
+      "source": "Landowner",
+      "_present": true
+    },
+    {
+      "id": "M88",
+      "metric": "Commitment",
+      "value": null,
+      "unit": null,
+      "source": "Commitment",
+      "_present": true
+    },
+    {
+      "id": "M89",
+      "metric": "Months 1-36",
+      "value": null,
+      "unit": null,
+      "source": "Months 1-36",
+      "_present": true
+    },
+    {
+      "id": "M90",
+      "metric": "Establish routine meeting schedule for",
+      "value": null,
+      "unit": null,
+      "source": "Establish routine meeting schedule for",
+      "_present": true
+    },
+    {
+      "id": "M91",
+      "metric": "WIT to support WBP revision",
+      "value": null,
+      "unit": null,
+      "source": "WIT to support WBP revision",
+      "_present": true
+    },
+    {
+      "id": "M92",
+      "metric": "WIT Meetings Months 1-36",
+      "value": null,
+      "unit": null,
+      "source": "WIT Meetings Months 1-36",
+      "_present": true
+    },
+    {
+      "id": "M93",
+      "metric": "Implement BMPs BMP Instillation Months 6-36",
+      "value": null,
+      "unit": null,
+      "source": "Implement BMPs BMP Instillation Months 6-36",
+      "_present": true
+    },
+    {
+      "id": "M94",
+      "metric": "Coordinate with Landowners to inspect",
+      "value": null,
+      "unit": null,
+      "source": "Coordinate with Landowners to inspect",
+      "_present": true
+    },
+    {
+      "id": "M95",
+      "metric": "BMPs that were installed using Section",
+      "value": null,
+      "unit": null,
+      "source": "BMPs that were installed using Section",
+      "_present": true
+    },
+    {
+      "id": "M96",
+      "metric": "319 funds",
+      "value": null,
+      "unit": null,
+      "source": "319 funds",
+      "_present": true
+    },
+    {
+      "id": "M97",
+      "metric": "BMP Inspection Months 6-36",
+      "value": null,
+      "unit": null,
+      "source": "BMP Inspection Months 6-36",
+      "_present": true
+    },
+    {
+      "id": "M98",
+      "metric": "Upper Piney Creek Watershed Plan GY2022",
+      "value": null,
+      "unit": null,
+      "source": "Upper Piney Creek Watershed Plan GY2022",
+      "_present": true
+    },
+    {
+      "id": "M99",
+      "metric": "10",
+      "value": null,
+      "unit": null,
+      "source": "10",
+      "_present": true
+    },
+    {
+      "id": "M100",
+      "metric": "Begin monitoring to collect data on",
+      "value": null,
+      "unit": null,
+      "source": "Begin monitoring to collect data on",
+      "_present": true
+    },
+    {
+      "id": "M101",
+      "metric": "post-BMP water quality",
+      "value": null,
+      "unit": null,
+      "source": "post-BMP water quality",
+      "_present": true
+    },
+    {
+      "id": "M102",
+      "metric": "Post-BMP Monitoring  Months 40-48",
+      "value": null,
+      "unit": null,
+      "source": "Post-BMP Monitoring  Months 40-48",
+      "_present": true
+    },
+    {
+      "id": "M103",
+      "metric": "Implement education and outreach plan   Education/Outreach",
+      "value": null,
+      "unit": null,
+      "source": "Implement education and outreach plan   Education/Outreach",
+      "_present": true
+    },
+    {
+      "id": "M104",
+      "metric": "events scheduled",
+      "value": null,
+      "unit": null,
+      "source": "events scheduled",
+      "_present": true
+    },
+    {
+      "id": "M105",
+      "metric": "Months 8-36",
+      "value": null,
+      "unit": null,
+      "source": "Months 8-36",
+      "_present": true
+    },
+    {
+      "id": "M106",
+      "metric": "Finalize revised WBP Final Revised WBP Months 30-36",
+      "value": null,
+      "unit": null,
+      "source": "Finalize revised WBP Final Revised WBP Months 30-36",
+      "_present": true
+    },
+    {
+      "id": "M107",
+      "metric": "Goal: Reduce pathogen and sediment loads entering waters in the Upper Piney Creek Watershed.",
+      "value": null,
+      "unit": null,
+      "source": "Goal: Reduce pathogen and sediment loads entering waters in the Upper Piney Creek Watershed.",
+      "_present": true
+    },
+    {
+      "id": "M108",
+      "metric": "Element h:  Load Reduction Evaluation",
+      "value": null,
+      "unit": null,
+      "source": "Element h:  Load Reduction Evaluation",
+      "_present": true
+    },
+    {
+      "id": "M109",
+      "metric": "According to the State of Mississippi Water Quality Criteria for Intrastate, Interstate, and",
+      "value": null,
+      "unit": null,
+      "source": "According to the State of Mississippi Water Quality Criteria for Intrastate, Interstate, and",
+      "_present": true
+    },
+    {
+      "id": "M110",
+      "metric": "Coastal Waters (MDEQ, 2021), waters in the Upper Piney Creek Watershed are classified for",
+      "value": null,
+      "unit": null,
+      "source": "Coastal Waters (MDEQ, 2021), waters in the Upper Piney Creek Watershed are classified for",
+      "_present": true
+    },
+    {
+      "id": "M111",
+      "metric": "Fish and Wildlife Use.  As such, waters in this classification must meet the aquatic life",
+      "value": null,
+      "unit": null,
+      "source": "Fish and Wildlife Use.  As such, waters in this classification must meet the aquatic life",
+      "_present": true
+    },
+    {
+      "id": "M112",
+      "metric": "designated use and the secondary contact recreation designated use.  Although the TMDL was",
+      "value": null,
+      "unit": null,
+      "source": "designated use and the secondary contact recreation designated use.  Although the TMDL was",
+      "_present": true
+    },
+    {
+      "id": "M113",
+      "metric": "developed using fecal coliform as the indicator for pathogens, in 2015, MDEQ updated the water",
+      "value": null,
+      "unit": null,
+      "source": "developed using fecal coliform as the indicator for pathogens, in 2015, MDEQ updated the water",
+      "_present": true
+    },
+    {
+      "id": "M114",
+      "metric": "quality criteria for recreational waters.  With this update, the pathogen indicator was changed",
+      "value": null,
+      "unit": null,
+      "source": "quality criteria for recreational waters.  With this update, the pathogen indicator was changed",
+      "_present": true
+    },
+    {
+      "id": "M115",
+      "metric": "from fecal coliform to e.coli.  In compliance with the current water quality criteria, e. coli will be",
+      "value": null,
+      "unit": null,
+      "source": "from fecal coliform to e.coli.  In compliance with the current water quality criteria, e. coli will be",
+      "_present": true
+    },
+    {
+      "id": "M116",
+      "metric": "used as the pathogen indicator for all bacteriological monitoring.",
+      "value": null,
+      "unit": null,
+      "source": "used as the pathogen indicator for all bacteriological monitoring.",
+      "_present": true
+    },
+    {
+      "id": "M117",
+      "metric": "Mississippi’s water quality criteria do not include a water quality standard applicable to aquatic",
+      "value": null,
+      "unit": null,
+      "source": "Mississippi’s water quality criteria do not include a water quality standard applicable to aquatic",
+      "_present": true
+    },
+    {
+      "id": "M118",
+      "metric": "life protection due to sediment. However, a narrative standard for the protection of aquatic life",
+      "value": null,
+      "unit": null,
+      "source": "life protection due to sediment. However, a narrative standard for the protection of aquatic life",
+      "_present": true
+    },
+    {
+      "id": "M119",
+      "metric": "was interpreted to determine an applicable target for the sediment TMDL.  The narrative",
+      "value": null,
+      "unit": null,
+      "source": "was interpreted to determine an applicable target for the sediment TMDL.  The narrative",
+      "_present": true
+    },
+    {
+      "id": "M120",
+      "metric": "standard is that waters shall be free from materials attributable to municipal, industrial,",
+      "value": null,
+      "unit": null,
+      "source": "standard is that waters shall be free from materials attributable to municipal, industrial,",
+      "_present": true
+    },
+    {
+      "id": "M121",
+      "metric": "agricultural, or other dischargers producing color, odor, taste, total suspended solids, or other",
+      "value": null,
+      "unit": null,
+      "source": "agricultural, or other dischargers producing color, odor, taste, total suspended solids, or other",
+      "_present": true
+    },
+    {
+      "id": "M122",
+      "metric": "conditions in such degree as to create a nuisance, render the waters injurious to public health,",
+      "value": null,
+      "unit": null,
+      "source": "conditions in such degree as to create a nuisance, render the waters injurious to public health,",
+      "_present": true
+    },
+    {
+      "id": "M123",
+      "metric": "recreation, or to aquatic life and wildlife, or adversely affect the palatability of fish, aesthetic",
+      "value": null,
+      "unit": null,
+      "source": "recreation, or to aquatic life and wildlife, or adversely affect the palatability of fish, aesthetic",
+      "_present": true
+    },
+    {
+      "id": "M124",
+      "metric": "quality, or impair the waters for any designated uses.  In lieu of numeric criteria for sediment,",
+      "value": null,
+      "unit": null,
+      "source": "quality, or impair the waters for any designated uses.  In lieu of numeric criteria for sediment,",
+      "_present": true
+    },
+    {
+      "id": "M125",
+      "metric": "monitoring will be conducted to collect data on parameters that are considered surrogates for",
+      "value": null,
+      "unit": null,
+      "source": "monitoring will be conducted to collect data on parameters that are considered surrogates for",
+      "_present": true
+    },
+    {
+      "id": "M126",
+      "metric": "sediment (Total Suspended Solids, Total Suspended Sediment, turbidity) and nutrients",
+      "value": null,
+      "unit": null,
+      "source": "sediment (Total Suspended Solids, Total Suspended Sediment, turbidity) and nutrients",
+      "_present": true
+    },
+    {
+      "id": "M127",
+      "metric": "(chlorophyll-a) along with conventional in-situ parameters generally measured to determine",
+      "value": null,
+      "unit": null,
+      "source": "(chlorophyll-a) along with conventional in-situ parameters generally measured to determine",
+      "_present": true
+    },
+    {
+      "id": "M128",
+      "metric": "aquatic health (e.g. Dissolved Oxygen, pH, Temperature, Conductivity, Dissolved Solids) will",
+      "value": null,
+      "unit": null,
+      "source": "aquatic health (e.g. Dissolved Oxygen, pH, Temperature, Conductivity, Dissolved Solids) will",
+      "_present": true
+    },
+    {
+      "id": "M129",
+      "metric": "also be obtained. In addition, e. coli monitoring will be conducted. The following thresholds will",
+      "value": null,
+      "unit": null,
+      "source": "also be obtained. In addition, e. coli monitoring will be conducted. The following thresholds will",
+      "_present": true
+    },
+    {
+      "id": "M130",
+      "metric": "be used to measure compliance applicable with water quality criteria and/or target thresholds:",
+      "value": null,
+      "unit": null,
+      "source": "be used to measure compliance applicable with water quality criteria and/or target thresholds:",
+      "_present": true
+    },
+    {
+      "id": "M131",
+      "metric": "Success Measurement Thresholds:",
+      "value": null,
+      "unit": null,
+      "source": "Success Measurement Thresholds:",
+      "_present": true
+    },
+    {
+      "id": "M132",
+      "metric": "Parameter Threshold",
+      "value": null,
+      "unit": null,
+      "source": "Parameter Threshold",
+      "_present": true
+    },
+    {
+      "id": "M133",
+      "metric": "Dissolved Oxygen",
+      "value": null,
+      "unit": null,
+      "source": "Dissolved Oxygen",
+      "_present": true
+    },
+    {
+      "id": "M134",
+      "metric": "Daily Average of 5.0 mg/L; Instantaneous threshold of 4.0",
+      "value": null,
+      "unit": null,
+      "source": "Daily Average of 5.0 mg/L; Instantaneous threshold of 4.0",
+      "_present": true
+    },
+    {
+      "id": "M135",
+      "metric": "mg/L",
+      "value": null,
+      "unit": null,
+      "source": "mg/L",
+      "_present": true
+    },
+    {
+      "id": "M136",
+      "metric": "Dissolved Oxygen % Sat. > 70% - < 125%",
+      "value": null,
+      "unit": null,
+      "source": "Dissolved Oxygen % Sat. > 70% - < 125%",
+      "_present": true
+    },
+    {
+      "id": "M137",
+      "metric": "pH 6.0-9.0",
+      "value": null,
+      "unit": null,
+      "source": "pH 6.0-9.0",
+      "_present": true
+    },
+    {
+      "id": "M138",
+      "metric": "Temperature Not to exceed 90°F",
+      "value": null,
+      "unit": null,
+      "source": "Temperature Not to exceed 90°F",
+      "_present": true
+    },
+    {
+      "id": "M139",
+      "metric": "Specific Conductance Less Than 1000 micromhos/cm",
+      "value": null,
+      "unit": null,
+      "source": "Specific Conductance Less Than 1000 micromhos/cm",
+      "_present": true
+    },
+    {
+      "id": "M140",
+      "metric": "Dissolved Solids",
+      "value": null,
+      "unit": null,
+      "source": "Dissolved Solids",
+      "_present": true
+    },
+    {
+      "id": "M141",
+      "metric": "Monthly average less than 750 mg/L; instantaneous threshold",
+      "value": null,
+      "unit": null,
+      "source": "Monthly average less than 750 mg/L; instantaneous threshold",
+      "_present": true
+    },
+    {
+      "id": "M142",
+      "metric": "less than 1500 mg/L",
+      "value": null,
+      "unit": null,
+      "source": "less than 1500 mg/L",
+      "_present": true
+    },
+    {
+      "id": "M143",
+      "metric": "Chemical Oxygen Demand <50 mg/l",
+      "value": null,
+      "unit": null,
+      "source": "Chemical Oxygen Demand <50 mg/l",
+      "_present": true
+    },
+    {
+      "id": "M144",
+      "metric": "Upper Piney Creek Watershed Plan GY2022",
+      "value": null,
+      "unit": null,
+      "source": "Upper Piney Creek Watershed Plan GY2022",
+      "_present": true
+    },
+    {
+      "id": "M145",
+      "metric": "11",
+      "value": null,
+      "unit": null,
+      "source": "11",
+      "_present": true
+    },
+    {
+      "id": "M146",
+      "metric": "Turbidity <100 NTU",
+      "value": null,
+      "unit": null,
+      "source": "Turbidity <100 NTU",
+      "_present": true
+    },
+    {
+      "id": "M147",
+      "metric": "Total Suspended Solids <80 mg/l",
+      "value": null,
+      "unit": null,
+      "source": "Total Suspended Solids <80 mg/l",
+      "_present": true
+    },
+    {
+      "id": "M148",
+      "metric": "E. coli",
+      "value": null,
+      "unit": null,
+      "source": "E. coli",
+      "_present": true
+    },
+    {
+      "id": "M149",
+      "metric": "30-day geometric mean of 126 per 100 ml; samples during 30-",
+      "value": null,
+      "unit": null,
+      "source": "30-day geometric mean of 126 per 100 ml; samples during 30-",
+      "_present": true
+    },
+    {
+      "id": "M150",
+      "metric": "day period should not exceed 410 per 100 ml more than 10%",
+      "value": null,
+      "unit": null,
+      "source": "day period should not exceed 410 per 100 ml more than 10%",
+      "_present": true
+    },
+    {
+      "id": "M151",
+      "metric": "of the time",
+      "value": null,
+      "unit": null,
+      "source": "of the time",
+      "_present": true
+    },
+    {
+      "id": "M152",
+      "metric": "M-BISQ South Bluff",
+      "value": null,
+      "unit": null,
+      "source": "M-BISQ South Bluff",
+      "_present": true
+    },
+    {
+      "id": "M153",
+      "metric": "Bioregion",
+      "value": null,
+      "unit": null,
+      "source": "Bioregion",
+      "_present": true
+    },
+    {
+      "id": "M154",
+      "metric": "Assessment threshold 55.7 (25th percentile of reference",
+      "value": null,
+      "unit": null,
+      "source": "Assessment threshold 55.7 (25th percentile of reference",
+      "_present": true
+    },
+    {
+      "id": "M155",
+      "metric": "condition)",
+      "value": null,
+      "unit": null,
+      "source": "condition)",
+      "_present": true
+    },
+    {
+      "id": "M156",
+      "metric": "In addition to chemical data, biological community data and in stream habitat surveys will be",
+      "value": null,
+      "unit": null,
+      "source": "In addition to chemical data, biological community data and in stream habitat surveys will be",
+      "_present": true
+    },
+    {
+      "id": "M157",
+      "metric": "collected over the course of the project to determine attainment of the Aquatic Life Designated",
+      "value": null,
+      "unit": null,
+      "source": "collected over the course of the project to determine attainment of the Aquatic Life Designated",
+      "_present": true
+    },
+    {
+      "id": "M158",
+      "metric": "Use.  These data are extremely helpful in identifying positive trends in water quality and should",
+      "value": null,
+      "unit": null,
+      "source": "Use.  These data are extremely helpful in identifying positive trends in water quality and should",
+      "_present": true
+    },
+    {
+      "id": "M159",
+      "metric": "provide information to help determine if the implementation activities are resulting in water",
+      "value": null,
+      "unit": null,
+      "source": "provide information to help determine if the implementation activities are resulting in water",
+      "_present": true
+    },
+    {
+      "id": "M160",
+      "metric": "quality improvements.  Mississippi uses a calibrated and verified index of biotic integrity to",
+      "value": null,
+      "unit": null,
+      "source": "quality improvements.  Mississippi uses a calibrated and verified index of biotic integrity to",
+      "_present": true
+    },
+    {
+      "id": "M161",
+      "metric": "make water quality assessment decisions.  This index, the Mississippi Benthic Index of Stream",
+      "value": null,
+      "unit": null,
+      "source": "make water quality assessment decisions.  This index, the Mississippi Benthic Index of Stream",
+      "_present": true
+    },
+    {
+      "id": "M162",
+      "metric": "Quality (M-BISQ), was originally developed in 2000 and has undergone three recalibration",
+      "value": null,
+      "unit": null,
+      "source": "Quality (M-BISQ), was originally developed in 2000 and has undergone three recalibration",
+      "_present": true
+    },
+    {
+      "id": "M163",
+      "metric": "efforts to refine the sensitivity of the index.  As part of the index development process, the state",
+      "value": null,
+      "unit": null,
+      "source": "efforts to refine the sensitivity of the index.  As part of the index development process, the state",
+      "_present": true
+    },
+    {
+      "id": "M164",
+      "metric": "was divided into unique bioregions.  Within each bioregion, the index has a defined attainment",
+      "value": null,
+      "unit": null,
+      "source": "was divided into unique bioregions.  Within each bioregion, the index has a defined attainment",
+      "_present": true
+    },
+    {
+      "id": "M165",
+      "metric": "threshold that is used to determine if the biological community measures collected at a site are",
+      "value": null,
+      "unit": null,
+      "source": "threshold that is used to determine if the biological community measures collected at a site are",
+      "_present": true
+    },
+    {
+      "id": "M166",
+      "metric": "representative of good water quality that can support a balanced benthic macroinvertebrate",
+      "value": null,
+      "unit": null,
+      "source": "representative of good water quality that can support a balanced benthic macroinvertebrate",
+      "_present": true
+    },
+    {
+      "id": "M167",
+      "metric": "community.  If the score is above the attainment threshold for the bioregion, the site is assessed",
+      "value": null,
+      "unit": null,
+      "source": "community.  If the score is above the attainment threshold for the bioregion, the site is assessed",
+      "_present": true
+    },
+    {
+      "id": "M168",
+      "metric": "as attaining the aquatic life use designation.  Piney Creek is in the South Bluff bioregion and the",
+      "value": null,
+      "unit": null,
+      "source": "as attaining the aquatic life use designation.  Piney Creek is in the South Bluff bioregion and the",
+      "_present": true
+    },
+    {
+      "id": "M169",
+      "metric": "attainment threshold is 55.7.  Along with overall MBISQ scores, the in-stream habitat surveys",
+      "value": null,
+      "unit": null,
+      "source": "attainment threshold is 55.7.  Along with overall MBISQ scores, the in-stream habitat surveys",
+      "_present": true
+    },
+    {
+      "id": "M170",
+      "metric": "will also be used to determine change over time.",
+      "value": null,
+      "unit": null,
+      "source": "will also be used to determine change over time.",
+      "_present": true
+    },
+    {
+      "id": "M171",
+      "metric": "It should be noted that recovery time of a stream is variable and may extend beyond the",
+      "value": null,
+      "unit": null,
+      "source": "It should be noted that recovery time of a stream is variable and may extend beyond the",
+      "_present": true
+    },
+    {
+      "id": "M172",
+      "metric": "timeframe identified in the workplan.  At the end of the project, data will be analyzed to",
+      "value": null,
+      "unit": null,
+      "source": "timeframe identified in the workplan.  At the end of the project, data will be analyzed to",
+      "_present": true
+    },
+    {
+      "id": "M173",
+      "metric": "determine if the data indicate improvements to water quality in Piney Creek.  In the event data",
+      "value": null,
+      "unit": null,
+      "source": "determine if the data indicate improvements to water quality in Piney Creek.  In the event data",
+      "_present": true
+    },
+    {
+      "id": "M174",
+      "metric": "indicate little or no positive change, a Stressor Analysis will be conducted to determine if any",
+      "value": null,
+      "unit": null,
+      "source": "indicate little or no positive change, a Stressor Analysis will be conducted to determine if any",
+      "_present": true
+    },
+    {
+      "id": "M175",
+      "metric": "new or additional stressors are preventing improvements to water quality.  If any new stressors",
+      "value": null,
+      "unit": null,
+      "source": "new or additional stressors are preventing improvements to water quality.  If any new stressors",
+      "_present": true
+    },
+    {
+      "id": "M176",
+      "metric": "are identified, the Watershed Implementation Team will identify future actions/activities to",
+      "value": null,
+      "unit": null,
+      "source": "are identified, the Watershed Implementation Team will identify future actions/activities to",
+      "_present": true
+    },
+    {
+      "id": "M177",
+      "metric": "address those stressors.",
+      "value": null,
+      "unit": null,
+      "source": "address those stressors.",
+      "_present": true
+    },
+    {
+      "id": "M178",
+      "metric": "Element i: Monitoring",
+      "value": null,
+      "unit": null,
+      "source": "Element i: Monitoring",
+      "_present": true
+    },
+    {
+      "id": "M179",
+      "metric": "Prior to BMP installation, pre-implementation water quality chemical and biological monitoring",
+      "value": null,
+      "unit": null,
+      "source": "Prior to BMP installation, pre-implementation water quality chemical and biological monitoring",
+      "_present": true
+    },
+    {
+      "id": "M180",
+      "metric": "was collected in 2022 to serve as baseline data for the project. Water quality monitoring included",
+      "value": null,
+      "unit": null,
+      "source": "was collected in 2022 to serve as baseline data for the project. Water quality monitoring included",
+      "_present": true
+    },
+    {
+      "id": "M181",
+      "metric": "water chemistry data (nutrients, suspended solids, oxygen demand, chlorides, etc.), in-situ field",
+      "value": null,
+      "unit": null,
+      "source": "water chemistry data (nutrients, suspended solids, oxygen demand, chlorides, etc.), in-situ field",
+      "_present": true
+    },
+    {
+      "id": "M182",
+      "metric": "measurements for such parameters as dissolved oxygen, pH, temperature, specific conductance,",
+      "value": null,
+      "unit": null,
+      "source": "measurements for such parameters as dissolved oxygen, pH, temperature, specific conductance,",
+      "_present": true
+    },
+    {
+      "id": "M183",
+      "metric": "and turbidity, as well as biological community monitoring for benthic macroinvertebrates.  A list",
+      "value": null,
+      "unit": null,
+      "source": "and turbidity, as well as biological community monitoring for benthic macroinvertebrates.  A list",
+      "_present": true
+    },
+    {
+      "id": "M184",
+      "metric": "of this historical water quality monitoring in the Upper Piney Creek Watershed is provided in the",
+      "value": null,
+      "unit": null,
+      "source": "of this historical water quality monitoring in the Upper Piney Creek Watershed is provided in the",
+      "_present": true
+    },
+    {
+      "id": "M185",
+      "metric": "table below and their sample locations are shown in Figure 2.",
+      "value": null,
+      "unit": null,
+      "source": "table below and their sample locations are shown in Figure 2.",
+      "_present": true
+    },
+    {
+      "id": "M186",
+      "metric": "Upper Piney Creek Watershed Plan GY2022",
+      "value": null,
+      "unit": null,
+      "source": "Upper Piney Creek Watershed Plan GY2022",
+      "_present": true
+    },
+    {
+      "id": "M187",
+      "metric": "12",
+      "value": null,
+      "unit": null,
+      "source": "12",
+      "_present": true
+    },
+    {
+      "id": "M188",
+      "metric": "Station",
+      "value": null,
+      "unit": null,
+      "source": "Station",
+      "_present": true
+    },
+    {
+      "id": "M189",
+      "metric": "ID",
+      "value": null,
+      "unit": null,
+      "source": "ID",
+      "_present": true
+    },
+    {
+      "id": "M190",
+      "metric": "Water",
+      "value": null,
+      "unit": null,
+      "source": "Water",
+      "_present": true
+    },
+    {
+      "id": "M191",
+      "metric": "Sample",
+      "value": null,
+      "unit": null,
+      "source": "Sample",
+      "_present": true
+    },
+    {
+      "id": "M192",
+      "metric": "Year(s)",
+      "value": null,
+      "unit": null,
+      "source": "Year(s)",
+      "_present": true
+    },
+    {
+      "id": "M193",
+      "metric": "Collecting",
+      "value": null,
+      "unit": null,
+      "source": "Collecting",
+      "_present": true
+    },
+    {
+      "id": "M194",
+      "metric": "Agency",
+      "value": null,
+      "unit": null,
+      "source": "Agency",
+      "_present": true
+    },
+    {
+      "id": "M195",
+      "metric": "Project",
+      "value": null,
+      "unit": null,
+      "source": "Project",
+      "_present": true
+    },
+    {
+      "id": "M196",
+      "metric": "Water",
+      "value": null,
+      "unit": null,
+      "source": "Water",
+      "_present": true
+    },
+    {
+      "id": "M197",
+      "metric": "Chem",
+      "value": null,
+      "unit": null,
+      "source": "Chem",
+      "_present": true
+    },
+    {
+      "id": "M198",
+      "metric": "In-",
+      "value": null,
+      "unit": null,
+      "source": "In-",
+      "_present": true
+    },
+    {
+      "id": "M199",
+      "metric": "Situ",
+      "value": null,
+      "unit": null,
+      "source": "Situ",
+      "_present": true
+    },
+    {
+      "id": "M200",
+      "metric": "Sonde Benthics",
+      "value": null,
+      "unit": null,
+      "source": "Sonde Benthics",
+      "_present": true
+    },
+    {
+      "id": "M201",
+      "metric": "Body",
+      "value": null,
+      "unit": null,
+      "source": "Body",
+      "_present": true
+    },
+    {
+      "id": "M202",
+      "metric": "111F65",
+      "value": null,
+      "unit": null,
+      "source": "111F65",
+      "_present": true
+    },
+    {
+      "id": "M203",
+      "metric": "Piney",
+      "value": null,
+      "unit": null,
+      "source": "Piney",
+      "_present": true
+    },
+    {
+      "id": "M204",
+      "metric": "Creek",
+      "value": null,
+      "unit": null,
+      "source": "Creek",
+      "_present": true
+    },
+    {
+      "id": "M205",
+      "metric": "2022   MDEQ    M-BISQ    X     X",
+      "value": null,
+      "unit": null,
+      "source": "2022   MDEQ    M-BISQ    X     X",
+      "_present": true
+    },
+    {
+      "id": "M206",
+      "metric": "X",
+      "value": null,
+      "unit": null,
+      "source": "X",
+      "_present": true
+    },
+    {
+      "id": "M207",
+      "metric": "Post-BMP monitoring locations will be selected using best professional judgment and will be",
+      "value": null,
+      "unit": null,
+      "source": "Post-BMP monitoring locations will be selected using best professional judgment and will be",
+      "_present": true
+    },
+    {
+      "id": "M208",
+      "metric": "targeted to reflect water quality downstream of BMP activity. Once BMP installation is",
+      "value": null,
+      "unit": null,
+      "source": "targeted to reflect water quality downstream of BMP activity. Once BMP installation is",
+      "_present": true
+    },
+    {
+      "id": "M209",
+      "metric": "complete, and there has been sufficient time for the stream to stabilize, post BMP monitoring",
+      "value": null,
+      "unit": null,
+      "source": "complete, and there has been sufficient time for the stream to stabilize, post BMP monitoring",
+      "_present": true
+    },
+    {
+      "id": "M210",
+      "metric": "will be initiated.  Post BMP monitoring will be conducted in a way that allows for comparison",
+      "value": null,
+      "unit": null,
+      "source": "will be initiated.  Post BMP monitoring will be conducted in a way that allows for comparison",
+      "_present": true
+    },
+    {
+      "id": "M211",
+      "metric": "with the pre-implementation data.  Because recovery periods of streams can be dependent on",
+      "value": null,
+      "unit": null,
+      "source": "with the pre-implementation data.  Because recovery periods of streams can be dependent on",
+      "_present": true
+    },
+    {
+      "id": "M212",
+      "metric": "type and amount of BMPs installed, more than 1 year of post BMP data may be needed to",
+      "value": null,
+      "unit": null,
+      "source": "type and amount of BMPs installed, more than 1 year of post BMP data may be needed to",
+      "_present": true
+    },
+    {
+      "id": "M213",
+      "metric": "observe a change in water quality.  In some cases, it may take 5 or more years to see full benefits",
+      "value": null,
+      "unit": null,
+      "source": "observe a change in water quality.  In some cases, it may take 5 or more years to see full benefits",
+      "_present": true
+    },
+    {
+      "id": "M214",
+      "metric": "of BMPs. All data collection efforts will be conducted using trained personnel following",
+      "value": null,
+      "unit": null,
+      "source": "of BMPs. All data collection efforts will be conducted using trained personnel following",
+      "_present": true
+    },
+    {
+      "id": "M215",
+      "metric": "established Standard Operating Procedures and adhering to agency Quality Assurance protocols.",
+      "value": null,
+      "unit": null,
+      "source": "established Standard Operating Procedures and adhering to agency Quality Assurance protocols.",
+      "_present": true
+    }
+  ],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-06T00:23:40.321Z",
+  "metadata": {
+    "sourceId": "upper-piney-creek-9-key-element-plan-2022",
+    "sourceFile": "upper-piney-creek-9-key-element-plan-2022.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "adaptive_generic_costs",
+        "title": "85 ea.$1,068,330",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2874662
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "400 ac$30,800",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1806332
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "20,000 Inft$80,000",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 2354213
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Total Estimated Cost$1,554,211",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 2274213
+      },
+      {
+        "id": "phase1_bmps",
+        "title": "BMPsAmount   Estimated Cost",
+        "confidence": 0.9,
+        "totalReported": null,
+        "totalComputed": 310771
+      },
+      {
+        "id": "phase1_bmps_format",
+        "title": "Phase 1 Implementation BMPs",
+        "confidence": 0.8,
+        "totalReported": null,
+        "totalComputed": 310771
+      }
+    ],
+    "originalName": "Upper_Piney_Creek_9_Key_Element_Plan_2022.pdf",
+    "presence": {
+      "goals": 0,
+      "bmps": 25,
+      "implementation": 0,
+      "monitoring": 215,
+      "outreach": 0
+    }
+  }
+}

@@ -1,0 +1,5089 @@
+{
+  "id": "pickwick-reservoir-watershed-plan-2009",
+  "summary": {
+    "totalGoals": 7,
+    "totalBMPs": 24,
+    "totalActivities": 0,
+    "primaryGoals": 1,
+    "completionRate": 0,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 7,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "General": 24
+    },
+    "avgGoalConfidence": 0.025714285714285717,
+    "strongGoals": 0
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "In the Indian Creek watershed, a The long-term goal of those creating the Pickwick Reservoir watershed plan is to develop a mechanism biological communities typical of this region.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "In the Indian Creek watershed, a The long-term goal of those creating the Pickwick Reservoir watershed plan is to develop a mechanism biological communities typical of this region.",
+      "confidence": 0,
+      "fullParagraph": "address the causes of impairments, delisting being the project goal. In the Indian Creek watershed, a The long-term goal of those creating the Pickwick Reservoir watershed plan is to develop a mechanism biological communities typical of this region. This goal will likely take many years to achieve; direct activities toward this long-term goal. sediment loading in Bear Creek is neither feasible nor practical, so the goal of this project is to realize a reaching this goal. As the project is implemented, monitoring of conditions in the stream may indicate Estimates of reduction will be determined based on these measurements. The project goal will be to",
+      "description": "the goal of this project is to realize a reaching this goal. As the project is implemented, monitoring of conditions in the stream may indicate Estimates of reduction will be determined based on these measurements. The project goal will be to",
+      "originalSentence": "In the Indian Creek watershed, a The long-term goal of those creating the Pickwick Reservoir watershed plan is to develop a mechanism biological communities typical of this region.",
+      "shortTitle": "In the Indian Creek watershed, a The long-term goal of those creating the Pickwick…"
+    },
+    {
+      "id": "G2",
+      "title": "sediment loading in Bear Creek is neither feasible nor practical, so the goal of this project is to realize a reaching this goal.",
+      "status": "planned",
+      "pollutant": "sediment",
+      "parameter": "sediment",
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "sediment loading in Bear Creek is neither feasible nor practical, so the goal of this project is to realize a reaching this goal.",
+      "confidence": 0.18000000000000002,
+      "isPrimary": true,
+      "primaryReason": "top_scoring",
+      "fullParagraph": "sediment loading in Bear Creek is neither feasible nor practical, so the goal of this project is to realize a reaching this goal. As the project is implemented, monitoring of conditions in the stream may indicate Estimates of reduction will be determined based on these measurements. The project goal will be to",
+      "description": "sediment loading in Bear Creek is neither feasible nor practical, so the goal of this project is to realize a reaching this goal. As the project is implemented, monitoring of conditions in the stream may indicate Estimates of reduction will be determined based on these measurements. The project goal will be to",
+      "originalSentence": "sediment loading in Bear Creek is neither feasible nor practical, so the goal of this project is to realize a reaching this goal.",
+      "shortTitle": "sediment loading in Bear Creek is neither feasible nor practical, so the goal of this project is to realize a reaching this goal."
+    },
+    {
+      "id": "G3",
+      "title": "reaching this goal. As the project is implemented, monitoring of conditions in the stream may indicate",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "reaching this goal.  As the project is implemented, monitoring of conditions in the stream may indicate",
+      "confidence": 0,
+      "description": "reaching this goal. As the project is implemented, monitoring of conditions in the stream may indicate",
+      "originalSentence": "reaching this goal. As the project is implemented, monitoring of conditions in the stream may indicate",
+      "shortTitle": "reaching this goal. As the project is implemented, monitoring of conditions in the stream may indicate"
+    },
+    {
+      "id": "G4",
+      "title": "address the causes of impairments, delisting being the project goal. In the Indian Creek watershed, a",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "address the causes of impairments, delisting being the project goal.  In the Indian Creek watershed, a",
+      "confidence": 0,
+      "fullParagraph": "address the causes of impairments, delisting being the project goal. In the Indian Creek watershed, a The long-term goal of those creating the Pickwick Reservoir watershed plan is to develop a mechanism biological communities typical of this region. This goal will likely take many years to achieve; direct activities toward this long-term goal. sediment loading in Bear Creek is neither feasible nor practical, so the goal of this project is to realize a reaching this goal. As the project is implemented, monitoring of conditions in the stream may indicate Estimates of reduction will be determined based on these measurements. The project goal will be to",
+      "description": "the goal of this project is to realize a reaching this goal. As the project is implemented, monitoring of conditions in the stream may indicate Estimates of reduction will be determined based on these measurements. The project goal will be to",
+      "originalSentence": "address the causes of impairments, delisting being the project goal. In the Indian Creek watershed, a",
+      "shortTitle": "address the causes of impairments, delisting being the project goal. In the Indian Creek watershed, a"
+    },
+    {
+      "id": "G5",
+      "title": "Estimates of reduction will be determined based on these measurements. The project goal will be to",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "Estimates of reduction will be determined based on these measurements.  The project goal will be to",
+      "confidence": 0,
+      "description": "Estimates of reduction will be determined based on these measurements. The project goal will be to",
+      "originalSentence": "Estimates of reduction will be determined based on these measurements. The project goal will be to",
+      "shortTitle": "Estimates of reduction will be determined based on these measurements. The project goal will be to"
+    },
+    {
+      "id": "G6",
+      "title": "biological communities typical of this region. This goal will likely take many years to achieve;",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "biological communities typical of this region.  This goal will likely take many years to achieve;",
+      "confidence": 0,
+      "fullParagraph": "biological communities typical of this region. This goal will likely take many years to achieve; direct activities toward this long-term goal. sediment loading in Bear Creek is neither feasible nor practical, so the goal of this project is to realize a reaching this goal. As the project is implemented, monitoring of conditions in the stream may indicate Estimates of reduction will be determined based on these measurements. The project goal will be to",
+      "description": "the goal of this project is to realize a reaching this goal. As the project is implemented, monitoring of conditions in the stream may indicate Estimates of reduction will be determined based on these measurements. The project goal will be to",
+      "originalSentence": "biological communities typical of this region. This goal will likely take many years to achieve;",
+      "shortTitle": "biological communities typical of this region. This goal will likely take many years to achieve;"
+    },
+    {
+      "id": "G7",
+      "title": "This goal will likely take many years to achieve; direct activities toward this long-term goal.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "This goal will likely take many years to achieve; direct activities toward this long-term goal.",
+      "confidence": 0,
+      "fullParagraph": "biological communities typical of this region. This goal will likely take many years to achieve; direct activities toward this long-term goal. sediment loading in Bear Creek is neither feasible nor practical, so the goal of this project is to realize a reaching this goal. As the project is implemented, monitoring of conditions in the stream may indicate Estimates of reduction will be determined based on these measurements. The project goal will be to",
+      "description": "the goal of this project is to realize a reaching this goal. As the project is implemented, monitoring of conditions in the stream may indicate Estimates of reduction will be determined based on these measurements. The project goal will be to",
+      "originalSentence": "This goal will likely take many years to achieve; direct activities toward this long-term goal.",
+      "shortTitle": "This goal will likely take many years to achieve; direct activities toward this long-term goal."
+    }
+  ],
+  "mainGoals": [
+    {
+      "id": "G2",
+      "title": "sediment loading in Bear Creek is neither feasible nor practical, so the goal of this project is to realize a reaching this goal.",
+      "status": "planned",
+      "pollutant": "sediment",
+      "parameter": "sediment",
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "sediment loading in Bear Creek is neither feasible nor practical, so the goal of this project is to realize a reaching this goal.",
+      "confidence": 0.18000000000000002,
+      "isPrimary": true,
+      "primaryReason": "top_scoring",
+      "fullParagraph": "sediment loading in Bear Creek is neither feasible nor practical, so the goal of this project is to realize a reaching this goal. As the project is implemented, monitoring of conditions in the stream may indicate Estimates of reduction will be determined based on these measurements. The project goal will be to",
+      "description": "sediment loading in Bear Creek is neither feasible nor practical, so the goal of this project is to realize a reaching this goal. As the project is implemented, monitoring of conditions in the stream may indicate Estimates of reduction will be determined based on these measurements. The project goal will be to",
+      "originalSentence": "sediment loading in Bear Creek is neither feasible nor practical, so the goal of this project is to realize a reaching this goal.",
+      "shortTitle": "sediment loading in Bear Creek is neither feasible nor practical, so the goal of this project is to realize a reaching this goal."
+    }
+  ],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "installation are approximately",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "installation are approximately $1.5 million, including in-kind services and cost-shares.  Matching funds|name_cost_tail_trim",
+      "originalName": "installation are approximately $1.5 million, including in-kind services and cost-shares.  Matching funds"
+    },
+    {
+      "id": "B2",
+      "name": "$524,150.00",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$524,150.00                $134,400.00                $389,750.00|name_cost_tail_trim",
+      "originalName": "$524,150.00                $134,400.00                $389,750.00"
+    },
+    {
+      "id": "B3",
+      "name": "Administration",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Administration                  $47,400.00                  $35,400.00                  $12,000.00|name_cost_tail_trim",
+      "originalName": "Administration                  $47,400.00                  $35,400.00                  $12,000.00"
+    },
+    {
+      "id": "B4",
+      "name": "Project                  Coordination",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Project                  Coordination                  $123,000.00                  $84,000.00                  $39,000.00|name_cost_tail_trim",
+      "originalName": "Project                  Coordination                  $123,000.00                  $84,000.00                  $39,000.00"
+    },
+    {
+      "id": "B5",
+      "name": "Monitoring",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Monitoring                                           $60,000.00                                           $0.00                                           $60,000.00|name_cost_tail_trim",
+      "originalName": "Monitoring                                           $60,000.00                                           $0.00                                           $60,000.00"
+    },
+    {
+      "id": "B6",
+      "name": "Source Water Assessment",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Source Water Assessment $51,000.00 $15,000.00 $36,000.00|name_cost_tail_trim",
+      "originalName": "Source Water Assessment $51,000.00 $15,000.00 $36,000.00"
+    },
+    {
+      "id": "B7",
+      "name": "BMP Activities",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "BMP Activities $242,750.00 $0.00 $242,750.00|name_cost_tail_trim",
+      "originalName": "BMP Activities $242,750.00 $0.00 $242,750.00"
+    },
+    {
+      "id": "B8",
+      "name": "$11,500.00",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$11,500.00                           $0.00                           $11,500.00|name_cost_tail_trim",
+      "originalName": "$11,500.00                           $0.00                           $11,500.00"
+    },
+    {
+      "id": "B9",
+      "name": "Septic System Seminars",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Septic System Seminars $1,500.00 $0.00 $1,500.00|name_cost_tail_trim",
+      "originalName": "Septic System Seminars $1,500.00 $0.00 $1,500.00"
+    },
+    {
+      "id": "B10",
+      "name": "Project Coordination",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Project Coordination $6,000.00 $0.00 $6,000.00|name_cost_tail_trim",
+      "originalName": "Project Coordination $6,000.00 $0.00 $6,000.00"
+    },
+    {
+      "id": "B11",
+      "name": "$0.00",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$0.00                           $0.00                           $0.00|name_cost_tail_trim",
+      "originalName": "$0.00                           $0.00                           $0.00"
+    },
+    {
+      "id": "B12",
+      "name": "$841,950.00",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$841,950.00                $690,675.00                $151,275.00|name_cost_tail_trim",
+      "originalName": "$841,950.00                $690,675.00                $151,275.00"
+    },
+    {
+      "id": "B13",
+      "name": "Education                    Supplies",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Education                    Supplies                    $10,200.00                    $6,675.00                    $3,525.00|name_cost_tail_trim",
+      "originalName": "Education                    Supplies                    $10,200.00                    $6,675.00                    $3,525.00"
+    },
+    {
+      "id": "B14",
+      "name": "BMP                Activities",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "BMP                Activities                $831,750.00                $684,000.00                $147,750.00|name_cost_tail_trim",
+      "originalName": "BMP                Activities                $831,750.00                $684,000.00                $147,750.00"
+    },
+    {
+      "id": "B15",
+      "name": "$0.00$0.00$0.00",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$0.00$0.00$0.00"
+    },
+    {
+      "id": "B16",
+      "name": "$78,000.00",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$78,000.00                           $0.00                           $78,000.00|name_cost_tail_trim",
+      "originalName": "$78,000.00                           $0.00                           $78,000.00"
+    },
+    {
+      "id": "B17",
+      "name": "Public Education/Outreach",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Public Education/Outreach $60,000.00 $0.00 $60,000.00|name_cost_tail_trim",
+      "originalName": "Public Education/Outreach $60,000.00 $0.00 $60,000.00"
+    },
+    {
+      "id": "B18",
+      "name": "Field Day Tours",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Field Day Tours $8,100.00 $0.00 $8,100.00|name_cost_tail_trim",
+      "originalName": "Field Day Tours $8,100.00 $0.00 $8,100.00"
+    },
+    {
+      "id": "B19",
+      "name": "Forestry BMP Education",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Forestry BMP Education $3,600.00 $0.00 $3,600.00|name_cost_tail_trim",
+      "originalName": "Forestry BMP Education $3,600.00 $0.00 $3,600.00"
+    },
+    {
+      "id": "B20",
+      "name": "Boater Education",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Boater Education $4,500.00 $0.00 $4,500.00|name_cost_tail_trim",
+      "originalName": "Boater Education $4,500.00 $0.00 $4,500.00"
+    },
+    {
+      "id": "B21",
+      "name": "Septic System",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Septic System $1,800.00 $0.00 $1,800.00|name_cost_tail_trim",
+      "originalName": "Septic System $1,800.00 $0.00 $1,800.00"
+    },
+    {
+      "id": "B22",
+      "name": "$12,250.00",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$12,250.00                  $12,250.00                  $0.00|name_cost_tail_trim",
+      "originalName": "$12,250.00                  $12,250.00                  $0.00"
+    },
+    {
+      "id": "B23",
+      "name": "Land Owner Incentives",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Land Owner Incentives $12,250.00 $12,250.00 $0.00|name_cost_tail_trim",
+      "originalName": "Land Owner Incentives $12,250.00 $12,250.00 $0.00"
+    },
+    {
+      "id": "B24",
+      "name": "Total",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Total                $1,467,850.00                $837,325.00                $630,525.00|name_cost_tail_trim",
+      "originalName": "Total                $1,467,850.00                $837,325.00                $630,525.00"
+    }
+  ],
+  "bmpCostTable": {
+    "id": "adaptive_generic_costs",
+    "title": "installation are approximately $1.5 million, including in-kind services and cost-shares.  Matching funds",
+    "table": {
+      "columns": [
+        "Item",
+        "Cost",
+        "Extra?"
+      ],
+      "rows": [
+        {
+          "Item": "installation are approximately",
+          "Cost": "$1",
+          "Extra": null
+        },
+        {
+          "Item": "$524,150.00",
+          "Cost": "$134,400.00",
+          "Extra": "$389,750.00"
+        },
+        {
+          "Item": "Administration                  $47,400.00",
+          "Cost": "$35,400.00",
+          "Extra": "$12,000.00"
+        },
+        {
+          "Item": "Project                  Coordination                  $123,000.00",
+          "Cost": "$84,000.00",
+          "Extra": "$39,000.00"
+        },
+        {
+          "Item": "Monitoring                                           $60,000.00",
+          "Cost": "$0.00",
+          "Extra": "$60,000.00"
+        },
+        {
+          "Item": "Source Water Assessment $51,000.00",
+          "Cost": "$15,000.00",
+          "Extra": "$36,000.00"
+        },
+        {
+          "Item": "BMP Activities $242,750.00",
+          "Cost": "$0.00",
+          "Extra": "$242,750.00"
+        },
+        {
+          "Item": "$11,500.00",
+          "Cost": "$0.00",
+          "Extra": "$11,500.00"
+        },
+        {
+          "Item": "Septic System Seminars $1,500.00",
+          "Cost": "$0.00",
+          "Extra": "$1,500.00"
+        },
+        {
+          "Item": "Source Water Assessment $1,000.00",
+          "Cost": "$0.00",
+          "Extra": "$1,000.00"
+        },
+        {
+          "Item": "Administration                                       $3,000.00",
+          "Cost": "$0.00",
+          "Extra": "$3,000.00"
+        },
+        {
+          "Item": "Project Coordination $6,000.00",
+          "Cost": "$0.00",
+          "Extra": "$6,000.00"
+        },
+        {
+          "Item": "$0.00",
+          "Cost": "$0.00",
+          "Extra": "$0.00"
+        },
+        {
+          "Item": "$841,950.00",
+          "Cost": "$690,675.00",
+          "Extra": "$151,275.00"
+        },
+        {
+          "Item": "Education                    Supplies                    $10,200.00",
+          "Cost": "$6,675.00",
+          "Extra": "$3,525.00"
+        },
+        {
+          "Item": "BMP                Activities                $831,750.00",
+          "Cost": "$684,000.00",
+          "Extra": "$147,750.00"
+        },
+        {
+          "Item": "$78,000.00",
+          "Cost": "$0.00",
+          "Extra": "$78,000.00"
+        },
+        {
+          "Item": "Public Education/Outreach $60,000.00",
+          "Cost": "$0.00",
+          "Extra": "$60,000.00"
+        },
+        {
+          "Item": "Field Day Tours $8,100.00",
+          "Cost": "$0.00",
+          "Extra": "$8,100.00"
+        },
+        {
+          "Item": "Forestry BMP Education $3,600.00",
+          "Cost": "$0.00",
+          "Extra": "$3,600.00"
+        },
+        {
+          "Item": "Boater Education $4,500.00",
+          "Cost": "$0.00",
+          "Extra": "$4,500.00"
+        },
+        {
+          "Item": "Septic System $1,800.00",
+          "Cost": "$0.00",
+          "Extra": "$1,800.00"
+        },
+        {
+          "Item": "$12,250.00",
+          "Cost": "$12,250.00",
+          "Extra": "$0.00"
+        },
+        {
+          "Item": "Land Owner Incentives $12,250.00",
+          "Cost": "$12,250.00",
+          "Extra": "$0.00"
+        },
+        {
+          "Item": "Total                $1,467,850.00",
+          "Cost": "$837,325.00",
+          "Extra": "$630,525.00"
+        }
+      ],
+      "total": null
+    },
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTableNormalized": {
+    "id": "adaptive_generic_costs",
+    "title": "installation are approximately $1.5 million, including in-kind services and cost-shares.  Matching funds",
+    "rows": [
+      {
+        "name": "installation are approximately",
+        "totalCost": 1,
+        "rawCost": "$1"
+      },
+      {
+        "name": "$524,150.00",
+        "totalCost": 134400,
+        "rawCost": "$134,400.00"
+      },
+      {
+        "name": "Administration                  $47,400.00",
+        "totalCost": 35400,
+        "rawCost": "$35,400.00"
+      },
+      {
+        "name": "Project                  Coordination                  $123,000.00",
+        "totalCost": 84000,
+        "rawCost": "$84,000.00"
+      },
+      {
+        "name": "Monitoring                                           $60,000.00",
+        "totalCost": 0,
+        "rawCost": "$0.00"
+      },
+      {
+        "name": "Source Water Assessment $51,000.00",
+        "totalCost": 15000,
+        "rawCost": "$15,000.00"
+      },
+      {
+        "name": "BMP Activities $242,750.00",
+        "totalCost": 0,
+        "rawCost": "$0.00"
+      },
+      {
+        "name": "$11,500.00",
+        "totalCost": 0,
+        "rawCost": "$0.00"
+      },
+      {
+        "name": "Septic System Seminars $1,500.00",
+        "totalCost": 0,
+        "rawCost": "$0.00"
+      },
+      {
+        "name": "Source Water Assessment $1,000.00",
+        "totalCost": 0,
+        "rawCost": "$0.00"
+      },
+      {
+        "name": "Administration                                       $3,000.00",
+        "totalCost": 0,
+        "rawCost": "$0.00"
+      },
+      {
+        "name": "Project Coordination $6,000.00",
+        "totalCost": 0,
+        "rawCost": "$0.00"
+      },
+      {
+        "name": "$0.00",
+        "totalCost": 0,
+        "rawCost": "$0.00"
+      },
+      {
+        "name": "$841,950.00",
+        "totalCost": 690675,
+        "rawCost": "$690,675.00"
+      },
+      {
+        "name": "Education                    Supplies                    $10,200.00",
+        "totalCost": 6675,
+        "rawCost": "$6,675.00"
+      },
+      {
+        "name": "BMP                Activities                $831,750.00",
+        "totalCost": 684000,
+        "rawCost": "$684,000.00"
+      },
+      {
+        "name": "$78,000.00",
+        "totalCost": 0,
+        "rawCost": "$0.00"
+      },
+      {
+        "name": "Public Education/Outreach $60,000.00",
+        "totalCost": 0,
+        "rawCost": "$0.00"
+      },
+      {
+        "name": "Field Day Tours $8,100.00",
+        "totalCost": 0,
+        "rawCost": "$0.00"
+      },
+      {
+        "name": "Forestry BMP Education $3,600.00",
+        "totalCost": 0,
+        "rawCost": "$0.00"
+      },
+      {
+        "name": "Boater Education $4,500.00",
+        "totalCost": 0,
+        "rawCost": "$0.00"
+      },
+      {
+        "name": "Septic System $1,800.00",
+        "totalCost": 0,
+        "rawCost": "$0.00"
+      },
+      {
+        "name": "$12,250.00",
+        "totalCost": 12250,
+        "rawCost": "$12,250.00"
+      },
+      {
+        "name": "Land Owner Incentives $12,250.00",
+        "totalCost": 12250,
+        "rawCost": "$12,250.00"
+      },
+      {
+        "name": "Total                $1,467,850.00",
+        "totalCost": 837325,
+        "rawCost": "$837,325.00"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 2511976,
+    "discrepancy": null,
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTables": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "installation are approximately $1.5 million, including in-kind services and cost-shares.  Matching funds",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "installation are approximately",
+            "Cost": "$1",
+            "Extra": null
+          },
+          {
+            "Item": "$524,150.00",
+            "Cost": "$134,400.00",
+            "Extra": "$389,750.00"
+          },
+          {
+            "Item": "Administration                  $47,400.00",
+            "Cost": "$35,400.00",
+            "Extra": "$12,000.00"
+          },
+          {
+            "Item": "Project                  Coordination                  $123,000.00",
+            "Cost": "$84,000.00",
+            "Extra": "$39,000.00"
+          },
+          {
+            "Item": "Monitoring                                           $60,000.00",
+            "Cost": "$0.00",
+            "Extra": "$60,000.00"
+          },
+          {
+            "Item": "Source Water Assessment $51,000.00",
+            "Cost": "$15,000.00",
+            "Extra": "$36,000.00"
+          },
+          {
+            "Item": "BMP Activities $242,750.00",
+            "Cost": "$0.00",
+            "Extra": "$242,750.00"
+          },
+          {
+            "Item": "$11,500.00",
+            "Cost": "$0.00",
+            "Extra": "$11,500.00"
+          },
+          {
+            "Item": "Septic System Seminars $1,500.00",
+            "Cost": "$0.00",
+            "Extra": "$1,500.00"
+          },
+          {
+            "Item": "Source Water Assessment $1,000.00",
+            "Cost": "$0.00",
+            "Extra": "$1,000.00"
+          },
+          {
+            "Item": "Administration                                       $3,000.00",
+            "Cost": "$0.00",
+            "Extra": "$3,000.00"
+          },
+          {
+            "Item": "Project Coordination $6,000.00",
+            "Cost": "$0.00",
+            "Extra": "$6,000.00"
+          },
+          {
+            "Item": "$0.00",
+            "Cost": "$0.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "$841,950.00",
+            "Cost": "$690,675.00",
+            "Extra": "$151,275.00"
+          },
+          {
+            "Item": "Education                    Supplies                    $10,200.00",
+            "Cost": "$6,675.00",
+            "Extra": "$3,525.00"
+          },
+          {
+            "Item": "BMP                Activities                $831,750.00",
+            "Cost": "$684,000.00",
+            "Extra": "$147,750.00"
+          },
+          {
+            "Item": "$78,000.00",
+            "Cost": "$0.00",
+            "Extra": "$78,000.00"
+          },
+          {
+            "Item": "Public Education/Outreach $60,000.00",
+            "Cost": "$0.00",
+            "Extra": "$60,000.00"
+          },
+          {
+            "Item": "Field Day Tours $8,100.00",
+            "Cost": "$0.00",
+            "Extra": "$8,100.00"
+          },
+          {
+            "Item": "Forestry BMP Education $3,600.00",
+            "Cost": "$0.00",
+            "Extra": "$3,600.00"
+          },
+          {
+            "Item": "Boater Education $4,500.00",
+            "Cost": "$0.00",
+            "Extra": "$4,500.00"
+          },
+          {
+            "Item": "Septic System $1,800.00",
+            "Cost": "$0.00",
+            "Extra": "$1,800.00"
+          },
+          {
+            "Item": "$12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Land Owner Incentives $12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Total                $1,467,850.00",
+            "Cost": "$837,325.00",
+            "Extra": "$630,525.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$524,150.00                $134,400.00                $389,750.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "$524,150.00",
+            "Cost": "$134,400.00",
+            "Extra": "$389,750.00"
+          },
+          {
+            "Item": "Administration                  $47,400.00",
+            "Cost": "$35,400.00",
+            "Extra": "$12,000.00"
+          },
+          {
+            "Item": "Project                  Coordination                  $123,000.00",
+            "Cost": "$84,000.00",
+            "Extra": "$39,000.00"
+          },
+          {
+            "Item": "Monitoring                                           $60,000.00",
+            "Cost": "$0.00",
+            "Extra": "$60,000.00"
+          },
+          {
+            "Item": "Source Water Assessment $51,000.00",
+            "Cost": "$15,000.00",
+            "Extra": "$36,000.00"
+          },
+          {
+            "Item": "BMP Activities $242,750.00",
+            "Cost": "$0.00",
+            "Extra": "$242,750.00"
+          },
+          {
+            "Item": "$11,500.00",
+            "Cost": "$0.00",
+            "Extra": "$11,500.00"
+          },
+          {
+            "Item": "Septic System Seminars $1,500.00",
+            "Cost": "$0.00",
+            "Extra": "$1,500.00"
+          },
+          {
+            "Item": "Source Water Assessment $1,000.00",
+            "Cost": "$0.00",
+            "Extra": "$1,000.00"
+          },
+          {
+            "Item": "Administration                                       $3,000.00",
+            "Cost": "$0.00",
+            "Extra": "$3,000.00"
+          },
+          {
+            "Item": "Project Coordination $6,000.00",
+            "Cost": "$0.00",
+            "Extra": "$6,000.00"
+          },
+          {
+            "Item": "$0.00",
+            "Cost": "$0.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "$841,950.00",
+            "Cost": "$690,675.00",
+            "Extra": "$151,275.00"
+          },
+          {
+            "Item": "Education                    Supplies                    $10,200.00",
+            "Cost": "$6,675.00",
+            "Extra": "$3,525.00"
+          },
+          {
+            "Item": "BMP                Activities                $831,750.00",
+            "Cost": "$684,000.00",
+            "Extra": "$147,750.00"
+          },
+          {
+            "Item": "$78,000.00",
+            "Cost": "$0.00",
+            "Extra": "$78,000.00"
+          },
+          {
+            "Item": "Public Education/Outreach $60,000.00",
+            "Cost": "$0.00",
+            "Extra": "$60,000.00"
+          },
+          {
+            "Item": "Field Day Tours $8,100.00",
+            "Cost": "$0.00",
+            "Extra": "$8,100.00"
+          },
+          {
+            "Item": "Forestry BMP Education $3,600.00",
+            "Cost": "$0.00",
+            "Extra": "$3,600.00"
+          },
+          {
+            "Item": "Boater Education $4,500.00",
+            "Cost": "$0.00",
+            "Extra": "$4,500.00"
+          },
+          {
+            "Item": "Septic System $1,800.00",
+            "Cost": "$0.00",
+            "Extra": "$1,800.00"
+          },
+          {
+            "Item": "$12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Land Owner Incentives $12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Total                $1,467,850.00",
+            "Cost": "$837,325.00",
+            "Extra": "$630,525.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Administration                  $47,400.00                  $35,400.00                  $12,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Administration                  $47,400.00",
+            "Cost": "$35,400.00",
+            "Extra": "$12,000.00"
+          },
+          {
+            "Item": "Project                  Coordination                  $123,000.00",
+            "Cost": "$84,000.00",
+            "Extra": "$39,000.00"
+          },
+          {
+            "Item": "Monitoring                                           $60,000.00",
+            "Cost": "$0.00",
+            "Extra": "$60,000.00"
+          },
+          {
+            "Item": "Source Water Assessment $51,000.00",
+            "Cost": "$15,000.00",
+            "Extra": "$36,000.00"
+          },
+          {
+            "Item": "BMP Activities $242,750.00",
+            "Cost": "$0.00",
+            "Extra": "$242,750.00"
+          },
+          {
+            "Item": "$11,500.00",
+            "Cost": "$0.00",
+            "Extra": "$11,500.00"
+          },
+          {
+            "Item": "Septic System Seminars $1,500.00",
+            "Cost": "$0.00",
+            "Extra": "$1,500.00"
+          },
+          {
+            "Item": "Source Water Assessment $1,000.00",
+            "Cost": "$0.00",
+            "Extra": "$1,000.00"
+          },
+          {
+            "Item": "Administration                                       $3,000.00",
+            "Cost": "$0.00",
+            "Extra": "$3,000.00"
+          },
+          {
+            "Item": "Project Coordination $6,000.00",
+            "Cost": "$0.00",
+            "Extra": "$6,000.00"
+          },
+          {
+            "Item": "$0.00",
+            "Cost": "$0.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "$841,950.00",
+            "Cost": "$690,675.00",
+            "Extra": "$151,275.00"
+          },
+          {
+            "Item": "Education                    Supplies                    $10,200.00",
+            "Cost": "$6,675.00",
+            "Extra": "$3,525.00"
+          },
+          {
+            "Item": "BMP                Activities                $831,750.00",
+            "Cost": "$684,000.00",
+            "Extra": "$147,750.00"
+          },
+          {
+            "Item": "$78,000.00",
+            "Cost": "$0.00",
+            "Extra": "$78,000.00"
+          },
+          {
+            "Item": "Public Education/Outreach $60,000.00",
+            "Cost": "$0.00",
+            "Extra": "$60,000.00"
+          },
+          {
+            "Item": "Field Day Tours $8,100.00",
+            "Cost": "$0.00",
+            "Extra": "$8,100.00"
+          },
+          {
+            "Item": "Forestry BMP Education $3,600.00",
+            "Cost": "$0.00",
+            "Extra": "$3,600.00"
+          },
+          {
+            "Item": "Boater Education $4,500.00",
+            "Cost": "$0.00",
+            "Extra": "$4,500.00"
+          },
+          {
+            "Item": "Septic System $1,800.00",
+            "Cost": "$0.00",
+            "Extra": "$1,800.00"
+          },
+          {
+            "Item": "$12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Land Owner Incentives $12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Total                $1,467,850.00",
+            "Cost": "$837,325.00",
+            "Extra": "$630,525.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Project                  Coordination                  $123,000.00                  $84,000.00                  $39,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Project                  Coordination                  $123,000.00",
+            "Cost": "$84,000.00",
+            "Extra": "$39,000.00"
+          },
+          {
+            "Item": "Monitoring                                           $60,000.00",
+            "Cost": "$0.00",
+            "Extra": "$60,000.00"
+          },
+          {
+            "Item": "Source Water Assessment $51,000.00",
+            "Cost": "$15,000.00",
+            "Extra": "$36,000.00"
+          },
+          {
+            "Item": "BMP Activities $242,750.00",
+            "Cost": "$0.00",
+            "Extra": "$242,750.00"
+          },
+          {
+            "Item": "$11,500.00",
+            "Cost": "$0.00",
+            "Extra": "$11,500.00"
+          },
+          {
+            "Item": "Septic System Seminars $1,500.00",
+            "Cost": "$0.00",
+            "Extra": "$1,500.00"
+          },
+          {
+            "Item": "Source Water Assessment $1,000.00",
+            "Cost": "$0.00",
+            "Extra": "$1,000.00"
+          },
+          {
+            "Item": "Administration                                       $3,000.00",
+            "Cost": "$0.00",
+            "Extra": "$3,000.00"
+          },
+          {
+            "Item": "Project Coordination $6,000.00",
+            "Cost": "$0.00",
+            "Extra": "$6,000.00"
+          },
+          {
+            "Item": "$0.00",
+            "Cost": "$0.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "$841,950.00",
+            "Cost": "$690,675.00",
+            "Extra": "$151,275.00"
+          },
+          {
+            "Item": "Education                    Supplies                    $10,200.00",
+            "Cost": "$6,675.00",
+            "Extra": "$3,525.00"
+          },
+          {
+            "Item": "BMP                Activities                $831,750.00",
+            "Cost": "$684,000.00",
+            "Extra": "$147,750.00"
+          },
+          {
+            "Item": "$78,000.00",
+            "Cost": "$0.00",
+            "Extra": "$78,000.00"
+          },
+          {
+            "Item": "Public Education/Outreach $60,000.00",
+            "Cost": "$0.00",
+            "Extra": "$60,000.00"
+          },
+          {
+            "Item": "Field Day Tours $8,100.00",
+            "Cost": "$0.00",
+            "Extra": "$8,100.00"
+          },
+          {
+            "Item": "Forestry BMP Education $3,600.00",
+            "Cost": "$0.00",
+            "Extra": "$3,600.00"
+          },
+          {
+            "Item": "Boater Education $4,500.00",
+            "Cost": "$0.00",
+            "Extra": "$4,500.00"
+          },
+          {
+            "Item": "Septic System $1,800.00",
+            "Cost": "$0.00",
+            "Extra": "$1,800.00"
+          },
+          {
+            "Item": "$12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Land Owner Incentives $12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Total                $1,467,850.00",
+            "Cost": "$837,325.00",
+            "Extra": "$630,525.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Monitoring                                           $60,000.00                                           $0.00                                           $60,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Monitoring                                           $60,000.00",
+            "Cost": "$0.00",
+            "Extra": "$60,000.00"
+          },
+          {
+            "Item": "Source Water Assessment $51,000.00",
+            "Cost": "$15,000.00",
+            "Extra": "$36,000.00"
+          },
+          {
+            "Item": "BMP Activities $242,750.00",
+            "Cost": "$0.00",
+            "Extra": "$242,750.00"
+          },
+          {
+            "Item": "$11,500.00",
+            "Cost": "$0.00",
+            "Extra": "$11,500.00"
+          },
+          {
+            "Item": "Septic System Seminars $1,500.00",
+            "Cost": "$0.00",
+            "Extra": "$1,500.00"
+          },
+          {
+            "Item": "Source Water Assessment $1,000.00",
+            "Cost": "$0.00",
+            "Extra": "$1,000.00"
+          },
+          {
+            "Item": "Administration                                       $3,000.00",
+            "Cost": "$0.00",
+            "Extra": "$3,000.00"
+          },
+          {
+            "Item": "Project Coordination $6,000.00",
+            "Cost": "$0.00",
+            "Extra": "$6,000.00"
+          },
+          {
+            "Item": "$0.00",
+            "Cost": "$0.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "$841,950.00",
+            "Cost": "$690,675.00",
+            "Extra": "$151,275.00"
+          },
+          {
+            "Item": "Education                    Supplies                    $10,200.00",
+            "Cost": "$6,675.00",
+            "Extra": "$3,525.00"
+          },
+          {
+            "Item": "BMP                Activities                $831,750.00",
+            "Cost": "$684,000.00",
+            "Extra": "$147,750.00"
+          },
+          {
+            "Item": "$78,000.00",
+            "Cost": "$0.00",
+            "Extra": "$78,000.00"
+          },
+          {
+            "Item": "Public Education/Outreach $60,000.00",
+            "Cost": "$0.00",
+            "Extra": "$60,000.00"
+          },
+          {
+            "Item": "Field Day Tours $8,100.00",
+            "Cost": "$0.00",
+            "Extra": "$8,100.00"
+          },
+          {
+            "Item": "Forestry BMP Education $3,600.00",
+            "Cost": "$0.00",
+            "Extra": "$3,600.00"
+          },
+          {
+            "Item": "Boater Education $4,500.00",
+            "Cost": "$0.00",
+            "Extra": "$4,500.00"
+          },
+          {
+            "Item": "Septic System $1,800.00",
+            "Cost": "$0.00",
+            "Extra": "$1,800.00"
+          },
+          {
+            "Item": "$12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Land Owner Incentives $12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Total                $1,467,850.00",
+            "Cost": "$837,325.00",
+            "Extra": "$630,525.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Source Water Assessment $51,000.00 $15,000.00 $36,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Source Water Assessment $51,000.00",
+            "Cost": "$15,000.00",
+            "Extra": "$36,000.00"
+          },
+          {
+            "Item": "BMP Activities $242,750.00",
+            "Cost": "$0.00",
+            "Extra": "$242,750.00"
+          },
+          {
+            "Item": "$11,500.00",
+            "Cost": "$0.00",
+            "Extra": "$11,500.00"
+          },
+          {
+            "Item": "Septic System Seminars $1,500.00",
+            "Cost": "$0.00",
+            "Extra": "$1,500.00"
+          },
+          {
+            "Item": "Source Water Assessment $1,000.00",
+            "Cost": "$0.00",
+            "Extra": "$1,000.00"
+          },
+          {
+            "Item": "Administration                                       $3,000.00",
+            "Cost": "$0.00",
+            "Extra": "$3,000.00"
+          },
+          {
+            "Item": "Project Coordination $6,000.00",
+            "Cost": "$0.00",
+            "Extra": "$6,000.00"
+          },
+          {
+            "Item": "$0.00",
+            "Cost": "$0.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "$841,950.00",
+            "Cost": "$690,675.00",
+            "Extra": "$151,275.00"
+          },
+          {
+            "Item": "Education                    Supplies                    $10,200.00",
+            "Cost": "$6,675.00",
+            "Extra": "$3,525.00"
+          },
+          {
+            "Item": "BMP                Activities                $831,750.00",
+            "Cost": "$684,000.00",
+            "Extra": "$147,750.00"
+          },
+          {
+            "Item": "$78,000.00",
+            "Cost": "$0.00",
+            "Extra": "$78,000.00"
+          },
+          {
+            "Item": "Public Education/Outreach $60,000.00",
+            "Cost": "$0.00",
+            "Extra": "$60,000.00"
+          },
+          {
+            "Item": "Field Day Tours $8,100.00",
+            "Cost": "$0.00",
+            "Extra": "$8,100.00"
+          },
+          {
+            "Item": "Forestry BMP Education $3,600.00",
+            "Cost": "$0.00",
+            "Extra": "$3,600.00"
+          },
+          {
+            "Item": "Boater Education $4,500.00",
+            "Cost": "$0.00",
+            "Extra": "$4,500.00"
+          },
+          {
+            "Item": "Septic System $1,800.00",
+            "Cost": "$0.00",
+            "Extra": "$1,800.00"
+          },
+          {
+            "Item": "$12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Land Owner Incentives $12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Total                $1,467,850.00",
+            "Cost": "$837,325.00",
+            "Extra": "$630,525.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "BMP Activities $242,750.00 $0.00 $242,750.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "BMP Activities $242,750.00",
+            "Cost": "$0.00",
+            "Extra": "$242,750.00"
+          },
+          {
+            "Item": "$11,500.00",
+            "Cost": "$0.00",
+            "Extra": "$11,500.00"
+          },
+          {
+            "Item": "Septic System Seminars $1,500.00",
+            "Cost": "$0.00",
+            "Extra": "$1,500.00"
+          },
+          {
+            "Item": "Source Water Assessment $1,000.00",
+            "Cost": "$0.00",
+            "Extra": "$1,000.00"
+          },
+          {
+            "Item": "Administration                                       $3,000.00",
+            "Cost": "$0.00",
+            "Extra": "$3,000.00"
+          },
+          {
+            "Item": "Project Coordination $6,000.00",
+            "Cost": "$0.00",
+            "Extra": "$6,000.00"
+          },
+          {
+            "Item": "$0.00",
+            "Cost": "$0.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "$841,950.00",
+            "Cost": "$690,675.00",
+            "Extra": "$151,275.00"
+          },
+          {
+            "Item": "Education                    Supplies                    $10,200.00",
+            "Cost": "$6,675.00",
+            "Extra": "$3,525.00"
+          },
+          {
+            "Item": "BMP                Activities                $831,750.00",
+            "Cost": "$684,000.00",
+            "Extra": "$147,750.00"
+          },
+          {
+            "Item": "$78,000.00",
+            "Cost": "$0.00",
+            "Extra": "$78,000.00"
+          },
+          {
+            "Item": "Public Education/Outreach $60,000.00",
+            "Cost": "$0.00",
+            "Extra": "$60,000.00"
+          },
+          {
+            "Item": "Field Day Tours $8,100.00",
+            "Cost": "$0.00",
+            "Extra": "$8,100.00"
+          },
+          {
+            "Item": "Forestry BMP Education $3,600.00",
+            "Cost": "$0.00",
+            "Extra": "$3,600.00"
+          },
+          {
+            "Item": "Boater Education $4,500.00",
+            "Cost": "$0.00",
+            "Extra": "$4,500.00"
+          },
+          {
+            "Item": "Septic System $1,800.00",
+            "Cost": "$0.00",
+            "Extra": "$1,800.00"
+          },
+          {
+            "Item": "$12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Land Owner Incentives $12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Total                $1,467,850.00",
+            "Cost": "$837,325.00",
+            "Extra": "$630,525.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$11,500.00                           $0.00                           $11,500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "$11,500.00",
+            "Cost": "$0.00",
+            "Extra": "$11,500.00"
+          },
+          {
+            "Item": "Septic System Seminars $1,500.00",
+            "Cost": "$0.00",
+            "Extra": "$1,500.00"
+          },
+          {
+            "Item": "Source Water Assessment $1,000.00",
+            "Cost": "$0.00",
+            "Extra": "$1,000.00"
+          },
+          {
+            "Item": "Administration                                       $3,000.00",
+            "Cost": "$0.00",
+            "Extra": "$3,000.00"
+          },
+          {
+            "Item": "Project Coordination $6,000.00",
+            "Cost": "$0.00",
+            "Extra": "$6,000.00"
+          },
+          {
+            "Item": "$0.00",
+            "Cost": "$0.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "$841,950.00",
+            "Cost": "$690,675.00",
+            "Extra": "$151,275.00"
+          },
+          {
+            "Item": "Education                    Supplies                    $10,200.00",
+            "Cost": "$6,675.00",
+            "Extra": "$3,525.00"
+          },
+          {
+            "Item": "BMP                Activities                $831,750.00",
+            "Cost": "$684,000.00",
+            "Extra": "$147,750.00"
+          },
+          {
+            "Item": "$78,000.00",
+            "Cost": "$0.00",
+            "Extra": "$78,000.00"
+          },
+          {
+            "Item": "Public Education/Outreach $60,000.00",
+            "Cost": "$0.00",
+            "Extra": "$60,000.00"
+          },
+          {
+            "Item": "Field Day Tours $8,100.00",
+            "Cost": "$0.00",
+            "Extra": "$8,100.00"
+          },
+          {
+            "Item": "Forestry BMP Education $3,600.00",
+            "Cost": "$0.00",
+            "Extra": "$3,600.00"
+          },
+          {
+            "Item": "Boater Education $4,500.00",
+            "Cost": "$0.00",
+            "Extra": "$4,500.00"
+          },
+          {
+            "Item": "Septic System $1,800.00",
+            "Cost": "$0.00",
+            "Extra": "$1,800.00"
+          },
+          {
+            "Item": "$12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Land Owner Incentives $12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Total                $1,467,850.00",
+            "Cost": "$837,325.00",
+            "Extra": "$630,525.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Septic System Seminars $1,500.00 $0.00 $1,500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Septic System Seminars $1,500.00",
+            "Cost": "$0.00",
+            "Extra": "$1,500.00"
+          },
+          {
+            "Item": "Source Water Assessment $1,000.00",
+            "Cost": "$0.00",
+            "Extra": "$1,000.00"
+          },
+          {
+            "Item": "Administration                                       $3,000.00",
+            "Cost": "$0.00",
+            "Extra": "$3,000.00"
+          },
+          {
+            "Item": "Project Coordination $6,000.00",
+            "Cost": "$0.00",
+            "Extra": "$6,000.00"
+          },
+          {
+            "Item": "$0.00",
+            "Cost": "$0.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "$841,950.00",
+            "Cost": "$690,675.00",
+            "Extra": "$151,275.00"
+          },
+          {
+            "Item": "Education                    Supplies                    $10,200.00",
+            "Cost": "$6,675.00",
+            "Extra": "$3,525.00"
+          },
+          {
+            "Item": "BMP                Activities                $831,750.00",
+            "Cost": "$684,000.00",
+            "Extra": "$147,750.00"
+          },
+          {
+            "Item": "$78,000.00",
+            "Cost": "$0.00",
+            "Extra": "$78,000.00"
+          },
+          {
+            "Item": "Public Education/Outreach $60,000.00",
+            "Cost": "$0.00",
+            "Extra": "$60,000.00"
+          },
+          {
+            "Item": "Field Day Tours $8,100.00",
+            "Cost": "$0.00",
+            "Extra": "$8,100.00"
+          },
+          {
+            "Item": "Forestry BMP Education $3,600.00",
+            "Cost": "$0.00",
+            "Extra": "$3,600.00"
+          },
+          {
+            "Item": "Boater Education $4,500.00",
+            "Cost": "$0.00",
+            "Extra": "$4,500.00"
+          },
+          {
+            "Item": "Septic System $1,800.00",
+            "Cost": "$0.00",
+            "Extra": "$1,800.00"
+          },
+          {
+            "Item": "$12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Land Owner Incentives $12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Total                $1,467,850.00",
+            "Cost": "$837,325.00",
+            "Extra": "$630,525.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Source Water Assessment $1,000.00 $0.00 $1,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Source Water Assessment $1,000.00",
+            "Cost": "$0.00",
+            "Extra": "$1,000.00"
+          },
+          {
+            "Item": "Administration                                       $3,000.00",
+            "Cost": "$0.00",
+            "Extra": "$3,000.00"
+          },
+          {
+            "Item": "Project Coordination $6,000.00",
+            "Cost": "$0.00",
+            "Extra": "$6,000.00"
+          },
+          {
+            "Item": "$0.00",
+            "Cost": "$0.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "$841,950.00",
+            "Cost": "$690,675.00",
+            "Extra": "$151,275.00"
+          },
+          {
+            "Item": "Education                    Supplies                    $10,200.00",
+            "Cost": "$6,675.00",
+            "Extra": "$3,525.00"
+          },
+          {
+            "Item": "BMP                Activities                $831,750.00",
+            "Cost": "$684,000.00",
+            "Extra": "$147,750.00"
+          },
+          {
+            "Item": "$78,000.00",
+            "Cost": "$0.00",
+            "Extra": "$78,000.00"
+          },
+          {
+            "Item": "Public Education/Outreach $60,000.00",
+            "Cost": "$0.00",
+            "Extra": "$60,000.00"
+          },
+          {
+            "Item": "Field Day Tours $8,100.00",
+            "Cost": "$0.00",
+            "Extra": "$8,100.00"
+          },
+          {
+            "Item": "Forestry BMP Education $3,600.00",
+            "Cost": "$0.00",
+            "Extra": "$3,600.00"
+          },
+          {
+            "Item": "Boater Education $4,500.00",
+            "Cost": "$0.00",
+            "Extra": "$4,500.00"
+          },
+          {
+            "Item": "Septic System $1,800.00",
+            "Cost": "$0.00",
+            "Extra": "$1,800.00"
+          },
+          {
+            "Item": "$12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Land Owner Incentives $12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Total                $1,467,850.00",
+            "Cost": "$837,325.00",
+            "Extra": "$630,525.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Administration                                       $3,000.00                                       $0.00                                       $3,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Administration                                       $3,000.00",
+            "Cost": "$0.00",
+            "Extra": "$3,000.00"
+          },
+          {
+            "Item": "Project Coordination $6,000.00",
+            "Cost": "$0.00",
+            "Extra": "$6,000.00"
+          },
+          {
+            "Item": "$0.00",
+            "Cost": "$0.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "$841,950.00",
+            "Cost": "$690,675.00",
+            "Extra": "$151,275.00"
+          },
+          {
+            "Item": "Education                    Supplies                    $10,200.00",
+            "Cost": "$6,675.00",
+            "Extra": "$3,525.00"
+          },
+          {
+            "Item": "BMP                Activities                $831,750.00",
+            "Cost": "$684,000.00",
+            "Extra": "$147,750.00"
+          },
+          {
+            "Item": "$78,000.00",
+            "Cost": "$0.00",
+            "Extra": "$78,000.00"
+          },
+          {
+            "Item": "Public Education/Outreach $60,000.00",
+            "Cost": "$0.00",
+            "Extra": "$60,000.00"
+          },
+          {
+            "Item": "Field Day Tours $8,100.00",
+            "Cost": "$0.00",
+            "Extra": "$8,100.00"
+          },
+          {
+            "Item": "Forestry BMP Education $3,600.00",
+            "Cost": "$0.00",
+            "Extra": "$3,600.00"
+          },
+          {
+            "Item": "Boater Education $4,500.00",
+            "Cost": "$0.00",
+            "Extra": "$4,500.00"
+          },
+          {
+            "Item": "Septic System $1,800.00",
+            "Cost": "$0.00",
+            "Extra": "$1,800.00"
+          },
+          {
+            "Item": "$12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Land Owner Incentives $12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Total                $1,467,850.00",
+            "Cost": "$837,325.00",
+            "Extra": "$630,525.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Project Coordination $6,000.00 $0.00 $6,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Project Coordination $6,000.00",
+            "Cost": "$0.00",
+            "Extra": "$6,000.00"
+          },
+          {
+            "Item": "$0.00",
+            "Cost": "$0.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "$841,950.00",
+            "Cost": "$690,675.00",
+            "Extra": "$151,275.00"
+          },
+          {
+            "Item": "Education                    Supplies                    $10,200.00",
+            "Cost": "$6,675.00",
+            "Extra": "$3,525.00"
+          },
+          {
+            "Item": "BMP                Activities                $831,750.00",
+            "Cost": "$684,000.00",
+            "Extra": "$147,750.00"
+          },
+          {
+            "Item": "$78,000.00",
+            "Cost": "$0.00",
+            "Extra": "$78,000.00"
+          },
+          {
+            "Item": "Public Education/Outreach $60,000.00",
+            "Cost": "$0.00",
+            "Extra": "$60,000.00"
+          },
+          {
+            "Item": "Field Day Tours $8,100.00",
+            "Cost": "$0.00",
+            "Extra": "$8,100.00"
+          },
+          {
+            "Item": "Forestry BMP Education $3,600.00",
+            "Cost": "$0.00",
+            "Extra": "$3,600.00"
+          },
+          {
+            "Item": "Boater Education $4,500.00",
+            "Cost": "$0.00",
+            "Extra": "$4,500.00"
+          },
+          {
+            "Item": "Septic System $1,800.00",
+            "Cost": "$0.00",
+            "Extra": "$1,800.00"
+          },
+          {
+            "Item": "$12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Land Owner Incentives $12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Total                $1,467,850.00",
+            "Cost": "$837,325.00",
+            "Extra": "$630,525.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$0.00                           $0.00                           $0.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "$0.00",
+            "Cost": "$0.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "$841,950.00",
+            "Cost": "$690,675.00",
+            "Extra": "$151,275.00"
+          },
+          {
+            "Item": "Education                    Supplies                    $10,200.00",
+            "Cost": "$6,675.00",
+            "Extra": "$3,525.00"
+          },
+          {
+            "Item": "BMP                Activities                $831,750.00",
+            "Cost": "$684,000.00",
+            "Extra": "$147,750.00"
+          },
+          {
+            "Item": "$78,000.00",
+            "Cost": "$0.00",
+            "Extra": "$78,000.00"
+          },
+          {
+            "Item": "Public Education/Outreach $60,000.00",
+            "Cost": "$0.00",
+            "Extra": "$60,000.00"
+          },
+          {
+            "Item": "Field Day Tours $8,100.00",
+            "Cost": "$0.00",
+            "Extra": "$8,100.00"
+          },
+          {
+            "Item": "Forestry BMP Education $3,600.00",
+            "Cost": "$0.00",
+            "Extra": "$3,600.00"
+          },
+          {
+            "Item": "Boater Education $4,500.00",
+            "Cost": "$0.00",
+            "Extra": "$4,500.00"
+          },
+          {
+            "Item": "Septic System $1,800.00",
+            "Cost": "$0.00",
+            "Extra": "$1,800.00"
+          },
+          {
+            "Item": "$12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Land Owner Incentives $12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Total                $1,467,850.00",
+            "Cost": "$837,325.00",
+            "Extra": "$630,525.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$841,950.00                $690,675.00                $151,275.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "$841,950.00",
+            "Cost": "$690,675.00",
+            "Extra": "$151,275.00"
+          },
+          {
+            "Item": "Education                    Supplies                    $10,200.00",
+            "Cost": "$6,675.00",
+            "Extra": "$3,525.00"
+          },
+          {
+            "Item": "BMP                Activities                $831,750.00",
+            "Cost": "$684,000.00",
+            "Extra": "$147,750.00"
+          },
+          {
+            "Item": "$78,000.00",
+            "Cost": "$0.00",
+            "Extra": "$78,000.00"
+          },
+          {
+            "Item": "Public Education/Outreach $60,000.00",
+            "Cost": "$0.00",
+            "Extra": "$60,000.00"
+          },
+          {
+            "Item": "Field Day Tours $8,100.00",
+            "Cost": "$0.00",
+            "Extra": "$8,100.00"
+          },
+          {
+            "Item": "Forestry BMP Education $3,600.00",
+            "Cost": "$0.00",
+            "Extra": "$3,600.00"
+          },
+          {
+            "Item": "Boater Education $4,500.00",
+            "Cost": "$0.00",
+            "Extra": "$4,500.00"
+          },
+          {
+            "Item": "Septic System $1,800.00",
+            "Cost": "$0.00",
+            "Extra": "$1,800.00"
+          },
+          {
+            "Item": "$12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Land Owner Incentives $12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Total                $1,467,850.00",
+            "Cost": "$837,325.00",
+            "Extra": "$630,525.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Education                    Supplies                    $10,200.00                    $6,675.00                    $3,525.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Education                    Supplies                    $10,200.00",
+            "Cost": "$6,675.00",
+            "Extra": "$3,525.00"
+          },
+          {
+            "Item": "BMP                Activities                $831,750.00",
+            "Cost": "$684,000.00",
+            "Extra": "$147,750.00"
+          },
+          {
+            "Item": "$78,000.00",
+            "Cost": "$0.00",
+            "Extra": "$78,000.00"
+          },
+          {
+            "Item": "Public Education/Outreach $60,000.00",
+            "Cost": "$0.00",
+            "Extra": "$60,000.00"
+          },
+          {
+            "Item": "Field Day Tours $8,100.00",
+            "Cost": "$0.00",
+            "Extra": "$8,100.00"
+          },
+          {
+            "Item": "Forestry BMP Education $3,600.00",
+            "Cost": "$0.00",
+            "Extra": "$3,600.00"
+          },
+          {
+            "Item": "Boater Education $4,500.00",
+            "Cost": "$0.00",
+            "Extra": "$4,500.00"
+          },
+          {
+            "Item": "Septic System $1,800.00",
+            "Cost": "$0.00",
+            "Extra": "$1,800.00"
+          },
+          {
+            "Item": "$12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Land Owner Incentives $12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Total                $1,467,850.00",
+            "Cost": "$837,325.00",
+            "Extra": "$630,525.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "BMP                Activities                $831,750.00                $684,000.00                $147,750.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "BMP                Activities                $831,750.00",
+            "Cost": "$684,000.00",
+            "Extra": "$147,750.00"
+          },
+          {
+            "Item": "$78,000.00",
+            "Cost": "$0.00",
+            "Extra": "$78,000.00"
+          },
+          {
+            "Item": "Public Education/Outreach $60,000.00",
+            "Cost": "$0.00",
+            "Extra": "$60,000.00"
+          },
+          {
+            "Item": "Field Day Tours $8,100.00",
+            "Cost": "$0.00",
+            "Extra": "$8,100.00"
+          },
+          {
+            "Item": "Forestry BMP Education $3,600.00",
+            "Cost": "$0.00",
+            "Extra": "$3,600.00"
+          },
+          {
+            "Item": "Boater Education $4,500.00",
+            "Cost": "$0.00",
+            "Extra": "$4,500.00"
+          },
+          {
+            "Item": "Septic System $1,800.00",
+            "Cost": "$0.00",
+            "Extra": "$1,800.00"
+          },
+          {
+            "Item": "$12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Land Owner Incentives $12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Total                $1,467,850.00",
+            "Cost": "$837,325.00",
+            "Extra": "$630,525.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$0.00$0.00$0.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "$78,000.00",
+            "Cost": "$0.00",
+            "Extra": "$78,000.00"
+          },
+          {
+            "Item": "Public Education/Outreach $60,000.00",
+            "Cost": "$0.00",
+            "Extra": "$60,000.00"
+          },
+          {
+            "Item": "Field Day Tours $8,100.00",
+            "Cost": "$0.00",
+            "Extra": "$8,100.00"
+          },
+          {
+            "Item": "Forestry BMP Education $3,600.00",
+            "Cost": "$0.00",
+            "Extra": "$3,600.00"
+          },
+          {
+            "Item": "Boater Education $4,500.00",
+            "Cost": "$0.00",
+            "Extra": "$4,500.00"
+          },
+          {
+            "Item": "Septic System $1,800.00",
+            "Cost": "$0.00",
+            "Extra": "$1,800.00"
+          },
+          {
+            "Item": "$12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Land Owner Incentives $12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Total                $1,467,850.00",
+            "Cost": "$837,325.00",
+            "Extra": "$630,525.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$0.00$0.00$0.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "$78,000.00",
+            "Cost": "$0.00",
+            "Extra": "$78,000.00"
+          },
+          {
+            "Item": "Public Education/Outreach $60,000.00",
+            "Cost": "$0.00",
+            "Extra": "$60,000.00"
+          },
+          {
+            "Item": "Field Day Tours $8,100.00",
+            "Cost": "$0.00",
+            "Extra": "$8,100.00"
+          },
+          {
+            "Item": "Forestry BMP Education $3,600.00",
+            "Cost": "$0.00",
+            "Extra": "$3,600.00"
+          },
+          {
+            "Item": "Boater Education $4,500.00",
+            "Cost": "$0.00",
+            "Extra": "$4,500.00"
+          },
+          {
+            "Item": "Septic System $1,800.00",
+            "Cost": "$0.00",
+            "Extra": "$1,800.00"
+          },
+          {
+            "Item": "$12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Land Owner Incentives $12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Total                $1,467,850.00",
+            "Cost": "$837,325.00",
+            "Extra": "$630,525.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$78,000.00                           $0.00                           $78,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "$78,000.00",
+            "Cost": "$0.00",
+            "Extra": "$78,000.00"
+          },
+          {
+            "Item": "Public Education/Outreach $60,000.00",
+            "Cost": "$0.00",
+            "Extra": "$60,000.00"
+          },
+          {
+            "Item": "Field Day Tours $8,100.00",
+            "Cost": "$0.00",
+            "Extra": "$8,100.00"
+          },
+          {
+            "Item": "Forestry BMP Education $3,600.00",
+            "Cost": "$0.00",
+            "Extra": "$3,600.00"
+          },
+          {
+            "Item": "Boater Education $4,500.00",
+            "Cost": "$0.00",
+            "Extra": "$4,500.00"
+          },
+          {
+            "Item": "Septic System $1,800.00",
+            "Cost": "$0.00",
+            "Extra": "$1,800.00"
+          },
+          {
+            "Item": "$12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Land Owner Incentives $12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Total                $1,467,850.00",
+            "Cost": "$837,325.00",
+            "Extra": "$630,525.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Public Education/Outreach $60,000.00 $0.00 $60,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Public Education/Outreach $60,000.00",
+            "Cost": "$0.00",
+            "Extra": "$60,000.00"
+          },
+          {
+            "Item": "Field Day Tours $8,100.00",
+            "Cost": "$0.00",
+            "Extra": "$8,100.00"
+          },
+          {
+            "Item": "Forestry BMP Education $3,600.00",
+            "Cost": "$0.00",
+            "Extra": "$3,600.00"
+          },
+          {
+            "Item": "Boater Education $4,500.00",
+            "Cost": "$0.00",
+            "Extra": "$4,500.00"
+          },
+          {
+            "Item": "Septic System $1,800.00",
+            "Cost": "$0.00",
+            "Extra": "$1,800.00"
+          },
+          {
+            "Item": "$12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Land Owner Incentives $12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Total                $1,467,850.00",
+            "Cost": "$837,325.00",
+            "Extra": "$630,525.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Field Day Tours $8,100.00 $0.00 $8,100.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Field Day Tours $8,100.00",
+            "Cost": "$0.00",
+            "Extra": "$8,100.00"
+          },
+          {
+            "Item": "Forestry BMP Education $3,600.00",
+            "Cost": "$0.00",
+            "Extra": "$3,600.00"
+          },
+          {
+            "Item": "Boater Education $4,500.00",
+            "Cost": "$0.00",
+            "Extra": "$4,500.00"
+          },
+          {
+            "Item": "Septic System $1,800.00",
+            "Cost": "$0.00",
+            "Extra": "$1,800.00"
+          },
+          {
+            "Item": "$12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Land Owner Incentives $12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Total                $1,467,850.00",
+            "Cost": "$837,325.00",
+            "Extra": "$630,525.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Forestry BMP Education $3,600.00 $0.00 $3,600.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Forestry BMP Education $3,600.00",
+            "Cost": "$0.00",
+            "Extra": "$3,600.00"
+          },
+          {
+            "Item": "Boater Education $4,500.00",
+            "Cost": "$0.00",
+            "Extra": "$4,500.00"
+          },
+          {
+            "Item": "Septic System $1,800.00",
+            "Cost": "$0.00",
+            "Extra": "$1,800.00"
+          },
+          {
+            "Item": "$12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Land Owner Incentives $12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Total                $1,467,850.00",
+            "Cost": "$837,325.00",
+            "Extra": "$630,525.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Boater Education $4,500.00 $0.00 $4,500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Boater Education $4,500.00",
+            "Cost": "$0.00",
+            "Extra": "$4,500.00"
+          },
+          {
+            "Item": "Septic System $1,800.00",
+            "Cost": "$0.00",
+            "Extra": "$1,800.00"
+          },
+          {
+            "Item": "$12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Land Owner Incentives $12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Total                $1,467,850.00",
+            "Cost": "$837,325.00",
+            "Extra": "$630,525.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Septic System $1,800.00 $0.00 $1,800.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Septic System $1,800.00",
+            "Cost": "$0.00",
+            "Extra": "$1,800.00"
+          },
+          {
+            "Item": "$12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Land Owner Incentives $12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Total                $1,467,850.00",
+            "Cost": "$837,325.00",
+            "Extra": "$630,525.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$12,250.00                  $12,250.00                  $0.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "$12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Land Owner Incentives $12,250.00",
+            "Cost": "$12,250.00",
+            "Extra": "$0.00"
+          },
+          {
+            "Item": "Total                $1,467,850.00",
+            "Cost": "$837,325.00",
+            "Extra": "$630,525.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "installation are approximately $1.5 million, including in-kind services and cost-shares.  Matching funds",
+      "rows": [
+        {
+          "name": "installation are approximately",
+          "totalCost": 1,
+          "rawCost": "$1"
+        },
+        {
+          "name": "$524,150.00",
+          "totalCost": 134400,
+          "rawCost": "$134,400.00"
+        },
+        {
+          "name": "Administration                  $47,400.00",
+          "totalCost": 35400,
+          "rawCost": "$35,400.00"
+        },
+        {
+          "name": "Project                  Coordination                  $123,000.00",
+          "totalCost": 84000,
+          "rawCost": "$84,000.00"
+        },
+        {
+          "name": "Monitoring                                           $60,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Source Water Assessment $51,000.00",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "BMP Activities $242,750.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$11,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System Seminars $1,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Source Water Assessment $1,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Administration                                       $3,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Project Coordination $6,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$0.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$841,950.00",
+          "totalCost": 690675,
+          "rawCost": "$690,675.00"
+        },
+        {
+          "name": "Education                    Supplies                    $10,200.00",
+          "totalCost": 6675,
+          "rawCost": "$6,675.00"
+        },
+        {
+          "name": "BMP                Activities                $831,750.00",
+          "totalCost": 684000,
+          "rawCost": "$684,000.00"
+        },
+        {
+          "name": "$78,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Public Education/Outreach $60,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Field Day Tours $8,100.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Forestry BMP Education $3,600.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Boater Education $4,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System $1,800.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Land Owner Incentives $12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Total                $1,467,850.00",
+          "totalCost": 837325,
+          "rawCost": "$837,325.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2511976,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$524,150.00                $134,400.00                $389,750.00",
+      "rows": [
+        {
+          "name": "$524,150.00",
+          "totalCost": 134400,
+          "rawCost": "$134,400.00"
+        },
+        {
+          "name": "Administration                  $47,400.00",
+          "totalCost": 35400,
+          "rawCost": "$35,400.00"
+        },
+        {
+          "name": "Project                  Coordination                  $123,000.00",
+          "totalCost": 84000,
+          "rawCost": "$84,000.00"
+        },
+        {
+          "name": "Monitoring                                           $60,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Source Water Assessment $51,000.00",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "BMP Activities $242,750.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$11,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System Seminars $1,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Source Water Assessment $1,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Administration                                       $3,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Project Coordination $6,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$0.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$841,950.00",
+          "totalCost": 690675,
+          "rawCost": "$690,675.00"
+        },
+        {
+          "name": "Education                    Supplies                    $10,200.00",
+          "totalCost": 6675,
+          "rawCost": "$6,675.00"
+        },
+        {
+          "name": "BMP                Activities                $831,750.00",
+          "totalCost": 684000,
+          "rawCost": "$684,000.00"
+        },
+        {
+          "name": "$78,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Public Education/Outreach $60,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Field Day Tours $8,100.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Forestry BMP Education $3,600.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Boater Education $4,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System $1,800.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Land Owner Incentives $12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Total                $1,467,850.00",
+          "totalCost": 837325,
+          "rawCost": "$837,325.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2511975,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Administration                  $47,400.00                  $35,400.00                  $12,000.00",
+      "rows": [
+        {
+          "name": "Administration                  $47,400.00",
+          "totalCost": 35400,
+          "rawCost": "$35,400.00"
+        },
+        {
+          "name": "Project                  Coordination                  $123,000.00",
+          "totalCost": 84000,
+          "rawCost": "$84,000.00"
+        },
+        {
+          "name": "Monitoring                                           $60,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Source Water Assessment $51,000.00",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "BMP Activities $242,750.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$11,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System Seminars $1,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Source Water Assessment $1,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Administration                                       $3,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Project Coordination $6,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$0.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$841,950.00",
+          "totalCost": 690675,
+          "rawCost": "$690,675.00"
+        },
+        {
+          "name": "Education                    Supplies                    $10,200.00",
+          "totalCost": 6675,
+          "rawCost": "$6,675.00"
+        },
+        {
+          "name": "BMP                Activities                $831,750.00",
+          "totalCost": 684000,
+          "rawCost": "$684,000.00"
+        },
+        {
+          "name": "$78,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Public Education/Outreach $60,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Field Day Tours $8,100.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Forestry BMP Education $3,600.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Boater Education $4,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System $1,800.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Land Owner Incentives $12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Total                $1,467,850.00",
+          "totalCost": 837325,
+          "rawCost": "$837,325.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2377575,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Project                  Coordination                  $123,000.00                  $84,000.00                  $39,000.00",
+      "rows": [
+        {
+          "name": "Project                  Coordination                  $123,000.00",
+          "totalCost": 84000,
+          "rawCost": "$84,000.00"
+        },
+        {
+          "name": "Monitoring                                           $60,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Source Water Assessment $51,000.00",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "BMP Activities $242,750.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$11,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System Seminars $1,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Source Water Assessment $1,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Administration                                       $3,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Project Coordination $6,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$0.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$841,950.00",
+          "totalCost": 690675,
+          "rawCost": "$690,675.00"
+        },
+        {
+          "name": "Education                    Supplies                    $10,200.00",
+          "totalCost": 6675,
+          "rawCost": "$6,675.00"
+        },
+        {
+          "name": "BMP                Activities                $831,750.00",
+          "totalCost": 684000,
+          "rawCost": "$684,000.00"
+        },
+        {
+          "name": "$78,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Public Education/Outreach $60,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Field Day Tours $8,100.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Forestry BMP Education $3,600.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Boater Education $4,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System $1,800.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Land Owner Incentives $12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Total                $1,467,850.00",
+          "totalCost": 837325,
+          "rawCost": "$837,325.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2342175,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Monitoring                                           $60,000.00                                           $0.00                                           $60,000.00",
+      "rows": [
+        {
+          "name": "Monitoring                                           $60,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Source Water Assessment $51,000.00",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "BMP Activities $242,750.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$11,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System Seminars $1,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Source Water Assessment $1,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Administration                                       $3,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Project Coordination $6,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$0.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$841,950.00",
+          "totalCost": 690675,
+          "rawCost": "$690,675.00"
+        },
+        {
+          "name": "Education                    Supplies                    $10,200.00",
+          "totalCost": 6675,
+          "rawCost": "$6,675.00"
+        },
+        {
+          "name": "BMP                Activities                $831,750.00",
+          "totalCost": 684000,
+          "rawCost": "$684,000.00"
+        },
+        {
+          "name": "$78,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Public Education/Outreach $60,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Field Day Tours $8,100.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Forestry BMP Education $3,600.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Boater Education $4,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System $1,800.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Land Owner Incentives $12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Total                $1,467,850.00",
+          "totalCost": 837325,
+          "rawCost": "$837,325.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2258175,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Source Water Assessment $51,000.00 $15,000.00 $36,000.00",
+      "rows": [
+        {
+          "name": "Source Water Assessment $51,000.00",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "BMP Activities $242,750.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$11,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System Seminars $1,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Source Water Assessment $1,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Administration                                       $3,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Project Coordination $6,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$0.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$841,950.00",
+          "totalCost": 690675,
+          "rawCost": "$690,675.00"
+        },
+        {
+          "name": "Education                    Supplies                    $10,200.00",
+          "totalCost": 6675,
+          "rawCost": "$6,675.00"
+        },
+        {
+          "name": "BMP                Activities                $831,750.00",
+          "totalCost": 684000,
+          "rawCost": "$684,000.00"
+        },
+        {
+          "name": "$78,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Public Education/Outreach $60,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Field Day Tours $8,100.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Forestry BMP Education $3,600.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Boater Education $4,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System $1,800.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Land Owner Incentives $12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Total                $1,467,850.00",
+          "totalCost": 837325,
+          "rawCost": "$837,325.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2258175,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "BMP Activities $242,750.00 $0.00 $242,750.00",
+      "rows": [
+        {
+          "name": "BMP Activities $242,750.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$11,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System Seminars $1,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Source Water Assessment $1,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Administration                                       $3,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Project Coordination $6,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$0.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$841,950.00",
+          "totalCost": 690675,
+          "rawCost": "$690,675.00"
+        },
+        {
+          "name": "Education                    Supplies                    $10,200.00",
+          "totalCost": 6675,
+          "rawCost": "$6,675.00"
+        },
+        {
+          "name": "BMP                Activities                $831,750.00",
+          "totalCost": 684000,
+          "rawCost": "$684,000.00"
+        },
+        {
+          "name": "$78,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Public Education/Outreach $60,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Field Day Tours $8,100.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Forestry BMP Education $3,600.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Boater Education $4,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System $1,800.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Land Owner Incentives $12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Total                $1,467,850.00",
+          "totalCost": 837325,
+          "rawCost": "$837,325.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2243175,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$11,500.00                           $0.00                           $11,500.00",
+      "rows": [
+        {
+          "name": "$11,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System Seminars $1,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Source Water Assessment $1,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Administration                                       $3,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Project Coordination $6,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$0.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$841,950.00",
+          "totalCost": 690675,
+          "rawCost": "$690,675.00"
+        },
+        {
+          "name": "Education                    Supplies                    $10,200.00",
+          "totalCost": 6675,
+          "rawCost": "$6,675.00"
+        },
+        {
+          "name": "BMP                Activities                $831,750.00",
+          "totalCost": 684000,
+          "rawCost": "$684,000.00"
+        },
+        {
+          "name": "$78,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Public Education/Outreach $60,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Field Day Tours $8,100.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Forestry BMP Education $3,600.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Boater Education $4,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System $1,800.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Land Owner Incentives $12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Total                $1,467,850.00",
+          "totalCost": 837325,
+          "rawCost": "$837,325.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2243175,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Septic System Seminars $1,500.00 $0.00 $1,500.00",
+      "rows": [
+        {
+          "name": "Septic System Seminars $1,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Source Water Assessment $1,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Administration                                       $3,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Project Coordination $6,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$0.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$841,950.00",
+          "totalCost": 690675,
+          "rawCost": "$690,675.00"
+        },
+        {
+          "name": "Education                    Supplies                    $10,200.00",
+          "totalCost": 6675,
+          "rawCost": "$6,675.00"
+        },
+        {
+          "name": "BMP                Activities                $831,750.00",
+          "totalCost": 684000,
+          "rawCost": "$684,000.00"
+        },
+        {
+          "name": "$78,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Public Education/Outreach $60,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Field Day Tours $8,100.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Forestry BMP Education $3,600.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Boater Education $4,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System $1,800.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Land Owner Incentives $12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Total                $1,467,850.00",
+          "totalCost": 837325,
+          "rawCost": "$837,325.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2243175,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Source Water Assessment $1,000.00 $0.00 $1,000.00",
+      "rows": [
+        {
+          "name": "Source Water Assessment $1,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Administration                                       $3,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Project Coordination $6,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$0.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$841,950.00",
+          "totalCost": 690675,
+          "rawCost": "$690,675.00"
+        },
+        {
+          "name": "Education                    Supplies                    $10,200.00",
+          "totalCost": 6675,
+          "rawCost": "$6,675.00"
+        },
+        {
+          "name": "BMP                Activities                $831,750.00",
+          "totalCost": 684000,
+          "rawCost": "$684,000.00"
+        },
+        {
+          "name": "$78,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Public Education/Outreach $60,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Field Day Tours $8,100.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Forestry BMP Education $3,600.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Boater Education $4,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System $1,800.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Land Owner Incentives $12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Total                $1,467,850.00",
+          "totalCost": 837325,
+          "rawCost": "$837,325.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2243175,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Administration                                       $3,000.00                                       $0.00                                       $3,000.00",
+      "rows": [
+        {
+          "name": "Administration                                       $3,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Project Coordination $6,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$0.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$841,950.00",
+          "totalCost": 690675,
+          "rawCost": "$690,675.00"
+        },
+        {
+          "name": "Education                    Supplies                    $10,200.00",
+          "totalCost": 6675,
+          "rawCost": "$6,675.00"
+        },
+        {
+          "name": "BMP                Activities                $831,750.00",
+          "totalCost": 684000,
+          "rawCost": "$684,000.00"
+        },
+        {
+          "name": "$78,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Public Education/Outreach $60,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Field Day Tours $8,100.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Forestry BMP Education $3,600.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Boater Education $4,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System $1,800.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Land Owner Incentives $12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Total                $1,467,850.00",
+          "totalCost": 837325,
+          "rawCost": "$837,325.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2243175,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Project Coordination $6,000.00 $0.00 $6,000.00",
+      "rows": [
+        {
+          "name": "Project Coordination $6,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$0.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$841,950.00",
+          "totalCost": 690675,
+          "rawCost": "$690,675.00"
+        },
+        {
+          "name": "Education                    Supplies                    $10,200.00",
+          "totalCost": 6675,
+          "rawCost": "$6,675.00"
+        },
+        {
+          "name": "BMP                Activities                $831,750.00",
+          "totalCost": 684000,
+          "rawCost": "$684,000.00"
+        },
+        {
+          "name": "$78,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Public Education/Outreach $60,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Field Day Tours $8,100.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Forestry BMP Education $3,600.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Boater Education $4,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System $1,800.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Land Owner Incentives $12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Total                $1,467,850.00",
+          "totalCost": 837325,
+          "rawCost": "$837,325.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2243175,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$0.00                           $0.00                           $0.00",
+      "rows": [
+        {
+          "name": "$0.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$841,950.00",
+          "totalCost": 690675,
+          "rawCost": "$690,675.00"
+        },
+        {
+          "name": "Education                    Supplies                    $10,200.00",
+          "totalCost": 6675,
+          "rawCost": "$6,675.00"
+        },
+        {
+          "name": "BMP                Activities                $831,750.00",
+          "totalCost": 684000,
+          "rawCost": "$684,000.00"
+        },
+        {
+          "name": "$78,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Public Education/Outreach $60,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Field Day Tours $8,100.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Forestry BMP Education $3,600.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Boater Education $4,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System $1,800.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Land Owner Incentives $12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Total                $1,467,850.00",
+          "totalCost": 837325,
+          "rawCost": "$837,325.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2243175,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$841,950.00                $690,675.00                $151,275.00",
+      "rows": [
+        {
+          "name": "$841,950.00",
+          "totalCost": 690675,
+          "rawCost": "$690,675.00"
+        },
+        {
+          "name": "Education                    Supplies                    $10,200.00",
+          "totalCost": 6675,
+          "rawCost": "$6,675.00"
+        },
+        {
+          "name": "BMP                Activities                $831,750.00",
+          "totalCost": 684000,
+          "rawCost": "$684,000.00"
+        },
+        {
+          "name": "$78,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Public Education/Outreach $60,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Field Day Tours $8,100.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Forestry BMP Education $3,600.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Boater Education $4,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System $1,800.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Land Owner Incentives $12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Total                $1,467,850.00",
+          "totalCost": 837325,
+          "rawCost": "$837,325.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2243175,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Education                    Supplies                    $10,200.00                    $6,675.00                    $3,525.00",
+      "rows": [
+        {
+          "name": "Education                    Supplies                    $10,200.00",
+          "totalCost": 6675,
+          "rawCost": "$6,675.00"
+        },
+        {
+          "name": "BMP                Activities                $831,750.00",
+          "totalCost": 684000,
+          "rawCost": "$684,000.00"
+        },
+        {
+          "name": "$78,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Public Education/Outreach $60,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Field Day Tours $8,100.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Forestry BMP Education $3,600.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Boater Education $4,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System $1,800.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Land Owner Incentives $12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Total                $1,467,850.00",
+          "totalCost": 837325,
+          "rawCost": "$837,325.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1552500,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "BMP                Activities                $831,750.00                $684,000.00                $147,750.00",
+      "rows": [
+        {
+          "name": "BMP                Activities                $831,750.00",
+          "totalCost": 684000,
+          "rawCost": "$684,000.00"
+        },
+        {
+          "name": "$78,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Public Education/Outreach $60,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Field Day Tours $8,100.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Forestry BMP Education $3,600.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Boater Education $4,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System $1,800.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Land Owner Incentives $12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Total                $1,467,850.00",
+          "totalCost": 837325,
+          "rawCost": "$837,325.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1545825,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$0.00$0.00$0.00",
+      "rows": [
+        {
+          "name": "$78,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Public Education/Outreach $60,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Field Day Tours $8,100.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Forestry BMP Education $3,600.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Boater Education $4,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System $1,800.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Land Owner Incentives $12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Total                $1,467,850.00",
+          "totalCost": 837325,
+          "rawCost": "$837,325.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 861825,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$0.00$0.00$0.00",
+      "rows": [
+        {
+          "name": "$78,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Public Education/Outreach $60,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Field Day Tours $8,100.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Forestry BMP Education $3,600.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Boater Education $4,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System $1,800.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Land Owner Incentives $12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Total                $1,467,850.00",
+          "totalCost": 837325,
+          "rawCost": "$837,325.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 861825,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$78,000.00                           $0.00                           $78,000.00",
+      "rows": [
+        {
+          "name": "$78,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Public Education/Outreach $60,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Field Day Tours $8,100.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Forestry BMP Education $3,600.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Boater Education $4,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System $1,800.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Land Owner Incentives $12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Total                $1,467,850.00",
+          "totalCost": 837325,
+          "rawCost": "$837,325.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 861825,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Public Education/Outreach $60,000.00 $0.00 $60,000.00",
+      "rows": [
+        {
+          "name": "Public Education/Outreach $60,000.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Field Day Tours $8,100.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Forestry BMP Education $3,600.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Boater Education $4,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System $1,800.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Land Owner Incentives $12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Total                $1,467,850.00",
+          "totalCost": 837325,
+          "rawCost": "$837,325.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 861825,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Field Day Tours $8,100.00 $0.00 $8,100.00",
+      "rows": [
+        {
+          "name": "Field Day Tours $8,100.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Forestry BMP Education $3,600.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Boater Education $4,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System $1,800.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Land Owner Incentives $12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Total                $1,467,850.00",
+          "totalCost": 837325,
+          "rawCost": "$837,325.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 861825,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Forestry BMP Education $3,600.00 $0.00 $3,600.00",
+      "rows": [
+        {
+          "name": "Forestry BMP Education $3,600.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Boater Education $4,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System $1,800.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Land Owner Incentives $12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Total                $1,467,850.00",
+          "totalCost": 837325,
+          "rawCost": "$837,325.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 861825,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Boater Education $4,500.00 $0.00 $4,500.00",
+      "rows": [
+        {
+          "name": "Boater Education $4,500.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Septic System $1,800.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Land Owner Incentives $12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Total                $1,467,850.00",
+          "totalCost": 837325,
+          "rawCost": "$837,325.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 861825,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Septic System $1,800.00 $0.00 $1,800.00",
+      "rows": [
+        {
+          "name": "Septic System $1,800.00",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "$12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Land Owner Incentives $12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Total                $1,467,850.00",
+          "totalCost": 837325,
+          "rawCost": "$837,325.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 861825,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$12,250.00                  $12,250.00                  $0.00",
+      "rows": [
+        {
+          "name": "$12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Land Owner Incentives $12,250.00",
+          "totalCost": 12250,
+          "rawCost": "$12,250.00"
+        },
+        {
+          "name": "Total                $1,467,850.00",
+          "totalCost": 837325,
+          "rawCost": "$837,325.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 861825,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-02T13:23:25.590Z",
+  "metadata": {
+    "sourceId": "pickwick-reservoir-watershed-plan-2009",
+    "sourceFile": "pickwick-reservoir-watershed-plan-2009.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "adaptive_generic_costs",
+        "title": "installation are approximately $1.5 million, including in-kind services and cost-shares.  Matching funds",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2511976
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$524,150.00                $134,400.00                $389,750.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2511975
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Administration                  $47,400.00                  $35,400.00                  $12,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2377575
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Project                  Coordination                  $123,000.00                  $84,000.00                  $39,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2342175
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Monitoring                                           $60,000.00                                           $0.00                                           $60,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2258175
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Source Water Assessment $51,000.00 $15,000.00 $36,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2258175
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "BMP Activities $242,750.00 $0.00 $242,750.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2243175
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$11,500.00                           $0.00                           $11,500.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2243175
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Septic System Seminars $1,500.00 $0.00 $1,500.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2243175
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Source Water Assessment $1,000.00 $0.00 $1,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2243175
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Administration                                       $3,000.00                                       $0.00                                       $3,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2243175
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Project Coordination $6,000.00 $0.00 $6,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2243175
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$0.00                           $0.00                           $0.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2243175
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$841,950.00                $690,675.00                $151,275.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2243175
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Education                    Supplies                    $10,200.00                    $6,675.00                    $3,525.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1552500
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "BMP                Activities                $831,750.00                $684,000.00                $147,750.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1545825
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$0.00$0.00$0.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 861825
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$0.00$0.00$0.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 861825
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$78,000.00                           $0.00                           $78,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 861825
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Public Education/Outreach $60,000.00 $0.00 $60,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 861825
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Field Day Tours $8,100.00 $0.00 $8,100.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 861825
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Forestry BMP Education $3,600.00 $0.00 $3,600.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 861825
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Boater Education $4,500.00 $0.00 $4,500.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 861825
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Septic System $1,800.00 $0.00 $1,800.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 861825
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$12,250.00                  $12,250.00                  $0.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 861825
+      }
+    ]
+  }
+}

@@ -1,0 +1,3669 @@
+{
+  "id": "bear-lake-9-key-elelment-plan-2018",
+  "summary": {
+    "totalGoals": 1,
+    "totalBMPs": 77,
+    "totalActivities": 0,
+    "primaryGoals": 1,
+    "completionRate": 0,
+    "totalMetrics": 189,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 1,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "General": 73,
+      "Nutrient Management": 1,
+      "Vegetative": 2,
+      "Tillage": 1
+    },
+    "avgGoalConfidence": 0.95,
+    "strongGoals": 1
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "confidence": 0.95,
+      "isPrimary": true,
+      "primaryReason": "bronze_direct_slice",
+      "description": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "originalSentence": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "shortTitle": "The ultimate goal is to bring about behavior changes and the use of \"best…",
+      "_present": false
+    }
+  ],
+  "mainGoals": [
+    {
+      "id": "G1",
+      "title": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "confidence": 0.95,
+      "isPrimary": true,
+      "primaryReason": "bronze_direct_slice",
+      "description": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "originalSentence": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "shortTitle": "The ultimate goal is to bring about behavior changes and the use of \"best…",
+      "_present": false
+    }
+  ],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "Grade Stabilization Structure (#)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Grade Stabilization Structure (#)",
+      "_present": true
+    },
+    {
+      "id": "B2",
+      "name": "32",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "32 @ $6,480 $207,360  $82,944|name_cost_tail_trim",
+      "originalName": "32 @ $6,480 $207,360  $82,944",
+      "_present": true
+    },
+    {
+      "id": "B3",
+      "name": "Water Control Structure (#)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Water Control Structure (#)",
+      "_present": true
+    },
+    {
+      "id": "B4",
+      "name": "82",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "82 @ $2,400 $196,800  $78,720|name_cost_tail_trim",
+      "originalName": "82 @ $2,400 $196,800  $78,720",
+      "_present": true
+    },
+    {
+      "id": "B5",
+      "name": "Vegetated Ditch (in ft)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Vegetated Ditch (in ft)",
+      "_present": true
+    },
+    {
+      "id": "B6",
+      "name": "20,898",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "20,898 @ $10 $208,980  $83,592|name_cost_tail_trim",
+      "originalName": "20,898 @ $10 $208,980  $83,592",
+      "_present": true
+    },
+    {
+      "id": "B7",
+      "name": "Nutrient Management (ac - 1 yr)",
+      "category": "Nutrient Management",
+      "keyword": "Nutrient Management",
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.4,
+      "source": "Nutrient Management (ac - 1 yr)",
+      "_present": true
+    },
+    {
+      "id": "B8",
+      "name": "17,727",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "17,727 @ $2 $35,454  $14,182|name_cost_tail_trim",
+      "originalName": "17,727 @ $2 $35,454  $14,182",
+      "_present": true
+    },
+    {
+      "id": "B9",
+      "name": "Cover Crop (ac - 1 yr)",
+      "category": "Vegetative",
+      "keyword": "Cover Crop",
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.4,
+      "source": "Cover Crop (ac - 1 yr)",
+      "_present": true
+    },
+    {
+      "id": "B10",
+      "name": "No-Till/Strip-Till (ac - 1 yr)",
+      "category": "Tillage",
+      "keyword": "No-Till",
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.4,
+      "source": "No-Till/Strip-Till (ac - 1 yr)",
+      "_present": true
+    },
+    {
+      "id": "B11",
+      "name": "Education/Outreach",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Education/Outreach",
+      "_present": true
+    },
+    {
+      "id": "B12",
+      "name": "$24,900",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$24,900",
+      "_present": true
+    },
+    {
+      "id": "B13",
+      "name": "Grade Stabilization Structure (#) 5",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Grade Stabilization Structure (#) 5 @ $6,480 $32,400  $12,960|name_cost_tail_trim",
+      "originalName": "Grade Stabilization Structure (#) 5 @ $6,480 $32,400  $12,960",
+      "_present": true
+    },
+    {
+      "id": "B14",
+      "name": "Water Control Structure (#) 40",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Water Control Structure (#) 40 @ $2,400 $96,000  $38,400|name_cost_tail_trim",
+      "originalName": "Water Control Structure (#) 40 @ $2,400 $96,000  $38,400",
+      "_present": true
+    },
+    {
+      "id": "B15",
+      "name": "Cover Crop (3",
+      "category": "Vegetative",
+      "keyword": "Cover Crop",
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.4,
+      "source": "Cover Crop (3 80 ac sites - 2 yr)|name_cost_tail_trim",
+      "originalName": "Cover Crop (3 80 ac sites - 2 yr)",
+      "_present": true
+    },
+    {
+      "id": "B16",
+      "name": "240 ac/yr @",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "240 ac/yr @",
+      "_present": true
+    },
+    {
+      "id": "B17",
+      "name": "$73",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$73 $35,040  $14,016|name_cost_tail_trim",
+      "originalName": "$73 $35,040  $14,016",
+      "_present": true
+    },
+    {
+      "id": "B18",
+      "name": "Education/Outreach N/A",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Education/Outreach N/A $24,900  N/A|name_cost_tail_trim",
+      "originalName": "Education/Outreach N/A $24,900  N/A",
+      "_present": true
+    },
+    {
+      "id": "B19",
+      "name": "Monitoring N/A",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Monitoring N/A $90,000  N/A|name_cost_tail_trim",
+      "originalName": "Monitoring N/A $90,000  N/A",
+      "_present": true
+    },
+    {
+      "id": "B20",
+      "name": "Project Management, Implementation,",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Project Management, Implementation,",
+      "_present": true
+    },
+    {
+      "id": "B21",
+      "name": "Coordination, Plan Revision",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Coordination, Plan Revision",
+      "_present": true
+    },
+    {
+      "id": "B22",
+      "name": "$54,660  N/A",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$54,660  N/A",
+      "_present": true
+    },
+    {
+      "id": "B23",
+      "name": "Total Estimated Project Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Total Estimated Project Cost   $333,000  $65,376|name_cost_tail_trim",
+      "originalName": "Total Estimated Project Cost   $333,000  $65,376",
+      "_present": true
+    },
+    {
+      "id": "B24",
+      "name": "Element e: Information and Education",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Element e: Information and Education",
+      "_present": true
+    },
+    {
+      "id": "B25",
+      "name": "The MDEQ, in cooperation with numerous federal, state, and local stakeholders has developed diversified information/education programs, best management practices manuals, literature, books, videos, and public service announcements that address pollutants from the seven (7)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "The MDEQ, in cooperation with numerous federal, state, and local stakeholders has developed diversified information/education programs, best management practices manuals, literature, books, videos, and public service announcements that address pollutants from the seven (7)",
+      "_present": false
+    },
+    {
+      "id": "B26",
+      "name": "major land-use categories of Nonpoint Source Pollution, namely; agriculture, construction, forestry, on-site waste water disposal, surface mining, urban storm water runoff, and hydrologic modification.  Audiences from pre-school to adults throughout the state are reached with a",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "major land-use categories of Nonpoint Source Pollution, namely; agriculture, construction, forestry, on-site waste water disposal, surface mining, urban storm water runoff, and hydrologic modification.  Audiences from pre-school to adults throughout the state are reached with a",
+      "_present": false
+    },
+    {
+      "id": "B27",
+      "name": "variety of mature, well-designed programs each year. These programs, events, manuals and literature can be used in the Bear Lake watershed project by tailoring them to address the sedimentation.  A positive approach is used to reach the full diversity of people in the",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "variety of mature, well-designed programs each year. These programs, events, manuals and literature can be used in the Bear Lake watershed project by tailoring them to address the sedimentation.  A positive approach is used to reach the full diversity of people in the",
+      "_present": false
+    },
+    {
+      "id": "B28",
+      "name": "community with projects that foster a “sense of place”, a “sense of pride in community”, and a sense of the native plants, animals, and general ecology of their region, as well as, the history of the community and a sense of economics.  Stakeholders and coordinators join together to",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "community with projects that foster a “sense of place”, a “sense of pride in community”, and a sense of the native plants, animals, and general ecology of their region, as well as, the history of the community and a sense of economics.  Stakeholders and coordinators join together to",
+      "_present": false
+    },
+    {
+      "id": "B29",
+      "name": "participate in problem-solving brainstorming, plan development, training workshops, festival event planning, soil and water conservation field days, tree boards, poster, art and writing projects and other activities that promote collaboration and ownership of the watershed, as well",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "participate in problem-solving brainstorming, plan development, training workshops, festival event planning, soil and water conservation field days, tree boards, poster, art and writing projects and other activities that promote collaboration and ownership of the watershed, as well",
+      "_present": false
+    },
+    {
+      "id": "B30",
+      "name": "as, solutions to its problems.  The ultimate goal is to bring about behavior changes and the use of “best management practices” that will improve water quality and the overall quality of life in the watershed.  Evaluation forms, pre-test/ post-test, surveys, and reporting of the number of people who attend workshops, trainings and events are among the methods used to measure the success of education/information programs.  A partial list of MDEQ’s programs that could be used in the Moon Lake watershed are listed below: Bear Lake Watershed Plan GY 17 8  Water Model Presentations - Enviroscapes and groundwater aquifer models distributed statewide with training and related interactive lesson plans.",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "as, solutions to its problems.  The ultimate goal is to bring about behavior changes and the use of “best management practices” that will improve water quality and the overall quality of life in the watershed.  Evaluation forms, pre-test/ post-test, surveys, and reporting of the number of people who attend workshops, trainings and events are among the methods used to measure the success of education/information programs.  A partial list of MDEQ’s programs that could be used in the Moon Lake watershed are listed below: Bear Lake Watershed Plan GY 17 8  Water Model Presentations - Enviroscapes and groundwater aquifer models distributed statewide with training and related interactive lesson plans.",
+      "_present": false
+    },
+    {
+      "id": "B31",
+      "name": " Teacher Workshops – train educators in proximity to the watershed about NPS pollution and provide materials and information that can be used in their classrooms.",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": "train",
+      "confidence": 0.15,
+      "source": " Teacher Workshops – train educators in proximity to the watershed about NPS pollution and provide materials and information that can be used in their classrooms.",
+      "_present": false
+    },
+    {
+      "id": "B32",
+      "name": " Adopt A Stream - workshops and training venues for citizens, teachers, and students in the Moon Lake Watershed.",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": " Adopt A Stream - workshops and training venues for citizens, teachers, and students in the Moon Lake Watershed.",
+      "_present": false
+    },
+    {
+      "id": "B33",
+      "name": " Watershed Harmony Mobile Classroom - for ages kindergarten – adults with state and federal public education objectives tailored for 4 th and 5 th grade students.",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": " Watershed Harmony Mobile Classroom - for ages kindergarten – adults with state and federal public education objectives tailored for 4 th and 5 th grade students.",
+      "_present": false
+    },
+    {
+      "id": "B34",
+      "name": "  “Train the Trainer” - workshops and materials for Soil and Water districts, Extension",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": "train",
+      "confidence": 0.15,
+      "source": "  “Train the Trainer” - workshops and materials for Soil and Water districts, Extension",
+      "_present": true
+    },
+    {
+      "id": "B35",
+      "name": "Service, etc.",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Service, etc.",
+      "_present": true
+    },
+    {
+      "id": "B36",
+      "name": "As part of the education outreach efforts, the stakeholder group forming the Bear Lake",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "As part of the education outreach efforts, the stakeholder group forming the Bear Lake",
+      "_present": true
+    },
+    {
+      "id": "B37",
+      "name": "Watershed Implementation Team (WIT) will participate in a minimum of five face-to-face meetings.  The purpose of these meetings is to provide updates on implementation activities, education events and review and modify the watershed plan.  In concert with these WIT",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Watershed Implementation Team (WIT) will participate in a minimum of five face-to-face meetings.  The purpose of these meetings is to provide updates on implementation activities, education events and review and modify the watershed plan.  In concert with these WIT",
+      "_present": false
+    },
+    {
+      "id": "B38",
+      "name": "meetings, and to incentivize stakeholder participation, project funding will be used to purchase food and other refreshments for the WIT along with providing support for renting facilities in which to host those events.",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "meetings, and to incentivize stakeholder participation, project funding will be used to purchase food and other refreshments for the WIT along with providing support for renting facilities in which to host those events.",
+      "_present": false
+    },
+    {
+      "id": "B39",
+      "name": "Element f: Implementation Schedule",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Element f: Implementation Schedule",
+      "_present": true
+    },
+    {
+      "id": "B40",
+      "name": "The following work plan describes the approaches and tasks that the grantee shall collaboratively perform with project partners to advance and implement this watershed-based plan. During this effort, the grantee will work with the MDEQ Basin Team and will put forth its best effort to",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": "implement",
+      "confidence": 0.15,
+      "source": "The following work plan describes the approaches and tasks that the grantee shall collaboratively perform with project partners to advance and implement this watershed-based plan. During this effort, the grantee will work with the MDEQ Basin Team and will put forth its best effort to",
+      "_present": false
+    },
+    {
+      "id": "B41",
+      "name": "perform the tasks identified below within the given timetable.",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "perform the tasks identified below within the given timetable.",
+      "_present": true
+    },
+    {
+      "id": "B42",
+      "name": "1. In the event of §319 NPS funding award from MDEQ to support implementation of this watershed-based plan for this HUC 12 sub-watershed, the grantee shall work with MDEQ",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "1. In the event of §319 NPS funding award from MDEQ to support implementation of this watershed-based plan for this HUC 12 sub-watershed, the grantee shall work with MDEQ",
+      "_present": false
+    },
+    {
+      "id": "B43",
+      "name": "to develop, execute, and implement a Sub-Grant Agreement that roles, tasks, requirements, and milestones of the grantee. (Month 1)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": "implement",
+      "confidence": 0.15,
+      "source": "to develop, execute, and implement a Sub-Grant Agreement that roles, tasks, requirements, and milestones of the grantee. (Month 1)",
+      "_present": false
+    },
+    {
+      "id": "B44",
+      "name": "2. The grantee, with assistance from MDEQ, shall determine priority areas that are contributing significant sediment loading to the watershed.  (Months 1-2)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "2. The grantee, with assistance from MDEQ, shall determine priority areas that are contributing significant sediment loading to the watershed.  (Months 1-2)",
+      "_present": false
+    },
+    {
+      "id": "B45",
+      "name": "3. The grantee, with assistance from MDEQ, shall assist in the identification of members and development of a Watershed Implementation Team (WIT). (Months 1-2)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "3. The grantee, with assistance from MDEQ, shall assist in the identification of members and development of a Watershed Implementation Team (WIT). (Months 1-2)",
+      "_present": false
+    },
+    {
+      "id": "B46",
+      "name": "4. The grantee, with assistance from the WIT, shall develop a Watershed Based Plan (WBP) for the watershed that includes the tasks for achieving a reduction in sediment loading to waterbodies within the watershed. (Months 1-6)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "4. The grantee, with assistance from the WIT, shall develop a Watershed Based Plan (WBP) for the watershed that includes the tasks for achieving a reduction in sediment loading to waterbodies within the watershed. (Months 1-6)",
+      "_present": false
+    },
+    {
+      "id": "B47",
+      "name": "5. The grantee, in cooperation with the WIT, MDEQ, and others, shall assist in the development and implementation of a watershed monitoring plan for the project (Months 1-",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "5. The grantee, in cooperation with the WIT, MDEQ, and others, shall assist in the development and implementation of a watershed monitoring plan for the project (Months 1-",
+      "_present": false
+    },
+    {
+      "id": "B48",
+      "name": "36).",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "36).",
+      "_present": true
+    },
+    {
+      "id": "B49",
+      "name": "Bear Lake Watershed Plan GY 17",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Bear Lake Watershed Plan GY 17",
+      "_present": true
+    },
+    {
+      "id": "B50",
+      "name": "9",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "9",
+      "_present": true
+    },
+    {
+      "id": "B51",
+      "name": "6. The grantee shall inform landowners and operators within the identified priority areas about the project and secure commitments from these priority-area landowners and operators who are willing to participate in the project. (Months 1-12)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "6. The grantee shall inform landowners and operators within the identified priority areas about the project and secure commitments from these priority-area landowners and operators who are willing to participate in the project. (Months 1-12)",
+      "_present": false
+    },
+    {
+      "id": "B52",
+      "name": "7. The grantee, in accordance with the previously submitted and approved WBP, shall develop plans for the installation of BMPs on priority lands within the watershed.",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "7. The grantee, in accordance with the previously submitted and approved WBP, shall develop plans for the installation of BMPs on priority lands within the watershed.",
+      "_present": false
+    },
+    {
+      "id": "B53",
+      "name": "(Months 2-36)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "(Months 2-36)",
+      "_present": true
+    },
+    {
+      "id": "B54",
+      "name": "8. The grantee shall assist participants in installing approved BMPs.  All BMPs shall be installed in accordance with the guidelines developed in the latest edition of the NRCS",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "8. The grantee shall assist participants in installing approved BMPs.  All BMPs shall be installed in accordance with the guidelines developed in the latest edition of the NRCS",
+      "_present": false
+    },
+    {
+      "id": "B55",
+      "name": "Technical Field Manual, or other approved guidelines. (Months 2-36)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Technical Field Manual, or other approved guidelines. (Months 2-36)",
+      "_present": true
+    },
+    {
+      "id": "B56",
+      "name": "9. The grantee shall, in a timely manner, notify MDEQ project officer of all project-site locations/inspections/public meetings so that MDEQ project officer may have the opportunity to attend.  (Months 2-36)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "9. The grantee shall, in a timely manner, notify MDEQ project officer of all project-site locations/inspections/public meetings so that MDEQ project officer may have the opportunity to attend.  (Months 2-36)",
+      "_present": false
+    },
+    {
+      "id": "B57",
+      "name": "10. The grantee shall collect relevant GPS coordinates of all implemented practices and incorporate into GIS format.  All geospatial data shall be collected in a manner consistent with the Federal Geographic Data Committee endorsed standards.  (Months 1-36)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "10. The grantee shall collect relevant GPS coordinates of all implemented practices and incorporate into GIS format.  All geospatial data shall be collected in a manner consistent with the Federal Geographic Data Committee endorsed standards.  (Months 1-36)",
+      "_present": false
+    },
+    {
+      "id": "B58",
+      "name": "11. The grantee shall take adequate photo documentation before, during, and after the installation of the implemented practice. (Months 1-36)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "11. The grantee shall take adequate photo documentation before, during, and after the installation of the implemented practice. (Months 1-36)",
+      "_present": false
+    },
+    {
+      "id": "B59",
+      "name": "12. The grantee shall submit bi-annual reports not later than September 25 th and March 25 th of each year showing the status of tasks and start/completion dates of each task. (Months 1-36)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "12. The grantee shall submit bi-annual reports not later than September 25 th and March 25 th of each year showing the status of tasks and start/completion dates of each task. (Months 1-36)",
+      "_present": false
+    },
+    {
+      "id": "B60",
+      "name": "13. The grantee shall make project presentations as requested by MDEQ. (Month 1-36)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "13. The grantee shall make project presentations as requested by MDEQ. (Month 1-36)",
+      "_present": true
+    },
+    {
+      "id": "B61",
+      "name": "14. The grantee shall assist the MDEQ project officer in conducting inspections during construction. (Months 3-36)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "14. The grantee shall assist the MDEQ project officer in conducting inspections during construction. (Months 3-36)",
+      "_present": false
+    },
+    {
+      "id": "B62",
+      "name": "15. The grantee shall submit a final report to MDEQ to include measured, or estimated, non- point source pollutant reductions or water quality improvements, acreage affected, pre-",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "15. The grantee shall submit a final report to MDEQ to include measured, or estimated, non- point source pollutant reductions or water quality improvements, acreage affected, pre-",
+      "_present": false
+    },
+    {
+      "id": "B63",
+      "name": "and post- site conditions, and GIS data.  The grantee shall make revisions, if necessary, upon the request of MDEQ. (Month 36)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "and post- site conditions, and GIS data.  The grantee shall make revisions, if necessary, upon the request of MDEQ. (Month 36)",
+      "_present": false
+    },
+    {
+      "id": "B64",
+      "name": "10",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "10",
+      "_present": true
+    },
+    {
+      "id": "B65",
+      "name": "Element g:  Milestones and Outcomes",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Element g:  Milestones and Outcomes",
+      "_present": true
+    },
+    {
+      "id": "B66",
+      "name": "Milestone Outcome Probable Completion",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Milestone Outcome Probable Completion",
+      "_present": true
+    },
+    {
+      "id": "B67",
+      "name": "Date",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Date",
+      "_present": true
+    },
+    {
+      "id": "B68",
+      "name": "Coordinate with the MDEQ, NRCS, and",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Coordinate with the MDEQ, NRCS, and",
+      "_present": true
+    },
+    {
+      "id": "B69",
+      "name": "USGS to determine priority areas that are contributing significant pollutant loads to Moon Lake",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "USGS to determine priority areas that are contributing significant pollutant loads to Moon Lake",
+      "_present": false
+    },
+    {
+      "id": "B70",
+      "name": "Target priority areas for BMPs",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Target priority areas for BMPs",
+      "_present": false
+    },
+    {
+      "id": "B71",
+      "name": "Month 1-6",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Month 1-6",
+      "_present": true
+    },
+    {
+      "id": "B72",
+      "name": "Establish Watershed Implementation",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Establish Watershed Implementation",
+      "_present": true
+    },
+    {
+      "id": "B73",
+      "name": "Team to begin refinement of Watershed",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Team to begin refinement of Watershed",
+      "_present": true
+    },
+    {
+      "id": "B74",
+      "name": "Based Plan for Moon Lake watershed",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Based Plan for Moon Lake watershed",
+      "_present": true
+    },
+    {
+      "id": "B75",
+      "name": "Establish WIT",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Establish WIT",
+      "_present": true
+    },
+    {
+      "id": "B76",
+      "name": "Month 1-2",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Month 1-2",
+      "_present": true
+    },
+    {
+      "id": "B77",
+      "name": "Initiate watershed monitoring Baseline condition",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Initiate watershed monitoring Baseline condition",
+      "_present": true
+    }
+  ],
+  "bmpCostTable": {
+    "id": "adaptive_generic_costs",
+    "title": "32 @ $6,480 $207,360  $82,944",
+    "table": {
+      "columns": [
+        "Item",
+        "Cost",
+        "Extra?"
+      ],
+      "rows": [
+        {
+          "Item": "32 @ $6,480",
+          "Cost": "$207,360",
+          "Extra": "$82,944"
+        },
+        {
+          "Item": "82 @ $2,400",
+          "Cost": "$196,800",
+          "Extra": "$78,720"
+        },
+        {
+          "Item": "20,898 @ $10",
+          "Cost": "$208,980",
+          "Extra": "$83,592"
+        },
+        {
+          "Item": "17,727 @ $2",
+          "Cost": "$35,454",
+          "Extra": "$14,182"
+        },
+        {
+          "Item": "17,727 @ $73",
+          "Cost": "$1,294,071",
+          "Extra": "$517,628"
+        }
+      ],
+      "total": null
+    },
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTableNormalized": {
+    "id": "adaptive_generic_costs",
+    "title": "32 @ $6,480 $207,360  $82,944",
+    "rows": [
+      {
+        "name": "32 @ $6,480",
+        "totalCost": 207360,
+        "rawCost": "$207,360"
+      },
+      {
+        "name": "82 @ $2,400",
+        "totalCost": 196800,
+        "rawCost": "$196,800"
+      },
+      {
+        "name": "20,898 @ $10",
+        "totalCost": 208980,
+        "rawCost": "$208,980"
+      },
+      {
+        "name": "17,727 @ $2",
+        "totalCost": 35454,
+        "rawCost": "$35,454"
+      },
+      {
+        "name": "17,727 @ $73",
+        "totalCost": 1294071,
+        "rawCost": "$1,294,071"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 1942665,
+    "discrepancy": null,
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTables": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "32 @ $6,480 $207,360  $82,944",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "32 @ $6,480",
+            "Cost": "$207,360",
+            "Extra": "$82,944"
+          },
+          {
+            "Item": "82 @ $2,400",
+            "Cost": "$196,800",
+            "Extra": "$78,720"
+          },
+          {
+            "Item": "20,898 @ $10",
+            "Cost": "$208,980",
+            "Extra": "$83,592"
+          },
+          {
+            "Item": "17,727 @ $2",
+            "Cost": "$35,454",
+            "Extra": "$14,182"
+          },
+          {
+            "Item": "17,727 @ $73",
+            "Cost": "$1,294,071",
+            "Extra": "$517,628"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "82 @ $2,400 $196,800  $78,720",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "82 @ $2,400",
+            "Cost": "$196,800",
+            "Extra": "$78,720"
+          },
+          {
+            "Item": "20,898 @ $10",
+            "Cost": "$208,980",
+            "Extra": "$83,592"
+          },
+          {
+            "Item": "17,727 @ $2",
+            "Cost": "$35,454",
+            "Extra": "$14,182"
+          },
+          {
+            "Item": "17,727 @ $73",
+            "Cost": "$1,294,071",
+            "Extra": "$517,628"
+          },
+          {
+            "Item": "17,727 @ $15",
+            "Cost": "$265,905",
+            "Extra": "$106,362"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "20,898 @ $10 $208,980  $83,592",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "20,898 @ $10",
+            "Cost": "$208,980",
+            "Extra": "$83,592"
+          },
+          {
+            "Item": "17,727 @ $2",
+            "Cost": "$35,454",
+            "Extra": "$14,182"
+          },
+          {
+            "Item": "17,727 @ $73",
+            "Cost": "$1,294,071",
+            "Extra": "$517,628"
+          },
+          {
+            "Item": "17,727 @ $15",
+            "Cost": "$265,905",
+            "Extra": "$106,362"
+          },
+          {
+            "Item": "Grade Stabilization Structure (#) 5 @ $6,480",
+            "Cost": "$32,400",
+            "Extra": "$12,960"
+          },
+          {
+            "Item": "Water Control Structure (#) 40 @ $2,400",
+            "Cost": "$96,000",
+            "Extra": "$38,400"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "17,727 @ $2 $35,454  $14,182",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "17,727 @ $2",
+            "Cost": "$35,454",
+            "Extra": "$14,182"
+          },
+          {
+            "Item": "17,727 @ $73",
+            "Cost": "$1,294,071",
+            "Extra": "$517,628"
+          },
+          {
+            "Item": "17,727 @ $15",
+            "Cost": "$265,905",
+            "Extra": "$106,362"
+          },
+          {
+            "Item": "Grade Stabilization Structure (#) 5 @ $6,480",
+            "Cost": "$32,400",
+            "Extra": "$12,960"
+          },
+          {
+            "Item": "Water Control Structure (#) 40 @ $2,400",
+            "Cost": "$96,000",
+            "Extra": "$38,400"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "17,727 @ $73 $1,294,071  $517,628",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "17,727 @ $73",
+            "Cost": "$1,294,071",
+            "Extra": "$517,628"
+          },
+          {
+            "Item": "17,727 @ $15",
+            "Cost": "$265,905",
+            "Extra": "$106,362"
+          },
+          {
+            "Item": "Grade Stabilization Structure (#) 5 @ $6,480",
+            "Cost": "$32,400",
+            "Extra": "$12,960"
+          },
+          {
+            "Item": "Water Control Structure (#) 40 @ $2,400",
+            "Cost": "$96,000",
+            "Extra": "$38,400"
+          },
+          {
+            "Item": "$73",
+            "Cost": "$35,040",
+            "Extra": "$14,016"
+          },
+          {
+            "Item": "Education/Outreach N/A",
+            "Cost": "$24,900",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring N/A",
+            "Cost": "$90,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "17,727 @ $15 $265,905  $106,362",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "17,727 @ $15",
+            "Cost": "$265,905",
+            "Extra": "$106,362"
+          },
+          {
+            "Item": "Grade Stabilization Structure (#) 5 @ $6,480",
+            "Cost": "$32,400",
+            "Extra": "$12,960"
+          },
+          {
+            "Item": "Water Control Structure (#) 40 @ $2,400",
+            "Cost": "$96,000",
+            "Extra": "$38,400"
+          },
+          {
+            "Item": "$73",
+            "Cost": "$35,040",
+            "Extra": "$14,016"
+          },
+          {
+            "Item": "Education/Outreach N/A",
+            "Cost": "$24,900",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring N/A",
+            "Cost": "$90,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$24,900",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Grade Stabilization Structure (#) 5 @ $6,480",
+            "Cost": "$32,400",
+            "Extra": "$12,960"
+          },
+          {
+            "Item": "Water Control Structure (#) 40 @ $2,400",
+            "Cost": "$96,000",
+            "Extra": "$38,400"
+          },
+          {
+            "Item": "$73",
+            "Cost": "$35,040",
+            "Extra": "$14,016"
+          },
+          {
+            "Item": "Education/Outreach N/A",
+            "Cost": "$24,900",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring N/A",
+            "Cost": "$90,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Grade Stabilization Structure (#) 5 @ $6,480 $32,400  $12,960",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Grade Stabilization Structure (#) 5 @ $6,480",
+            "Cost": "$32,400",
+            "Extra": "$12,960"
+          },
+          {
+            "Item": "Water Control Structure (#) 40 @ $2,400",
+            "Cost": "$96,000",
+            "Extra": "$38,400"
+          },
+          {
+            "Item": "$73",
+            "Cost": "$35,040",
+            "Extra": "$14,016"
+          },
+          {
+            "Item": "Education/Outreach N/A",
+            "Cost": "$24,900",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring N/A",
+            "Cost": "$90,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Water Control Structure (#) 40 @ $2,400 $96,000  $38,400",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Water Control Structure (#) 40 @ $2,400",
+            "Cost": "$96,000",
+            "Extra": "$38,400"
+          },
+          {
+            "Item": "$73",
+            "Cost": "$35,040",
+            "Extra": "$14,016"
+          },
+          {
+            "Item": "Education/Outreach N/A",
+            "Cost": "$24,900",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring N/A",
+            "Cost": "$90,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$333,000",
+            "Extra": "$65,376"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$73 $35,040  $14,016",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "$73",
+            "Cost": "$35,040",
+            "Extra": "$14,016"
+          },
+          {
+            "Item": "Education/Outreach N/A",
+            "Cost": "$24,900",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring N/A",
+            "Cost": "$90,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$333,000",
+            "Extra": "$65,376"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Education/Outreach N/A $24,900  N/A",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Education/Outreach N/A",
+            "Cost": "$24,900",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring N/A",
+            "Cost": "$90,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$333,000",
+            "Extra": "$65,376"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "activity_match",
+      "title": "Activity Size/Amount Estimated Cost Landowner Match",
+      "table": {
+        "columns": [
+          "Activity",
+          "Size/Amount",
+          "Estimated Cost",
+          "Landowner Match"
+        ],
+        "rows": [
+          {
+            "Activity": "Grade Stabilization Structure (#)",
+            "Size/Amount": "5 @ $6,480",
+            "Estimated Cost": "$32,400",
+            "Landowner Match": "$12,960"
+          },
+          {
+            "Activity": "Water Control Structure (#)",
+            "Size/Amount": "40 @ $2,400",
+            "Estimated Cost": "$96,000",
+            "Landowner Match": "$38,400"
+          },
+          {
+            "Activity": "$",
+            "Size/Amount": "73",
+            "Estimated Cost": "$35,040",
+            "Landowner Match": "$14,016"
+          }
+        ],
+        "total": 333000,
+        "landownerMatchTotal": 65376
+      },
+      "patternId": "activity_match",
+      "patternConfidence": 0.85
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "32 @ $6,480 $207,360  $82,944",
+      "rows": [
+        {
+          "name": "32 @ $6,480",
+          "totalCost": 207360,
+          "rawCost": "$207,360"
+        },
+        {
+          "name": "82 @ $2,400",
+          "totalCost": 196800,
+          "rawCost": "$196,800"
+        },
+        {
+          "name": "20,898 @ $10",
+          "totalCost": 208980,
+          "rawCost": "$208,980"
+        },
+        {
+          "name": "17,727 @ $2",
+          "totalCost": 35454,
+          "rawCost": "$35,454"
+        },
+        {
+          "name": "17,727 @ $73",
+          "totalCost": 1294071,
+          "rawCost": "$1,294,071"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1942665,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "82 @ $2,400 $196,800  $78,720",
+      "rows": [
+        {
+          "name": "82 @ $2,400",
+          "totalCost": 196800,
+          "rawCost": "$196,800"
+        },
+        {
+          "name": "20,898 @ $10",
+          "totalCost": 208980,
+          "rawCost": "$208,980"
+        },
+        {
+          "name": "17,727 @ $2",
+          "totalCost": 35454,
+          "rawCost": "$35,454"
+        },
+        {
+          "name": "17,727 @ $73",
+          "totalCost": 1294071,
+          "rawCost": "$1,294,071"
+        },
+        {
+          "name": "17,727 @ $15",
+          "totalCost": 265905,
+          "rawCost": "$265,905"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2001210,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "20,898 @ $10 $208,980  $83,592",
+      "rows": [
+        {
+          "name": "20,898 @ $10",
+          "totalCost": 208980,
+          "rawCost": "$208,980"
+        },
+        {
+          "name": "17,727 @ $2",
+          "totalCost": 35454,
+          "rawCost": "$35,454"
+        },
+        {
+          "name": "17,727 @ $73",
+          "totalCost": 1294071,
+          "rawCost": "$1,294,071"
+        },
+        {
+          "name": "17,727 @ $15",
+          "totalCost": 265905,
+          "rawCost": "$265,905"
+        },
+        {
+          "name": "Grade Stabilization Structure (#) 5 @ $6,480",
+          "totalCost": 32400,
+          "rawCost": "$32,400"
+        },
+        {
+          "name": "Water Control Structure (#) 40 @ $2,400",
+          "totalCost": 96000,
+          "rawCost": "$96,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1932810,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "17,727 @ $2 $35,454  $14,182",
+      "rows": [
+        {
+          "name": "17,727 @ $2",
+          "totalCost": 35454,
+          "rawCost": "$35,454"
+        },
+        {
+          "name": "17,727 @ $73",
+          "totalCost": 1294071,
+          "rawCost": "$1,294,071"
+        },
+        {
+          "name": "17,727 @ $15",
+          "totalCost": 265905,
+          "rawCost": "$265,905"
+        },
+        {
+          "name": "Grade Stabilization Structure (#) 5 @ $6,480",
+          "totalCost": 32400,
+          "rawCost": "$32,400"
+        },
+        {
+          "name": "Water Control Structure (#) 40 @ $2,400",
+          "totalCost": 96000,
+          "rawCost": "$96,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1723830,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "17,727 @ $73 $1,294,071  $517,628",
+      "rows": [
+        {
+          "name": "17,727 @ $73",
+          "totalCost": 1294071,
+          "rawCost": "$1,294,071"
+        },
+        {
+          "name": "17,727 @ $15",
+          "totalCost": 265905,
+          "rawCost": "$265,905"
+        },
+        {
+          "name": "Grade Stabilization Structure (#) 5 @ $6,480",
+          "totalCost": 32400,
+          "rawCost": "$32,400"
+        },
+        {
+          "name": "Water Control Structure (#) 40 @ $2,400",
+          "totalCost": 96000,
+          "rawCost": "$96,000"
+        },
+        {
+          "name": "$73",
+          "totalCost": 35040,
+          "rawCost": "$35,040"
+        },
+        {
+          "name": "Education/Outreach N/A",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Monitoring N/A",
+          "totalCost": 90000,
+          "rawCost": "$90,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1838316,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "17,727 @ $15 $265,905  $106,362",
+      "rows": [
+        {
+          "name": "17,727 @ $15",
+          "totalCost": 265905,
+          "rawCost": "$265,905"
+        },
+        {
+          "name": "Grade Stabilization Structure (#) 5 @ $6,480",
+          "totalCost": 32400,
+          "rawCost": "$32,400"
+        },
+        {
+          "name": "Water Control Structure (#) 40 @ $2,400",
+          "totalCost": 96000,
+          "rawCost": "$96,000"
+        },
+        {
+          "name": "$73",
+          "totalCost": 35040,
+          "rawCost": "$35,040"
+        },
+        {
+          "name": "Education/Outreach N/A",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Monitoring N/A",
+          "totalCost": 90000,
+          "rawCost": "$90,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 544245,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$24,900",
+      "rows": [
+        {
+          "name": "Grade Stabilization Structure (#) 5 @ $6,480",
+          "totalCost": 32400,
+          "rawCost": "$32,400"
+        },
+        {
+          "name": "Water Control Structure (#) 40 @ $2,400",
+          "totalCost": 96000,
+          "rawCost": "$96,000"
+        },
+        {
+          "name": "$73",
+          "totalCost": 35040,
+          "rawCost": "$35,040"
+        },
+        {
+          "name": "Education/Outreach N/A",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Monitoring N/A",
+          "totalCost": 90000,
+          "rawCost": "$90,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 278340,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Grade Stabilization Structure (#) 5 @ $6,480 $32,400  $12,960",
+      "rows": [
+        {
+          "name": "Grade Stabilization Structure (#) 5 @ $6,480",
+          "totalCost": 32400,
+          "rawCost": "$32,400"
+        },
+        {
+          "name": "Water Control Structure (#) 40 @ $2,400",
+          "totalCost": 96000,
+          "rawCost": "$96,000"
+        },
+        {
+          "name": "$73",
+          "totalCost": 35040,
+          "rawCost": "$35,040"
+        },
+        {
+          "name": "Education/Outreach N/A",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Monitoring N/A",
+          "totalCost": 90000,
+          "rawCost": "$90,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 278340,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Water Control Structure (#) 40 @ $2,400 $96,000  $38,400",
+      "rows": [
+        {
+          "name": "Water Control Structure (#) 40 @ $2,400",
+          "totalCost": 96000,
+          "rawCost": "$96,000"
+        },
+        {
+          "name": "$73",
+          "totalCost": 35040,
+          "rawCost": "$35,040"
+        },
+        {
+          "name": "Education/Outreach N/A",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Monitoring N/A",
+          "totalCost": 90000,
+          "rawCost": "$90,000"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 333000,
+          "rawCost": "$333,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 578940,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$73 $35,040  $14,016",
+      "rows": [
+        {
+          "name": "$73",
+          "totalCost": 35040,
+          "rawCost": "$35,040"
+        },
+        {
+          "name": "Education/Outreach N/A",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Monitoring N/A",
+          "totalCost": 90000,
+          "rawCost": "$90,000"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 333000,
+          "rawCost": "$333,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 482940,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Education/Outreach N/A $24,900  N/A",
+      "rows": [
+        {
+          "name": "Education/Outreach N/A",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Monitoring N/A",
+          "totalCost": 90000,
+          "rawCost": "$90,000"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 333000,
+          "rawCost": "$333,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 447900,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "activity_match",
+      "title": "Activity Size/Amount Estimated Cost Landowner Match",
+      "rows": [
+        {
+          "name": "Grade Stabilization Structure (#)",
+          "rawSize": "5 @ $6,480",
+          "rawCost": "$32,400",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 32400,
+          "landownerMatch": 12960
+        },
+        {
+          "name": "Water Control Structure (#)",
+          "rawSize": "40 @ $2,400",
+          "rawCost": "$96,000",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 96000,
+          "landownerMatch": 38400
+        },
+        {
+          "name": "$",
+          "rawSize": "73",
+          "rawCost": "$35,040",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 35040,
+          "landownerMatch": 14016
+        }
+      ],
+      "totalReported": 333000,
+      "totalComputed": 163440,
+      "landownerMatchReported": 65376,
+      "landownerMatchComputed": 65376,
+      "discrepancy": 169560,
+      "matchDiscrepancy": 0,
+      "patternId": "activity_match",
+      "patternConfidence": 0.85
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [
+    {
+      "id": "M1",
+      "metric": "$90,000",
+      "value": null,
+      "unit": null,
+      "source": "$90,000",
+      "_present": true
+    },
+    {
+      "id": "M2",
+      "metric": "Project Management,",
+      "value": null,
+      "unit": null,
+      "source": "Project Management,",
+      "_present": true
+    },
+    {
+      "id": "M3",
+      "metric": "Implementation, Coordination,",
+      "value": null,
+      "unit": null,
+      "source": "Implementation, Coordination,",
+      "_present": true
+    },
+    {
+      "id": "M4",
+      "metric": "Plan Revision",
+      "value": null,
+      "unit": null,
+      "source": "Plan Revision",
+      "_present": true
+    },
+    {
+      "id": "M5",
+      "metric": "$54,660",
+      "value": null,
+      "unit": null,
+      "source": "$54,660",
+      "_present": true
+    },
+    {
+      "id": "M6",
+      "metric": "Total Estimated Project Cost",
+      "value": null,
+      "unit": null,
+      "source": "Total Estimated Project Cost",
+      "_present": true
+    },
+    {
+      "id": "M7",
+      "metric": "$2,378,130  $883,428",
+      "value": null,
+      "unit": null,
+      "source": "$2,378,130  $883,428",
+      "_present": true
+    },
+    {
+      "id": "M8",
+      "metric": "Bear Lake Watershed Plan GY 17",
+      "value": null,
+      "unit": null,
+      "source": "Bear Lake Watershed Plan GY 17",
+      "_present": true
+    },
+    {
+      "id": "M9",
+      "metric": "7",
+      "value": null,
+      "unit": null,
+      "source": "7",
+      "_present": true
+    },
+    {
+      "id": "M10",
+      "metric": "Given the large financial burden of full watershed-scale conservation practice implementation,",
+      "value": null,
+      "unit": null,
+      "source": "Given the large financial burden of full watershed-scale conservation practice implementation,",
+      "_present": true
+    },
+    {
+      "id": "M11",
+      "metric": "an incremental approach focusing on building producer partnerships and leveraging other",
+      "value": null,
+      "unit": null,
+      "source": "an incremental approach focusing on building producer partnerships and leveraging other",
+      "_present": true
+    },
+    {
+      "id": "M12",
+      "metric": "federal, state, and private investment in conservation should be considered. The following table",
+      "value": null,
+      "unit": null,
+      "source": "federal, state, and private investment in conservation should be considered. The following table",
+      "_present": true
+    },
+    {
+      "id": "M13",
+      "metric": "summarizes the quantity and costs of conservation practices that could occur through an initial",
+      "value": null,
+      "unit": null,
+      "source": "summarizes the quantity and costs of conservation practices that could occur through an initial",
+      "_present": true
+    },
+    {
+      "id": "M14",
+      "metric": "implementation phase.",
+      "value": null,
+      "unit": null,
+      "source": "implementation phase.",
+      "_present": true
+    },
+    {
+      "id": "M15",
+      "metric": "Phase 1: Estimated Quantity and Cost of Conservation Practices for the Bear Lake",
+      "value": null,
+      "unit": null,
+      "source": "Phase 1: Estimated Quantity and Cost of Conservation Practices for the Bear Lake",
+      "_present": true
+    },
+    {
+      "id": "M16",
+      "metric": "Watershed.",
+      "value": null,
+      "unit": null,
+      "source": "Watershed.",
+      "_present": true
+    },
+    {
+      "id": "M17",
+      "metric": "Activity Size/Amount Estimated Cost Landowner Match",
+      "value": null,
+      "unit": null,
+      "source": "Activity Size/Amount Estimated Cost Landowner Match",
+      "_present": true
+    },
+    {
+      "id": "M18",
+      "metric": "Month 3-12",
+      "value": null,
+      "unit": null,
+      "source": "Month 3-12",
+      "_present": true
+    },
+    {
+      "id": "M19",
+      "metric": "Meet with landowners and cooperators",
+      "value": null,
+      "unit": null,
+      "source": "Meet with landowners and cooperators",
+      "_present": true
+    },
+    {
+      "id": "M20",
+      "metric": "to secure commitments to install BMPs",
+      "value": null,
+      "unit": null,
+      "source": "to secure commitments to install BMPs",
+      "_present": true
+    },
+    {
+      "id": "M21",
+      "metric": "in priority areas",
+      "value": null,
+      "unit": null,
+      "source": "in priority areas",
+      "_present": true
+    },
+    {
+      "id": "M22",
+      "metric": "Landowner",
+      "value": null,
+      "unit": null,
+      "source": "Landowner",
+      "_present": true
+    },
+    {
+      "id": "M23",
+      "metric": "Commitment",
+      "value": null,
+      "unit": null,
+      "source": "Commitment",
+      "_present": true
+    },
+    {
+      "id": "M24",
+      "metric": "Months 1-6",
+      "value": null,
+      "unit": null,
+      "source": "Months 1-6",
+      "_present": true
+    },
+    {
+      "id": "M25",
+      "metric": "Establish routine meeting schedule for",
+      "value": null,
+      "unit": null,
+      "source": "Establish routine meeting schedule for",
+      "_present": true
+    },
+    {
+      "id": "M26",
+      "metric": "WIT to support WBP revision",
+      "value": null,
+      "unit": null,
+      "source": "WIT to support WBP revision",
+      "_present": true
+    },
+    {
+      "id": "M27",
+      "metric": "WIT meetings Months 1-36",
+      "value": null,
+      "unit": null,
+      "source": "WIT meetings Months 1-36",
+      "_present": true
+    },
+    {
+      "id": "M28",
+      "metric": "Implement BMPs BMP installation Months 12-36",
+      "value": null,
+      "unit": null,
+      "source": "Implement BMPs BMP installation Months 12-36",
+      "_present": true
+    },
+    {
+      "id": "M29",
+      "metric": "Coordinate with Delta F.A.R.M. to",
+      "value": null,
+      "unit": null,
+      "source": "Coordinate with Delta F.A.R.M. to",
+      "_present": true
+    },
+    {
+      "id": "M30",
+      "metric": "inspect BMPs that were installed using",
+      "value": null,
+      "unit": null,
+      "source": "inspect BMPs that were installed using",
+      "_present": true
+    },
+    {
+      "id": "M31",
+      "metric": "Section 319 funds",
+      "value": null,
+      "unit": null,
+      "source": "Section 319 funds",
+      "_present": true
+    },
+    {
+      "id": "M32",
+      "metric": "BMP Inspection Months 24-36",
+      "value": null,
+      "unit": null,
+      "source": "BMP Inspection Months 24-36",
+      "_present": true
+    },
+    {
+      "id": "M33",
+      "metric": "Begin monitoring to collect data on",
+      "value": null,
+      "unit": null,
+      "source": "Begin monitoring to collect data on",
+      "_present": true
+    },
+    {
+      "id": "M34",
+      "metric": "post-BMP water quality",
+      "value": null,
+      "unit": null,
+      "source": "post-BMP water quality",
+      "_present": true
+    },
+    {
+      "id": "M35",
+      "metric": "Post-BMP Monitoring Months 30-42",
+      "value": null,
+      "unit": null,
+      "source": "Post-BMP Monitoring Months 30-42",
+      "_present": true
+    },
+    {
+      "id": "M36",
+      "metric": "Finalize education and outreach plan Education/Outreach",
+      "value": null,
+      "unit": null,
+      "source": "Finalize education and outreach plan Education/Outreach",
+      "_present": true
+    },
+    {
+      "id": "M37",
+      "metric": "events scheduled",
+      "value": null,
+      "unit": null,
+      "source": "events scheduled",
+      "_present": true
+    },
+    {
+      "id": "M38",
+      "metric": "Months 8-36",
+      "value": null,
+      "unit": null,
+      "source": "Months 8-36",
+      "_present": true
+    },
+    {
+      "id": "M39",
+      "metric": "Finalize revised WBP Final Revised WBP Months 28-36",
+      "value": null,
+      "unit": null,
+      "source": "Finalize revised WBP Final Revised WBP Months 28-36",
+      "_present": true
+    },
+    {
+      "id": "M40",
+      "metric": "Element h:  Load Reduction Evaluation",
+      "value": null,
+      "unit": null,
+      "source": "Element h:  Load Reduction Evaluation",
+      "_present": true
+    },
+    {
+      "id": "M41",
+      "metric": "The State of Mississippi Water Quality Criteria for Intrastate, Interstate, and Coastal Waters do",
+      "value": null,
+      "unit": null,
+      "source": "The State of Mississippi Water Quality Criteria for Intrastate, Interstate, and Coastal Waters do",
+      "_present": true
+    },
+    {
+      "id": "M42",
+      "metric": "not include a water quality standard applicable to aquatic life protection due to sediment.",
+      "value": null,
+      "unit": null,
+      "source": "not include a water quality standard applicable to aquatic life protection due to sediment.",
+      "_present": true
+    },
+    {
+      "id": "M43",
+      "metric": "However, a narrative standard for the protection of aquatic life was interpreted to determine an",
+      "value": null,
+      "unit": null,
+      "source": "However, a narrative standard for the protection of aquatic life was interpreted to determine an",
+      "_present": true
+    },
+    {
+      "id": "M44",
+      "metric": "applicable target for the Moon Lake TMDL. The narrative standard is that waters shall be free",
+      "value": null,
+      "unit": null,
+      "source": "applicable target for the Moon Lake TMDL. The narrative standard is that waters shall be free",
+      "_present": true
+    },
+    {
+      "id": "M45",
+      "metric": "from materials attributable to municipal, industrial, agricultural, or other dischargers producing",
+      "value": null,
+      "unit": null,
+      "source": "from materials attributable to municipal, industrial, agricultural, or other dischargers producing",
+      "_present": true
+    },
+    {
+      "id": "M46",
+      "metric": "color, odor, taste, total suspended solids, or other conditions in such degree as to create a",
+      "value": null,
+      "unit": null,
+      "source": "color, odor, taste, total suspended solids, or other conditions in such degree as to create a",
+      "_present": true
+    },
+    {
+      "id": "M47",
+      "metric": "nuisance, render the waters injurious to public health, recreation, or to aquatic life and wildlife,",
+      "value": null,
+      "unit": null,
+      "source": "nuisance, render the waters injurious to public health, recreation, or to aquatic life and wildlife,",
+      "_present": true
+    },
+    {
+      "id": "M48",
+      "metric": "or adversely affect the palatability of fish, aesthetic quality, or impair the waters for any",
+      "value": null,
+      "unit": null,
+      "source": "or adversely affect the palatability of fish, aesthetic quality, or impair the waters for any",
+      "_present": true
+    },
+    {
+      "id": "M49",
+      "metric": "designated uses.  In lieu of numeric criteria for sediment, the monitoring plan will be designed to",
+      "value": null,
+      "unit": null,
+      "source": "designated uses.  In lieu of numeric criteria for sediment, the monitoring plan will be designed to",
+      "_present": true
+    },
+    {
+      "id": "M50",
+      "metric": "collect data on parameters that are considered surrogates for sediment concentrations and may",
+      "value": null,
+      "unit": null,
+      "source": "collect data on parameters that are considered surrogates for sediment concentrations and may",
+      "_present": true
+    },
+    {
+      "id": "M51",
+      "metric": "include measurements for total suspended solids, total suspended sediment, and turbidity along",
+      "value": null,
+      "unit": null,
+      "source": "include measurements for total suspended solids, total suspended sediment, and turbidity along",
+      "_present": true
+    },
+    {
+      "id": "M52",
+      "metric": "with conventional parameters generally measured to determine aquatic health (e.g. dissolved",
+      "value": null,
+      "unit": null,
+      "source": "with conventional parameters generally measured to determine aquatic health (e.g. dissolved",
+      "_present": true
+    },
+    {
+      "id": "M53",
+      "metric": "oxygen, pH, temperature, conductivity).  The following thresholds will be used to measure",
+      "value": null,
+      "unit": null,
+      "source": "oxygen, pH, temperature, conductivity).  The following thresholds will be used to measure",
+      "_present": true
+    },
+    {
+      "id": "M54",
+      "metric": "compliance with water quality criteria:",
+      "value": null,
+      "unit": null,
+      "source": "compliance with water quality criteria:",
+      "_present": true
+    },
+    {
+      "id": "M55",
+      "metric": "Bear Lake Watershed Plan GY 17",
+      "value": null,
+      "unit": null,
+      "source": "Bear Lake Watershed Plan GY 17",
+      "_present": true
+    },
+    {
+      "id": "M56",
+      "metric": "11",
+      "value": null,
+      "unit": null,
+      "source": "11",
+      "_present": true
+    },
+    {
+      "id": "M57",
+      "metric": "Parameter   Threshold",
+      "value": null,
+      "unit": null,
+      "source": "Parameter   Threshold",
+      "_present": true
+    },
+    {
+      "id": "M58",
+      "metric": "Dissolved Oxygen  Daily Average of 5.0mg/L; Instantaneous threshold of 4.0 mg/L",
+      "value": null,
+      "unit": null,
+      "source": "Dissolved Oxygen  Daily Average of 5.0mg/L; Instantaneous threshold of 4.0 mg/L",
+      "_present": true
+    },
+    {
+      "id": "M59",
+      "metric": "pH    6.0-9.0",
+      "value": null,
+      "unit": null,
+      "source": "pH    6.0-9.0",
+      "_present": true
+    },
+    {
+      "id": "M60",
+      "metric": "Temperature   Not to exceed 90°F",
+      "value": null,
+      "unit": null,
+      "source": "Temperature   Not to exceed 90°F",
+      "_present": true
+    },
+    {
+      "id": "M61",
+      "metric": "Specific Conductance  Less than 1,000microhos/cm",
+      "value": null,
+      "unit": null,
+      "source": "Specific Conductance  Less than 1,000microhos/cm",
+      "_present": true
+    },
+    {
+      "id": "M62",
+      "metric": "Dissolved Solids   Monthly average less than 750 mg/L; instantaneous threshold less",
+      "value": null,
+      "unit": null,
+      "source": "Dissolved Solids   Monthly average less than 750 mg/L; instantaneous threshold less",
+      "_present": true
+    },
+    {
+      "id": "M63",
+      "metric": "than 1,500 mg/L",
+      "value": null,
+      "unit": null,
+      "source": "than 1,500 mg/L",
+      "_present": true
+    },
+    {
+      "id": "M64",
+      "metric": "In addition to chemical data, biological community data and in stream habitat surveys will be",
+      "value": null,
+      "unit": null,
+      "source": "In addition to chemical data, biological community data and in stream habitat surveys will be",
+      "_present": true
+    },
+    {
+      "id": "M65",
+      "metric": "collected over the course of the project.  These data are extremely helpful in identifying positive",
+      "value": null,
+      "unit": null,
+      "source": "collected over the course of the project.  These data are extremely helpful in identifying positive",
+      "_present": true
+    },
+    {
+      "id": "M66",
+      "metric": "trends in water quality and should provide information to help determine if the implementation",
+      "value": null,
+      "unit": null,
+      "source": "trends in water quality and should provide information to help determine if the implementation",
+      "_present": true
+    },
+    {
+      "id": "M67",
+      "metric": "activities are resulting in water quality improvements.  As has been done in other watersheds in",
+      "value": null,
+      "unit": null,
+      "source": "activities are resulting in water quality improvements.  As has been done in other watersheds in",
+      "_present": true
+    },
+    {
+      "id": "M68",
+      "metric": "this region, MDEQ and Delta F.A.R.M. will work with other watershed partners to identify",
+      "value": null,
+      "unit": null,
+      "source": "this region, MDEQ and Delta F.A.R.M. will work with other watershed partners to identify",
+      "_present": true
+    },
+    {
+      "id": "M69",
+      "metric": "opportunities to establish edge of field monitoring as well as cooperative in-stream flow and",
+      "value": null,
+      "unit": null,
+      "source": "opportunities to establish edge of field monitoring as well as cooperative in-stream flow and",
+      "_present": true
+    },
+    {
+      "id": "M70",
+      "metric": "sediment monitoring for baseline and storm events with the USGS.",
+      "value": null,
+      "unit": null,
+      "source": "sediment monitoring for baseline and storm events with the USGS.",
+      "_present": true
+    },
+    {
+      "id": "M71",
+      "metric": "It should be noted that recovery time of a stream is variable and may extend beyond the",
+      "value": null,
+      "unit": null,
+      "source": "It should be noted that recovery time of a stream is variable and may extend beyond the",
+      "_present": true
+    },
+    {
+      "id": "M72",
+      "metric": "timeframe identified in the work plan.  At the end of the project, data will be analyzed to",
+      "value": null,
+      "unit": null,
+      "source": "timeframe identified in the work plan.  At the end of the project, data will be analyzed to",
+      "_present": true
+    },
+    {
+      "id": "M73",
+      "metric": "determine if they indicate improvements to water quality.  In the event data indicate little or no",
+      "value": null,
+      "unit": null,
+      "source": "determine if they indicate improvements to water quality.  In the event data indicate little or no",
+      "_present": true
+    },
+    {
+      "id": "M74",
+      "metric": "positive change, a Stressor Analysis will be conducted to determine if any new or additional",
+      "value": null,
+      "unit": null,
+      "source": "positive change, a Stressor Analysis will be conducted to determine if any new or additional",
+      "_present": true
+    },
+    {
+      "id": "M75",
+      "metric": "stressors are preventing improvements to water quality.  If any new stressors are identified, the",
+      "value": null,
+      "unit": null,
+      "source": "stressors are preventing improvements to water quality.  If any new stressors are identified, the",
+      "_present": true
+    },
+    {
+      "id": "M76",
+      "metric": "Watershed Implementation Team will identify future actions/activities to address those stressors.",
+      "value": null,
+      "unit": null,
+      "source": "Watershed Implementation Team will identify future actions/activities to address those stressors.",
+      "_present": true
+    },
+    {
+      "id": "M77",
+      "metric": "Element i: Monitoring",
+      "value": null,
+      "unit": null,
+      "source": "Element i: Monitoring",
+      "_present": true
+    },
+    {
+      "id": "M78",
+      "metric": "Prior to BMP installation, pre-implementation chemical and biological monitoring have been",
+      "value": null,
+      "unit": null,
+      "source": "Prior to BMP installation, pre-implementation chemical and biological monitoring have been",
+      "_present": true
+    },
+    {
+      "id": "M79",
+      "metric": "compiled to serve as a baseline for the project along with any historical data available in the Bear",
+      "value": null,
+      "unit": null,
+      "source": "compiled to serve as a baseline for the project along with any historical data available in the Bear",
+      "_present": true
+    },
+    {
+      "id": "M80",
+      "metric": "Lake – Phillips Bayou Watershed and Moon Lake.  This varied water quality monitoring",
+      "value": null,
+      "unit": null,
+      "source": "Lake – Phillips Bayou Watershed and Moon Lake.  This varied water quality monitoring",
+      "_present": true
+    },
+    {
+      "id": "M81",
+      "metric": "included water chemistry data (nutrients, suspended solids, oxygen demand, chlorides, etc.), in-",
+      "value": null,
+      "unit": null,
+      "source": "included water chemistry data (nutrients, suspended solids, oxygen demand, chlorides, etc.), in-",
+      "_present": true
+    },
+    {
+      "id": "M82",
+      "metric": "situ field measurements for such parameters as dissolved oxygen, pH, temperature, specific",
+      "value": null,
+      "unit": null,
+      "source": "situ field measurements for such parameters as dissolved oxygen, pH, temperature, specific",
+      "_present": true
+    },
+    {
+      "id": "M83",
+      "metric": "conductance, turbidity and secchi depth (lakes), datalogger (sonde) deployment for continuous",
+      "value": null,
+      "unit": null,
+      "source": "conductance, turbidity and secchi depth (lakes), datalogger (sonde) deployment for continuous",
+      "_present": true
+    },
+    {
+      "id": "M84",
+      "metric": "in-situ field measurement data as well as biological community monitoring for benthic",
+      "value": null,
+      "unit": null,
+      "source": "in-situ field measurement data as well as biological community monitoring for benthic",
+      "_present": true
+    },
+    {
+      "id": "M85",
+      "metric": "macroinvertebrates in streams and algal chlorophyll-a in lakes for trophic index determination. A",
+      "value": null,
+      "unit": null,
+      "source": "macroinvertebrates in streams and algal chlorophyll-a in lakes for trophic index determination. A",
+      "_present": true
+    },
+    {
+      "id": "M86",
+      "metric": "summary of this historical water quality monitoring in the Bear Lake watershed is provided in",
+      "value": null,
+      "unit": null,
+      "source": "summary of this historical water quality monitoring in the Bear Lake watershed is provided in",
+      "_present": true
+    },
+    {
+      "id": "M87",
+      "metric": "the table below and their locations are shown in Figure 3.",
+      "value": null,
+      "unit": null,
+      "source": "the table below and their locations are shown in Figure 3.",
+      "_present": true
+    },
+    {
+      "id": "M88",
+      "metric": "Station",
+      "value": null,
+      "unit": null,
+      "source": "Station",
+      "_present": true
+    },
+    {
+      "id": "M89",
+      "metric": "ID",
+      "value": null,
+      "unit": null,
+      "source": "ID",
+      "_present": true
+    },
+    {
+      "id": "M90",
+      "metric": "Water",
+      "value": null,
+      "unit": null,
+      "source": "Water",
+      "_present": true
+    },
+    {
+      "id": "M91",
+      "metric": "Body",
+      "value": null,
+      "unit": null,
+      "source": "Body",
+      "_present": true
+    },
+    {
+      "id": "M92",
+      "metric": "Sample",
+      "value": null,
+      "unit": null,
+      "source": "Sample",
+      "_present": true
+    },
+    {
+      "id": "M93",
+      "metric": "Year(s)",
+      "value": null,
+      "unit": null,
+      "source": "Year(s)",
+      "_present": true
+    },
+    {
+      "id": "M94",
+      "metric": "Collecting",
+      "value": null,
+      "unit": null,
+      "source": "Collecting",
+      "_present": true
+    },
+    {
+      "id": "M95",
+      "metric": "Agency",
+      "value": null,
+      "unit": null,
+      "source": "Agency",
+      "_present": true
+    },
+    {
+      "id": "M96",
+      "metric": "Project Water",
+      "value": null,
+      "unit": null,
+      "source": "Project Water",
+      "_present": true
+    },
+    {
+      "id": "M97",
+      "metric": "Chem",
+      "value": null,
+      "unit": null,
+      "source": "Chem",
+      "_present": true
+    },
+    {
+      "id": "M98",
+      "metric": "In-",
+      "value": null,
+      "unit": null,
+      "source": "In-",
+      "_present": true
+    },
+    {
+      "id": "M99",
+      "metric": "Situ",
+      "value": null,
+      "unit": null,
+      "source": "Situ",
+      "_present": true
+    },
+    {
+      "id": "M100",
+      "metric": "Sonde Benthics",
+      "value": null,
+      "unit": null,
+      "source": "Sonde Benthics",
+      "_present": true
+    },
+    {
+      "id": "M101",
+      "metric": "111A12 Phillips",
+      "value": null,
+      "unit": null,
+      "source": "111A12 Phillips",
+      "_present": true
+    },
+    {
+      "id": "M102",
+      "metric": "Bayou",
+      "value": null,
+      "unit": null,
+      "source": "Bayou",
+      "_present": true
+    },
+    {
+      "id": "M103",
+      "metric": "2010 USGS,",
+      "value": null,
+      "unit": null,
+      "source": "2010 USGS,",
+      "_present": true
+    },
+    {
+      "id": "M104",
+      "metric": "MDEQ",
+      "value": null,
+      "unit": null,
+      "source": "MDEQ",
+      "_present": true
+    },
+    {
+      "id": "M105",
+      "metric": "Delta",
+      "value": null,
+      "unit": null,
+      "source": "Delta",
+      "_present": true
+    },
+    {
+      "id": "M106",
+      "metric": "BISQ",
+      "value": null,
+      "unit": null,
+      "source": "BISQ",
+      "_present": true
+    },
+    {
+      "id": "M107",
+      "metric": "X X",
+      "value": null,
+      "unit": null,
+      "source": "X X",
+      "_present": true
+    },
+    {
+      "id": "M108",
+      "metric": "A0270015 Yazoo",
+      "value": null,
+      "unit": null,
+      "source": "A0270015 Yazoo",
+      "_present": true
+    },
+    {
+      "id": "M109",
+      "metric": "Pass",
+      "value": null,
+      "unit": null,
+      "source": "Pass",
+      "_present": true
+    },
+    {
+      "id": "M110",
+      "metric": "2009,",
+      "value": null,
+      "unit": null,
+      "source": "2009,",
+      "_present": true
+    },
+    {
+      "id": "M111",
+      "metric": "2013",
+      "value": null,
+      "unit": null,
+      "source": "2013",
+      "_present": true
+    },
+    {
+      "id": "M112",
+      "metric": "USGS,",
+      "value": null,
+      "unit": null,
+      "source": "USGS,",
+      "_present": true
+    },
+    {
+      "id": "M113",
+      "metric": "MDEQ",
+      "value": null,
+      "unit": null,
+      "source": "MDEQ",
+      "_present": true
+    },
+    {
+      "id": "M114",
+      "metric": "Delta",
+      "value": null,
+      "unit": null,
+      "source": "Delta",
+      "_present": true
+    },
+    {
+      "id": "M115",
+      "metric": "BISQ",
+      "value": null,
+      "unit": null,
+      "source": "BISQ",
+      "_present": true
+    },
+    {
+      "id": "M116",
+      "metric": "X",
+      "value": null,
+      "unit": null,
+      "source": "X",
+      "_present": true
+    },
+    {
+      "id": "M117",
+      "metric": "X",
+      "value": null,
+      "unit": null,
+      "source": "X",
+      "_present": true
+    },
+    {
+      "id": "M118",
+      "metric": "YZ291 Moon",
+      "value": null,
+      "unit": null,
+      "source": "YZ291 Moon",
+      "_present": true
+    },
+    {
+      "id": "M119",
+      "metric": "Lake",
+      "value": null,
+      "unit": null,
+      "source": "Lake",
+      "_present": true
+    },
+    {
+      "id": "M120",
+      "metric": "2002-",
+      "value": null,
+      "unit": null,
+      "source": "2002-",
+      "_present": true
+    },
+    {
+      "id": "M121",
+      "metric": "2004,",
+      "value": null,
+      "unit": null,
+      "source": "2004,",
+      "_present": true
+    },
+    {
+      "id": "M122",
+      "metric": "2009,",
+      "value": null,
+      "unit": null,
+      "source": "2009,",
+      "_present": true
+    },
+    {
+      "id": "M123",
+      "metric": "MDEQ Nutrient",
+      "value": null,
+      "unit": null,
+      "source": "MDEQ Nutrient",
+      "_present": true
+    },
+    {
+      "id": "M124",
+      "metric": "Criteria,",
+      "value": null,
+      "unit": null,
+      "source": "Criteria,",
+      "_present": true
+    },
+    {
+      "id": "M125",
+      "metric": "Ambient",
+      "value": null,
+      "unit": null,
+      "source": "Ambient",
+      "_present": true
+    },
+    {
+      "id": "M126",
+      "metric": "X X",
+      "value": null,
+      "unit": null,
+      "source": "X X",
+      "_present": true
+    },
+    {
+      "id": "M127",
+      "metric": "Bear Lake Watershed Plan GY 17",
+      "value": null,
+      "unit": null,
+      "source": "Bear Lake Watershed Plan GY 17",
+      "_present": true
+    },
+    {
+      "id": "M128",
+      "metric": "12",
+      "value": null,
+      "unit": null,
+      "source": "12",
+      "_present": true
+    },
+    {
+      "id": "M129",
+      "metric": "Station",
+      "value": null,
+      "unit": null,
+      "source": "Station",
+      "_present": true
+    },
+    {
+      "id": "M130",
+      "metric": "ID",
+      "value": null,
+      "unit": null,
+      "source": "ID",
+      "_present": true
+    },
+    {
+      "id": "M131",
+      "metric": "Water",
+      "value": null,
+      "unit": null,
+      "source": "Water",
+      "_present": true
+    },
+    {
+      "id": "M132",
+      "metric": "Body",
+      "value": null,
+      "unit": null,
+      "source": "Body",
+      "_present": true
+    },
+    {
+      "id": "M133",
+      "metric": "Sample",
+      "value": null,
+      "unit": null,
+      "source": "Sample",
+      "_present": true
+    },
+    {
+      "id": "M134",
+      "metric": "Year(s)",
+      "value": null,
+      "unit": null,
+      "source": "Year(s)",
+      "_present": true
+    },
+    {
+      "id": "M135",
+      "metric": "Collecting",
+      "value": null,
+      "unit": null,
+      "source": "Collecting",
+      "_present": true
+    },
+    {
+      "id": "M136",
+      "metric": "Agency",
+      "value": null,
+      "unit": null,
+      "source": "Agency",
+      "_present": true
+    },
+    {
+      "id": "M137",
+      "metric": "Project Water",
+      "value": null,
+      "unit": null,
+      "source": "Project Water",
+      "_present": true
+    },
+    {
+      "id": "M138",
+      "metric": "Chem",
+      "value": null,
+      "unit": null,
+      "source": "Chem",
+      "_present": true
+    },
+    {
+      "id": "M139",
+      "metric": "In-",
+      "value": null,
+      "unit": null,
+      "source": "In-",
+      "_present": true
+    },
+    {
+      "id": "M140",
+      "metric": "Situ",
+      "value": null,
+      "unit": null,
+      "source": "Situ",
+      "_present": true
+    },
+    {
+      "id": "M141",
+      "metric": "Sonde Benthics",
+      "value": null,
+      "unit": null,
+      "source": "Sonde Benthics",
+      "_present": true
+    },
+    {
+      "id": "M142",
+      "metric": "2011,",
+      "value": null,
+      "unit": null,
+      "source": "2011,",
+      "_present": true
+    },
+    {
+      "id": "M143",
+      "metric": "2015 -",
+      "value": null,
+      "unit": null,
+      "source": "2015 -",
+      "_present": true
+    },
+    {
+      "id": "M144",
+      "metric": "2018",
+      "value": null,
+      "unit": null,
+      "source": "2018",
+      "_present": true
+    },
+    {
+      "id": "M145",
+      "metric": "Lakes",
+      "value": null,
+      "unit": null,
+      "source": "Lakes",
+      "_present": true
+    },
+    {
+      "id": "M146",
+      "metric": "Status &",
+      "value": null,
+      "unit": null,
+      "source": "Status &",
+      "_present": true
+    },
+    {
+      "id": "M147",
+      "metric": "Trends",
+      "value": null,
+      "unit": null,
+      "source": "Trends",
+      "_present": true
+    },
+    {
+      "id": "M148",
+      "metric": "YZ292 Moon",
+      "value": null,
+      "unit": null,
+      "source": "YZ292 Moon",
+      "_present": true
+    },
+    {
+      "id": "M149",
+      "metric": "Lake",
+      "value": null,
+      "unit": null,
+      "source": "Lake",
+      "_present": true
+    },
+    {
+      "id": "M150",
+      "metric": "2002-",
+      "value": null,
+      "unit": null,
+      "source": "2002-",
+      "_present": true
+    },
+    {
+      "id": "M151",
+      "metric": "2004,",
+      "value": null,
+      "unit": null,
+      "source": "2004,",
+      "_present": true
+    },
+    {
+      "id": "M152",
+      "metric": "2009,",
+      "value": null,
+      "unit": null,
+      "source": "2009,",
+      "_present": true
+    },
+    {
+      "id": "M153",
+      "metric": "2011,",
+      "value": null,
+      "unit": null,
+      "source": "2011,",
+      "_present": true
+    },
+    {
+      "id": "M154",
+      "metric": "2015 -",
+      "value": null,
+      "unit": null,
+      "source": "2015 -",
+      "_present": true
+    },
+    {
+      "id": "M155",
+      "metric": "2018",
+      "value": null,
+      "unit": null,
+      "source": "2018",
+      "_present": true
+    },
+    {
+      "id": "M156",
+      "metric": "MDEQ Nutrient",
+      "value": null,
+      "unit": null,
+      "source": "MDEQ Nutrient",
+      "_present": true
+    },
+    {
+      "id": "M157",
+      "metric": "Criteria,",
+      "value": null,
+      "unit": null,
+      "source": "Criteria,",
+      "_present": true
+    },
+    {
+      "id": "M158",
+      "metric": "Ambient",
+      "value": null,
+      "unit": null,
+      "source": "Ambient",
+      "_present": true
+    },
+    {
+      "id": "M159",
+      "metric": "Lakes",
+      "value": null,
+      "unit": null,
+      "source": "Lakes",
+      "_present": true
+    },
+    {
+      "id": "M160",
+      "metric": "Status &",
+      "value": null,
+      "unit": null,
+      "source": "Status &",
+      "_present": true
+    },
+    {
+      "id": "M161",
+      "metric": "Trends",
+      "value": null,
+      "unit": null,
+      "source": "Trends",
+      "_present": true
+    },
+    {
+      "id": "M162",
+      "metric": "X X",
+      "value": null,
+      "unit": null,
+      "source": "X X",
+      "_present": true
+    },
+    {
+      "id": "M163",
+      "metric": "YZ431 Moon",
+      "value": null,
+      "unit": null,
+      "source": "YZ431 Moon",
+      "_present": true
+    },
+    {
+      "id": "M164",
+      "metric": "Lake",
+      "value": null,
+      "unit": null,
+      "source": "Lake",
+      "_present": true
+    },
+    {
+      "id": "M165",
+      "metric": "2002-",
+      "value": null,
+      "unit": null,
+      "source": "2002-",
+      "_present": true
+    },
+    {
+      "id": "M166",
+      "metric": "2004,",
+      "value": null,
+      "unit": null,
+      "source": "2004,",
+      "_present": true
+    },
+    {
+      "id": "M167",
+      "metric": "2009,",
+      "value": null,
+      "unit": null,
+      "source": "2009,",
+      "_present": true
+    },
+    {
+      "id": "M168",
+      "metric": "2011,",
+      "value": null,
+      "unit": null,
+      "source": "2011,",
+      "_present": true
+    },
+    {
+      "id": "M169",
+      "metric": "2015 -",
+      "value": null,
+      "unit": null,
+      "source": "2015 -",
+      "_present": true
+    },
+    {
+      "id": "M170",
+      "metric": "2018",
+      "value": null,
+      "unit": null,
+      "source": "2018",
+      "_present": true
+    },
+    {
+      "id": "M171",
+      "metric": "MDEQ Nutrient",
+      "value": null,
+      "unit": null,
+      "source": "MDEQ Nutrient",
+      "_present": true
+    },
+    {
+      "id": "M172",
+      "metric": "Criteria,",
+      "value": null,
+      "unit": null,
+      "source": "Criteria,",
+      "_present": true
+    },
+    {
+      "id": "M173",
+      "metric": "Ambient",
+      "value": null,
+      "unit": null,
+      "source": "Ambient",
+      "_present": true
+    },
+    {
+      "id": "M174",
+      "metric": "Lakes",
+      "value": null,
+      "unit": null,
+      "source": "Lakes",
+      "_present": true
+    },
+    {
+      "id": "M175",
+      "metric": "Status &",
+      "value": null,
+      "unit": null,
+      "source": "Status &",
+      "_present": true
+    },
+    {
+      "id": "M176",
+      "metric": "Trends",
+      "value": null,
+      "unit": null,
+      "source": "Trends",
+      "_present": true
+    },
+    {
+      "id": "M177",
+      "metric": "X X",
+      "value": null,
+      "unit": null,
+      "source": "X X",
+      "_present": true
+    },
+    {
+      "id": "M178",
+      "metric": "Post-implementation monitoring locations will be selected using best professional judgment and",
+      "value": null,
+      "unit": null,
+      "source": "Post-implementation monitoring locations will be selected using best professional judgment and",
+      "_present": true
+    },
+    {
+      "id": "M179",
+      "metric": "will be targeted to reflect water quality downstream of BMP activity.  Once BMP installation is",
+      "value": null,
+      "unit": null,
+      "source": "will be targeted to reflect water quality downstream of BMP activity.  Once BMP installation is",
+      "_present": true
+    },
+    {
+      "id": "M180",
+      "metric": "complete, and there has been sufficient time for the stream to stabilize, post BMP monitoring",
+      "value": null,
+      "unit": null,
+      "source": "complete, and there has been sufficient time for the stream to stabilize, post BMP monitoring",
+      "_present": true
+    },
+    {
+      "id": "M181",
+      "metric": "will be initiated.  Post BMP monitoring will be conducted in a way that allows for comparison",
+      "value": null,
+      "unit": null,
+      "source": "will be initiated.  Post BMP monitoring will be conducted in a way that allows for comparison",
+      "_present": true
+    },
+    {
+      "id": "M182",
+      "metric": "with the pre-implementation data.  Because recovery periods of streams can be dependent on",
+      "value": null,
+      "unit": null,
+      "source": "with the pre-implementation data.  Because recovery periods of streams can be dependent on",
+      "_present": true
+    },
+    {
+      "id": "M183",
+      "metric": "type and amount of BMPs installed, more than 1 year of post BMP data may be needed to",
+      "value": null,
+      "unit": null,
+      "source": "type and amount of BMPs installed, more than 1 year of post BMP data may be needed to",
+      "_present": true
+    },
+    {
+      "id": "M184",
+      "metric": "observe a change in water quality.  In some cases, it may take 5 or more years to see full benefits",
+      "value": null,
+      "unit": null,
+      "source": "observe a change in water quality.  In some cases, it may take 5 or more years to see full benefits",
+      "_present": true
+    },
+    {
+      "id": "M185",
+      "metric": "of BMPs. All data collection efforts will be conducted using trained personnel following",
+      "value": null,
+      "unit": null,
+      "source": "of BMPs. All data collection efforts will be conducted using trained personnel following",
+      "_present": true
+    },
+    {
+      "id": "M186",
+      "metric": "established Standard Operating Procedures and adhering to agency Quality Assurance protocols.",
+      "value": null,
+      "unit": null,
+      "source": "established Standard Operating Procedures and adhering to agency Quality Assurance protocols.",
+      "_present": true
+    },
+    {
+      "id": "M187",
+      "metric": "Bear Lake Watershed Plan GY 17",
+      "value": null,
+      "unit": null,
+      "source": "Bear Lake Watershed Plan GY 17",
+      "_present": true
+    },
+    {
+      "id": "M188",
+      "metric": "13",
+      "value": null,
+      "unit": null,
+      "source": "13",
+      "_present": true
+    },
+    {
+      "id": "M189",
+      "metric": "Figure 3: Monitoring Locations: Moon Lake and Bear Lake – Phillips Bayou Watershed",
+      "value": null,
+      "unit": null,
+      "source": "Figure 3: Monitoring Locations: Moon Lake and Bear Lake – Phillips Bayou Watershed",
+      "_present": true
+    }
+  ],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-02T23:37:21.145Z",
+  "metadata": {
+    "sourceId": "bear-lake-9-key-elelment-plan-2018",
+    "sourceFile": "bear-lake-9-key-elelment-plan-2018.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "adaptive_generic_costs",
+        "title": "32 @ $6,480 $207,360  $82,944",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1942665
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "82 @ $2,400 $196,800  $78,720",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2001210
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "20,898 @ $10 $208,980  $83,592",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1932810
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "17,727 @ $2 $35,454  $14,182",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1723830
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "17,727 @ $73 $1,294,071  $517,628",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1838316
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "17,727 @ $15 $265,905  $106,362",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 544245
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$24,900",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 278340
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Grade Stabilization Structure (#) 5 @ $6,480 $32,400  $12,960",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 278340
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Water Control Structure (#) 40 @ $2,400 $96,000  $38,400",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 578940
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$73 $35,040  $14,016",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 482940
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Education/Outreach N/A $24,900  N/A",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 447900
+      },
+      {
+        "id": "activity_match",
+        "title": "Activity Size/Amount Estimated Cost Landowner Match",
+        "confidence": 0.85,
+        "totalReported": 333000,
+        "totalComputed": 163440
+      }
+    ],
+    "originalName": "Bear_Lake_9_Key_Elelment_Plan_2018.pdf",
+    "presence": {
+      "goals": 0,
+      "bmps": 47,
+      "implementation": 0,
+      "monitoring": 189,
+      "outreach": 0
+    }
+  }
+}

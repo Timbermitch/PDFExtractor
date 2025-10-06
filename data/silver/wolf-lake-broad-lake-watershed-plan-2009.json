@@ -1,0 +1,1491 @@
+{
+  "id": "wolf-lake-broad-lake-watershed-plan-2009",
+  "summary": {
+    "totalGoals": 2,
+    "totalBMPs": 13,
+    "totalActivities": 0,
+    "primaryGoals": 1,
+    "completionRate": 0,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 2,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "General": 11,
+      "Erosion Control": 1,
+      "Vegetative Buffer": 1
+    },
+    "avgGoalConfidence": 0.125,
+    "strongGoals": 0
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "21 Meeting this goal requires a reduction in sedimentation rates on cultivated agricultural Goal The primary goal of this watershed implementation plan is to achieve or exceed water The goal of this action item is to remove fish consumption advisories for DDT and 2003b).",
+      "status": "planned",
+      "pollutant": "sediment",
+      "parameter": "sediment",
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": "2003",
+      "achievedYear": null,
+      "targetYear": "2003",
+      "responsible": null,
+      "source": "21 Meeting this goal requires a reduction in sedimentation rates on cultivated agricultural Goal The primary goal of this watershed implementation plan is to achieve or exceed water The goal of this action item is to remove fish consumption advisories for DDT and 2003b).",
+      "confidence": 0.25,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "description": "The goal of this action item is to remove fish consumption advisories for DDT and 2003b).",
+      "originalSentence": "21 Meeting this goal requires a reduction in sedimentation rates on cultivated agricultural Goal The primary goal of this watershed implementation plan is to achieve or exceed water The goal of this action item is to remove fish consumption advisories for DDT and 2003b).",
+      "shortTitle": "21 Meeting this goal requires a reduction in sedimentation rates on cultivated agricultural Goal…"
+    },
+    {
+      "id": "G2",
+      "title": "2003b). Therefore, those BMPs listed in Table 4 will also serve to achieve this goal.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": "2003",
+      "achievedYear": null,
+      "targetYear": "2003",
+      "responsible": null,
+      "source": "2003b).  Therefore, those BMPs listed in Table 4 will also serve to achieve this goal.",
+      "confidence": 0,
+      "description": "2003b). Therefore, those BMPs listed in Table 4 will also serve to achieve this goal.",
+      "originalSentence": "2003b). Therefore, those BMPs listed in Table 4 will also serve to achieve this goal.",
+      "shortTitle": "2003b). Therefore, those BMPs listed in Table 4 will also serve to achieve this goal."
+    }
+  ],
+  "mainGoals": [
+    {
+      "id": "G1",
+      "title": "21 Meeting this goal requires a reduction in sedimentation rates on cultivated agricultural Goal The primary goal of this watershed implementation plan is to achieve or exceed water The goal of this action item is to remove fish consumption advisories for DDT and 2003b).",
+      "status": "planned",
+      "pollutant": "sediment",
+      "parameter": "sediment",
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": "2003",
+      "achievedYear": null,
+      "targetYear": "2003",
+      "responsible": null,
+      "source": "21 Meeting this goal requires a reduction in sedimentation rates on cultivated agricultural Goal The primary goal of this watershed implementation plan is to achieve or exceed water The goal of this action item is to remove fish consumption advisories for DDT and 2003b).",
+      "confidence": 0.25,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "description": "The goal of this action item is to remove fish consumption advisories for DDT and 2003b).",
+      "originalSentence": "21 Meeting this goal requires a reduction in sedimentation rates on cultivated agricultural Goal The primary goal of this watershed implementation plan is to achieve or exceed water The goal of this action item is to remove fish consumption advisories for DDT and 2003b).",
+      "shortTitle": "21 Meeting this goal requires a reduction in sedimentation rates on cultivated agricultural Goal…"
+    }
+  ],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "Practice Unit Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Practice Unit Cost"
+    },
+    {
+      "id": "B2",
+      "name": "Number of Units Total Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Number of Units Total Cost"
+    },
+    {
+      "id": "B3",
+      "name": "Water Control Structures",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Water Control Structures $6,200 200 $1,240,000.00|name_cost_tail_trim",
+      "originalName": "Water Control Structures $6,200 200 $1,240,000.00"
+    },
+    {
+      "id": "B4",
+      "name": "Rip-Rap Weirs",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Rip-Rap Weirs $16,125 20 $322,500.00|name_cost_tail_trim",
+      "originalName": "Rip-Rap Weirs $16,125 20 $322,500.00"
+    },
+    {
+      "id": "B5",
+      "name": "Wetland Construction",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Wetland Construction $1,500/acre 50/acres $75,000.00|name_cost_tail_trim",
+      "originalName": "Wetland Construction $1,500/acre 50/acres $75,000.00"
+    },
+    {
+      "id": "B6",
+      "name": "Bank Stabilization",
+      "category": "Erosion Control",
+      "keyword": "Bank Stabilization",
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.4,
+      "source": "Bank Stabilization $3,750.00/site 20/sites $75,000.00|name_cost_tail_trim",
+      "originalName": "Bank Stabilization $3,750.00/site 20/sites $75,000.00"
+    },
+    {
+      "id": "B7",
+      "name": "Riparian Buffers",
+      "category": "Vegetative Buffer",
+      "keyword": "Riparian Buffer",
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.4,
+      "source": "Riparian Buffers $950/acre 100/acres $95,000.00|name_cost_tail_trim",
+      "originalName": "Riparian Buffers $950/acre 100/acres $95,000.00"
+    },
+    {
+      "id": "B8",
+      "name": "Total",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Total   $1,807,500.00|name_cost_tail_trim",
+      "originalName": "Total   $1,807,500.00"
+    },
+    {
+      "id": "B9",
+      "name": "Monitoring",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Monitoring    $13,622.00|name_cost_tail_trim",
+      "originalName": "Monitoring    $13,622.00"
+    },
+    {
+      "id": "B10",
+      "name": "Mgt. Plan Development",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Mgt. Plan Development $266/day 7 $1,860.00|name_cost_tail_trim",
+      "originalName": "Mgt. Plan Development $266/day 7 $1,860.00"
+    },
+    {
+      "id": "B11",
+      "name": "Mapping",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Mapping $554/day 4 $2,216.00|name_cost_tail_trim",
+      "originalName": "Mapping $554/day 4 $2,216.00"
+    },
+    {
+      "id": "B12",
+      "name": "Ag BMP",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Ag BMP $1,807,500.00|name_cost_tail_trim",
+      "originalName": "Ag BMP $1,807,500.00"
+    },
+    {
+      "id": "B13",
+      "name": "Fisheries Management",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Fisheries Management $17,698.00|name_cost_tail_trim",
+      "originalName": "Fisheries Management $17,698.00"
+    }
+  ],
+  "bmpCostTable": {
+    "id": "adaptive_generic_costs",
+    "title": "Water Control Structures $6,200 200 $1,240,000.00",
+    "table": {
+      "columns": [
+        "Item",
+        "Cost",
+        "Extra?"
+      ],
+      "rows": [
+        {
+          "Item": "Water Control Structures $6,200 200",
+          "Cost": "$1,240,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "Rip-Rap Weirs $16,125 20",
+          "Cost": "$322,500.00",
+          "Extra": null
+        },
+        {
+          "Item": "Wetland Construction $1,500/acre 50/acres",
+          "Cost": "$75,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "Bank Stabilization $3,750.00/site 20/sites",
+          "Cost": "$75,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "Riparian Buffers $950/acre 100/acres",
+          "Cost": "$95,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "Total",
+          "Cost": "$1,807,500.00",
+          "Extra": null
+        }
+      ],
+      "total": null
+    },
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTableNormalized": {
+    "id": "adaptive_generic_costs",
+    "title": "Water Control Structures $6,200 200 $1,240,000.00",
+    "rows": [
+      {
+        "name": "Water Control Structures $6,200 200",
+        "totalCost": 1240000,
+        "rawCost": "$1,240,000.00"
+      },
+      {
+        "name": "Rip-Rap Weirs $16,125 20",
+        "totalCost": 322500,
+        "rawCost": "$322,500.00"
+      },
+      {
+        "name": "Wetland Construction $1,500/acre 50/acres",
+        "totalCost": 75000,
+        "rawCost": "$75,000.00"
+      },
+      {
+        "name": "Bank Stabilization $3,750.00/site 20/sites",
+        "totalCost": 75000,
+        "rawCost": "$75,000.00"
+      },
+      {
+        "name": "Riparian Buffers $950/acre 100/acres",
+        "totalCost": 95000,
+        "rawCost": "$95,000.00"
+      },
+      {
+        "name": "Total",
+        "totalCost": 1807500,
+        "rawCost": "$1,807,500.00"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 3615000,
+    "discrepancy": null,
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTables": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Water Control Structures $6,200 200 $1,240,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Water Control Structures $6,200 200",
+            "Cost": "$1,240,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Rip-Rap Weirs $16,125 20",
+            "Cost": "$322,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Wetland Construction $1,500/acre 50/acres",
+            "Cost": "$75,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Bank Stabilization $3,750.00/site 20/sites",
+            "Cost": "$75,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Riparian Buffers $950/acre 100/acres",
+            "Cost": "$95,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,807,500.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Rip-Rap Weirs $16,125 20 $322,500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Rip-Rap Weirs $16,125 20",
+            "Cost": "$322,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Wetland Construction $1,500/acre 50/acres",
+            "Cost": "$75,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Bank Stabilization $3,750.00/site 20/sites",
+            "Cost": "$75,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Riparian Buffers $950/acre 100/acres",
+            "Cost": "$95,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,807,500.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Wetland Construction $1,500/acre 50/acres $75,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Wetland Construction $1,500/acre 50/acres",
+            "Cost": "$75,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Bank Stabilization $3,750.00/site 20/sites",
+            "Cost": "$75,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Riparian Buffers $950/acre 100/acres",
+            "Cost": "$95,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,807,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring",
+            "Cost": "$13,622.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mgt. Plan Development $266/day 7",
+            "Cost": "$1,860.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mapping $554/day 4",
+            "Cost": "$2,216.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$1,807,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$1,825,198.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Bank Stabilization $3,750.00/site 20/sites $75,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Bank Stabilization $3,750.00/site 20/sites",
+            "Cost": "$75,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Riparian Buffers $950/acre 100/acres",
+            "Cost": "$95,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,807,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring",
+            "Cost": "$13,622.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mgt. Plan Development $266/day 7",
+            "Cost": "$1,860.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mapping $554/day 4",
+            "Cost": "$2,216.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$1,807,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$1,825,198.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Riparian Buffers $950/acre 100/acres $95,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Riparian Buffers $950/acre 100/acres",
+            "Cost": "$95,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,807,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring",
+            "Cost": "$13,622.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mgt. Plan Development $266/day 7",
+            "Cost": "$1,860.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mapping $554/day 4",
+            "Cost": "$2,216.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$1,807,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$1,825,198.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $1,807,500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$1,807,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring",
+            "Cost": "$13,622.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mgt. Plan Development $266/day 7",
+            "Cost": "$1,860.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mapping $554/day 4",
+            "Cost": "$2,216.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$1,807,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$1,825,198.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Monitoring    $13,622.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Monitoring",
+            "Cost": "$13,622.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mgt. Plan Development $266/day 7",
+            "Cost": "$1,860.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mapping $554/day 4",
+            "Cost": "$2,216.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$1,807,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$1,825,198.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Mgt. Plan Development $266/day 7 $1,860.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Mgt. Plan Development $266/day 7",
+            "Cost": "$1,860.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mapping $554/day 4",
+            "Cost": "$2,216.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$1,807,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$1,825,198.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Mapping $554/day 4 $2,216.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Mapping $554/day 4",
+            "Cost": "$2,216.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$1,807,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$1,825,198.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "TOTAL   $17,698.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "TOTAL",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$1,807,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$1,825,198.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Ag BMP $1,807,500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Ag BMP",
+            "Cost": "$1,807,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$1,825,198.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Water Control Structures $6,200 200 $1,240,000.00",
+      "rows": [
+        {
+          "name": "Water Control Structures $6,200 200",
+          "totalCost": 1240000,
+          "rawCost": "$1,240,000.00"
+        },
+        {
+          "name": "Rip-Rap Weirs $16,125 20",
+          "totalCost": 322500,
+          "rawCost": "$322,500.00"
+        },
+        {
+          "name": "Wetland Construction $1,500/acre 50/acres",
+          "totalCost": 75000,
+          "rawCost": "$75,000.00"
+        },
+        {
+          "name": "Bank Stabilization $3,750.00/site 20/sites",
+          "totalCost": 75000,
+          "rawCost": "$75,000.00"
+        },
+        {
+          "name": "Riparian Buffers $950/acre 100/acres",
+          "totalCost": 95000,
+          "rawCost": "$95,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1807500,
+          "rawCost": "$1,807,500.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 3615000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Rip-Rap Weirs $16,125 20 $322,500.00",
+      "rows": [
+        {
+          "name": "Rip-Rap Weirs $16,125 20",
+          "totalCost": 322500,
+          "rawCost": "$322,500.00"
+        },
+        {
+          "name": "Wetland Construction $1,500/acre 50/acres",
+          "totalCost": 75000,
+          "rawCost": "$75,000.00"
+        },
+        {
+          "name": "Bank Stabilization $3,750.00/site 20/sites",
+          "totalCost": 75000,
+          "rawCost": "$75,000.00"
+        },
+        {
+          "name": "Riparian Buffers $950/acre 100/acres",
+          "totalCost": 95000,
+          "rawCost": "$95,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1807500,
+          "rawCost": "$1,807,500.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2375000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Wetland Construction $1,500/acre 50/acres $75,000.00",
+      "rows": [
+        {
+          "name": "Wetland Construction $1,500/acre 50/acres",
+          "totalCost": 75000,
+          "rawCost": "$75,000.00"
+        },
+        {
+          "name": "Bank Stabilization $3,750.00/site 20/sites",
+          "totalCost": 75000,
+          "rawCost": "$75,000.00"
+        },
+        {
+          "name": "Riparian Buffers $950/acre 100/acres",
+          "totalCost": 95000,
+          "rawCost": "$95,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1807500,
+          "rawCost": "$1,807,500.00"
+        },
+        {
+          "name": "Monitoring",
+          "totalCost": 13622,
+          "rawCost": "$13,622.00"
+        },
+        {
+          "name": "Mgt. Plan Development $266/day 7",
+          "totalCost": 1860,
+          "rawCost": "$1,860.00"
+        },
+        {
+          "name": "Mapping $554/day 4",
+          "totalCost": 2216,
+          "rawCost": "$2,216.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 1807500,
+          "rawCost": "$1,807,500.00"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 1825198,
+          "rawCost": "$1,825,198.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 5738292,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Bank Stabilization $3,750.00/site 20/sites $75,000.00",
+      "rows": [
+        {
+          "name": "Bank Stabilization $3,750.00/site 20/sites",
+          "totalCost": 75000,
+          "rawCost": "$75,000.00"
+        },
+        {
+          "name": "Riparian Buffers $950/acre 100/acres",
+          "totalCost": 95000,
+          "rawCost": "$95,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1807500,
+          "rawCost": "$1,807,500.00"
+        },
+        {
+          "name": "Monitoring",
+          "totalCost": 13622,
+          "rawCost": "$13,622.00"
+        },
+        {
+          "name": "Mgt. Plan Development $266/day 7",
+          "totalCost": 1860,
+          "rawCost": "$1,860.00"
+        },
+        {
+          "name": "Mapping $554/day 4",
+          "totalCost": 2216,
+          "rawCost": "$2,216.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 1807500,
+          "rawCost": "$1,807,500.00"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 1825198,
+          "rawCost": "$1,825,198.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 5663292,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Riparian Buffers $950/acre 100/acres $95,000.00",
+      "rows": [
+        {
+          "name": "Riparian Buffers $950/acre 100/acres",
+          "totalCost": 95000,
+          "rawCost": "$95,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1807500,
+          "rawCost": "$1,807,500.00"
+        },
+        {
+          "name": "Monitoring",
+          "totalCost": 13622,
+          "rawCost": "$13,622.00"
+        },
+        {
+          "name": "Mgt. Plan Development $266/day 7",
+          "totalCost": 1860,
+          "rawCost": "$1,860.00"
+        },
+        {
+          "name": "Mapping $554/day 4",
+          "totalCost": 2216,
+          "rawCost": "$2,216.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 1807500,
+          "rawCost": "$1,807,500.00"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 1825198,
+          "rawCost": "$1,825,198.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 5588292,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $1,807,500.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 1807500,
+          "rawCost": "$1,807,500.00"
+        },
+        {
+          "name": "Monitoring",
+          "totalCost": 13622,
+          "rawCost": "$13,622.00"
+        },
+        {
+          "name": "Mgt. Plan Development $266/day 7",
+          "totalCost": 1860,
+          "rawCost": "$1,860.00"
+        },
+        {
+          "name": "Mapping $554/day 4",
+          "totalCost": 2216,
+          "rawCost": "$2,216.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 1807500,
+          "rawCost": "$1,807,500.00"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 1825198,
+          "rawCost": "$1,825,198.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 5493292,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Monitoring    $13,622.00",
+      "rows": [
+        {
+          "name": "Monitoring",
+          "totalCost": 13622,
+          "rawCost": "$13,622.00"
+        },
+        {
+          "name": "Mgt. Plan Development $266/day 7",
+          "totalCost": 1860,
+          "rawCost": "$1,860.00"
+        },
+        {
+          "name": "Mapping $554/day 4",
+          "totalCost": 2216,
+          "rawCost": "$2,216.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 1807500,
+          "rawCost": "$1,807,500.00"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 1825198,
+          "rawCost": "$1,825,198.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 3685792,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Mgt. Plan Development $266/day 7 $1,860.00",
+      "rows": [
+        {
+          "name": "Mgt. Plan Development $266/day 7",
+          "totalCost": 1860,
+          "rawCost": "$1,860.00"
+        },
+        {
+          "name": "Mapping $554/day 4",
+          "totalCost": 2216,
+          "rawCost": "$2,216.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 1807500,
+          "rawCost": "$1,807,500.00"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 1825198,
+          "rawCost": "$1,825,198.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 3672170,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Mapping $554/day 4 $2,216.00",
+      "rows": [
+        {
+          "name": "Mapping $554/day 4",
+          "totalCost": 2216,
+          "rawCost": "$2,216.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 1807500,
+          "rawCost": "$1,807,500.00"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 1825198,
+          "rawCost": "$1,825,198.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 3670310,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "TOTAL   $17,698.00",
+      "rows": [
+        {
+          "name": "TOTAL",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 1807500,
+          "rawCost": "$1,807,500.00"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 1825198,
+          "rawCost": "$1,825,198.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 3668094,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Ag BMP $1,807,500.00",
+      "rows": [
+        {
+          "name": "Ag BMP",
+          "totalCost": 1807500,
+          "rawCost": "$1,807,500.00"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 1825198,
+          "rawCost": "$1,825,198.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 3650396,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-02T13:23:26.505Z",
+  "metadata": {
+    "sourceId": "wolf-lake-broad-lake-watershed-plan-2009",
+    "sourceFile": "wolf-lake-broad-lake-watershed-plan-2009.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Water Control Structures $6,200 200 $1,240,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 3615000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Rip-Rap Weirs $16,125 20 $322,500.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2375000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Wetland Construction $1,500/acre 50/acres $75,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 5738292
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Bank Stabilization $3,750.00/site 20/sites $75,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 5663292
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Riparian Buffers $950/acre 100/acres $95,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 5588292
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Total   $1,807,500.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 5493292
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Monitoring    $13,622.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 3685792
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Mgt. Plan Development $266/day 7 $1,860.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 3672170
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Mapping $554/day 4 $2,216.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 3670310
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "TOTAL   $17,698.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 3668094
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Ag BMP $1,807,500.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 3650396
+      }
+    ]
+  }
+}

@@ -1,0 +1,803 @@
+[
+  {
+    "file": "basket-creek-hickahala-creek-9-key-element-plan-2018.json",
+    "slug": "basket-creek-hickahala-creek-9-key-element-plan-2018",
+    "activities": 0,
+    "bmps": 8,
+    "goals": 1,
+    "costTables": 1,
+    "patterns": {
+      "aggressive_loose_cluster": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 1
+  },
+  {
+    "file": "bear-creek-watershed-plan-2007.json",
+    "slug": "bear-creek-watershed-plan-2007",
+    "activities": 0,
+    "bmps": 35,
+    "goals": 1,
+    "costTables": 1,
+    "patterns": {
+      "practice_costs_format": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 1
+  },
+  {
+    "file": "bear-lake-9-key-elelment-plan-2018.json",
+    "slug": "bear-lake-9-key-elelment-plan-2018",
+    "activities": 0,
+    "bmps": 19,
+    "goals": 4,
+    "costTables": 1,
+    "patterns": {
+      "activity_match": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 1,
+    "tablesWithDiscrepancy": 1
+  },
+  {
+    "file": "bee-lake-watershed-plan-2006.json",
+    "slug": "bee-lake-watershed-plan-2006",
+    "activities": 0,
+    "bmps": 179,
+    "goals": 2,
+    "costTables": 19,
+    "patterns": {
+      "aggressive_loose_cluster": 19
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 3,
+    "discrepancyWithin5": 3,
+    "discrepancyOver20": 2,
+    "tablesWithDiscrepancy": 19
+  },
+  {
+    "file": "bell-creek-muddy-creek-watershed-plan-2012.json",
+    "slug": "bell-creek-muddy-creek-watershed-plan-2012",
+    "activities": 0,
+    "bmps": 51,
+    "goals": 2,
+    "costTables": 2,
+    "patterns": {
+      "bell_creek_bmps": 1,
+      "bell_creek_format": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 2
+  },
+  {
+    "file": "bogue-chitto-creek-watershed-plan.json",
+    "slug": "bogue-chitto-creek-watershed-plan",
+    "activities": 0,
+    "bmps": 0,
+    "goals": 0,
+    "costTables": 0,
+    "patterns": {},
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 0
+  },
+  {
+    "file": "booths-creek-bayou-pierre-watershed-plan-2017-5.json",
+    "slug": "booths-creek-bayou-pierre-watershed-plan-2017-5",
+    "activities": 0,
+    "bmps": 95,
+    "goals": 1,
+    "costTables": 1,
+    "patterns": {
+      "booths_creek_format": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 1
+  },
+  {
+    "file": "broken-pumpkin-9-key-element-plan-2019.json",
+    "slug": "broken-pumpkin-9-key-element-plan-2019",
+    "activities": 0,
+    "bmps": 85,
+    "goals": 4,
+    "costTables": 2,
+    "patterns": {
+      "full_project_estimate": 1,
+      "phase1_estimate": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 2
+  },
+  {
+    "file": "buttahatchee-river-watershed-plan.json",
+    "slug": "buttahatchee-river-watershed-plan",
+    "activities": 0,
+    "bmps": 0,
+    "goals": 0,
+    "costTables": 0,
+    "patterns": {},
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 0
+  },
+  {
+    "file": "carmichael-creek-town-creek-9-key-element-plan-2019.json",
+    "slug": "carmichael-creek-town-creek-9-key-element-plan-2019",
+    "activities": 0,
+    "bmps": 56,
+    "goals": 9,
+    "costTables": 2,
+    "patterns": {
+      "full_project_estimate": 1,
+      "phase1_estimate": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 2
+  },
+  {
+    "file": "chunky-okatibbee-watershed-plan-2007-5.json",
+    "slug": "chunky-okatibbee-watershed-plan-2007-5",
+    "activities": 15,
+    "bmps": 1,
+    "goals": 6,
+    "costTables": 0,
+    "patterns": {},
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 0
+  },
+  {
+    "file": "coldwater-river-watershed-plan-2013.json",
+    "slug": "coldwater-river-watershed-plan-2013",
+    "activities": 0,
+    "bmps": 0,
+    "goals": 1,
+    "costTables": 0,
+    "patterns": {},
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 0
+  },
+  {
+    "file": "deer-creek-watershed-plan-2008.json",
+    "slug": "deer-creek-watershed-plan-2008",
+    "activities": 0,
+    "bmps": 22,
+    "goals": 1,
+    "costTables": 0,
+    "patterns": {},
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 0
+  },
+  {
+    "file": "dry-creek-9-key-element-plan-2017.json",
+    "slug": "dry-creek-9-key-element-plan-2017",
+    "activities": 0,
+    "bmps": 19,
+    "goals": 1,
+    "costTables": 1,
+    "patterns": {
+      "activity_match": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 1,
+    "tablesWithDiscrepancy": 1
+  },
+  {
+    "file": "ellison-creek-9-key-element-plan-2021.json",
+    "slug": "ellison-creek-9-key-element-plan-2021",
+    "activities": 0,
+    "bmps": 37,
+    "goals": 1,
+    "costTables": 2,
+    "patterns": {
+      "full_project_estimate": 1,
+      "phase1_estimate": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 2,
+    "discrepancyWithin5": 2,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 2
+  },
+  {
+    "file": "fannegusha-creek-watershed-plan-2009.json",
+    "slug": "fannegusha-creek-watershed-plan-2009",
+    "activities": 0,
+    "bmps": 35,
+    "goals": 2,
+    "costTables": 2,
+    "patterns": {
+      "bell_creek_bmps": 1,
+      "bell_creek_format": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 2
+  },
+  {
+    "file": "fourteen-mile-bakers-creek-watershed-plan-2009.json",
+    "slug": "fourteen-mile-bakers-creek-watershed-plan-2009",
+    "activities": 0,
+    "bmps": 31,
+    "goals": 1,
+    "costTables": 2,
+    "patterns": {
+      "bell_creek_bmps": 1,
+      "bell_creek_format": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 2
+  },
+  {
+    "file": "fuller-creek-town-creek-9-key-element-plan-2022.json",
+    "slug": "fuller-creek-town-creek-9-key-element-plan-2022",
+    "activities": 0,
+    "bmps": 33,
+    "goals": 3,
+    "costTables": 2,
+    "patterns": {
+      "full_project_estimate": 1,
+      "phase1_estimate": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 2
+  },
+  {
+    "file": "hickahala-creek-watershed-plan-2009.json",
+    "slug": "hickahala-creek-watershed-plan-2009",
+    "activities": 0,
+    "bmps": 34,
+    "goals": 5,
+    "costTables": 1,
+    "patterns": {
+      "aggressive_loose_cluster": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 1,
+    "discrepancyWithin5": 1,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 1
+  },
+  {
+    "file": "jasper-creek-watershed-plan-2019.json",
+    "slug": "jasper-creek-watershed-plan-2019",
+    "activities": 0,
+    "bmps": 28,
+    "goals": 2,
+    "costTables": 3,
+    "patterns": {
+      "aggressive_loose_cluster": 3
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 1,
+    "discrepancyWithin5": 1,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 3
+  },
+  {
+    "file": "lake-washington-watershed-plan-2007.json",
+    "slug": "lake-washington-watershed-plan-2007",
+    "activities": 0,
+    "bmps": 48,
+    "goals": 6,
+    "costTables": 2,
+    "patterns": {
+      "aggressive_loose_cluster": 2
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 2
+  },
+  {
+    "file": "luxapallila-creek-watershed-plan-2004-5.json",
+    "slug": "luxapallila-creek-watershed-plan-2004-5",
+    "activities": 0,
+    "bmps": 0,
+    "goals": 0,
+    "costTables": 0,
+    "patterns": {},
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 0
+  },
+  {
+    "file": "magees-creek-watershed-plan-2007.json",
+    "slug": "magees-creek-watershed-plan-2007",
+    "activities": 0,
+    "bmps": 45,
+    "goals": 2,
+    "costTables": 3,
+    "patterns": {
+      "tech_assistance": 2,
+      "tech_assistance_format": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 3,
+    "discrepancyWithin5": 3,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 3
+  },
+  {
+    "file": "middle-porter-bayou-watershed-plan-2013.json",
+    "slug": "middle-porter-bayou-watershed-plan-2013",
+    "activities": 0,
+    "bmps": 23,
+    "goals": 1,
+    "costTables": 1,
+    "patterns": {
+      "cost_table": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 1
+  },
+  {
+    "file": "mill-creek-watershed-plan.json",
+    "slug": "mill-creek-watershed-plan",
+    "activities": 0,
+    "bmps": 3,
+    "goals": 1,
+    "costTables": 0,
+    "patterns": {},
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 0
+  },
+  {
+    "file": "muddy-bayou-opossum-bayou-9-key-element-plan-2022.json",
+    "slug": "muddy-bayou-opossum-bayou-9-key-element-plan-2022",
+    "activities": 0,
+    "bmps": 24,
+    "goals": 7,
+    "costTables": 1,
+    "patterns": {
+      "phase1_estimate": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 1
+  },
+  {
+    "file": "north-tippah-creek-watershed-plan-2013.json",
+    "slug": "north-tippah-creek-watershed-plan-2013",
+    "activities": 0,
+    "bmps": 52,
+    "goals": 2,
+    "costTables": 1,
+    "patterns": {
+      "tech_assistance": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 1,
+    "discrepancyWithin5": 1,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 1
+  },
+  {
+    "file": "old-fort-bayou-watershed-plan-2019.json",
+    "slug": "old-fort-bayou-watershed-plan-2019",
+    "activities": 0,
+    "bmps": 0,
+    "goals": 8,
+    "costTables": 1,
+    "patterns": {
+      "aggressive_loose_cluster": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 1,
+    "tablesWithDiscrepancy": 1
+  },
+  {
+    "file": "overcup-slough-watershed-plan-2013.json",
+    "slug": "overcup-slough-watershed-plan-2013",
+    "activities": 0,
+    "bmps": 19,
+    "goals": 1,
+    "costTables": 0,
+    "patterns": {},
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 0
+  },
+  {
+    "file": "owl-creek-little-hatchie-river-9-key-element-plan-2020.json",
+    "slug": "owl-creek-little-hatchie-river-9-key-element-plan-2020",
+    "activities": 0,
+    "bmps": 30,
+    "goals": 6,
+    "costTables": 1,
+    "patterns": {
+      "full_project_estimate": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 1
+  },
+  {
+    "file": "pickwick-reservoir-watershed-plan-2009.json",
+    "slug": "pickwick-reservoir-watershed-plan-2009",
+    "activities": 0,
+    "bmps": 22,
+    "goals": 7,
+    "costTables": 4,
+    "patterns": {
+      "aggressive_loose_cluster": 4
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 4
+  },
+  {
+    "file": "platner-bayou-tippo-bayou-9-key-element-plan-2021.json",
+    "slug": "platner-bayou-tippo-bayou-9-key-element-plan-2021",
+    "activities": 0,
+    "bmps": 31,
+    "goals": 3,
+    "costTables": 2,
+    "patterns": {
+      "full_project_estimate": 1,
+      "phase1_estimate": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 2
+  },
+  {
+    "file": "red-bud-catalpa-creek-watershed-phase-1-plan-2017.json",
+    "slug": "red-bud-catalpa-creek-watershed-phase-1-plan-2017",
+    "activities": 0,
+    "bmps": 86,
+    "goals": 4,
+    "costTables": 1,
+    "patterns": {
+      "cost_table": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 1
+  },
+  {
+    "file": "red-bud-catalpa-creek-watershed-plan-2016.json",
+    "slug": "red-bud-catalpa-creek-watershed-plan-2016",
+    "activities": 0,
+    "bmps": 58,
+    "goals": 11,
+    "costTables": 1,
+    "patterns": {
+      "cost_table": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 1
+  },
+  {
+    "file": "red-creek-watershed-action-plan.json",
+    "slug": "red-creek-watershed-action-plan",
+    "activities": 0,
+    "bmps": 0,
+    "goals": 0,
+    "costTables": 0,
+    "patterns": {},
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 0
+  },
+  {
+    "file": "ross-barnett-reservoir-watershed-plan-2011.json",
+    "slug": "ross-barnett-reservoir-watershed-plan-2011",
+    "activities": 0,
+    "bmps": 114,
+    "goals": 6,
+    "costTables": 1,
+    "patterns": {
+      "cost_table": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 1
+  },
+  {
+    "file": "rotten-bayou-watershed-plan-2015.json",
+    "slug": "rotten-bayou-watershed-plan-2015",
+    "activities": 0,
+    "bmps": 3,
+    "goals": 7,
+    "costTables": 1,
+    "patterns": {
+      "cost_table": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 1
+  },
+  {
+    "file": "sherman-creek-panola-quitman-floodway-9-key-element-plan-2018.json",
+    "slug": "sherman-creek-panola-quitman-floodway-9-key-element-plan-2018",
+    "activities": 0,
+    "bmps": 39,
+    "goals": 3,
+    "costTables": 2,
+    "patterns": {
+      "full_project_estimate": 1,
+      "phase1_estimate": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 2
+  },
+  {
+    "file": "steele-bayou-watershed-plan-2009.json",
+    "slug": "steele-bayou-watershed-plan-2009",
+    "activities": 0,
+    "bmps": 42,
+    "goals": 2,
+    "costTables": 3,
+    "patterns": {
+      "practice_costs": 1,
+      "practice_costs_format": 2
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 3,
+    "discrepancyWithin5": 3,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 3
+  },
+  {
+    "file": "synthetic-goal-demo.json",
+    "slug": "synthetic-goal-demo",
+    "activities": 0,
+    "bmps": 0,
+    "goals": 1,
+    "costTables": 0,
+    "patterns": {},
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 0
+  },
+  {
+    "file": "tarebreeches-creek-tuscumbia-river-canal-watersehd-plan-2012.json",
+    "slug": "tarebreeches-creek-tuscumbia-river-canal-watersehd-plan-2012",
+    "activities": 0,
+    "bmps": 48,
+    "goals": 2,
+    "costTables": 2,
+    "patterns": {
+      "bell_creek_bmps": 1,
+      "bell_creek_format": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 2
+  },
+  {
+    "file": "tchoutacabouffa-river-watershed-action-plan-2007.json",
+    "slug": "tchoutacabouffa-river-watershed-action-plan-2007",
+    "activities": 0,
+    "bmps": 0,
+    "goals": 1,
+    "costTables": 0,
+    "patterns": {},
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 0
+  },
+  {
+    "file": "turkey-creek-watershed-plan-2006.json",
+    "slug": "turkey-creek-watershed-plan-2006",
+    "activities": 0,
+    "bmps": 47,
+    "goals": 5,
+    "costTables": 4,
+    "patterns": {
+      "aggressive_loose_cluster": 4
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 1,
+    "discrepancyWithin5": 1,
+    "discrepancyOver20": 1,
+    "tablesWithDiscrepancy": 4
+  },
+  {
+    "file": "upper-bay-of-st-louis-watershed-action-plan-2007.json",
+    "slug": "upper-bay-of-st-louis-watershed-action-plan-2007",
+    "activities": 0,
+    "bmps": 1,
+    "goals": 1,
+    "costTables": 0,
+    "patterns": {},
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 0
+  },
+  {
+    "file": "upper-little-bayou-pierre-watershed-plan-2018.json",
+    "slug": "upper-little-bayou-pierre-watershed-plan-2018",
+    "activities": 0,
+    "bmps": 9,
+    "goals": 2,
+    "costTables": 1,
+    "patterns": {
+      "aggressive_loose_cluster": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 1
+  },
+  {
+    "file": "upper-piney-creek-9-key-element-plan-2022.json",
+    "slug": "upper-piney-creek-9-key-element-plan-2022",
+    "activities": 0,
+    "bmps": 20,
+    "goals": 1,
+    "costTables": 2,
+    "patterns": {
+      "phase1_bmps": 1,
+      "phase1_bmps_format": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 2,
+    "tablesWithDiscrepancy": 2
+  },
+  {
+    "file": "upper-porter-bayou-watershed-plan-2013.json",
+    "slug": "upper-porter-bayou-watershed-plan-2013",
+    "activities": 0,
+    "bmps": 19,
+    "goals": 1,
+    "costTables": 0,
+    "patterns": {},
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 0
+  },
+  {
+    "file": "west-boley-creek-watershed-action-plan.json",
+    "slug": "west-boley-creek-watershed-action-plan",
+    "activities": 0,
+    "bmps": 0,
+    "goals": 0,
+    "costTables": 0,
+    "patterns": {},
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 0
+  },
+  {
+    "file": "wolf-lake-broad-lake-watershed-plan-2009.json",
+    "slug": "wolf-lake-broad-lake-watershed-plan-2009",
+    "activities": 0,
+    "bmps": 13,
+    "goals": 2,
+    "costTables": 1,
+    "patterns": {
+      "practice_costs_format": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 1
+  },
+  {
+    "file": "wolf-river-watershed-plan-2009.json",
+    "slug": "wolf-river-watershed-plan-2009",
+    "activities": 0,
+    "bmps": 10,
+    "goals": 9,
+    "costTables": 1,
+    "patterns": {
+      "cost_table": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 0,
+    "tablesWithDiscrepancy": 1
+  },
+  {
+    "file": "yazoo-pass-9-key-element-plan-2021.json",
+    "slug": "yazoo-pass-9-key-element-plan-2021",
+    "activities": 0,
+    "bmps": 20,
+    "goals": 2,
+    "costTables": 1,
+    "patterns": {
+      "aggressive_loose_cluster": 1
+    },
+    "bmpFallbackApplied": false,
+    "discrepancyWithin1": 0,
+    "discrepancyWithin5": 0,
+    "discrepancyOver20": 1,
+    "tablesWithDiscrepancy": 1
+  }
+]

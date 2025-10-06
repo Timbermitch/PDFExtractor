@@ -1,0 +1,3528 @@
+{
+  "id": "fuller-creek-town-creek-9-key-element-plan-2022",
+  "summary": {
+    "totalGoals": 3,
+    "totalBMPs": 29,
+    "totalActivities": 0,
+    "primaryGoals": 3,
+    "completionRate": 0,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 3,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "General": 29
+    },
+    "avgGoalConfidence": 0.11666666666666665,
+    "strongGoals": 0
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "The ultimate goal is to bring about behavior changes and the use of  \"Waste Pesticide Disposal Event\" - The primary goal of this program is to help Goal: Reduce sediment loads entering waters in the Fuller Creek-Town Creek Watershed.",
+      "status": "planned",
+      "pollutant": "sediment",
+      "parameter": "sediment",
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The ultimate goal is to bring about behavior changes and the use of  \"Waste Pesticide Disposal Event\" - The primary goal of this program is to help Goal: Reduce sediment loads entering waters in the Fuller Creek-Town Creek Watershed.",
+      "confidence": 0.25,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "fullParagraph": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of  “Waste Pesticide Disposal Event” - The primary goal of this program is to help Goal: Reduce sediment loads entering waters in the Fuller Creek-Town Creek Watershed.",
+      "description": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of  “Waste Pesticide Disposal Event” - The primary goal of this program is to help Goal: Reduce sediment loads entering waters in the Fuller Creek-Town Creek Watershed.",
+      "originalSentence": "The ultimate goal is to bring about behavior changes and the use of  \"Waste Pesticide Disposal Event\" - The primary goal of this program is to help Goal: Reduce sediment loads entering waters in the Fuller Creek-Town Creek Watershed.",
+      "shortTitle": "The ultimate goal is to bring about behavior changes and the use of …"
+    },
+    {
+      "id": "G2",
+      "title": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "solutions to its problems.  The ultimate goal is to bring about behavior changes and the use of",
+      "confidence": 0.05,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "description": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of",
+      "originalSentence": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of",
+      "shortTitle": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of"
+    },
+    {
+      "id": "G3",
+      "title": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help",
+      "confidence": 0.05,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "fullParagraph": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help Goal: Reduce sediment loads entering waters in the Fuller Creek-Town Creek Watershed.",
+      "description": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help Goal: Reduce sediment loads entering waters in the Fuller Creek-Town Creek Watershed.",
+      "originalSentence": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help",
+      "shortTitle": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help"
+    }
+  ],
+  "mainGoals": [
+    {
+      "id": "G1",
+      "title": "The ultimate goal is to bring about behavior changes and the use of  \"Waste Pesticide Disposal Event\" - The primary goal of this program is to help Goal: Reduce sediment loads entering waters in the Fuller Creek-Town Creek Watershed.",
+      "status": "planned",
+      "pollutant": "sediment",
+      "parameter": "sediment",
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The ultimate goal is to bring about behavior changes and the use of  \"Waste Pesticide Disposal Event\" - The primary goal of this program is to help Goal: Reduce sediment loads entering waters in the Fuller Creek-Town Creek Watershed.",
+      "confidence": 0.25,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "fullParagraph": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of  “Waste Pesticide Disposal Event” - The primary goal of this program is to help Goal: Reduce sediment loads entering waters in the Fuller Creek-Town Creek Watershed.",
+      "description": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of  “Waste Pesticide Disposal Event” - The primary goal of this program is to help Goal: Reduce sediment loads entering waters in the Fuller Creek-Town Creek Watershed.",
+      "originalSentence": "The ultimate goal is to bring about behavior changes and the use of  \"Waste Pesticide Disposal Event\" - The primary goal of this program is to help Goal: Reduce sediment loads entering waters in the Fuller Creek-Town Creek Watershed.",
+      "shortTitle": "The ultimate goal is to bring about behavior changes and the use of …"
+    },
+    {
+      "id": "G2",
+      "title": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "solutions to its problems.  The ultimate goal is to bring about behavior changes and the use of",
+      "confidence": 0.05,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "description": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of",
+      "originalSentence": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of",
+      "shortTitle": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of"
+    },
+    {
+      "id": "G3",
+      "title": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help",
+      "confidence": 0.05,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "fullParagraph": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help Goal: Reduce sediment loads entering waters in the Fuller Creek-Town Creek Watershed.",
+      "description": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help Goal: Reduce sediment loads entering waters in the Fuller Creek-Town Creek Watershed.",
+      "originalSentence": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help",
+      "shortTitle": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help"
+    }
+  ],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "summary of estimated costs for potential BMPs and overall project implementation:",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "summary of estimated costs for potential BMPs and overall project implementation:"
+    },
+    {
+      "id": "B2",
+      "name": "22 each",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "22 each $76,749|name_cost_tail_trim",
+      "originalName": "22 each $76,749"
+    },
+    {
+      "id": "B3",
+      "name": "Dams) 4,010 tns",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Dams) 4,010 tns $286,474|name_cost_tail_trim",
+      "originalName": "Dams) 4,010 tns $286,474"
+    },
+    {
+      "id": "B4",
+      "name": "5 each",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "5 each $20,000|name_cost_tail_trim",
+      "originalName": "5 each $20,000"
+    },
+    {
+      "id": "B5",
+      "name": "1,800 ac",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "1,800 ac $137,862|name_cost_tail_trim",
+      "originalName": "1,800 ac $137,862"
+    },
+    {
+      "id": "B6",
+      "name": "11,500 ft",
+      "category": "General",
+      "keyword": null,
+      "quantity": 11500,
+      "unit": "ft",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "11,500 ft $34,500|name_cost_tail_trim",
+      "originalName": "11,500 ft $34,500"
+    },
+    {
+      "id": "B7",
+      "name": "1,500 cuyd",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "1,500 cuyd $7,035|name_cost_tail_trim",
+      "originalName": "1,500 cuyd $7,035"
+    },
+    {
+      "id": "B8",
+      "name": "3 each",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "3 each $10,500|name_cost_tail_trim",
+      "originalName": "3 each $10,500"
+    },
+    {
+      "id": "B9",
+      "name": "27 ac",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "27 ac $6,330|name_cost_tail_trim",
+      "originalName": "27 ac $6,330"
+    },
+    {
+      "id": "B10",
+      "name": "5 ac",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "5 ac $2,040|name_cost_tail_trim",
+      "originalName": "5 ac $2,040"
+    },
+    {
+      "id": "B11",
+      "name": "7,200 ft",
+      "category": "General",
+      "keyword": null,
+      "quantity": 7200,
+      "unit": "ft",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "7,200 ft $12,411|name_cost_tail_trim",
+      "originalName": "7,200 ft $12,411"
+    },
+    {
+      "id": "B12",
+      "name": "250 ac",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "250 ac $79,253|name_cost_tail_trim",
+      "originalName": "250 ac $79,253"
+    },
+    {
+      "id": "B13",
+      "name": "Technical Assistance* N/A",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Technical Assistance* N/A $30,000|name_cost_tail_trim",
+      "originalName": "Technical Assistance* N/A $30,000"
+    },
+    {
+      "id": "B14",
+      "name": "Education and Outreach* N/A",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Education and Outreach* N/A $24,000|name_cost_tail_trim",
+      "originalName": "Education and Outreach* N/A $24,000"
+    },
+    {
+      "id": "B15",
+      "name": "Monitoring*  N/A",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Monitoring*  N/A $33,000|name_cost_tail_trim",
+      "originalName": "Monitoring*  N/A $33,000"
+    },
+    {
+      "id": "B16",
+      "name": "$110,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$110,000"
+    },
+    {
+      "id": "B17",
+      "name": "Total Estimated Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Total Estimated Cost"
+    },
+    {
+      "id": "B18",
+      "name": "$870,154",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$870,154"
+    },
+    {
+      "id": "B19",
+      "name": "15 each",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "15 each  $52,329|name_cost_tail_trim",
+      "originalName": "15 each  $52,329"
+    },
+    {
+      "id": "B20",
+      "name": "Dams) 2,500 tn",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Dams) 2,500 tn $178,600|name_cost_tail_trim",
+      "originalName": "Dams) 2,500 tn $178,600"
+    },
+    {
+      "id": "B21",
+      "name": "6,362 cuyd",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "6,362 cuyd $23,412|name_cost_tail_trim",
+      "originalName": "6,362 cuyd $23,412"
+    },
+    {
+      "id": "B22",
+      "name": "1,100 ac",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "1,100 ac  $84,249|name_cost_tail_trim",
+      "originalName": "1,100 ac  $84,249"
+    },
+    {
+      "id": "B23",
+      "name": "16 ac",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "16 ac $3,780|name_cost_tail_trim",
+      "originalName": "16 ac $3,780"
+    },
+    {
+      "id": "B24",
+      "name": "2,700 ft",
+      "category": "General",
+      "keyword": null,
+      "quantity": 2700,
+      "unit": "ft",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "2,700 ft $4,131|name_cost_tail_trim",
+      "originalName": "2,700 ft $4,131"
+    },
+    {
+      "id": "B25",
+      "name": "Technical Assistance N/A",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Technical Assistance N/A $15,000|name_cost_tail_trim",
+      "originalName": "Technical Assistance N/A $15,000"
+    },
+    {
+      "id": "B26",
+      "name": "Education and Outreach N/A",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Education and Outreach N/A $12,000|name_cost_tail_trim",
+      "originalName": "Education and Outreach N/A $12,000"
+    },
+    {
+      "id": "B27",
+      "name": "Monitoring  N/A",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Monitoring  N/A $16,500|name_cost_tail_trim",
+      "originalName": "Monitoring  N/A $16,500"
+    },
+    {
+      "id": "B28",
+      "name": "$55,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$55,000"
+    },
+    {
+      "id": "B29",
+      "name": "$445,001",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$445,001"
+    }
+  ],
+  "bmpCostTable": {
+    "id": "adaptive_generic_costs",
+    "title": "22 each $76,749",
+    "table": {
+      "columns": [
+        "Item",
+        "Cost",
+        "Extra?"
+      ],
+      "rows": [
+        {
+          "Item": "22 each",
+          "Cost": "$76,749",
+          "Extra": null
+        },
+        {
+          "Item": "Dams) 4,010 tns",
+          "Cost": "$286,474",
+          "Extra": null
+        },
+        {
+          "Item": "5 each",
+          "Cost": "$20,000",
+          "Extra": null
+        },
+        {
+          "Item": "1,800 ac",
+          "Cost": "$137,862",
+          "Extra": null
+        },
+        {
+          "Item": "11,500 ft",
+          "Cost": "$34,500",
+          "Extra": null
+        },
+        {
+          "Item": "1,500 cuyd",
+          "Cost": "$7,035",
+          "Extra": null
+        },
+        {
+          "Item": "3 each",
+          "Cost": "$10,500",
+          "Extra": null
+        },
+        {
+          "Item": "27 ac",
+          "Cost": "$6,330",
+          "Extra": null
+        },
+        {
+          "Item": "5 ac",
+          "Cost": "$2,040",
+          "Extra": null
+        },
+        {
+          "Item": "7,200 ft",
+          "Cost": "$12,411",
+          "Extra": null
+        },
+        {
+          "Item": "250 ac",
+          "Cost": "$79,253",
+          "Extra": null
+        },
+        {
+          "Item": "Technical Assistance* N/A",
+          "Cost": "$30,000",
+          "Extra": null
+        },
+        {
+          "Item": "Education and Outreach* N/A",
+          "Cost": "$24,000",
+          "Extra": null
+        },
+        {
+          "Item": "Monitoring*  N/A",
+          "Cost": "$33,000",
+          "Extra": null
+        }
+      ],
+      "total": null
+    },
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTableNormalized": {
+    "id": "adaptive_generic_costs",
+    "title": "22 each $76,749",
+    "rows": [
+      {
+        "name": "22 each",
+        "totalCost": 76749,
+        "rawCost": "$76,749"
+      },
+      {
+        "name": "Dams) 4,010 tns",
+        "totalCost": 286474,
+        "rawCost": "$286,474"
+      },
+      {
+        "name": "5 each",
+        "totalCost": 20000,
+        "rawCost": "$20,000"
+      },
+      {
+        "name": "1,800 ac",
+        "totalCost": 137862,
+        "rawCost": "$137,862"
+      },
+      {
+        "name": "11,500 ft",
+        "totalCost": 34500,
+        "rawCost": "$34,500"
+      },
+      {
+        "name": "1,500 cuyd",
+        "totalCost": 7035,
+        "rawCost": "$7,035"
+      },
+      {
+        "name": "3 each",
+        "totalCost": 10500,
+        "rawCost": "$10,500"
+      },
+      {
+        "name": "27 ac",
+        "totalCost": 6330,
+        "rawCost": "$6,330"
+      },
+      {
+        "name": "5 ac",
+        "totalCost": 2040,
+        "rawCost": "$2,040"
+      },
+      {
+        "name": "7,200 ft",
+        "totalCost": 12411,
+        "rawCost": "$12,411"
+      },
+      {
+        "name": "250 ac",
+        "totalCost": 79253,
+        "rawCost": "$79,253"
+      },
+      {
+        "name": "Technical Assistance* N/A",
+        "totalCost": 30000,
+        "rawCost": "$30,000"
+      },
+      {
+        "name": "Education and Outreach* N/A",
+        "totalCost": 24000,
+        "rawCost": "$24,000"
+      },
+      {
+        "name": "Monitoring*  N/A",
+        "totalCost": 33000,
+        "rawCost": "$33,000"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 760154,
+    "discrepancy": null,
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTables": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "22 each $76,749",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "22 each",
+            "Cost": "$76,749",
+            "Extra": null
+          },
+          {
+            "Item": "Dams) 4,010 tns",
+            "Cost": "$286,474",
+            "Extra": null
+          },
+          {
+            "Item": "5 each",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "1,800 ac",
+            "Cost": "$137,862",
+            "Extra": null
+          },
+          {
+            "Item": "11,500 ft",
+            "Cost": "$34,500",
+            "Extra": null
+          },
+          {
+            "Item": "1,500 cuyd",
+            "Cost": "$7,035",
+            "Extra": null
+          },
+          {
+            "Item": "3 each",
+            "Cost": "$10,500",
+            "Extra": null
+          },
+          {
+            "Item": "27 ac",
+            "Cost": "$6,330",
+            "Extra": null
+          },
+          {
+            "Item": "5 ac",
+            "Cost": "$2,040",
+            "Extra": null
+          },
+          {
+            "Item": "7,200 ft",
+            "Cost": "$12,411",
+            "Extra": null
+          },
+          {
+            "Item": "250 ac",
+            "Cost": "$79,253",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance* N/A",
+            "Cost": "$30,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach* N/A",
+            "Cost": "$24,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring*  N/A",
+            "Cost": "$33,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Dams) 4,010 tns $286,474",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Dams) 4,010 tns",
+            "Cost": "$286,474",
+            "Extra": null
+          },
+          {
+            "Item": "5 each",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "1,800 ac",
+            "Cost": "$137,862",
+            "Extra": null
+          },
+          {
+            "Item": "11,500 ft",
+            "Cost": "$34,500",
+            "Extra": null
+          },
+          {
+            "Item": "1,500 cuyd",
+            "Cost": "$7,035",
+            "Extra": null
+          },
+          {
+            "Item": "3 each",
+            "Cost": "$10,500",
+            "Extra": null
+          },
+          {
+            "Item": "27 ac",
+            "Cost": "$6,330",
+            "Extra": null
+          },
+          {
+            "Item": "5 ac",
+            "Cost": "$2,040",
+            "Extra": null
+          },
+          {
+            "Item": "7,200 ft",
+            "Cost": "$12,411",
+            "Extra": null
+          },
+          {
+            "Item": "250 ac",
+            "Cost": "$79,253",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance* N/A",
+            "Cost": "$30,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach* N/A",
+            "Cost": "$24,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring*  N/A",
+            "Cost": "$33,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "5 each $20,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "5 each",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "1,800 ac",
+            "Cost": "$137,862",
+            "Extra": null
+          },
+          {
+            "Item": "11,500 ft",
+            "Cost": "$34,500",
+            "Extra": null
+          },
+          {
+            "Item": "1,500 cuyd",
+            "Cost": "$7,035",
+            "Extra": null
+          },
+          {
+            "Item": "3 each",
+            "Cost": "$10,500",
+            "Extra": null
+          },
+          {
+            "Item": "27 ac",
+            "Cost": "$6,330",
+            "Extra": null
+          },
+          {
+            "Item": "5 ac",
+            "Cost": "$2,040",
+            "Extra": null
+          },
+          {
+            "Item": "7,200 ft",
+            "Cost": "$12,411",
+            "Extra": null
+          },
+          {
+            "Item": "250 ac",
+            "Cost": "$79,253",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance* N/A",
+            "Cost": "$30,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach* N/A",
+            "Cost": "$24,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring*  N/A",
+            "Cost": "$33,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "1,800 ac $137,862",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "1,800 ac",
+            "Cost": "$137,862",
+            "Extra": null
+          },
+          {
+            "Item": "11,500 ft",
+            "Cost": "$34,500",
+            "Extra": null
+          },
+          {
+            "Item": "1,500 cuyd",
+            "Cost": "$7,035",
+            "Extra": null
+          },
+          {
+            "Item": "3 each",
+            "Cost": "$10,500",
+            "Extra": null
+          },
+          {
+            "Item": "27 ac",
+            "Cost": "$6,330",
+            "Extra": null
+          },
+          {
+            "Item": "5 ac",
+            "Cost": "$2,040",
+            "Extra": null
+          },
+          {
+            "Item": "7,200 ft",
+            "Cost": "$12,411",
+            "Extra": null
+          },
+          {
+            "Item": "250 ac",
+            "Cost": "$79,253",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance* N/A",
+            "Cost": "$30,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach* N/A",
+            "Cost": "$24,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring*  N/A",
+            "Cost": "$33,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "11,500 ft $34,500",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "11,500 ft",
+            "Cost": "$34,500",
+            "Extra": null
+          },
+          {
+            "Item": "1,500 cuyd",
+            "Cost": "$7,035",
+            "Extra": null
+          },
+          {
+            "Item": "3 each",
+            "Cost": "$10,500",
+            "Extra": null
+          },
+          {
+            "Item": "27 ac",
+            "Cost": "$6,330",
+            "Extra": null
+          },
+          {
+            "Item": "5 ac",
+            "Cost": "$2,040",
+            "Extra": null
+          },
+          {
+            "Item": "7,200 ft",
+            "Cost": "$12,411",
+            "Extra": null
+          },
+          {
+            "Item": "250 ac",
+            "Cost": "$79,253",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance* N/A",
+            "Cost": "$30,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach* N/A",
+            "Cost": "$24,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring*  N/A",
+            "Cost": "$33,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "1,500 cuyd $7,035",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "1,500 cuyd",
+            "Cost": "$7,035",
+            "Extra": null
+          },
+          {
+            "Item": "3 each",
+            "Cost": "$10,500",
+            "Extra": null
+          },
+          {
+            "Item": "27 ac",
+            "Cost": "$6,330",
+            "Extra": null
+          },
+          {
+            "Item": "5 ac",
+            "Cost": "$2,040",
+            "Extra": null
+          },
+          {
+            "Item": "7,200 ft",
+            "Cost": "$12,411",
+            "Extra": null
+          },
+          {
+            "Item": "250 ac",
+            "Cost": "$79,253",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance* N/A",
+            "Cost": "$30,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach* N/A",
+            "Cost": "$24,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring*  N/A",
+            "Cost": "$33,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "3 each $10,500",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "3 each",
+            "Cost": "$10,500",
+            "Extra": null
+          },
+          {
+            "Item": "27 ac",
+            "Cost": "$6,330",
+            "Extra": null
+          },
+          {
+            "Item": "5 ac",
+            "Cost": "$2,040",
+            "Extra": null
+          },
+          {
+            "Item": "7,200 ft",
+            "Cost": "$12,411",
+            "Extra": null
+          },
+          {
+            "Item": "250 ac",
+            "Cost": "$79,253",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance* N/A",
+            "Cost": "$30,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach* N/A",
+            "Cost": "$24,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring*  N/A",
+            "Cost": "$33,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "27 ac $6,330",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "27 ac",
+            "Cost": "$6,330",
+            "Extra": null
+          },
+          {
+            "Item": "5 ac",
+            "Cost": "$2,040",
+            "Extra": null
+          },
+          {
+            "Item": "7,200 ft",
+            "Cost": "$12,411",
+            "Extra": null
+          },
+          {
+            "Item": "250 ac",
+            "Cost": "$79,253",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance* N/A",
+            "Cost": "$30,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach* N/A",
+            "Cost": "$24,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring*  N/A",
+            "Cost": "$33,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "5 ac $2,040",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "5 ac",
+            "Cost": "$2,040",
+            "Extra": null
+          },
+          {
+            "Item": "7,200 ft",
+            "Cost": "$12,411",
+            "Extra": null
+          },
+          {
+            "Item": "250 ac",
+            "Cost": "$79,253",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance* N/A",
+            "Cost": "$30,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach* N/A",
+            "Cost": "$24,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring*  N/A",
+            "Cost": "$33,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "7,200 ft $12,411",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "7,200 ft",
+            "Cost": "$12,411",
+            "Extra": null
+          },
+          {
+            "Item": "250 ac",
+            "Cost": "$79,253",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance* N/A",
+            "Cost": "$30,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach* N/A",
+            "Cost": "$24,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring*  N/A",
+            "Cost": "$33,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "250 ac $79,253",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "250 ac",
+            "Cost": "$79,253",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance* N/A",
+            "Cost": "$30,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach* N/A",
+            "Cost": "$24,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring*  N/A",
+            "Cost": "$33,000",
+            "Extra": null
+          },
+          {
+            "Item": "15 each",
+            "Cost": "$52,329",
+            "Extra": null
+          },
+          {
+            "Item": "Dams) 2,500 tn",
+            "Cost": "$178,600",
+            "Extra": null
+          },
+          {
+            "Item": "6,362 cuyd",
+            "Cost": "$23,412",
+            "Extra": null
+          },
+          {
+            "Item": "1,100 ac",
+            "Cost": "$84,249",
+            "Extra": null
+          },
+          {
+            "Item": "16 ac",
+            "Cost": "$3,780",
+            "Extra": null
+          },
+          {
+            "Item": "2,700 ft",
+            "Cost": "$4,131",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$12,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$16,500",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Technical Assistance* N/A $30,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Technical Assistance* N/A",
+            "Cost": "$30,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach* N/A",
+            "Cost": "$24,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring*  N/A",
+            "Cost": "$33,000",
+            "Extra": null
+          },
+          {
+            "Item": "15 each",
+            "Cost": "$52,329",
+            "Extra": null
+          },
+          {
+            "Item": "Dams) 2,500 tn",
+            "Cost": "$178,600",
+            "Extra": null
+          },
+          {
+            "Item": "6,362 cuyd",
+            "Cost": "$23,412",
+            "Extra": null
+          },
+          {
+            "Item": "1,100 ac",
+            "Cost": "$84,249",
+            "Extra": null
+          },
+          {
+            "Item": "16 ac",
+            "Cost": "$3,780",
+            "Extra": null
+          },
+          {
+            "Item": "2,700 ft",
+            "Cost": "$4,131",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$12,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$16,500",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Education and Outreach* N/A $24,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Education and Outreach* N/A",
+            "Cost": "$24,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring*  N/A",
+            "Cost": "$33,000",
+            "Extra": null
+          },
+          {
+            "Item": "15 each",
+            "Cost": "$52,329",
+            "Extra": null
+          },
+          {
+            "Item": "Dams) 2,500 tn",
+            "Cost": "$178,600",
+            "Extra": null
+          },
+          {
+            "Item": "6,362 cuyd",
+            "Cost": "$23,412",
+            "Extra": null
+          },
+          {
+            "Item": "1,100 ac",
+            "Cost": "$84,249",
+            "Extra": null
+          },
+          {
+            "Item": "16 ac",
+            "Cost": "$3,780",
+            "Extra": null
+          },
+          {
+            "Item": "2,700 ft",
+            "Cost": "$4,131",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$12,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$16,500",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Monitoring*  N/A $33,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Monitoring*  N/A",
+            "Cost": "$33,000",
+            "Extra": null
+          },
+          {
+            "Item": "15 each",
+            "Cost": "$52,329",
+            "Extra": null
+          },
+          {
+            "Item": "Dams) 2,500 tn",
+            "Cost": "$178,600",
+            "Extra": null
+          },
+          {
+            "Item": "6,362 cuyd",
+            "Cost": "$23,412",
+            "Extra": null
+          },
+          {
+            "Item": "1,100 ac",
+            "Cost": "$84,249",
+            "Extra": null
+          },
+          {
+            "Item": "16 ac",
+            "Cost": "$3,780",
+            "Extra": null
+          },
+          {
+            "Item": "2,700 ft",
+            "Cost": "$4,131",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$12,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$16,500",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$110,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "15 each",
+            "Cost": "$52,329",
+            "Extra": null
+          },
+          {
+            "Item": "Dams) 2,500 tn",
+            "Cost": "$178,600",
+            "Extra": null
+          },
+          {
+            "Item": "6,362 cuyd",
+            "Cost": "$23,412",
+            "Extra": null
+          },
+          {
+            "Item": "1,100 ac",
+            "Cost": "$84,249",
+            "Extra": null
+          },
+          {
+            "Item": "16 ac",
+            "Cost": "$3,780",
+            "Extra": null
+          },
+          {
+            "Item": "2,700 ft",
+            "Cost": "$4,131",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$12,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$16,500",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$870,154",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "15 each",
+            "Cost": "$52,329",
+            "Extra": null
+          },
+          {
+            "Item": "Dams) 2,500 tn",
+            "Cost": "$178,600",
+            "Extra": null
+          },
+          {
+            "Item": "6,362 cuyd",
+            "Cost": "$23,412",
+            "Extra": null
+          },
+          {
+            "Item": "1,100 ac",
+            "Cost": "$84,249",
+            "Extra": null
+          },
+          {
+            "Item": "16 ac",
+            "Cost": "$3,780",
+            "Extra": null
+          },
+          {
+            "Item": "2,700 ft",
+            "Cost": "$4,131",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$12,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$16,500",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "15 each  $52,329",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "15 each",
+            "Cost": "$52,329",
+            "Extra": null
+          },
+          {
+            "Item": "Dams) 2,500 tn",
+            "Cost": "$178,600",
+            "Extra": null
+          },
+          {
+            "Item": "6,362 cuyd",
+            "Cost": "$23,412",
+            "Extra": null
+          },
+          {
+            "Item": "1,100 ac",
+            "Cost": "$84,249",
+            "Extra": null
+          },
+          {
+            "Item": "16 ac",
+            "Cost": "$3,780",
+            "Extra": null
+          },
+          {
+            "Item": "2,700 ft",
+            "Cost": "$4,131",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$12,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$16,500",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Dams) 2,500 tn $178,600",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Dams) 2,500 tn",
+            "Cost": "$178,600",
+            "Extra": null
+          },
+          {
+            "Item": "6,362 cuyd",
+            "Cost": "$23,412",
+            "Extra": null
+          },
+          {
+            "Item": "1,100 ac",
+            "Cost": "$84,249",
+            "Extra": null
+          },
+          {
+            "Item": "16 ac",
+            "Cost": "$3,780",
+            "Extra": null
+          },
+          {
+            "Item": "2,700 ft",
+            "Cost": "$4,131",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$12,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$16,500",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "6,362 cuyd $23,412",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "6,362 cuyd",
+            "Cost": "$23,412",
+            "Extra": null
+          },
+          {
+            "Item": "1,100 ac",
+            "Cost": "$84,249",
+            "Extra": null
+          },
+          {
+            "Item": "16 ac",
+            "Cost": "$3,780",
+            "Extra": null
+          },
+          {
+            "Item": "2,700 ft",
+            "Cost": "$4,131",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$12,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$16,500",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "1,100 ac  $84,249",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "1,100 ac",
+            "Cost": "$84,249",
+            "Extra": null
+          },
+          {
+            "Item": "16 ac",
+            "Cost": "$3,780",
+            "Extra": null
+          },
+          {
+            "Item": "2,700 ft",
+            "Cost": "$4,131",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$12,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$16,500",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "16 ac $3,780",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "16 ac",
+            "Cost": "$3,780",
+            "Extra": null
+          },
+          {
+            "Item": "2,700 ft",
+            "Cost": "$4,131",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$12,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$16,500",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "2,700 ft $4,131",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "2,700 ft",
+            "Cost": "$4,131",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$12,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$16,500",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Technical Assistance N/A $15,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$12,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$16,500",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "22 each $76,749",
+      "rows": [
+        {
+          "name": "22 each",
+          "totalCost": 76749,
+          "rawCost": "$76,749"
+        },
+        {
+          "name": "Dams) 4,010 tns",
+          "totalCost": 286474,
+          "rawCost": "$286,474"
+        },
+        {
+          "name": "5 each",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "1,800 ac",
+          "totalCost": 137862,
+          "rawCost": "$137,862"
+        },
+        {
+          "name": "11,500 ft",
+          "totalCost": 34500,
+          "rawCost": "$34,500"
+        },
+        {
+          "name": "1,500 cuyd",
+          "totalCost": 7035,
+          "rawCost": "$7,035"
+        },
+        {
+          "name": "3 each",
+          "totalCost": 10500,
+          "rawCost": "$10,500"
+        },
+        {
+          "name": "27 ac",
+          "totalCost": 6330,
+          "rawCost": "$6,330"
+        },
+        {
+          "name": "5 ac",
+          "totalCost": 2040,
+          "rawCost": "$2,040"
+        },
+        {
+          "name": "7,200 ft",
+          "totalCost": 12411,
+          "rawCost": "$12,411"
+        },
+        {
+          "name": "250 ac",
+          "totalCost": 79253,
+          "rawCost": "$79,253"
+        },
+        {
+          "name": "Technical Assistance* N/A",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        },
+        {
+          "name": "Education and Outreach* N/A",
+          "totalCost": 24000,
+          "rawCost": "$24,000"
+        },
+        {
+          "name": "Monitoring*  N/A",
+          "totalCost": 33000,
+          "rawCost": "$33,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 760154,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Dams) 4,010 tns $286,474",
+      "rows": [
+        {
+          "name": "Dams) 4,010 tns",
+          "totalCost": 286474,
+          "rawCost": "$286,474"
+        },
+        {
+          "name": "5 each",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "1,800 ac",
+          "totalCost": 137862,
+          "rawCost": "$137,862"
+        },
+        {
+          "name": "11,500 ft",
+          "totalCost": 34500,
+          "rawCost": "$34,500"
+        },
+        {
+          "name": "1,500 cuyd",
+          "totalCost": 7035,
+          "rawCost": "$7,035"
+        },
+        {
+          "name": "3 each",
+          "totalCost": 10500,
+          "rawCost": "$10,500"
+        },
+        {
+          "name": "27 ac",
+          "totalCost": 6330,
+          "rawCost": "$6,330"
+        },
+        {
+          "name": "5 ac",
+          "totalCost": 2040,
+          "rawCost": "$2,040"
+        },
+        {
+          "name": "7,200 ft",
+          "totalCost": 12411,
+          "rawCost": "$12,411"
+        },
+        {
+          "name": "250 ac",
+          "totalCost": 79253,
+          "rawCost": "$79,253"
+        },
+        {
+          "name": "Technical Assistance* N/A",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        },
+        {
+          "name": "Education and Outreach* N/A",
+          "totalCost": 24000,
+          "rawCost": "$24,000"
+        },
+        {
+          "name": "Monitoring*  N/A",
+          "totalCost": 33000,
+          "rawCost": "$33,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 683405,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "5 each $20,000",
+      "rows": [
+        {
+          "name": "5 each",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "1,800 ac",
+          "totalCost": 137862,
+          "rawCost": "$137,862"
+        },
+        {
+          "name": "11,500 ft",
+          "totalCost": 34500,
+          "rawCost": "$34,500"
+        },
+        {
+          "name": "1,500 cuyd",
+          "totalCost": 7035,
+          "rawCost": "$7,035"
+        },
+        {
+          "name": "3 each",
+          "totalCost": 10500,
+          "rawCost": "$10,500"
+        },
+        {
+          "name": "27 ac",
+          "totalCost": 6330,
+          "rawCost": "$6,330"
+        },
+        {
+          "name": "5 ac",
+          "totalCost": 2040,
+          "rawCost": "$2,040"
+        },
+        {
+          "name": "7,200 ft",
+          "totalCost": 12411,
+          "rawCost": "$12,411"
+        },
+        {
+          "name": "250 ac",
+          "totalCost": 79253,
+          "rawCost": "$79,253"
+        },
+        {
+          "name": "Technical Assistance* N/A",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        },
+        {
+          "name": "Education and Outreach* N/A",
+          "totalCost": 24000,
+          "rawCost": "$24,000"
+        },
+        {
+          "name": "Monitoring*  N/A",
+          "totalCost": 33000,
+          "rawCost": "$33,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 396931,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "1,800 ac $137,862",
+      "rows": [
+        {
+          "name": "1,800 ac",
+          "totalCost": 137862,
+          "rawCost": "$137,862"
+        },
+        {
+          "name": "11,500 ft",
+          "totalCost": 34500,
+          "rawCost": "$34,500"
+        },
+        {
+          "name": "1,500 cuyd",
+          "totalCost": 7035,
+          "rawCost": "$7,035"
+        },
+        {
+          "name": "3 each",
+          "totalCost": 10500,
+          "rawCost": "$10,500"
+        },
+        {
+          "name": "27 ac",
+          "totalCost": 6330,
+          "rawCost": "$6,330"
+        },
+        {
+          "name": "5 ac",
+          "totalCost": 2040,
+          "rawCost": "$2,040"
+        },
+        {
+          "name": "7,200 ft",
+          "totalCost": 12411,
+          "rawCost": "$12,411"
+        },
+        {
+          "name": "250 ac",
+          "totalCost": 79253,
+          "rawCost": "$79,253"
+        },
+        {
+          "name": "Technical Assistance* N/A",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        },
+        {
+          "name": "Education and Outreach* N/A",
+          "totalCost": 24000,
+          "rawCost": "$24,000"
+        },
+        {
+          "name": "Monitoring*  N/A",
+          "totalCost": 33000,
+          "rawCost": "$33,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 376931,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "11,500 ft $34,500",
+      "rows": [
+        {
+          "name": "11,500 ft",
+          "totalCost": 34500,
+          "rawCost": "$34,500"
+        },
+        {
+          "name": "1,500 cuyd",
+          "totalCost": 7035,
+          "rawCost": "$7,035"
+        },
+        {
+          "name": "3 each",
+          "totalCost": 10500,
+          "rawCost": "$10,500"
+        },
+        {
+          "name": "27 ac",
+          "totalCost": 6330,
+          "rawCost": "$6,330"
+        },
+        {
+          "name": "5 ac",
+          "totalCost": 2040,
+          "rawCost": "$2,040"
+        },
+        {
+          "name": "7,200 ft",
+          "totalCost": 12411,
+          "rawCost": "$12,411"
+        },
+        {
+          "name": "250 ac",
+          "totalCost": 79253,
+          "rawCost": "$79,253"
+        },
+        {
+          "name": "Technical Assistance* N/A",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        },
+        {
+          "name": "Education and Outreach* N/A",
+          "totalCost": 24000,
+          "rawCost": "$24,000"
+        },
+        {
+          "name": "Monitoring*  N/A",
+          "totalCost": 33000,
+          "rawCost": "$33,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 239069,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "1,500 cuyd $7,035",
+      "rows": [
+        {
+          "name": "1,500 cuyd",
+          "totalCost": 7035,
+          "rawCost": "$7,035"
+        },
+        {
+          "name": "3 each",
+          "totalCost": 10500,
+          "rawCost": "$10,500"
+        },
+        {
+          "name": "27 ac",
+          "totalCost": 6330,
+          "rawCost": "$6,330"
+        },
+        {
+          "name": "5 ac",
+          "totalCost": 2040,
+          "rawCost": "$2,040"
+        },
+        {
+          "name": "7,200 ft",
+          "totalCost": 12411,
+          "rawCost": "$12,411"
+        },
+        {
+          "name": "250 ac",
+          "totalCost": 79253,
+          "rawCost": "$79,253"
+        },
+        {
+          "name": "Technical Assistance* N/A",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        },
+        {
+          "name": "Education and Outreach* N/A",
+          "totalCost": 24000,
+          "rawCost": "$24,000"
+        },
+        {
+          "name": "Monitoring*  N/A",
+          "totalCost": 33000,
+          "rawCost": "$33,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 204569,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "3 each $10,500",
+      "rows": [
+        {
+          "name": "3 each",
+          "totalCost": 10500,
+          "rawCost": "$10,500"
+        },
+        {
+          "name": "27 ac",
+          "totalCost": 6330,
+          "rawCost": "$6,330"
+        },
+        {
+          "name": "5 ac",
+          "totalCost": 2040,
+          "rawCost": "$2,040"
+        },
+        {
+          "name": "7,200 ft",
+          "totalCost": 12411,
+          "rawCost": "$12,411"
+        },
+        {
+          "name": "250 ac",
+          "totalCost": 79253,
+          "rawCost": "$79,253"
+        },
+        {
+          "name": "Technical Assistance* N/A",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        },
+        {
+          "name": "Education and Outreach* N/A",
+          "totalCost": 24000,
+          "rawCost": "$24,000"
+        },
+        {
+          "name": "Monitoring*  N/A",
+          "totalCost": 33000,
+          "rawCost": "$33,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 197534,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "27 ac $6,330",
+      "rows": [
+        {
+          "name": "27 ac",
+          "totalCost": 6330,
+          "rawCost": "$6,330"
+        },
+        {
+          "name": "5 ac",
+          "totalCost": 2040,
+          "rawCost": "$2,040"
+        },
+        {
+          "name": "7,200 ft",
+          "totalCost": 12411,
+          "rawCost": "$12,411"
+        },
+        {
+          "name": "250 ac",
+          "totalCost": 79253,
+          "rawCost": "$79,253"
+        },
+        {
+          "name": "Technical Assistance* N/A",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        },
+        {
+          "name": "Education and Outreach* N/A",
+          "totalCost": 24000,
+          "rawCost": "$24,000"
+        },
+        {
+          "name": "Monitoring*  N/A",
+          "totalCost": 33000,
+          "rawCost": "$33,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 187034,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "5 ac $2,040",
+      "rows": [
+        {
+          "name": "5 ac",
+          "totalCost": 2040,
+          "rawCost": "$2,040"
+        },
+        {
+          "name": "7,200 ft",
+          "totalCost": 12411,
+          "rawCost": "$12,411"
+        },
+        {
+          "name": "250 ac",
+          "totalCost": 79253,
+          "rawCost": "$79,253"
+        },
+        {
+          "name": "Technical Assistance* N/A",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        },
+        {
+          "name": "Education and Outreach* N/A",
+          "totalCost": 24000,
+          "rawCost": "$24,000"
+        },
+        {
+          "name": "Monitoring*  N/A",
+          "totalCost": 33000,
+          "rawCost": "$33,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 180704,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "7,200 ft $12,411",
+      "rows": [
+        {
+          "name": "7,200 ft",
+          "totalCost": 12411,
+          "rawCost": "$12,411"
+        },
+        {
+          "name": "250 ac",
+          "totalCost": 79253,
+          "rawCost": "$79,253"
+        },
+        {
+          "name": "Technical Assistance* N/A",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        },
+        {
+          "name": "Education and Outreach* N/A",
+          "totalCost": 24000,
+          "rawCost": "$24,000"
+        },
+        {
+          "name": "Monitoring*  N/A",
+          "totalCost": 33000,
+          "rawCost": "$33,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 178664,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "250 ac $79,253",
+      "rows": [
+        {
+          "name": "250 ac",
+          "totalCost": 79253,
+          "rawCost": "$79,253"
+        },
+        {
+          "name": "Technical Assistance* N/A",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        },
+        {
+          "name": "Education and Outreach* N/A",
+          "totalCost": 24000,
+          "rawCost": "$24,000"
+        },
+        {
+          "name": "Monitoring*  N/A",
+          "totalCost": 33000,
+          "rawCost": "$33,000"
+        },
+        {
+          "name": "15 each",
+          "totalCost": 52329,
+          "rawCost": "$52,329"
+        },
+        {
+          "name": "Dams) 2,500 tn",
+          "totalCost": 178600,
+          "rawCost": "$178,600"
+        },
+        {
+          "name": "6,362 cuyd",
+          "totalCost": 23412,
+          "rawCost": "$23,412"
+        },
+        {
+          "name": "1,100 ac",
+          "totalCost": 84249,
+          "rawCost": "$84,249"
+        },
+        {
+          "name": "16 ac",
+          "totalCost": 3780,
+          "rawCost": "$3,780"
+        },
+        {
+          "name": "2,700 ft",
+          "totalCost": 4131,
+          "rawCost": "$4,131"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 16500,
+          "rawCost": "$16,500"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 556254,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Technical Assistance* N/A $30,000",
+      "rows": [
+        {
+          "name": "Technical Assistance* N/A",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        },
+        {
+          "name": "Education and Outreach* N/A",
+          "totalCost": 24000,
+          "rawCost": "$24,000"
+        },
+        {
+          "name": "Monitoring*  N/A",
+          "totalCost": 33000,
+          "rawCost": "$33,000"
+        },
+        {
+          "name": "15 each",
+          "totalCost": 52329,
+          "rawCost": "$52,329"
+        },
+        {
+          "name": "Dams) 2,500 tn",
+          "totalCost": 178600,
+          "rawCost": "$178,600"
+        },
+        {
+          "name": "6,362 cuyd",
+          "totalCost": 23412,
+          "rawCost": "$23,412"
+        },
+        {
+          "name": "1,100 ac",
+          "totalCost": 84249,
+          "rawCost": "$84,249"
+        },
+        {
+          "name": "16 ac",
+          "totalCost": 3780,
+          "rawCost": "$3,780"
+        },
+        {
+          "name": "2,700 ft",
+          "totalCost": 4131,
+          "rawCost": "$4,131"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 16500,
+          "rawCost": "$16,500"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 477001,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Education and Outreach* N/A $24,000",
+      "rows": [
+        {
+          "name": "Education and Outreach* N/A",
+          "totalCost": 24000,
+          "rawCost": "$24,000"
+        },
+        {
+          "name": "Monitoring*  N/A",
+          "totalCost": 33000,
+          "rawCost": "$33,000"
+        },
+        {
+          "name": "15 each",
+          "totalCost": 52329,
+          "rawCost": "$52,329"
+        },
+        {
+          "name": "Dams) 2,500 tn",
+          "totalCost": 178600,
+          "rawCost": "$178,600"
+        },
+        {
+          "name": "6,362 cuyd",
+          "totalCost": 23412,
+          "rawCost": "$23,412"
+        },
+        {
+          "name": "1,100 ac",
+          "totalCost": 84249,
+          "rawCost": "$84,249"
+        },
+        {
+          "name": "16 ac",
+          "totalCost": 3780,
+          "rawCost": "$3,780"
+        },
+        {
+          "name": "2,700 ft",
+          "totalCost": 4131,
+          "rawCost": "$4,131"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 16500,
+          "rawCost": "$16,500"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 447001,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Monitoring*  N/A $33,000",
+      "rows": [
+        {
+          "name": "Monitoring*  N/A",
+          "totalCost": 33000,
+          "rawCost": "$33,000"
+        },
+        {
+          "name": "15 each",
+          "totalCost": 52329,
+          "rawCost": "$52,329"
+        },
+        {
+          "name": "Dams) 2,500 tn",
+          "totalCost": 178600,
+          "rawCost": "$178,600"
+        },
+        {
+          "name": "6,362 cuyd",
+          "totalCost": 23412,
+          "rawCost": "$23,412"
+        },
+        {
+          "name": "1,100 ac",
+          "totalCost": 84249,
+          "rawCost": "$84,249"
+        },
+        {
+          "name": "16 ac",
+          "totalCost": 3780,
+          "rawCost": "$3,780"
+        },
+        {
+          "name": "2,700 ft",
+          "totalCost": 4131,
+          "rawCost": "$4,131"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 16500,
+          "rawCost": "$16,500"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 423001,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$110,000",
+      "rows": [
+        {
+          "name": "15 each",
+          "totalCost": 52329,
+          "rawCost": "$52,329"
+        },
+        {
+          "name": "Dams) 2,500 tn",
+          "totalCost": 178600,
+          "rawCost": "$178,600"
+        },
+        {
+          "name": "6,362 cuyd",
+          "totalCost": 23412,
+          "rawCost": "$23,412"
+        },
+        {
+          "name": "1,100 ac",
+          "totalCost": 84249,
+          "rawCost": "$84,249"
+        },
+        {
+          "name": "16 ac",
+          "totalCost": 3780,
+          "rawCost": "$3,780"
+        },
+        {
+          "name": "2,700 ft",
+          "totalCost": 4131,
+          "rawCost": "$4,131"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 16500,
+          "rawCost": "$16,500"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 390001,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$870,154",
+      "rows": [
+        {
+          "name": "15 each",
+          "totalCost": 52329,
+          "rawCost": "$52,329"
+        },
+        {
+          "name": "Dams) 2,500 tn",
+          "totalCost": 178600,
+          "rawCost": "$178,600"
+        },
+        {
+          "name": "6,362 cuyd",
+          "totalCost": 23412,
+          "rawCost": "$23,412"
+        },
+        {
+          "name": "1,100 ac",
+          "totalCost": 84249,
+          "rawCost": "$84,249"
+        },
+        {
+          "name": "16 ac",
+          "totalCost": 3780,
+          "rawCost": "$3,780"
+        },
+        {
+          "name": "2,700 ft",
+          "totalCost": 4131,
+          "rawCost": "$4,131"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 16500,
+          "rawCost": "$16,500"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 390001,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "15 each  $52,329",
+      "rows": [
+        {
+          "name": "15 each",
+          "totalCost": 52329,
+          "rawCost": "$52,329"
+        },
+        {
+          "name": "Dams) 2,500 tn",
+          "totalCost": 178600,
+          "rawCost": "$178,600"
+        },
+        {
+          "name": "6,362 cuyd",
+          "totalCost": 23412,
+          "rawCost": "$23,412"
+        },
+        {
+          "name": "1,100 ac",
+          "totalCost": 84249,
+          "rawCost": "$84,249"
+        },
+        {
+          "name": "16 ac",
+          "totalCost": 3780,
+          "rawCost": "$3,780"
+        },
+        {
+          "name": "2,700 ft",
+          "totalCost": 4131,
+          "rawCost": "$4,131"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 16500,
+          "rawCost": "$16,500"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 390001,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Dams) 2,500 tn $178,600",
+      "rows": [
+        {
+          "name": "Dams) 2,500 tn",
+          "totalCost": 178600,
+          "rawCost": "$178,600"
+        },
+        {
+          "name": "6,362 cuyd",
+          "totalCost": 23412,
+          "rawCost": "$23,412"
+        },
+        {
+          "name": "1,100 ac",
+          "totalCost": 84249,
+          "rawCost": "$84,249"
+        },
+        {
+          "name": "16 ac",
+          "totalCost": 3780,
+          "rawCost": "$3,780"
+        },
+        {
+          "name": "2,700 ft",
+          "totalCost": 4131,
+          "rawCost": "$4,131"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 16500,
+          "rawCost": "$16,500"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 337672,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "6,362 cuyd $23,412",
+      "rows": [
+        {
+          "name": "6,362 cuyd",
+          "totalCost": 23412,
+          "rawCost": "$23,412"
+        },
+        {
+          "name": "1,100 ac",
+          "totalCost": 84249,
+          "rawCost": "$84,249"
+        },
+        {
+          "name": "16 ac",
+          "totalCost": 3780,
+          "rawCost": "$3,780"
+        },
+        {
+          "name": "2,700 ft",
+          "totalCost": 4131,
+          "rawCost": "$4,131"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 16500,
+          "rawCost": "$16,500"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 159072,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "1,100 ac  $84,249",
+      "rows": [
+        {
+          "name": "1,100 ac",
+          "totalCost": 84249,
+          "rawCost": "$84,249"
+        },
+        {
+          "name": "16 ac",
+          "totalCost": 3780,
+          "rawCost": "$3,780"
+        },
+        {
+          "name": "2,700 ft",
+          "totalCost": 4131,
+          "rawCost": "$4,131"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 16500,
+          "rawCost": "$16,500"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 135660,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "16 ac $3,780",
+      "rows": [
+        {
+          "name": "16 ac",
+          "totalCost": 3780,
+          "rawCost": "$3,780"
+        },
+        {
+          "name": "2,700 ft",
+          "totalCost": 4131,
+          "rawCost": "$4,131"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 16500,
+          "rawCost": "$16,500"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 51411,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "2,700 ft $4,131",
+      "rows": [
+        {
+          "name": "2,700 ft",
+          "totalCost": 4131,
+          "rawCost": "$4,131"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 16500,
+          "rawCost": "$16,500"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 47631,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Technical Assistance N/A $15,000",
+      "rows": [
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 16500,
+          "rawCost": "$16,500"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 43500,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-02T13:23:25.372Z",
+  "metadata": {
+    "sourceId": "fuller-creek-town-creek-9-key-element-plan-2022",
+    "sourceFile": "fuller-creek-town-creek-9-key-element-plan-2022.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "adaptive_generic_costs",
+        "title": "22 each $76,749",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 760154
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Dams) 4,010 tns $286,474",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 683405
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "5 each $20,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 396931
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "1,800 ac $137,862",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 376931
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "11,500 ft $34,500",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 239069
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "1,500 cuyd $7,035",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 204569
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "3 each $10,500",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 197534
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "27 ac $6,330",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 187034
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "5 ac $2,040",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 180704
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "7,200 ft $12,411",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 178664
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "250 ac $79,253",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 556254
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Technical Assistance* N/A $30,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 477001
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Education and Outreach* N/A $24,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 447001
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Monitoring*  N/A $33,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 423001
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$110,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 390001
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$870,154",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 390001
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "15 each  $52,329",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 390001
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Dams) 2,500 tn $178,600",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 337672
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "6,362 cuyd $23,412",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 159072
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "1,100 ac  $84,249",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 135660
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "16 ac $3,780",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 51411
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "2,700 ft $4,131",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 47631
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Technical Assistance N/A $15,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 43500
+      }
+    ]
+  }
+}

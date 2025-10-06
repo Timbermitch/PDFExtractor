@@ -1,0 +1,2278 @@
+{
+  "id": "middle-porter-bayou-watershed-plan-2013",
+  "summary": {
+    "totalGoals": 1,
+    "totalBMPs": 22,
+    "totalActivities": 0,
+    "primaryGoals": 1,
+    "completionRate": 0,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 1,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "General": 22
+    },
+    "avgGoalConfidence": 0,
+    "strongGoals": 0
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "the goal of the Delta Nutrient Reduction Strategy; which is answering the following questions:",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "the goal of the Delta Nutrient Reduction Strategy; which is answering the following questions:",
+      "confidence": 0,
+      "isPrimary": true,
+      "primaryReason": "fallback_top_confidence",
+      "description": "the goal of the Delta Nutrient Reduction Strategy; which is answering the following questions:",
+      "originalSentence": "the goal of the Delta Nutrient Reduction Strategy; which is answering the following questions:",
+      "shortTitle": "the goal of the Delta Nutrient Reduction Strategy; which is answering the following questions:"
+    }
+  ],
+  "mainGoals": [
+    {
+      "id": "G1",
+      "title": "the goal of the Delta Nutrient Reduction Strategy; which is answering the following questions:",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "the goal of the Delta Nutrient Reduction Strategy; which is answering the following questions:",
+      "confidence": 0,
+      "isPrimary": true,
+      "primaryReason": "fallback_top_confidence",
+      "description": "the goal of the Delta Nutrient Reduction Strategy; which is answering the following questions:",
+      "originalSentence": "the goal of the Delta Nutrient Reduction Strategy; which is answering the following questions:",
+      "shortTitle": "the goal of the Delta Nutrient Reduction Strategy; which is answering the following questions:"
+    }
+  ],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "median household income for Bolivar County ($28,779) and Sunflower County ($28,266) were both below the state median household income ($37,818), and were in the lowest 11% of the state al. (1995) estimated that each ton of sediment lost was worth about",
+      "category": "General",
+      "keyword": null,
+      "quantity": 11,
+      "unit": "%",
+      "verb": null,
+      "confidence": 0.3,
+      "source": "median household income for Bolivar County ($28,779) and Sunflower County ($28,266) were both below the state median household income ($37,818), and were in the lowest 11% of the state al. (1995) estimated that each ton of sediment lost was worth about $6.75 per year to the farmer|name_cost_tail_trim",
+      "originalName": "median household income for Bolivar County ($28,779) and Sunflower County ($28,266) were both below the state median household income ($37,818), and were in the lowest 11% of the state al. (1995) estimated that each ton of sediment lost was worth about $6.75 per year to the farmer"
+    },
+    {
+      "id": "B2",
+      "name": "($5.00 per ton for lost nutrients, and",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "($5.00 per ton for lost nutrients, and $1.75 per ton for lost soil and water capacity). The Delta the watershed is about $272,715 per year. This is equivalent to approximately $240,900 in lost nutrients from the watershed and approximately $31,815 in lost sediment and water capacity.|name_cost_tail_trim",
+      "originalName": "($5.00 per ton for lost nutrients, and $1.75 per ton for lost soil and water capacity). The Delta the watershed is about $272,715 per year. This is equivalent to approximately $240,900 in lost nutrients from the watershed and approximately $31,815 in lost sediment and water capacity."
+    },
+    {
+      "id": "B3",
+      "name": "actions discussed above. The total budget for all BMPs identified",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "actions discussed above. The total budget for all BMPs identified $12,900,100. Note|name_cost_tail_trim",
+      "originalName": "actions discussed above. The total budget for all BMPs identified $12,900,100. Note"
+    },
+    {
+      "id": "B4",
+      "name": "BMP cost estimates were based on averaged actual BMP costs as documented same approach was utilized for all other BMPs. Total BMP cost was then proportionally",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "BMP cost estimates were based on averaged actual BMP costs as documented same approach was utilized for all other BMPs. Total BMP cost was then proportionally"
+    },
+    {
+      "id": "B5",
+      "name": "$688,750",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$688,750"
+    },
+    {
+      "id": "B6",
+      "name": "$421,600",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$421,600"
+    },
+    {
+      "id": "B7",
+      "name": "$2,625,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$2,625,000"
+    },
+    {
+      "id": "B8",
+      "name": "$2,520,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$2,520,000"
+    },
+    {
+      "id": "B9",
+      "name": "$75,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$75,000"
+    },
+    {
+      "id": "B10",
+      "name": "$256,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$256,000"
+    },
+    {
+      "id": "B11",
+      "name": "$3,591,250",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$3,591,250"
+    },
+    {
+      "id": "B12",
+      "name": "Restore Wetlands",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": "restore",
+      "confidence": 0.15,
+      "source": "Restore Wetlands $800,000 NRCS/MDEQ/Producer|name_cost_tail_trim",
+      "originalName": "Restore Wetlands $800,000 NRCS/MDEQ/Producer"
+    },
+    {
+      "id": "B13",
+      "name": "$168,000 NRCS/EPA/MDEQ/Producer",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$168,000 NRCS/EPA/MDEQ/Producer"
+    },
+    {
+      "id": "B14",
+      "name": "$157,500 NRCS/EPA/MDEQ/Producer",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$157,500 NRCS/EPA/MDEQ/Producer"
+    },
+    {
+      "id": "B15",
+      "name": "$1,570,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$1,570,000"
+    },
+    {
+      "id": "B16",
+      "name": "$27,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$27,000"
+    },
+    {
+      "id": "B17",
+      "name": "BMP Outreach",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "BMP Outreach $60,000|name_cost_tail_trim",
+      "originalName": "BMP Outreach $60,000"
+    },
+    {
+      "id": "B18",
+      "name": "PHAUCET outreach",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "PHAUCET outreach $15,000 MSU/Delta F.A.R.M.|name_cost_tail_trim",
+      "originalName": "PHAUCET outreach $15,000 MSU/Delta F.A.R.M."
+    },
+    {
+      "id": "B19",
+      "name": "$30,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$30,000"
+    },
+    {
+      "id": "B20",
+      "name": "The total budget for these activities is",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "The total budget for these activities is $25,000.|name_cost_tail_trim",
+      "originalName": "The total budget for these activities is $25,000."
+    },
+    {
+      "id": "B21",
+      "name": "$180,000 (3 years)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$180,000 (3 years)"
+    },
+    {
+      "id": "B22",
+      "name": "Water quality (tier 1)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Water quality (tier 1) $105,000 (3 years) EPA/DEQ/MSU|name_cost_tail_trim",
+      "originalName": "Water quality (tier 1) $105,000 (3 years) EPA/DEQ/MSU"
+    }
+  ],
+  "bmpCostTable": {
+    "id": "adaptive_generic_costs",
+    "title": "median household income for Bolivar County ($28,779) and Sunflower County ($28,266) were both",
+    "table": {
+      "columns": [
+        "Item",
+        "Cost",
+        "Extra?"
+      ],
+      "rows": [
+        {
+          "Item": "median household income for Bolivar County (",
+          "Cost": "$28,779",
+          "Extra": "$28,266"
+        },
+        {
+          "Item": "below the state median household income (",
+          "Cost": "$37,818",
+          "Extra": null
+        },
+        {
+          "Item": "al. (1995) estimated that each ton of sediment lost was worth about",
+          "Cost": "$6.75",
+          "Extra": null
+        },
+        {
+          "Item": "the watershed is about",
+          "Cost": "$272,715",
+          "Extra": "$240,900"
+        },
+        {
+          "Item": "nutrients from the watershed and approximately",
+          "Cost": "$31,815",
+          "Extra": null
+        },
+        {
+          "Item": "actions discussed above. The total budget for all BMPs identified",
+          "Cost": "$12,900,100",
+          "Extra": null
+        }
+      ],
+      "total": null
+    },
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTableNormalized": {
+    "id": "adaptive_generic_costs",
+    "title": "median household income for Bolivar County ($28,779) and Sunflower County ($28,266) were both",
+    "rows": [
+      {
+        "name": "median household income for Bolivar County (",
+        "totalCost": 28779,
+        "rawCost": "$28,779"
+      },
+      {
+        "name": "below the state median household income (",
+        "totalCost": 37818,
+        "rawCost": "$37,818"
+      },
+      {
+        "name": "al. (1995) estimated that each ton of sediment lost was worth about",
+        "totalCost": 6.75,
+        "rawCost": "$6.75"
+      },
+      {
+        "name": "the watershed is about",
+        "totalCost": 272715,
+        "rawCost": "$272,715"
+      },
+      {
+        "name": "nutrients from the watershed and approximately",
+        "totalCost": 31815,
+        "rawCost": "$31,815"
+      },
+      {
+        "name": "actions discussed above. The total budget for all BMPs identified",
+        "totalCost": 12900100,
+        "rawCost": "$12,900,100"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 13271233.75,
+    "discrepancy": null,
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTables": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "median household income for Bolivar County ($28,779) and Sunflower County ($28,266) were both",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "median household income for Bolivar County (",
+            "Cost": "$28,779",
+            "Extra": "$28,266"
+          },
+          {
+            "Item": "below the state median household income (",
+            "Cost": "$37,818",
+            "Extra": null
+          },
+          {
+            "Item": "al. (1995) estimated that each ton of sediment lost was worth about",
+            "Cost": "$6.75",
+            "Extra": null
+          },
+          {
+            "Item": "the watershed is about",
+            "Cost": "$272,715",
+            "Extra": "$240,900"
+          },
+          {
+            "Item": "nutrients from the watershed and approximately",
+            "Cost": "$31,815",
+            "Extra": null
+          },
+          {
+            "Item": "actions discussed above. The total budget for all BMPs identified",
+            "Cost": "$12,900,100",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "below the state median household income ($37,818), and were in the lowest 11% of the state",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "below the state median household income (",
+            "Cost": "$37,818",
+            "Extra": null
+          },
+          {
+            "Item": "al. (1995) estimated that each ton of sediment lost was worth about",
+            "Cost": "$6.75",
+            "Extra": null
+          },
+          {
+            "Item": "the watershed is about",
+            "Cost": "$272,715",
+            "Extra": "$240,900"
+          },
+          {
+            "Item": "nutrients from the watershed and approximately",
+            "Cost": "$31,815",
+            "Extra": null
+          },
+          {
+            "Item": "actions discussed above. The total budget for all BMPs identified",
+            "Cost": "$12,900,100",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "al. (1995) estimated that each ton of sediment lost was worth about $6.75 per year to the farmer",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "al. (1995) estimated that each ton of sediment lost was worth about",
+            "Cost": "$6.75",
+            "Extra": null
+          },
+          {
+            "Item": "the watershed is about",
+            "Cost": "$272,715",
+            "Extra": "$240,900"
+          },
+          {
+            "Item": "nutrients from the watershed and approximately",
+            "Cost": "$31,815",
+            "Extra": null
+          },
+          {
+            "Item": "actions discussed above. The total budget for all BMPs identified",
+            "Cost": "$12,900,100",
+            "Extra": null
+          },
+          {
+            "Item": "Restore Wetlands",
+            "Cost": "$800,000",
+            "Extra": null
+          },
+          {
+            "Item": "BMP Outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "The total budget for these activities is",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Water quality (tier 1)",
+            "Cost": "$105,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "($5.00 per ton for lost nutrients, and $1.75 per ton for lost soil and water capacity). The Delta",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "the watershed is about",
+            "Cost": "$272,715",
+            "Extra": "$240,900"
+          },
+          {
+            "Item": "nutrients from the watershed and approximately",
+            "Cost": "$31,815",
+            "Extra": null
+          },
+          {
+            "Item": "actions discussed above. The total budget for all BMPs identified",
+            "Cost": "$12,900,100",
+            "Extra": null
+          },
+          {
+            "Item": "Restore Wetlands",
+            "Cost": "$800,000",
+            "Extra": null
+          },
+          {
+            "Item": "BMP Outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "The total budget for these activities is",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Water quality (tier 1)",
+            "Cost": "$105,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "the watershed is about $272,715 per year. This is equivalent to approximately $240,900 in lost",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "the watershed is about",
+            "Cost": "$272,715",
+            "Extra": "$240,900"
+          },
+          {
+            "Item": "nutrients from the watershed and approximately",
+            "Cost": "$31,815",
+            "Extra": null
+          },
+          {
+            "Item": "actions discussed above. The total budget for all BMPs identified",
+            "Cost": "$12,900,100",
+            "Extra": null
+          },
+          {
+            "Item": "Restore Wetlands",
+            "Cost": "$800,000",
+            "Extra": null
+          },
+          {
+            "Item": "BMP Outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "The total budget for these activities is",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Water quality (tier 1)",
+            "Cost": "$105,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "nutrients from the watershed and approximately $31,815 in lost sediment and water capacity.",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "nutrients from the watershed and approximately",
+            "Cost": "$31,815",
+            "Extra": null
+          },
+          {
+            "Item": "actions discussed above. The total budget for all BMPs identified",
+            "Cost": "$12,900,100",
+            "Extra": null
+          },
+          {
+            "Item": "Restore Wetlands",
+            "Cost": "$800,000",
+            "Extra": null
+          },
+          {
+            "Item": "BMP Outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "The total budget for these activities is",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Water quality (tier 1)",
+            "Cost": "$105,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "actions discussed above. The total budget for all BMPs identified $12,900,100. Note",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "actions discussed above. The total budget for all BMPs identified",
+            "Cost": "$12,900,100",
+            "Extra": null
+          },
+          {
+            "Item": "Restore Wetlands",
+            "Cost": "$800,000",
+            "Extra": null
+          },
+          {
+            "Item": "BMP Outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "The total budget for these activities is",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Water quality (tier 1)",
+            "Cost": "$105,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$688,750",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Restore Wetlands",
+            "Cost": "$800,000",
+            "Extra": null
+          },
+          {
+            "Item": "BMP Outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "The total budget for these activities is",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Water quality (tier 1)",
+            "Cost": "$105,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$421,600",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Restore Wetlands",
+            "Cost": "$800,000",
+            "Extra": null
+          },
+          {
+            "Item": "BMP Outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "The total budget for these activities is",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Water quality (tier 1)",
+            "Cost": "$105,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$2,625,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Restore Wetlands",
+            "Cost": "$800,000",
+            "Extra": null
+          },
+          {
+            "Item": "BMP Outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "The total budget for these activities is",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Water quality (tier 1)",
+            "Cost": "$105,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$2,520,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Restore Wetlands",
+            "Cost": "$800,000",
+            "Extra": null
+          },
+          {
+            "Item": "BMP Outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "The total budget for these activities is",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Water quality (tier 1)",
+            "Cost": "$105,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$75,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Restore Wetlands",
+            "Cost": "$800,000",
+            "Extra": null
+          },
+          {
+            "Item": "BMP Outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "The total budget for these activities is",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Water quality (tier 1)",
+            "Cost": "$105,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$256,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Restore Wetlands",
+            "Cost": "$800,000",
+            "Extra": null
+          },
+          {
+            "Item": "BMP Outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "The total budget for these activities is",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Water quality (tier 1)",
+            "Cost": "$105,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$3,591,250",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Restore Wetlands",
+            "Cost": "$800,000",
+            "Extra": null
+          },
+          {
+            "Item": "BMP Outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "The total budget for these activities is",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Water quality (tier 1)",
+            "Cost": "$105,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Restore Wetlands $800,000 NRCS/MDEQ/Producer",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Restore Wetlands",
+            "Cost": "$800,000",
+            "Extra": null
+          },
+          {
+            "Item": "BMP Outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "The total budget for these activities is",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Water quality (tier 1)",
+            "Cost": "$105,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$168,000 NRCS/EPA/MDEQ/Producer",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "BMP Outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "The total budget for these activities is",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Water quality (tier 1)",
+            "Cost": "$105,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$157,500 NRCS/EPA/MDEQ/Producer",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "BMP Outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "The total budget for these activities is",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Water quality (tier 1)",
+            "Cost": "$105,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$1,570,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "BMP Outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "The total budget for these activities is",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Water quality (tier 1)",
+            "Cost": "$105,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$27,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "BMP Outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "The total budget for these activities is",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Water quality (tier 1)",
+            "Cost": "$105,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "BMP Outreach $60,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "BMP Outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "The total budget for these activities is",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Water quality (tier 1)",
+            "Cost": "$105,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "PHAUCET outreach $15,000 MSU/Delta F.A.R.M.",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "The total budget for these activities is",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Water quality (tier 1)",
+            "Cost": "$105,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "median household income for Bolivar County ($28,779) and Sunflower County ($28,266) were both",
+      "rows": [
+        {
+          "name": "median household income for Bolivar County (",
+          "totalCost": 28779,
+          "rawCost": "$28,779"
+        },
+        {
+          "name": "below the state median household income (",
+          "totalCost": 37818,
+          "rawCost": "$37,818"
+        },
+        {
+          "name": "al. (1995) estimated that each ton of sediment lost was worth about",
+          "totalCost": 6.75,
+          "rawCost": "$6.75"
+        },
+        {
+          "name": "the watershed is about",
+          "totalCost": 272715,
+          "rawCost": "$272,715"
+        },
+        {
+          "name": "nutrients from the watershed and approximately",
+          "totalCost": 31815,
+          "rawCost": "$31,815"
+        },
+        {
+          "name": "actions discussed above. The total budget for all BMPs identified",
+          "totalCost": 12900100,
+          "rawCost": "$12,900,100"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 13271233.75,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "below the state median household income ($37,818), and were in the lowest 11% of the state",
+      "rows": [
+        {
+          "name": "below the state median household income (",
+          "totalCost": 37818,
+          "rawCost": "$37,818"
+        },
+        {
+          "name": "al. (1995) estimated that each ton of sediment lost was worth about",
+          "totalCost": 6.75,
+          "rawCost": "$6.75"
+        },
+        {
+          "name": "the watershed is about",
+          "totalCost": 272715,
+          "rawCost": "$272,715"
+        },
+        {
+          "name": "nutrients from the watershed and approximately",
+          "totalCost": 31815,
+          "rawCost": "$31,815"
+        },
+        {
+          "name": "actions discussed above. The total budget for all BMPs identified",
+          "totalCost": 12900100,
+          "rawCost": "$12,900,100"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 13242454.75,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "al. (1995) estimated that each ton of sediment lost was worth about $6.75 per year to the farmer",
+      "rows": [
+        {
+          "name": "al. (1995) estimated that each ton of sediment lost was worth about",
+          "totalCost": 6.75,
+          "rawCost": "$6.75"
+        },
+        {
+          "name": "the watershed is about",
+          "totalCost": 272715,
+          "rawCost": "$272,715"
+        },
+        {
+          "name": "nutrients from the watershed and approximately",
+          "totalCost": 31815,
+          "rawCost": "$31,815"
+        },
+        {
+          "name": "actions discussed above. The total budget for all BMPs identified",
+          "totalCost": 12900100,
+          "rawCost": "$12,900,100"
+        },
+        {
+          "name": "Restore Wetlands",
+          "totalCost": 800000,
+          "rawCost": "$800,000"
+        },
+        {
+          "name": "BMP Outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "The total budget for these activities is",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Water quality (tier 1)",
+          "totalCost": 105000,
+          "rawCost": "$105,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 14209636.75,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "($5.00 per ton for lost nutrients, and $1.75 per ton for lost soil and water capacity). The Delta",
+      "rows": [
+        {
+          "name": "the watershed is about",
+          "totalCost": 272715,
+          "rawCost": "$272,715"
+        },
+        {
+          "name": "nutrients from the watershed and approximately",
+          "totalCost": 31815,
+          "rawCost": "$31,815"
+        },
+        {
+          "name": "actions discussed above. The total budget for all BMPs identified",
+          "totalCost": 12900100,
+          "rawCost": "$12,900,100"
+        },
+        {
+          "name": "Restore Wetlands",
+          "totalCost": 800000,
+          "rawCost": "$800,000"
+        },
+        {
+          "name": "BMP Outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "The total budget for these activities is",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Water quality (tier 1)",
+          "totalCost": 105000,
+          "rawCost": "$105,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 14209630,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "the watershed is about $272,715 per year. This is equivalent to approximately $240,900 in lost",
+      "rows": [
+        {
+          "name": "the watershed is about",
+          "totalCost": 272715,
+          "rawCost": "$272,715"
+        },
+        {
+          "name": "nutrients from the watershed and approximately",
+          "totalCost": 31815,
+          "rawCost": "$31,815"
+        },
+        {
+          "name": "actions discussed above. The total budget for all BMPs identified",
+          "totalCost": 12900100,
+          "rawCost": "$12,900,100"
+        },
+        {
+          "name": "Restore Wetlands",
+          "totalCost": 800000,
+          "rawCost": "$800,000"
+        },
+        {
+          "name": "BMP Outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "The total budget for these activities is",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Water quality (tier 1)",
+          "totalCost": 105000,
+          "rawCost": "$105,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 14209630,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "nutrients from the watershed and approximately $31,815 in lost sediment and water capacity.",
+      "rows": [
+        {
+          "name": "nutrients from the watershed and approximately",
+          "totalCost": 31815,
+          "rawCost": "$31,815"
+        },
+        {
+          "name": "actions discussed above. The total budget for all BMPs identified",
+          "totalCost": 12900100,
+          "rawCost": "$12,900,100"
+        },
+        {
+          "name": "Restore Wetlands",
+          "totalCost": 800000,
+          "rawCost": "$800,000"
+        },
+        {
+          "name": "BMP Outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "The total budget for these activities is",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Water quality (tier 1)",
+          "totalCost": 105000,
+          "rawCost": "$105,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 13936915,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "actions discussed above. The total budget for all BMPs identified $12,900,100. Note",
+      "rows": [
+        {
+          "name": "actions discussed above. The total budget for all BMPs identified",
+          "totalCost": 12900100,
+          "rawCost": "$12,900,100"
+        },
+        {
+          "name": "Restore Wetlands",
+          "totalCost": 800000,
+          "rawCost": "$800,000"
+        },
+        {
+          "name": "BMP Outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "The total budget for these activities is",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Water quality (tier 1)",
+          "totalCost": 105000,
+          "rawCost": "$105,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 13905100,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$688,750",
+      "rows": [
+        {
+          "name": "Restore Wetlands",
+          "totalCost": 800000,
+          "rawCost": "$800,000"
+        },
+        {
+          "name": "BMP Outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "The total budget for these activities is",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Water quality (tier 1)",
+          "totalCost": 105000,
+          "rawCost": "$105,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1005000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$421,600",
+      "rows": [
+        {
+          "name": "Restore Wetlands",
+          "totalCost": 800000,
+          "rawCost": "$800,000"
+        },
+        {
+          "name": "BMP Outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "The total budget for these activities is",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Water quality (tier 1)",
+          "totalCost": 105000,
+          "rawCost": "$105,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1005000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$2,625,000",
+      "rows": [
+        {
+          "name": "Restore Wetlands",
+          "totalCost": 800000,
+          "rawCost": "$800,000"
+        },
+        {
+          "name": "BMP Outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "The total budget for these activities is",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Water quality (tier 1)",
+          "totalCost": 105000,
+          "rawCost": "$105,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1005000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$2,520,000",
+      "rows": [
+        {
+          "name": "Restore Wetlands",
+          "totalCost": 800000,
+          "rawCost": "$800,000"
+        },
+        {
+          "name": "BMP Outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "The total budget for these activities is",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Water quality (tier 1)",
+          "totalCost": 105000,
+          "rawCost": "$105,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1005000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$75,000",
+      "rows": [
+        {
+          "name": "Restore Wetlands",
+          "totalCost": 800000,
+          "rawCost": "$800,000"
+        },
+        {
+          "name": "BMP Outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "The total budget for these activities is",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Water quality (tier 1)",
+          "totalCost": 105000,
+          "rawCost": "$105,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1005000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$256,000",
+      "rows": [
+        {
+          "name": "Restore Wetlands",
+          "totalCost": 800000,
+          "rawCost": "$800,000"
+        },
+        {
+          "name": "BMP Outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "The total budget for these activities is",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Water quality (tier 1)",
+          "totalCost": 105000,
+          "rawCost": "$105,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1005000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$3,591,250",
+      "rows": [
+        {
+          "name": "Restore Wetlands",
+          "totalCost": 800000,
+          "rawCost": "$800,000"
+        },
+        {
+          "name": "BMP Outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "The total budget for these activities is",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Water quality (tier 1)",
+          "totalCost": 105000,
+          "rawCost": "$105,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1005000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Restore Wetlands $800,000 NRCS/MDEQ/Producer",
+      "rows": [
+        {
+          "name": "Restore Wetlands",
+          "totalCost": 800000,
+          "rawCost": "$800,000"
+        },
+        {
+          "name": "BMP Outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "The total budget for these activities is",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Water quality (tier 1)",
+          "totalCost": 105000,
+          "rawCost": "$105,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1005000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$168,000 NRCS/EPA/MDEQ/Producer",
+      "rows": [
+        {
+          "name": "BMP Outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "The total budget for these activities is",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Water quality (tier 1)",
+          "totalCost": 105000,
+          "rawCost": "$105,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 205000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$157,500 NRCS/EPA/MDEQ/Producer",
+      "rows": [
+        {
+          "name": "BMP Outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "The total budget for these activities is",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Water quality (tier 1)",
+          "totalCost": 105000,
+          "rawCost": "$105,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 205000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$1,570,000",
+      "rows": [
+        {
+          "name": "BMP Outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "The total budget for these activities is",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Water quality (tier 1)",
+          "totalCost": 105000,
+          "rawCost": "$105,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 205000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$27,000",
+      "rows": [
+        {
+          "name": "BMP Outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "The total budget for these activities is",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Water quality (tier 1)",
+          "totalCost": 105000,
+          "rawCost": "$105,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 205000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "BMP Outreach $60,000",
+      "rows": [
+        {
+          "name": "BMP Outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "The total budget for these activities is",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Water quality (tier 1)",
+          "totalCost": 105000,
+          "rawCost": "$105,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 205000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "PHAUCET outreach $15,000 MSU/Delta F.A.R.M.",
+      "rows": [
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "The total budget for these activities is",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Water quality (tier 1)",
+          "totalCost": 105000,
+          "rawCost": "$105,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 145000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-02T13:23:25.482Z",
+  "metadata": {
+    "sourceId": "middle-porter-bayou-watershed-plan-2013",
+    "sourceFile": "middle-porter-bayou-watershed-plan-2013.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "adaptive_generic_costs",
+        "title": "median household income for Bolivar County ($28,779) and Sunflower County ($28,266) were both",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 13271233.75
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "below the state median household income ($37,818), and were in the lowest 11% of the state",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 13242454.75
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "al. (1995) estimated that each ton of sediment lost was worth about $6.75 per year to the farmer",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 14209636.75
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "($5.00 per ton for lost nutrients, and $1.75 per ton for lost soil and water capacity). The Delta",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 14209630
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "the watershed is about $272,715 per year. This is equivalent to approximately $240,900 in lost",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 14209630
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "nutrients from the watershed and approximately $31,815 in lost sediment and water capacity.",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 13936915
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "actions discussed above. The total budget for all BMPs identified $12,900,100. Note",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 13905100
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$688,750",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1005000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$421,600",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1005000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$2,625,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1005000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$2,520,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1005000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$75,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1005000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$256,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1005000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$3,591,250",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1005000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Restore Wetlands $800,000 NRCS/MDEQ/Producer",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1005000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$168,000 NRCS/EPA/MDEQ/Producer",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 205000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$157,500 NRCS/EPA/MDEQ/Producer",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 205000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$1,570,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 205000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$27,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 205000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "BMP Outreach $60,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 205000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "PHAUCET outreach $15,000 MSU/Delta F.A.R.M.",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 145000
+      }
+    ]
+  }
+}

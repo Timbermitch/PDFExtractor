@@ -1,0 +1,71 @@
+{
+  "id": "upper-bay-of-st-louis-watershed-action-plan-2007",
+  "summary": {
+    "totalGoals": 1,
+    "totalBMPs": 0,
+    "totalActivities": 0,
+    "primaryGoals": 0,
+    "completionRate": 0,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 1,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {},
+    "avgGoalConfidence": 0,
+    "strongGoals": 0
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "The goal of the Upper Bay of St. Louis Watershed Partnership is to develop and implement a",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The goal of the Upper Bay of St. Louis Watershed Partnership is to develop and implement a",
+      "confidence": 0,
+      "description": "The goal of the Upper Bay of St. Louis Watershed Partnership is to develop and implement a",
+      "originalSentence": "The goal of the Upper Bay of St. Louis Watershed Partnership is to develop and implement a",
+      "shortTitle": "The goal of the Upper Bay of St. Louis Watershed Partnership is to develop and implement a"
+    }
+  ],
+  "mainGoals": [],
+  "bmps": [],
+  "bmpCostTable": null,
+  "bmpCostTableNormalized": null,
+  "bmpCostTables": [],
+  "bmpCostTablesNormalized": [],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-02T18:06:20.486Z",
+  "metadata": {
+    "sourceId": "upper-bay-of-st-louis-watershed-action-plan-2007",
+    "sourceFile": "Upper_Bay_of_St_Louis_Watershed_Action_Plan_2007.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": []
+  }
+}

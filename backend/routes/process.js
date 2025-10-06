@@ -29,6 +29,21 @@ router.post('/', requireBody([]), async (req, res, next) => {
     }
 
     const sections = extractSections(workingText);
+    if(process.env.GOAL_DEBUG==='1'){
+      const rawGoalLines = workingText.split(/\r?\n/).filter(l=>/goal/i.test(l));
+      console.log('[goal-debug] raw lines containing goal:', rawGoalLines.length);
+      try {
+        global.__GOAL_DEBUG__ = global.__GOAL_DEBUG__ || { sessions: [] };
+        global.__GOAL_DEBUG__.sessions.push({
+          timestamp: new Date().toISOString(),
+            stage: 'rawTextScan',
+            rawGoalLines: rawGoalLines.length
+        });
+        if(global.__GOAL_DEBUG__.sessions.length > 12){
+          global.__GOAL_DEBUG__.sessions.splice(0, global.__GOAL_DEBUG__.sessions.length - 12);
+        }
+      } catch(e) { /* ignore */ }
+    }
     const classified = await classifyAmbiguous(sections);
     let structured = buildStructuredReport(classified, { sourceId: bronzeId, sourceFile: bronzeId ? `${bronzeId}.pdf` : null });
     if (originalName) {

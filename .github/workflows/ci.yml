@@ -1,0 +1,41 @@
+name: CI
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-and-verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install backend deps
+        working-directory: backend
+        run: npm ci || npm install
+      - name: Pattern Verification
+        working-directory: backend
+        run: |
+          npm run cost:verify || true
+          npm run test:patterns || true
+          npm run cost:summary
+      - name: Rebuild sample report (pattern tagging)
+        working-directory: backend
+        run: npm run rebuild:one
+      - name: BMP Fallback Test
+        working-directory: backend
+        run: npm run test:bmp:fallback
+      - name: Enhanced Summary Test
+        working-directory: backend
+        run: npm run test:summary:enhanced
+      - name: Upload verification artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: cost-verification
+          path: backend/data/silver/*.json

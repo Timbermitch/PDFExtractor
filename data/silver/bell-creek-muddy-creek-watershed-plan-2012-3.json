@@ -1,0 +1,6663 @@
+{
+  "id": "bell-creek-muddy-creek-watershed-plan-2012-3",
+  "summary": {
+    "totalGoals": 1,
+    "totalBMPs": 3,
+    "totalActivities": 0,
+    "primaryGoals": 1,
+    "completionRate": 1,
+    "totalMetrics": 147,
+    "goalStatus": {
+      "completed": 1,
+      "inProgress": 0,
+      "planned": 0,
+      "pctCompleted": 1,
+      "pctInProgress": 0,
+      "pctPlanned": 0
+    },
+    "bmpCategories": {
+      "General": 3
+    },
+    "avgGoalConfidence": 0.4,
+    "strongGoals": 0
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "The goal and objective is to reduce the nutrient and sediment loading coming from agricultural to determine if the plan goals have been achieved, and second, to determine if it reflects the current pollution from nonpoint sources to a level compatible with water quality goals.",
+      "status": "completed",
+      "pollutant": "sediment",
+      "parameter": "sediment",
+      "reductionPercent": null,
+      "source": "The goal and objective is to reduce the nutrient and sediment loading coming from agricultural to determine if the plan goals have been achieved, and second, to determine if it reflects the current pollution from nonpoint sources to a level compatible with water quality goals.",
+      "confidence": 0.4,
+      "isPrimary": true,
+      "primaryReason": "canonical_phrase",
+      "description": "The goal and objective is to reduce the nutrient and sediment loading coming from agricultural to determine if the plan goals have been achieved, and second, to determine if it reflects the current pollution from nonpoint sources to a level compatible with water quality goals.",
+      "originalSentence": "The goal and objective is to reduce the nutrient and sediment loading coming from agricultural to determine if the plan goals have been achieved, and second, to determine if it reflects the current pollution from nonpoint sources to a level compatible with water quality goals.",
+      "shortTitle": "The goal and objective is to reduce the nutrient and sediment loading coming from…",
+      "_present": false
+    }
+  ],
+  "mainGoals": [
+    {
+      "id": "G1",
+      "title": "The goal and objective is to reduce the nutrient and sediment loading coming from agricultural to determine if the plan goals have been achieved, and second, to determine if it reflects the current pollution from nonpoint sources to a level compatible with water quality goals.",
+      "status": "completed",
+      "pollutant": "sediment",
+      "parameter": "sediment",
+      "reductionPercent": null,
+      "source": "The goal and objective is to reduce the nutrient and sediment loading coming from agricultural to determine if the plan goals have been achieved, and second, to determine if it reflects the current pollution from nonpoint sources to a level compatible with water quality goals.",
+      "confidence": 0.4,
+      "isPrimary": true,
+      "primaryReason": "canonical_phrase",
+      "description": "The goal and objective is to reduce the nutrient and sediment loading coming from agricultural to determine if the plan goals have been achieved, and second, to determine if it reflects the current pollution from nonpoint sources to a level compatible with water quality goals.",
+      "originalSentence": "The goal and objective is to reduce the nutrient and sediment loading coming from agricultural to determine if the plan goals have been achieved, and second, to determine if it reflects the current pollution from nonpoint sources to a level compatible with water quality goals.",
+      "shortTitle": "The goal and objective is to reduce the nutrient and sediment loading coming from…",
+      "_present": false
+    }
+  ],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "Technical Assistance",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.55,
+      "source": "summary_line:Technical Assistance $41,667",
+      "_present": true
+    },
+    {
+      "id": "B2",
+      "name": "BMPs",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.25,
+      "source": "summary_line:BMPs $450,000",
+      "_present": true
+    },
+    {
+      "id": "B3",
+      "name": "Education/Outreach",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.25,
+      "source": "summary_line:Education/Outreach $18,667.01",
+      "_present": true
+    }
+  ],
+  "bmpCostTable": {
+    "id": "sparse_inline_costs",
+    "title": "include EQIP, CRP, and WHIP.  Under these three programs, there has been $375,506.20 spent over the",
+    "table": {
+      "columns": [
+        "Item",
+        "Cost"
+      ],
+      "rows": [
+        {
+          "Item": "Technical Assistance",
+          "Cost": "$41,667"
+        },
+        {
+          "Item": "Total",
+          "Cost": "$41,667"
+        },
+        {
+          "Item": "Total",
+          "Cost": "$2,000.00"
+        },
+        {
+          "Item": "Event Flyers 300 .60/each",
+          "Cost": "$180.00"
+        },
+        {
+          "Item": "Mailing/Delivery 300 .44/each",
+          "Cost": "$135.00"
+        },
+        {
+          "Item": "Total",
+          "Cost": "$7,037.01"
+        },
+        {
+          "Item": "Printing 1,000 1.00/each",
+          "Cost": "$1,000.00"
+        },
+        {
+          "Item": "Total",
+          "Cost": "$1,000.00"
+        },
+        {
+          "Item": "Total",
+          "Cost": "$1,000.00"
+        },
+        {
+          "Item": "Brochures 3,000 .65/each",
+          "Cost": "$1,950.00"
+        },
+        {
+          "Item": "Coloring Books 6,000 .38/each",
+          "Cost": "$2,280.00"
+        },
+        {
+          "Item": "Litter Bags 2,500 .42/each",
+          "Cost": "$1,050.00"
+        },
+        {
+          "Item": "Total",
+          "Cost": "$5,280.00"
+        }
+      ],
+      "total": null
+    },
+    "patternId": "sparse_inline_costs",
+    "patternConfidence": 0.45
+  },
+  "bmpCostTableNormalized": {
+    "id": "sparse_inline_costs",
+    "title": "include EQIP, CRP, and WHIP.  Under these three programs, there has been $375,506.20 spent over the",
+    "rows": [
+      {
+        "name": "Technical Assistance",
+        "totalCost": 41667,
+        "rawCost": "$41,667"
+      },
+      {
+        "name": "Total",
+        "totalCost": 41667,
+        "rawCost": "$41,667"
+      },
+      {
+        "name": "Total",
+        "totalCost": 2000,
+        "rawCost": "$2,000.00"
+      },
+      {
+        "name": "Event Flyers 300 .60/each",
+        "totalCost": 180,
+        "rawCost": "$180.00"
+      },
+      {
+        "name": "Mailing/Delivery 300 .44/each",
+        "totalCost": 135,
+        "rawCost": "$135.00"
+      },
+      {
+        "name": "Total",
+        "totalCost": 7037.01,
+        "rawCost": "$7,037.01"
+      },
+      {
+        "name": "Printing 1,000 1.00/each",
+        "totalCost": 1000,
+        "rawCost": "$1,000.00"
+      },
+      {
+        "name": "Total",
+        "totalCost": 1000,
+        "rawCost": "$1,000.00"
+      },
+      {
+        "name": "Total",
+        "totalCost": 1000,
+        "rawCost": "$1,000.00"
+      },
+      {
+        "name": "Brochures 3,000 .65/each",
+        "totalCost": 1950,
+        "rawCost": "$1,950.00"
+      },
+      {
+        "name": "Coloring Books 6,000 .38/each",
+        "totalCost": 2280,
+        "rawCost": "$2,280.00"
+      },
+      {
+        "name": "Litter Bags 2,500 .42/each",
+        "totalCost": 1050,
+        "rawCost": "$1,050.00"
+      },
+      {
+        "name": "Total",
+        "totalCost": 5280,
+        "rawCost": "$5,280.00"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 106246.01,
+    "discrepancy": null,
+    "patternId": "sparse_inline_costs",
+    "patternConfidence": 0.45
+  },
+  "bmpCostTables": [
+    {
+      "id": "sparse_inline_costs",
+      "title": "include EQIP, CRP, and WHIP.  Under these three programs, there has been $375,506.20 spent over the",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$41,667"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$41,667"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$2,000.00"
+          },
+          {
+            "Item": "Event Flyers 300 .60/each",
+            "Cost": "$180.00"
+          },
+          {
+            "Item": "Mailing/Delivery 300 .44/each",
+            "Cost": "$135.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$7,037.01"
+          },
+          {
+            "Item": "Printing 1,000 1.00/each",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Brochures 3,000 .65/each",
+            "Cost": "$1,950.00"
+          },
+          {
+            "Item": "Coloring Books 6,000 .38/each",
+            "Cost": "$2,280.00"
+          },
+          {
+            "Item": "Litter Bags 2,500 .42/each",
+            "Cost": "$1,050.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$5,280.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "bell_creek_bmps",
+      "title": "Practice Area Affected BMP Cost BMP Total",
+      "table": {
+        "columns": [
+          "Practice",
+          "Area Affected",
+          "BMP Cost",
+          "BMP Total"
+        ],
+        "rows": [
+          {
+            "Practice": "Streambank and Shoreline Protection",
+            "Area Affected": "2,500 feet",
+            "BMP Cost": "$69.17/ft",
+            "BMP Total": "$172,904"
+          },
+          {
+            "Practice": "Grade Stabilization Structure",
+            "Area Affected": "12 structures",
+            "BMP Cost": "$6,500/ea",
+            "BMP Total": "$78,000"
+          },
+          {
+            "Practice": "Pasture and Hay Land Planting",
+            "Area Affected": "100 acres",
+            "BMP Cost": "$200/ac",
+            "BMP Total": "$20,000"
+          },
+          {
+            "Practice": "Water and Sediment Control Basin",
+            "Area Affected": "4 structures",
+            "BMP Cost": "$10,000/ea",
+            "BMP Total": "$40,000"
+          },
+          {
+            "Practice": "Nutrient Management",
+            "Area Affected": "700 acres",
+            "BMP Cost": "$103.80/ac",
+            "BMP Total": "$72,156"
+          },
+          {
+            "Practice": "Tank/Trough",
+            "Area Affected": "5 each",
+            "BMP Cost": "$2,500/ea",
+            "BMP Total": "$12,500"
+          },
+          {
+            "Practice": "Diversions",
+            "Area Affected": "1,200 feet",
+            "BMP Cost": "$1.20/ft",
+            "BMP Total": "$1,440"
+          },
+          {
+            "Practice": "Heavy Use Area Protection",
+            "Area Affected": "4 each",
+            "BMP Cost": "$2,500/ea",
+            "BMP Total": "$10,000"
+          },
+          {
+            "Practice": "Fencing",
+            "Area Affected": "10,000 feet",
+            "BMP Cost": "$1.30/ft",
+            "BMP Total": "$13,000"
+          },
+          {
+            "Practice": "Critical Area Planting",
+            "Area Affected": "100 acres",
+            "BMP Cost": "$300/ac",
+            "BMP Total": "$30,000"
+          }
+        ],
+        "total": 450000
+      },
+      "patternId": "bell_creek_bmps",
+      "patternConfidence": 0.9
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Streambank and Shoreline Protection 2,500 feet $69.17/ft $172,904",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Streambank and Shoreline Protection 2,500 feet $69.17/ft",
+            "Cost": "$172,904"
+          },
+          {
+            "Item": "Grade Stabilization Structure 12 structures $6,500 /ea",
+            "Cost": "$78,000"
+          },
+          {
+            "Item": "Pasture and Hay Land Planting 100 acres $200/ac",
+            "Cost": "$20,000"
+          },
+          {
+            "Item": "Water and Sediment Control Basin 4 structures $10,000/ ea",
+            "Cost": "$40,000"
+          },
+          {
+            "Item": "Nutrient Management 700 acres $103.80/ac",
+            "Cost": "$72,156"
+          },
+          {
+            "Item": "Tank/Trough 5 each $2,500/ea",
+            "Cost": "$12,500"
+          },
+          {
+            "Item": "Diversions 1,200 feet $1.20/ft",
+            "Cost": "$1,440"
+          },
+          {
+            "Item": "Heavy Use Area Protection 4 each $2,500/ea",
+            "Cost": "$10,000"
+          },
+          {
+            "Item": "Fencing 10,000 feet $1.30/ft",
+            "Cost": "$13,000"
+          },
+          {
+            "Item": "Critical Area Planting 100 acres $300/ac",
+            "Cost": "$30,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Grade Stabilization Structure 12 structures $6,500 /ea $78,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Grade Stabilization Structure 12 structures $6,500 /ea",
+            "Cost": "$78,000"
+          },
+          {
+            "Item": "Pasture and Hay Land Planting 100 acres $200/ac",
+            "Cost": "$20,000"
+          },
+          {
+            "Item": "Water and Sediment Control Basin 4 structures $10,000/ ea",
+            "Cost": "$40,000"
+          },
+          {
+            "Item": "Nutrient Management 700 acres $103.80/ac",
+            "Cost": "$72,156"
+          },
+          {
+            "Item": "Tank/Trough 5 each $2,500/ea",
+            "Cost": "$12,500"
+          },
+          {
+            "Item": "Diversions 1,200 feet $1.20/ft",
+            "Cost": "$1,440"
+          },
+          {
+            "Item": "Heavy Use Area Protection 4 each $2,500/ea",
+            "Cost": "$10,000"
+          },
+          {
+            "Item": "Fencing 10,000 feet $1.30/ft",
+            "Cost": "$13,000"
+          },
+          {
+            "Item": "Critical Area Planting 100 acres $300/ac",
+            "Cost": "$30,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Pasture and Hay Land Planting 100 acres $200/ac $20,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Pasture and Hay Land Planting 100 acres $200/ac",
+            "Cost": "$20,000"
+          },
+          {
+            "Item": "Water and Sediment Control Basin 4 structures $10,000/ ea",
+            "Cost": "$40,000"
+          },
+          {
+            "Item": "Nutrient Management 700 acres $103.80/ac",
+            "Cost": "$72,156"
+          },
+          {
+            "Item": "Tank/Trough 5 each $2,500/ea",
+            "Cost": "$12,500"
+          },
+          {
+            "Item": "Diversions 1,200 feet $1.20/ft",
+            "Cost": "$1,440"
+          },
+          {
+            "Item": "Heavy Use Area Protection 4 each $2,500/ea",
+            "Cost": "$10,000"
+          },
+          {
+            "Item": "Fencing 10,000 feet $1.30/ft",
+            "Cost": "$13,000"
+          },
+          {
+            "Item": "Critical Area Planting 100 acres $300/ac",
+            "Cost": "$30,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Water and Sediment Control Basin 4 structures $10,000/ ea $40,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Water and Sediment Control Basin 4 structures $10,000/ ea",
+            "Cost": "$40,000"
+          },
+          {
+            "Item": "Nutrient Management 700 acres $103.80/ac",
+            "Cost": "$72,156"
+          },
+          {
+            "Item": "Tank/Trough 5 each $2,500/ea",
+            "Cost": "$12,500"
+          },
+          {
+            "Item": "Diversions 1,200 feet $1.20/ft",
+            "Cost": "$1,440"
+          },
+          {
+            "Item": "Heavy Use Area Protection 4 each $2,500/ea",
+            "Cost": "$10,000"
+          },
+          {
+            "Item": "Fencing 10,000 feet $1.30/ft",
+            "Cost": "$13,000"
+          },
+          {
+            "Item": "Critical Area Planting 100 acres $300/ac",
+            "Cost": "$30,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Nutrient Management 700 acres $103.80/ac $72,156",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Nutrient Management 700 acres $103.80/ac",
+            "Cost": "$72,156"
+          },
+          {
+            "Item": "Tank/Trough 5 each $2,500/ea",
+            "Cost": "$12,500"
+          },
+          {
+            "Item": "Diversions 1,200 feet $1.20/ft",
+            "Cost": "$1,440"
+          },
+          {
+            "Item": "Heavy Use Area Protection 4 each $2,500/ea",
+            "Cost": "$10,000"
+          },
+          {
+            "Item": "Fencing 10,000 feet $1.30/ft",
+            "Cost": "$13,000"
+          },
+          {
+            "Item": "Critical Area Planting 100 acres $300/ac",
+            "Cost": "$30,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Tank/Trough 5 each $2,500/ea $12,500",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Tank/Trough 5 each $2,500/ea",
+            "Cost": "$12,500"
+          },
+          {
+            "Item": "Diversions 1,200 feet $1.20/ft",
+            "Cost": "$1,440"
+          },
+          {
+            "Item": "Heavy Use Area Protection 4 each $2,500/ea",
+            "Cost": "$10,000"
+          },
+          {
+            "Item": "Fencing 10,000 feet $1.30/ft",
+            "Cost": "$13,000"
+          },
+          {
+            "Item": "Critical Area Planting 100 acres $300/ac",
+            "Cost": "$30,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Diversions 1,200 feet $1.20/ft $1,440",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Diversions 1,200 feet $1.20/ft",
+            "Cost": "$1,440"
+          },
+          {
+            "Item": "Heavy Use Area Protection 4 each $2,500/ea",
+            "Cost": "$10,000"
+          },
+          {
+            "Item": "Fencing 10,000 feet $1.30/ft",
+            "Cost": "$13,000"
+          },
+          {
+            "Item": "Critical Area Planting 100 acres $300/ac",
+            "Cost": "$30,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "tech_assistance",
+      "title": "Item Cost",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$41,667"
+          }
+        ],
+        "total": 41667
+      },
+      "patternId": "tech_assistance",
+      "patternConfidence": 0.85
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Technical Assistance $41,667",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$41,667"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$41,667"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$2,000.00"
+          },
+          {
+            "Item": "Event Flyers 300 .60/each",
+            "Cost": "$180.00"
+          },
+          {
+            "Item": "Mailing/Delivery 300 .44/each",
+            "Cost": "$135.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$7,037.01"
+          },
+          {
+            "Item": "Printing 1,000 1.00/each",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Brochures 3,000 .65/each",
+            "Cost": "$1,950.00"
+          },
+          {
+            "Item": "Coloring Books 6,000 .38/each",
+            "Cost": "$2,280.00"
+          },
+          {
+            "Item": "Litter Bags 2,500 .42/each",
+            "Cost": "$1,050.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$5,280.00"
+          },
+          {
+            "Item": "Mailing 500 .44/each",
+            "Cost": "$225.00"
+          },
+          {
+            "Item": "Envelopes 500 .10/each",
+            "Cost": "$50.00"
+          },
+          {
+            "Item": "Flyer 500 .65/each",
+            "Cost": "$325.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total $41,667",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$41,667"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$2,000.00"
+          },
+          {
+            "Item": "Event Flyers 300 .60/each",
+            "Cost": "$180.00"
+          },
+          {
+            "Item": "Mailing/Delivery 300 .44/each",
+            "Cost": "$135.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$7,037.01"
+          },
+          {
+            "Item": "Printing 1,000 1.00/each",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Brochures 3,000 .65/each",
+            "Cost": "$1,950.00"
+          },
+          {
+            "Item": "Coloring Books 6,000 .38/each",
+            "Cost": "$2,280.00"
+          },
+          {
+            "Item": "Litter Bags 2,500 .42/each",
+            "Cost": "$1,050.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$5,280.00"
+          },
+          {
+            "Item": "Mailing 500 .44/each",
+            "Cost": "$225.00"
+          },
+          {
+            "Item": "Envelopes 500 .10/each",
+            "Cost": "$50.00"
+          },
+          {
+            "Item": "Flyer 500 .65/each",
+            "Cost": "$325.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $2,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$2,000.00"
+          },
+          {
+            "Item": "Event Flyers 300 .60/each",
+            "Cost": "$180.00"
+          },
+          {
+            "Item": "Mailing/Delivery 300 .44/each",
+            "Cost": "$135.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$7,037.01"
+          },
+          {
+            "Item": "Printing 1,000 1.00/each",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Brochures 3,000 .65/each",
+            "Cost": "$1,950.00"
+          },
+          {
+            "Item": "Coloring Books 6,000 .38/each",
+            "Cost": "$2,280.00"
+          },
+          {
+            "Item": "Litter Bags 2,500 .42/each",
+            "Cost": "$1,050.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$5,280.00"
+          },
+          {
+            "Item": "Mailing 500 .44/each",
+            "Cost": "$225.00"
+          },
+          {
+            "Item": "Envelopes 500 .10/each",
+            "Cost": "$50.00"
+          },
+          {
+            "Item": "Flyer 500 .65/each",
+            "Cost": "$325.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$150.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Event Flyers 300 .60/each $180.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Event Flyers 300 .60/each",
+            "Cost": "$180.00"
+          },
+          {
+            "Item": "Mailing/Delivery 300 .44/each",
+            "Cost": "$135.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$7,037.01"
+          },
+          {
+            "Item": "Printing 1,000 1.00/each",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Brochures 3,000 .65/each",
+            "Cost": "$1,950.00"
+          },
+          {
+            "Item": "Coloring Books 6,000 .38/each",
+            "Cost": "$2,280.00"
+          },
+          {
+            "Item": "Litter Bags 2,500 .42/each",
+            "Cost": "$1,050.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$5,280.00"
+          },
+          {
+            "Item": "Mailing 500 .44/each",
+            "Cost": "$225.00"
+          },
+          {
+            "Item": "Envelopes 500 .10/each",
+            "Cost": "$50.00"
+          },
+          {
+            "Item": "Flyer 500 .65/each",
+            "Cost": "$325.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$150.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Mailing/Delivery 300 .44/each $135.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Mailing/Delivery 300 .44/each",
+            "Cost": "$135.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$7,037.01"
+          },
+          {
+            "Item": "Printing 1,000 1.00/each",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Brochures 3,000 .65/each",
+            "Cost": "$1,950.00"
+          },
+          {
+            "Item": "Coloring Books 6,000 .38/each",
+            "Cost": "$2,280.00"
+          },
+          {
+            "Item": "Litter Bags 2,500 .42/each",
+            "Cost": "$1,050.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$5,280.00"
+          },
+          {
+            "Item": "Mailing 500 .44/each",
+            "Cost": "$225.00"
+          },
+          {
+            "Item": "Envelopes 500 .10/each",
+            "Cost": "$50.00"
+          },
+          {
+            "Item": "Flyer 500 .65/each",
+            "Cost": "$325.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$150.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $7,037.01",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$7,037.01"
+          },
+          {
+            "Item": "Printing 1,000 1.00/each",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Brochures 3,000 .65/each",
+            "Cost": "$1,950.00"
+          },
+          {
+            "Item": "Coloring Books 6,000 .38/each",
+            "Cost": "$2,280.00"
+          },
+          {
+            "Item": "Litter Bags 2,500 .42/each",
+            "Cost": "$1,050.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$5,280.00"
+          },
+          {
+            "Item": "Mailing 500 .44/each",
+            "Cost": "$225.00"
+          },
+          {
+            "Item": "Envelopes 500 .10/each",
+            "Cost": "$50.00"
+          },
+          {
+            "Item": "Flyer 500 .65/each",
+            "Cost": "$325.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$150.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Printing 1,000 1.00/each $1,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Printing 1,000 1.00/each",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Brochures 3,000 .65/each",
+            "Cost": "$1,950.00"
+          },
+          {
+            "Item": "Coloring Books 6,000 .38/each",
+            "Cost": "$2,280.00"
+          },
+          {
+            "Item": "Litter Bags 2,500 .42/each",
+            "Cost": "$1,050.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$5,280.00"
+          },
+          {
+            "Item": "Mailing 500 .44/each",
+            "Cost": "$225.00"
+          },
+          {
+            "Item": "Envelopes 500 .10/each",
+            "Cost": "$50.00"
+          },
+          {
+            "Item": "Flyer 500 .65/each",
+            "Cost": "$325.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$150.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$450,000"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$41,667"
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$18,667.01"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$510,334.01"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $1,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Brochures 3,000 .65/each",
+            "Cost": "$1,950.00"
+          },
+          {
+            "Item": "Coloring Books 6,000 .38/each",
+            "Cost": "$2,280.00"
+          },
+          {
+            "Item": "Litter Bags 2,500 .42/each",
+            "Cost": "$1,050.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$5,280.00"
+          },
+          {
+            "Item": "Mailing 500 .44/each",
+            "Cost": "$225.00"
+          },
+          {
+            "Item": "Envelopes 500 .10/each",
+            "Cost": "$50.00"
+          },
+          {
+            "Item": "Flyer 500 .65/each",
+            "Cost": "$325.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$150.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$450,000"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$41,667"
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$18,667.01"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$510,334.01"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $1,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Brochures 3,000 .65/each",
+            "Cost": "$1,950.00"
+          },
+          {
+            "Item": "Coloring Books 6,000 .38/each",
+            "Cost": "$2,280.00"
+          },
+          {
+            "Item": "Litter Bags 2,500 .42/each",
+            "Cost": "$1,050.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$5,280.00"
+          },
+          {
+            "Item": "Mailing 500 .44/each",
+            "Cost": "$225.00"
+          },
+          {
+            "Item": "Envelopes 500 .10/each",
+            "Cost": "$50.00"
+          },
+          {
+            "Item": "Flyer 500 .65/each",
+            "Cost": "$325.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$150.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$450,000"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$41,667"
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$18,667.01"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$510,334.01"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Brochures 3,000 .65/each $1,950.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Brochures 3,000 .65/each",
+            "Cost": "$1,950.00"
+          },
+          {
+            "Item": "Coloring Books 6,000 .38/each",
+            "Cost": "$2,280.00"
+          },
+          {
+            "Item": "Litter Bags 2,500 .42/each",
+            "Cost": "$1,050.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$5,280.00"
+          },
+          {
+            "Item": "Mailing 500 .44/each",
+            "Cost": "$225.00"
+          },
+          {
+            "Item": "Envelopes 500 .10/each",
+            "Cost": "$50.00"
+          },
+          {
+            "Item": "Flyer 500 .65/each",
+            "Cost": "$325.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$150.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$450,000"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$41,667"
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$18,667.01"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$510,334.01"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Brochures 3,000 .65/each $1,950.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Brochures 3,000 .65/each",
+            "Cost": "$1,950.00"
+          },
+          {
+            "Item": "Coloring Books 6,000 .38/each",
+            "Cost": "$2,280.00"
+          },
+          {
+            "Item": "Litter Bags 2,500 .42/each",
+            "Cost": "$1,050.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$5,280.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Coloring Books 6,000 .38/each $2,280.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Coloring Books 6,000 .38/each",
+            "Cost": "$2,280.00"
+          },
+          {
+            "Item": "Litter Bags 2,500 .42/each",
+            "Cost": "$1,050.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$5,280.00"
+          },
+          {
+            "Item": "Mailing 500 .44/each",
+            "Cost": "$225.00"
+          },
+          {
+            "Item": "Envelopes 500 .10/each",
+            "Cost": "$50.00"
+          },
+          {
+            "Item": "Flyer 500 .65/each",
+            "Cost": "$325.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$150.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$450,000"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$41,667"
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$18,667.01"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$510,334.01"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Litter Bags 2,500 .42/each $1,050.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Litter Bags 2,500 .42/each",
+            "Cost": "$1,050.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$5,280.00"
+          },
+          {
+            "Item": "Mailing 500 .44/each",
+            "Cost": "$225.00"
+          },
+          {
+            "Item": "Envelopes 500 .10/each",
+            "Cost": "$50.00"
+          },
+          {
+            "Item": "Flyer 500 .65/each",
+            "Cost": "$325.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$150.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$450,000"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$41,667"
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$18,667.01"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$510,334.01"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $5,280.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$5,280.00"
+          },
+          {
+            "Item": "Mailing 500 .44/each",
+            "Cost": "$225.00"
+          },
+          {
+            "Item": "Envelopes 500 .10/each",
+            "Cost": "$50.00"
+          },
+          {
+            "Item": "Flyer 500 .65/each",
+            "Cost": "$325.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$150.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$450,000"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$41,667"
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$18,667.01"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$510,334.01"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Mailing 500 .44/each $225.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Mailing 500 .44/each",
+            "Cost": "$225.00"
+          },
+          {
+            "Item": "Envelopes 500 .10/each",
+            "Cost": "$50.00"
+          },
+          {
+            "Item": "Flyer 500 .65/each",
+            "Cost": "$325.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$150.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$450,000"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$41,667"
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$18,667.01"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$510,334.01"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Mailing 500 .44/each $225.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Mailing 500 .44/each",
+            "Cost": "$225.00"
+          },
+          {
+            "Item": "Envelopes 500 .10/each",
+            "Cost": "$50.00"
+          },
+          {
+            "Item": "Flyer 500 .65/each",
+            "Cost": "$325.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Envelopes 500 .10/each $50.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Envelopes 500 .10/each",
+            "Cost": "$50.00"
+          },
+          {
+            "Item": "Flyer 500 .65/each",
+            "Cost": "$325.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$150.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$450,000"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$41,667"
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$18,667.01"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$510,334.01"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Flyer 500 .65/each $325.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Flyer 500 .65/each",
+            "Cost": "$325.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$150.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$450,000"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$41,667"
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$18,667.01"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$510,334.01"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $150.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$150.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$450,000"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$41,667"
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$18,667.01"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$510,334.01"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $600.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$450,000"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$41,667"
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$18,667.01"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$510,334.01"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $1,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$450,000"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$41,667"
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$18,667.01"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$510,334.01"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Signage 20 $100.00 $2,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Signage 20 $100.00",
+            "Cost": "$2,000.00"
+          },
+          {
+            "Item": "Landowner Meeting and Field Days 3 $2,435.67",
+            "Cost": "$7,037.01"
+          },
+          {
+            "Item": "Fact Sheets 1,000 $1.00",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show 1 $1000.00",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Tippah County Fair 3 $1,760.00",
+            "Cost": "$5,280.00"
+          },
+          {
+            "Item": "Water Bill Mailers 1 $600.00",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Presentations 3 $50.00",
+            "Cost": "$150.00"
+          },
+          {
+            "Item": "Radio Ads 3 $200.00",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "AdoptA-Stream 1 $1,000.00",
+            "Cost": "$1,000.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Landowner Meeting and Field Days 3 $2,435.67 $7,037.01",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Landowner Meeting and Field Days 3 $2,435.67",
+            "Cost": "$7,037.01"
+          },
+          {
+            "Item": "Fact Sheets 1,000 $1.00",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show 1 $1000.00",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Tippah County Fair 3 $1,760.00",
+            "Cost": "$5,280.00"
+          },
+          {
+            "Item": "Water Bill Mailers 1 $600.00",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Presentations 3 $50.00",
+            "Cost": "$150.00"
+          },
+          {
+            "Item": "Radio Ads 3 $200.00",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "AdoptA-Stream 1 $1,000.00",
+            "Cost": "$1,000.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Fact Sheets 1,000 $1.00 $1,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Fact Sheets 1,000 $1.00",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show 1 $1000.00",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Tippah County Fair 3 $1,760.00",
+            "Cost": "$5,280.00"
+          },
+          {
+            "Item": "Water Bill Mailers 1 $600.00",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Presentations 3 $50.00",
+            "Cost": "$150.00"
+          },
+          {
+            "Item": "Radio Ads 3 $200.00",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "AdoptA-Stream 1 $1,000.00",
+            "Cost": "$1,000.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Watershed Harmony Puppet Show 1 $1000.00 $1,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Watershed Harmony Puppet Show 1 $1000.00",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Tippah County Fair 3 $1,760.00",
+            "Cost": "$5,280.00"
+          },
+          {
+            "Item": "Water Bill Mailers 1 $600.00",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Presentations 3 $50.00",
+            "Cost": "$150.00"
+          },
+          {
+            "Item": "Radio Ads 3 $200.00",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "AdoptA-Stream 1 $1,000.00",
+            "Cost": "$1,000.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Tippah County Fair 3 $1,760.00 $5,280.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Tippah County Fair 3 $1,760.00",
+            "Cost": "$5,280.00"
+          },
+          {
+            "Item": "Water Bill Mailers 1 $600.00",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Presentations 3 $50.00",
+            "Cost": "$150.00"
+          },
+          {
+            "Item": "Radio Ads 3 $200.00",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "AdoptA-Stream 1 $1,000.00",
+            "Cost": "$1,000.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Water Bill Mailers 1 $600.00 $600.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Water Bill Mailers 1 $600.00",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "Presentations 3 $50.00",
+            "Cost": "$150.00"
+          },
+          {
+            "Item": "Radio Ads 3 $200.00",
+            "Cost": "$600.00"
+          },
+          {
+            "Item": "AdoptA-Stream 1 $1,000.00",
+            "Cost": "$1,000.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "tech_assistance",
+      "title": "Item Cost",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "BMPs",
+            "Cost": "$450,000"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$41,667"
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$18,667.01"
+          }
+        ],
+        "total": 510334.01
+      },
+      "patternId": "tech_assistance",
+      "patternConfidence": 0.85
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "BMPs $450,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "BMPs",
+            "Cost": "$450,000"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$41,667"
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$18,667.01"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$510,334.01"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "cost_table",
+      "title": "Table 8.1 Funded 319 Project Budget for BMPs.",
+      "table": {
+        "columns": [
+          "Practice",
+          "Area Affected",
+          "BMP Cost",
+          "BMP Total"
+        ],
+        "rows": [
+          {
+            "Practice": "Streambank and Shoreline Protection",
+            "Area Affected": "2500 feet",
+            "BMP Cost": "$69.17/ft",
+            "BMP Total": "$172904"
+          },
+          {
+            "Practice": "Grade Stabilization Structure",
+            "Area Affected": "12 structures",
+            "BMP Cost": "$6500/ea",
+            "BMP Total": "$78000"
+          },
+          {
+            "Practice": "Pasture and Hay Land Planting",
+            "Area Affected": "100 acres",
+            "BMP Cost": "$200/ac",
+            "BMP Total": "$20000"
+          },
+          {
+            "Practice": "Water and Sediment Control Basin",
+            "Area Affected": "4 structures",
+            "BMP Cost": "$10000/ea",
+            "BMP Total": "$40000"
+          },
+          {
+            "Practice": "Nutrient Management",
+            "Area Affected": "700 acres",
+            "BMP Cost": "$103.80/ac",
+            "BMP Total": "$72156"
+          },
+          {
+            "Practice": "Tank/Trough",
+            "Area Affected": "5 each",
+            "BMP Cost": "$2500/ea",
+            "BMP Total": "$12500"
+          },
+          {
+            "Practice": "Diversions",
+            "Area Affected": "1200 feet",
+            "BMP Cost": "$1.20/ft",
+            "BMP Total": "$1440"
+          },
+          {
+            "Practice": "Heavy Use Area Protection",
+            "Area Affected": "4 each",
+            "BMP Cost": "$2500/ea",
+            "BMP Total": "$10000"
+          },
+          {
+            "Practice": "Fencing",
+            "Area Affected": "10000 feet",
+            "BMP Cost": "$1.30/ft",
+            "BMP Total": "$13000"
+          },
+          {
+            "Practice": "Critical Area Planting",
+            "Area Affected": "100 acres",
+            "BMP Cost": "$300/ac",
+            "BMP Total": "$30000"
+          }
+        ],
+        "total": 450000
+      },
+      "patternId": "bell_creek_format",
+      "patternConfidence": 0.85
+    },
+    {
+      "id": "cost_table",
+      "title": "Bell Creek BMP Budget",
+      "table": {
+        "columns": [
+          "Practice",
+          "Area Affected",
+          "BMP Cost",
+          "BMP Total"
+        ],
+        "rows": [
+          {
+            "Practice": "Streambank and Shoreline Protection",
+            "Area Affected": "2500 feet",
+            "BMP Cost": "$69.17/ft",
+            "BMP Total": "$172904"
+          },
+          {
+            "Practice": "Grade Stabilization Structure",
+            "Area Affected": "12 structures",
+            "BMP Cost": "$6500/ea",
+            "BMP Total": "$78000"
+          },
+          {
+            "Practice": "Pasture and Hay Land Planting",
+            "Area Affected": "100 acres",
+            "BMP Cost": "$200/ac",
+            "BMP Total": "$20000"
+          },
+          {
+            "Practice": "Water and Sediment Control Basin",
+            "Area Affected": "4 structures",
+            "BMP Cost": "$10000/ea",
+            "BMP Total": "$40000"
+          },
+          {
+            "Practice": "Nutrient Management",
+            "Area Affected": "700 acres",
+            "BMP Cost": "$103.80/ac",
+            "BMP Total": "$72156"
+          },
+          {
+            "Practice": "Tank/Trough",
+            "Area Affected": "5 each",
+            "BMP Cost": "$2500/ea",
+            "BMP Total": "$12500"
+          },
+          {
+            "Practice": "Diversions",
+            "Area Affected": "1200 feet",
+            "BMP Cost": "$1.20/ft",
+            "BMP Total": "$1440"
+          },
+          {
+            "Practice": "Heavy Use Area Protection",
+            "Area Affected": "4 each",
+            "BMP Cost": "$2500/ea",
+            "BMP Total": "$10000"
+          },
+          {
+            "Practice": "Fencing",
+            "Area Affected": "10000 feet",
+            "BMP Cost": "$1.30/ft",
+            "BMP Total": "$13000"
+          },
+          {
+            "Practice": "Critical Area Planting",
+            "Area Affected": "100 acres",
+            "BMP Cost": "$300/ac",
+            "BMP Total": "$30000"
+          }
+        ],
+        "total": 450000
+      },
+      "patternId": "bell_creek_format",
+      "patternConfidence": 0.85
+    },
+    {
+      "id": "cost_table",
+      "title": "Table 8.2 Technical Assistance",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$41,667"
+          }
+        ],
+        "total": 41667
+      },
+      "patternId": "tech_assistance_format",
+      "patternConfidence": 0.6
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "sparse_inline_costs",
+      "title": "include EQIP, CRP, and WHIP.  Under these three programs, there has been $375,506.20 spent over the",
+      "rows": [
+        {
+          "name": "Technical Assistance",
+          "totalCost": 41667,
+          "rawCost": "$41,667"
+        },
+        {
+          "name": "Total",
+          "totalCost": 41667,
+          "rawCost": "$41,667"
+        },
+        {
+          "name": "Total",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Event Flyers 300 .60/each",
+          "totalCost": 180,
+          "rawCost": "$180.00"
+        },
+        {
+          "name": "Mailing/Delivery 300 .44/each",
+          "totalCost": 135,
+          "rawCost": "$135.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 7037.01,
+          "rawCost": "$7,037.01"
+        },
+        {
+          "name": "Printing 1,000 1.00/each",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Brochures 3,000 .65/each",
+          "totalCost": 1950,
+          "rawCost": "$1,950.00"
+        },
+        {
+          "name": "Coloring Books 6,000 .38/each",
+          "totalCost": 2280,
+          "rawCost": "$2,280.00"
+        },
+        {
+          "name": "Litter Bags 2,500 .42/each",
+          "totalCost": 1050,
+          "rawCost": "$1,050.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 5280,
+          "rawCost": "$5,280.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 106246.01,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "bell_creek_bmps",
+      "title": "Practice Area Affected BMP Cost BMP Total",
+      "rows": [
+        {
+          "name": "Streambank and Shoreline Protection",
+          "quantity": 2500,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 69.17,
+          "totalCost": 172904,
+          "rawSize": "2,500 feet",
+          "rawCost": "$172,904"
+        },
+        {
+          "name": "Grade Stabilization Structure",
+          "quantity": 12,
+          "unit": "structures",
+          "unitRaw": "structures",
+          "unitCost": 6500,
+          "totalCost": 78000,
+          "rawSize": "12 structures",
+          "rawCost": "$78,000"
+        },
+        {
+          "name": "Pasture and Hay Land Planting",
+          "quantity": 100,
+          "unit": "ac",
+          "unitRaw": "ac",
+          "unitCost": 200,
+          "totalCost": 20000,
+          "rawSize": "100 acres",
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Water and Sediment Control Basin",
+          "quantity": 4,
+          "unit": "structures",
+          "unitRaw": "structures",
+          "unitCost": 10000,
+          "totalCost": 40000,
+          "rawSize": "4 structures",
+          "rawCost": "$40,000"
+        },
+        {
+          "name": "Nutrient Management",
+          "quantity": 700,
+          "unit": "ac",
+          "unitRaw": "ac",
+          "unitCost": 103.8,
+          "totalCost": 72156,
+          "rawSize": "700 acres",
+          "rawCost": "$72,156"
+        },
+        {
+          "name": "Tank/Trough",
+          "quantity": 5,
+          "unit": "each",
+          "unitRaw": "each",
+          "unitCost": 2500,
+          "totalCost": 12500,
+          "rawSize": "5 each",
+          "rawCost": "$12,500"
+        },
+        {
+          "name": "Diversions",
+          "quantity": 1200,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 1.2,
+          "totalCost": 1440,
+          "rawSize": "1,200 feet",
+          "rawCost": "$1,440"
+        },
+        {
+          "name": "Heavy Use Area Protection",
+          "quantity": 4,
+          "unit": "each",
+          "unitRaw": "each",
+          "unitCost": 2500,
+          "totalCost": 10000,
+          "rawSize": "4 each",
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "Fencing",
+          "quantity": 10000,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 1.3,
+          "totalCost": 13000,
+          "rawSize": "10,000 feet",
+          "rawCost": "$13,000"
+        },
+        {
+          "name": "Critical Area Planting",
+          "quantity": 100,
+          "unit": "ac",
+          "unitRaw": "ac",
+          "unitCost": 300,
+          "totalCost": 30000,
+          "rawSize": "100 acres",
+          "rawCost": "$30,000"
+        }
+      ],
+      "totalReported": 450000,
+      "totalComputed": 450000,
+      "discrepancy": 0,
+      "patternId": "bell_creek_bmps",
+      "patternConfidence": 0.9
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Streambank and Shoreline Protection 2,500 feet $69.17/ft $172,904",
+      "rows": [
+        {
+          "name": "Streambank and Shoreline Protection 2,500 feet $69.17/ft",
+          "totalCost": 172904,
+          "rawCost": "$172,904"
+        },
+        {
+          "name": "Grade Stabilization Structure 12 structures $6,500 /ea",
+          "totalCost": 78000,
+          "rawCost": "$78,000"
+        },
+        {
+          "name": "Pasture and Hay Land Planting 100 acres $200/ac",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Water and Sediment Control Basin 4 structures $10,000/ ea",
+          "totalCost": 40000,
+          "rawCost": "$40,000"
+        },
+        {
+          "name": "Nutrient Management 700 acres $103.80/ac",
+          "totalCost": 72156,
+          "rawCost": "$72,156"
+        },
+        {
+          "name": "Tank/Trough 5 each $2,500/ea",
+          "totalCost": 12500,
+          "rawCost": "$12,500"
+        },
+        {
+          "name": "Diversions 1,200 feet $1.20/ft",
+          "totalCost": 1440,
+          "rawCost": "$1,440"
+        },
+        {
+          "name": "Heavy Use Area Protection 4 each $2,500/ea",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "Fencing 10,000 feet $1.30/ft",
+          "totalCost": 13000,
+          "rawCost": "$13,000"
+        },
+        {
+          "name": "Critical Area Planting 100 acres $300/ac",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 450000,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Grade Stabilization Structure 12 structures $6,500 /ea $78,000",
+      "rows": [
+        {
+          "name": "Grade Stabilization Structure 12 structures $6,500 /ea",
+          "totalCost": 78000,
+          "rawCost": "$78,000"
+        },
+        {
+          "name": "Pasture and Hay Land Planting 100 acres $200/ac",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Water and Sediment Control Basin 4 structures $10,000/ ea",
+          "totalCost": 40000,
+          "rawCost": "$40,000"
+        },
+        {
+          "name": "Nutrient Management 700 acres $103.80/ac",
+          "totalCost": 72156,
+          "rawCost": "$72,156"
+        },
+        {
+          "name": "Tank/Trough 5 each $2,500/ea",
+          "totalCost": 12500,
+          "rawCost": "$12,500"
+        },
+        {
+          "name": "Diversions 1,200 feet $1.20/ft",
+          "totalCost": 1440,
+          "rawCost": "$1,440"
+        },
+        {
+          "name": "Heavy Use Area Protection 4 each $2,500/ea",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "Fencing 10,000 feet $1.30/ft",
+          "totalCost": 13000,
+          "rawCost": "$13,000"
+        },
+        {
+          "name": "Critical Area Planting 100 acres $300/ac",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 277096,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Pasture and Hay Land Planting 100 acres $200/ac $20,000",
+      "rows": [
+        {
+          "name": "Pasture and Hay Land Planting 100 acres $200/ac",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Water and Sediment Control Basin 4 structures $10,000/ ea",
+          "totalCost": 40000,
+          "rawCost": "$40,000"
+        },
+        {
+          "name": "Nutrient Management 700 acres $103.80/ac",
+          "totalCost": 72156,
+          "rawCost": "$72,156"
+        },
+        {
+          "name": "Tank/Trough 5 each $2,500/ea",
+          "totalCost": 12500,
+          "rawCost": "$12,500"
+        },
+        {
+          "name": "Diversions 1,200 feet $1.20/ft",
+          "totalCost": 1440,
+          "rawCost": "$1,440"
+        },
+        {
+          "name": "Heavy Use Area Protection 4 each $2,500/ea",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "Fencing 10,000 feet $1.30/ft",
+          "totalCost": 13000,
+          "rawCost": "$13,000"
+        },
+        {
+          "name": "Critical Area Planting 100 acres $300/ac",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 199096,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Water and Sediment Control Basin 4 structures $10,000/ ea $40,000",
+      "rows": [
+        {
+          "name": "Water and Sediment Control Basin 4 structures $10,000/ ea",
+          "totalCost": 40000,
+          "rawCost": "$40,000"
+        },
+        {
+          "name": "Nutrient Management 700 acres $103.80/ac",
+          "totalCost": 72156,
+          "rawCost": "$72,156"
+        },
+        {
+          "name": "Tank/Trough 5 each $2,500/ea",
+          "totalCost": 12500,
+          "rawCost": "$12,500"
+        },
+        {
+          "name": "Diversions 1,200 feet $1.20/ft",
+          "totalCost": 1440,
+          "rawCost": "$1,440"
+        },
+        {
+          "name": "Heavy Use Area Protection 4 each $2,500/ea",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "Fencing 10,000 feet $1.30/ft",
+          "totalCost": 13000,
+          "rawCost": "$13,000"
+        },
+        {
+          "name": "Critical Area Planting 100 acres $300/ac",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 179096,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Nutrient Management 700 acres $103.80/ac $72,156",
+      "rows": [
+        {
+          "name": "Nutrient Management 700 acres $103.80/ac",
+          "totalCost": 72156,
+          "rawCost": "$72,156"
+        },
+        {
+          "name": "Tank/Trough 5 each $2,500/ea",
+          "totalCost": 12500,
+          "rawCost": "$12,500"
+        },
+        {
+          "name": "Diversions 1,200 feet $1.20/ft",
+          "totalCost": 1440,
+          "rawCost": "$1,440"
+        },
+        {
+          "name": "Heavy Use Area Protection 4 each $2,500/ea",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "Fencing 10,000 feet $1.30/ft",
+          "totalCost": 13000,
+          "rawCost": "$13,000"
+        },
+        {
+          "name": "Critical Area Planting 100 acres $300/ac",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 139096,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Tank/Trough 5 each $2,500/ea $12,500",
+      "rows": [
+        {
+          "name": "Tank/Trough 5 each $2,500/ea",
+          "totalCost": 12500,
+          "rawCost": "$12,500"
+        },
+        {
+          "name": "Diversions 1,200 feet $1.20/ft",
+          "totalCost": 1440,
+          "rawCost": "$1,440"
+        },
+        {
+          "name": "Heavy Use Area Protection 4 each $2,500/ea",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "Fencing 10,000 feet $1.30/ft",
+          "totalCost": 13000,
+          "rawCost": "$13,000"
+        },
+        {
+          "name": "Critical Area Planting 100 acres $300/ac",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 66940,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Diversions 1,200 feet $1.20/ft $1,440",
+      "rows": [
+        {
+          "name": "Diversions 1,200 feet $1.20/ft",
+          "totalCost": 1440,
+          "rawCost": "$1,440"
+        },
+        {
+          "name": "Heavy Use Area Protection 4 each $2,500/ea",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "Fencing 10,000 feet $1.30/ft",
+          "totalCost": 13000,
+          "rawCost": "$13,000"
+        },
+        {
+          "name": "Critical Area Planting 100 acres $300/ac",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 54440,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "tech_assistance",
+      "title": "Item Cost",
+      "rows": [
+        {
+          "name": "Technical Assistance",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 41667,
+          "rawSize": "N/A",
+          "rawCost": "$41,667"
+        }
+      ],
+      "totalReported": 41667,
+      "totalComputed": 41667,
+      "discrepancy": 0,
+      "patternId": "tech_assistance",
+      "patternConfidence": 0.85
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Technical Assistance $41,667",
+      "rows": [
+        {
+          "name": "Technical Assistance",
+          "totalCost": 41667,
+          "rawCost": "$41,667"
+        },
+        {
+          "name": "Total",
+          "totalCost": 41667,
+          "rawCost": "$41,667"
+        },
+        {
+          "name": "Total",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Event Flyers 300 .60/each",
+          "totalCost": 180,
+          "rawCost": "$180.00"
+        },
+        {
+          "name": "Mailing/Delivery 300 .44/each",
+          "totalCost": 135,
+          "rawCost": "$135.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 7037.01,
+          "rawCost": "$7,037.01"
+        },
+        {
+          "name": "Printing 1,000 1.00/each",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Brochures 3,000 .65/each",
+          "totalCost": 1950,
+          "rawCost": "$1,950.00"
+        },
+        {
+          "name": "Coloring Books 6,000 .38/each",
+          "totalCost": 2280,
+          "rawCost": "$2,280.00"
+        },
+        {
+          "name": "Litter Bags 2,500 .42/each",
+          "totalCost": 1050,
+          "rawCost": "$1,050.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 5280,
+          "rawCost": "$5,280.00"
+        },
+        {
+          "name": "Mailing 500 .44/each",
+          "totalCost": 225,
+          "rawCost": "$225.00"
+        },
+        {
+          "name": "Envelopes 500 .10/each",
+          "totalCost": 50,
+          "rawCost": "$50.00"
+        },
+        {
+          "name": "Flyer 500 .65/each",
+          "totalCost": 325,
+          "rawCost": "$325.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 107446.01,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total $41,667",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 41667,
+          "rawCost": "$41,667"
+        },
+        {
+          "name": "Total",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Event Flyers 300 .60/each",
+          "totalCost": 180,
+          "rawCost": "$180.00"
+        },
+        {
+          "name": "Mailing/Delivery 300 .44/each",
+          "totalCost": 135,
+          "rawCost": "$135.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 7037.01,
+          "rawCost": "$7,037.01"
+        },
+        {
+          "name": "Printing 1,000 1.00/each",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Brochures 3,000 .65/each",
+          "totalCost": 1950,
+          "rawCost": "$1,950.00"
+        },
+        {
+          "name": "Coloring Books 6,000 .38/each",
+          "totalCost": 2280,
+          "rawCost": "$2,280.00"
+        },
+        {
+          "name": "Litter Bags 2,500 .42/each",
+          "totalCost": 1050,
+          "rawCost": "$1,050.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 5280,
+          "rawCost": "$5,280.00"
+        },
+        {
+          "name": "Mailing 500 .44/each",
+          "totalCost": 225,
+          "rawCost": "$225.00"
+        },
+        {
+          "name": "Envelopes 500 .10/each",
+          "totalCost": 50,
+          "rawCost": "$50.00"
+        },
+        {
+          "name": "Flyer 500 .65/each",
+          "totalCost": 325,
+          "rawCost": "$325.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 65779.01000000001,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $2,000.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Event Flyers 300 .60/each",
+          "totalCost": 180,
+          "rawCost": "$180.00"
+        },
+        {
+          "name": "Mailing/Delivery 300 .44/each",
+          "totalCost": 135,
+          "rawCost": "$135.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 7037.01,
+          "rawCost": "$7,037.01"
+        },
+        {
+          "name": "Printing 1,000 1.00/each",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Brochures 3,000 .65/each",
+          "totalCost": 1950,
+          "rawCost": "$1,950.00"
+        },
+        {
+          "name": "Coloring Books 6,000 .38/each",
+          "totalCost": 2280,
+          "rawCost": "$2,280.00"
+        },
+        {
+          "name": "Litter Bags 2,500 .42/each",
+          "totalCost": 1050,
+          "rawCost": "$1,050.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 5280,
+          "rawCost": "$5,280.00"
+        },
+        {
+          "name": "Mailing 500 .44/each",
+          "totalCost": 225,
+          "rawCost": "$225.00"
+        },
+        {
+          "name": "Envelopes 500 .10/each",
+          "totalCost": 50,
+          "rawCost": "$50.00"
+        },
+        {
+          "name": "Flyer 500 .65/each",
+          "totalCost": 325,
+          "rawCost": "$325.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 150,
+          "rawCost": "$150.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 24862.010000000002,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Event Flyers 300 .60/each $180.00",
+      "rows": [
+        {
+          "name": "Event Flyers 300 .60/each",
+          "totalCost": 180,
+          "rawCost": "$180.00"
+        },
+        {
+          "name": "Mailing/Delivery 300 .44/each",
+          "totalCost": 135,
+          "rawCost": "$135.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 7037.01,
+          "rawCost": "$7,037.01"
+        },
+        {
+          "name": "Printing 1,000 1.00/each",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Brochures 3,000 .65/each",
+          "totalCost": 1950,
+          "rawCost": "$1,950.00"
+        },
+        {
+          "name": "Coloring Books 6,000 .38/each",
+          "totalCost": 2280,
+          "rawCost": "$2,280.00"
+        },
+        {
+          "name": "Litter Bags 2,500 .42/each",
+          "totalCost": 1050,
+          "rawCost": "$1,050.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 5280,
+          "rawCost": "$5,280.00"
+        },
+        {
+          "name": "Mailing 500 .44/each",
+          "totalCost": 225,
+          "rawCost": "$225.00"
+        },
+        {
+          "name": "Envelopes 500 .10/each",
+          "totalCost": 50,
+          "rawCost": "$50.00"
+        },
+        {
+          "name": "Flyer 500 .65/each",
+          "totalCost": 325,
+          "rawCost": "$325.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 150,
+          "rawCost": "$150.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 23862.010000000002,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Mailing/Delivery 300 .44/each $135.00",
+      "rows": [
+        {
+          "name": "Mailing/Delivery 300 .44/each",
+          "totalCost": 135,
+          "rawCost": "$135.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 7037.01,
+          "rawCost": "$7,037.01"
+        },
+        {
+          "name": "Printing 1,000 1.00/each",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Brochures 3,000 .65/each",
+          "totalCost": 1950,
+          "rawCost": "$1,950.00"
+        },
+        {
+          "name": "Coloring Books 6,000 .38/each",
+          "totalCost": 2280,
+          "rawCost": "$2,280.00"
+        },
+        {
+          "name": "Litter Bags 2,500 .42/each",
+          "totalCost": 1050,
+          "rawCost": "$1,050.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 5280,
+          "rawCost": "$5,280.00"
+        },
+        {
+          "name": "Mailing 500 .44/each",
+          "totalCost": 225,
+          "rawCost": "$225.00"
+        },
+        {
+          "name": "Envelopes 500 .10/each",
+          "totalCost": 50,
+          "rawCost": "$50.00"
+        },
+        {
+          "name": "Flyer 500 .65/each",
+          "totalCost": 325,
+          "rawCost": "$325.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 150,
+          "rawCost": "$150.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 23682.010000000002,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $7,037.01",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 7037.01,
+          "rawCost": "$7,037.01"
+        },
+        {
+          "name": "Printing 1,000 1.00/each",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Brochures 3,000 .65/each",
+          "totalCost": 1950,
+          "rawCost": "$1,950.00"
+        },
+        {
+          "name": "Coloring Books 6,000 .38/each",
+          "totalCost": 2280,
+          "rawCost": "$2,280.00"
+        },
+        {
+          "name": "Litter Bags 2,500 .42/each",
+          "totalCost": 1050,
+          "rawCost": "$1,050.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 5280,
+          "rawCost": "$5,280.00"
+        },
+        {
+          "name": "Mailing 500 .44/each",
+          "totalCost": 225,
+          "rawCost": "$225.00"
+        },
+        {
+          "name": "Envelopes 500 .10/each",
+          "totalCost": 50,
+          "rawCost": "$50.00"
+        },
+        {
+          "name": "Flyer 500 .65/each",
+          "totalCost": 325,
+          "rawCost": "$325.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 150,
+          "rawCost": "$150.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 23547.010000000002,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Printing 1,000 1.00/each $1,000.00",
+      "rows": [
+        {
+          "name": "Printing 1,000 1.00/each",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Brochures 3,000 .65/each",
+          "totalCost": 1950,
+          "rawCost": "$1,950.00"
+        },
+        {
+          "name": "Coloring Books 6,000 .38/each",
+          "totalCost": 2280,
+          "rawCost": "$2,280.00"
+        },
+        {
+          "name": "Litter Bags 2,500 .42/each",
+          "totalCost": 1050,
+          "rawCost": "$1,050.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 5280,
+          "rawCost": "$5,280.00"
+        },
+        {
+          "name": "Mailing 500 .44/each",
+          "totalCost": 225,
+          "rawCost": "$225.00"
+        },
+        {
+          "name": "Envelopes 500 .10/each",
+          "totalCost": 50,
+          "rawCost": "$50.00"
+        },
+        {
+          "name": "Flyer 500 .65/each",
+          "totalCost": 325,
+          "rawCost": "$325.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 150,
+          "rawCost": "$150.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 450000,
+          "rawCost": "$450,000"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 41667,
+          "rawCost": "$41,667"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 18667.01,
+          "rawCost": "$18,667.01"
+        },
+        {
+          "name": "Total",
+          "totalCost": 510334.01,
+          "rawCost": "$510,334.01"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1037178.02,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $1,000.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Brochures 3,000 .65/each",
+          "totalCost": 1950,
+          "rawCost": "$1,950.00"
+        },
+        {
+          "name": "Coloring Books 6,000 .38/each",
+          "totalCost": 2280,
+          "rawCost": "$2,280.00"
+        },
+        {
+          "name": "Litter Bags 2,500 .42/each",
+          "totalCost": 1050,
+          "rawCost": "$1,050.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 5280,
+          "rawCost": "$5,280.00"
+        },
+        {
+          "name": "Mailing 500 .44/each",
+          "totalCost": 225,
+          "rawCost": "$225.00"
+        },
+        {
+          "name": "Envelopes 500 .10/each",
+          "totalCost": 50,
+          "rawCost": "$50.00"
+        },
+        {
+          "name": "Flyer 500 .65/each",
+          "totalCost": 325,
+          "rawCost": "$325.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 150,
+          "rawCost": "$150.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 450000,
+          "rawCost": "$450,000"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 41667,
+          "rawCost": "$41,667"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 18667.01,
+          "rawCost": "$18,667.01"
+        },
+        {
+          "name": "Total",
+          "totalCost": 510334.01,
+          "rawCost": "$510,334.01"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1036178.02,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $1,000.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Brochures 3,000 .65/each",
+          "totalCost": 1950,
+          "rawCost": "$1,950.00"
+        },
+        {
+          "name": "Coloring Books 6,000 .38/each",
+          "totalCost": 2280,
+          "rawCost": "$2,280.00"
+        },
+        {
+          "name": "Litter Bags 2,500 .42/each",
+          "totalCost": 1050,
+          "rawCost": "$1,050.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 5280,
+          "rawCost": "$5,280.00"
+        },
+        {
+          "name": "Mailing 500 .44/each",
+          "totalCost": 225,
+          "rawCost": "$225.00"
+        },
+        {
+          "name": "Envelopes 500 .10/each",
+          "totalCost": 50,
+          "rawCost": "$50.00"
+        },
+        {
+          "name": "Flyer 500 .65/each",
+          "totalCost": 325,
+          "rawCost": "$325.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 150,
+          "rawCost": "$150.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 450000,
+          "rawCost": "$450,000"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 41667,
+          "rawCost": "$41,667"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 18667.01,
+          "rawCost": "$18,667.01"
+        },
+        {
+          "name": "Total",
+          "totalCost": 510334.01,
+          "rawCost": "$510,334.01"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1035178.02,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Brochures 3,000 .65/each $1,950.00",
+      "rows": [
+        {
+          "name": "Brochures 3,000 .65/each",
+          "totalCost": 1950,
+          "rawCost": "$1,950.00"
+        },
+        {
+          "name": "Coloring Books 6,000 .38/each",
+          "totalCost": 2280,
+          "rawCost": "$2,280.00"
+        },
+        {
+          "name": "Litter Bags 2,500 .42/each",
+          "totalCost": 1050,
+          "rawCost": "$1,050.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 5280,
+          "rawCost": "$5,280.00"
+        },
+        {
+          "name": "Mailing 500 .44/each",
+          "totalCost": 225,
+          "rawCost": "$225.00"
+        },
+        {
+          "name": "Envelopes 500 .10/each",
+          "totalCost": 50,
+          "rawCost": "$50.00"
+        },
+        {
+          "name": "Flyer 500 .65/each",
+          "totalCost": 325,
+          "rawCost": "$325.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 150,
+          "rawCost": "$150.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 450000,
+          "rawCost": "$450,000"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 41667,
+          "rawCost": "$41,667"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 18667.01,
+          "rawCost": "$18,667.01"
+        },
+        {
+          "name": "Total",
+          "totalCost": 510334.01,
+          "rawCost": "$510,334.01"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1034178.02,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Brochures 3,000 .65/each $1,950.00",
+      "rows": [
+        {
+          "name": "Brochures 3,000 .65/each",
+          "totalCost": 1950,
+          "rawCost": "$1,950.00"
+        },
+        {
+          "name": "Coloring Books 6,000 .38/each",
+          "totalCost": 2280,
+          "rawCost": "$2,280.00"
+        },
+        {
+          "name": "Litter Bags 2,500 .42/each",
+          "totalCost": 1050,
+          "rawCost": "$1,050.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 5280,
+          "rawCost": "$5,280.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 10560,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Coloring Books 6,000 .38/each $2,280.00",
+      "rows": [
+        {
+          "name": "Coloring Books 6,000 .38/each",
+          "totalCost": 2280,
+          "rawCost": "$2,280.00"
+        },
+        {
+          "name": "Litter Bags 2,500 .42/each",
+          "totalCost": 1050,
+          "rawCost": "$1,050.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 5280,
+          "rawCost": "$5,280.00"
+        },
+        {
+          "name": "Mailing 500 .44/each",
+          "totalCost": 225,
+          "rawCost": "$225.00"
+        },
+        {
+          "name": "Envelopes 500 .10/each",
+          "totalCost": 50,
+          "rawCost": "$50.00"
+        },
+        {
+          "name": "Flyer 500 .65/each",
+          "totalCost": 325,
+          "rawCost": "$325.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 150,
+          "rawCost": "$150.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 450000,
+          "rawCost": "$450,000"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 41667,
+          "rawCost": "$41,667"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 18667.01,
+          "rawCost": "$18,667.01"
+        },
+        {
+          "name": "Total",
+          "totalCost": 510334.01,
+          "rawCost": "$510,334.01"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1032228.02,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Litter Bags 2,500 .42/each $1,050.00",
+      "rows": [
+        {
+          "name": "Litter Bags 2,500 .42/each",
+          "totalCost": 1050,
+          "rawCost": "$1,050.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 5280,
+          "rawCost": "$5,280.00"
+        },
+        {
+          "name": "Mailing 500 .44/each",
+          "totalCost": 225,
+          "rawCost": "$225.00"
+        },
+        {
+          "name": "Envelopes 500 .10/each",
+          "totalCost": 50,
+          "rawCost": "$50.00"
+        },
+        {
+          "name": "Flyer 500 .65/each",
+          "totalCost": 325,
+          "rawCost": "$325.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 150,
+          "rawCost": "$150.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 450000,
+          "rawCost": "$450,000"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 41667,
+          "rawCost": "$41,667"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 18667.01,
+          "rawCost": "$18,667.01"
+        },
+        {
+          "name": "Total",
+          "totalCost": 510334.01,
+          "rawCost": "$510,334.01"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1029948.02,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $5,280.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 5280,
+          "rawCost": "$5,280.00"
+        },
+        {
+          "name": "Mailing 500 .44/each",
+          "totalCost": 225,
+          "rawCost": "$225.00"
+        },
+        {
+          "name": "Envelopes 500 .10/each",
+          "totalCost": 50,
+          "rawCost": "$50.00"
+        },
+        {
+          "name": "Flyer 500 .65/each",
+          "totalCost": 325,
+          "rawCost": "$325.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 150,
+          "rawCost": "$150.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 450000,
+          "rawCost": "$450,000"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 41667,
+          "rawCost": "$41,667"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 18667.01,
+          "rawCost": "$18,667.01"
+        },
+        {
+          "name": "Total",
+          "totalCost": 510334.01,
+          "rawCost": "$510,334.01"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1028898.02,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Mailing 500 .44/each $225.00",
+      "rows": [
+        {
+          "name": "Mailing 500 .44/each",
+          "totalCost": 225,
+          "rawCost": "$225.00"
+        },
+        {
+          "name": "Envelopes 500 .10/each",
+          "totalCost": 50,
+          "rawCost": "$50.00"
+        },
+        {
+          "name": "Flyer 500 .65/each",
+          "totalCost": 325,
+          "rawCost": "$325.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 150,
+          "rawCost": "$150.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 450000,
+          "rawCost": "$450,000"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 41667,
+          "rawCost": "$41,667"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 18667.01,
+          "rawCost": "$18,667.01"
+        },
+        {
+          "name": "Total",
+          "totalCost": 510334.01,
+          "rawCost": "$510,334.01"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1023618.02,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Mailing 500 .44/each $225.00",
+      "rows": [
+        {
+          "name": "Mailing 500 .44/each",
+          "totalCost": 225,
+          "rawCost": "$225.00"
+        },
+        {
+          "name": "Envelopes 500 .10/each",
+          "totalCost": 50,
+          "rawCost": "$50.00"
+        },
+        {
+          "name": "Flyer 500 .65/each",
+          "totalCost": 325,
+          "rawCost": "$325.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1200,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Envelopes 500 .10/each $50.00",
+      "rows": [
+        {
+          "name": "Envelopes 500 .10/each",
+          "totalCost": 50,
+          "rawCost": "$50.00"
+        },
+        {
+          "name": "Flyer 500 .65/each",
+          "totalCost": 325,
+          "rawCost": "$325.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 150,
+          "rawCost": "$150.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 450000,
+          "rawCost": "$450,000"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 41667,
+          "rawCost": "$41,667"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 18667.01,
+          "rawCost": "$18,667.01"
+        },
+        {
+          "name": "Total",
+          "totalCost": 510334.01,
+          "rawCost": "$510,334.01"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1023393.02,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Flyer 500 .65/each $325.00",
+      "rows": [
+        {
+          "name": "Flyer 500 .65/each",
+          "totalCost": 325,
+          "rawCost": "$325.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 150,
+          "rawCost": "$150.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 450000,
+          "rawCost": "$450,000"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 41667,
+          "rawCost": "$41,667"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 18667.01,
+          "rawCost": "$18,667.01"
+        },
+        {
+          "name": "Total",
+          "totalCost": 510334.01,
+          "rawCost": "$510,334.01"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1023343.02,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $150.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 150,
+          "rawCost": "$150.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 450000,
+          "rawCost": "$450,000"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 41667,
+          "rawCost": "$41,667"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 18667.01,
+          "rawCost": "$18,667.01"
+        },
+        {
+          "name": "Total",
+          "totalCost": 510334.01,
+          "rawCost": "$510,334.01"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1022418.02,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $600.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 450000,
+          "rawCost": "$450,000"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 41667,
+          "rawCost": "$41,667"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 18667.01,
+          "rawCost": "$18,667.01"
+        },
+        {
+          "name": "Total",
+          "totalCost": 510334.01,
+          "rawCost": "$510,334.01"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1022268.02,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $1,000.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 450000,
+          "rawCost": "$450,000"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 41667,
+          "rawCost": "$41,667"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 18667.01,
+          "rawCost": "$18,667.01"
+        },
+        {
+          "name": "Total",
+          "totalCost": 510334.01,
+          "rawCost": "$510,334.01"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1021668.02,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Signage 20 $100.00 $2,000.00",
+      "rows": [
+        {
+          "name": "Signage 20 $100.00",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Landowner Meeting and Field Days 3 $2,435.67",
+          "totalCost": 7037.01,
+          "rawCost": "$7,037.01"
+        },
+        {
+          "name": "Fact Sheets 1,000 $1.00",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show 1 $1000.00",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Tippah County Fair 3 $1,760.00",
+          "totalCost": 5280,
+          "rawCost": "$5,280.00"
+        },
+        {
+          "name": "Water Bill Mailers 1 $600.00",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Presentations 3 $50.00",
+          "totalCost": 150,
+          "rawCost": "$150.00"
+        },
+        {
+          "name": "Radio Ads 3 $200.00",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "AdoptA-Stream 1 $1,000.00",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 18667.010000000002,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Landowner Meeting and Field Days 3 $2,435.67 $7,037.01",
+      "rows": [
+        {
+          "name": "Landowner Meeting and Field Days 3 $2,435.67",
+          "totalCost": 7037.01,
+          "rawCost": "$7,037.01"
+        },
+        {
+          "name": "Fact Sheets 1,000 $1.00",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show 1 $1000.00",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Tippah County Fair 3 $1,760.00",
+          "totalCost": 5280,
+          "rawCost": "$5,280.00"
+        },
+        {
+          "name": "Water Bill Mailers 1 $600.00",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Presentations 3 $50.00",
+          "totalCost": 150,
+          "rawCost": "$150.00"
+        },
+        {
+          "name": "Radio Ads 3 $200.00",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "AdoptA-Stream 1 $1,000.00",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 16667.010000000002,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Fact Sheets 1,000 $1.00 $1,000.00",
+      "rows": [
+        {
+          "name": "Fact Sheets 1,000 $1.00",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show 1 $1000.00",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Tippah County Fair 3 $1,760.00",
+          "totalCost": 5280,
+          "rawCost": "$5,280.00"
+        },
+        {
+          "name": "Water Bill Mailers 1 $600.00",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Presentations 3 $50.00",
+          "totalCost": 150,
+          "rawCost": "$150.00"
+        },
+        {
+          "name": "Radio Ads 3 $200.00",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "AdoptA-Stream 1 $1,000.00",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 9630,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Watershed Harmony Puppet Show 1 $1000.00 $1,000.00",
+      "rows": [
+        {
+          "name": "Watershed Harmony Puppet Show 1 $1000.00",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Tippah County Fair 3 $1,760.00",
+          "totalCost": 5280,
+          "rawCost": "$5,280.00"
+        },
+        {
+          "name": "Water Bill Mailers 1 $600.00",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Presentations 3 $50.00",
+          "totalCost": 150,
+          "rawCost": "$150.00"
+        },
+        {
+          "name": "Radio Ads 3 $200.00",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "AdoptA-Stream 1 $1,000.00",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 8630,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Tippah County Fair 3 $1,760.00 $5,280.00",
+      "rows": [
+        {
+          "name": "Tippah County Fair 3 $1,760.00",
+          "totalCost": 5280,
+          "rawCost": "$5,280.00"
+        },
+        {
+          "name": "Water Bill Mailers 1 $600.00",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Presentations 3 $50.00",
+          "totalCost": 150,
+          "rawCost": "$150.00"
+        },
+        {
+          "name": "Radio Ads 3 $200.00",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "AdoptA-Stream 1 $1,000.00",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 7630,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Water Bill Mailers 1 $600.00 $600.00",
+      "rows": [
+        {
+          "name": "Water Bill Mailers 1 $600.00",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "Presentations 3 $50.00",
+          "totalCost": 150,
+          "rawCost": "$150.00"
+        },
+        {
+          "name": "Radio Ads 3 $200.00",
+          "totalCost": 600,
+          "rawCost": "$600.00"
+        },
+        {
+          "name": "AdoptA-Stream 1 $1,000.00",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2350,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "tech_assistance",
+      "title": "Item Cost",
+      "rows": [
+        {
+          "name": "BMPs",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 450000,
+          "rawSize": "N/A",
+          "rawCost": "$450,000"
+        },
+        {
+          "name": "Technical Assistance",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 41667,
+          "rawSize": "N/A",
+          "rawCost": "$41,667"
+        },
+        {
+          "name": "Education/Outreach",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 18667.01,
+          "rawSize": "N/A",
+          "rawCost": "$18,667.01"
+        }
+      ],
+      "totalReported": 510334.01,
+      "totalComputed": 510334.01,
+      "discrepancy": 0,
+      "patternId": "tech_assistance",
+      "patternConfidence": 0.85
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "BMPs $450,000",
+      "rows": [
+        {
+          "name": "BMPs",
+          "totalCost": 450000,
+          "rawCost": "$450,000"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 41667,
+          "rawCost": "$41,667"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 18667.01,
+          "rawCost": "$18,667.01"
+        },
+        {
+          "name": "Total",
+          "totalCost": 510334.01,
+          "rawCost": "$510,334.01"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1020668.02,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "cost_table",
+      "title": "Table 8.1 Funded 319 Project Budget for BMPs.",
+      "patternId": "bell_creek_format",
+      "patternConfidence": 0.85,
+      "rows": [
+        {
+          "name": "Streambank and Shoreline Protection",
+          "quantity": 2500,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 69.17,
+          "totalCost": 172904,
+          "rawSize": "2500 feet",
+          "rawCost": "$172904"
+        },
+        {
+          "name": "Grade Stabilization Structure",
+          "quantity": 12,
+          "unit": "structures",
+          "unitRaw": "structures",
+          "unitCost": 6500,
+          "totalCost": 78000,
+          "rawSize": "12 structures",
+          "rawCost": "$78000"
+        },
+        {
+          "name": "Pasture and Hay Land Planting",
+          "quantity": 100,
+          "unit": "ac",
+          "unitRaw": "ac",
+          "unitCost": 200,
+          "totalCost": 20000,
+          "rawSize": "100 acres",
+          "rawCost": "$20000"
+        },
+        {
+          "name": "Water and Sediment Control Basin",
+          "quantity": 4,
+          "unit": "structures",
+          "unitRaw": "structures",
+          "unitCost": 10000,
+          "totalCost": 40000,
+          "rawSize": "4 structures",
+          "rawCost": "$40000"
+        },
+        {
+          "name": "Nutrient Management",
+          "quantity": 700,
+          "unit": "ac",
+          "unitRaw": "ac",
+          "unitCost": 103.8,
+          "totalCost": 72156,
+          "rawSize": "700 acres",
+          "rawCost": "$72156"
+        },
+        {
+          "name": "Tank/Trough",
+          "quantity": 5,
+          "unit": "each",
+          "unitRaw": "each",
+          "unitCost": 2500,
+          "totalCost": 12500,
+          "rawSize": "5 each",
+          "rawCost": "$12500"
+        },
+        {
+          "name": "Diversions",
+          "quantity": 1200,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 1.2,
+          "totalCost": 1440,
+          "rawSize": "1200 feet",
+          "rawCost": "$1440"
+        },
+        {
+          "name": "Heavy Use Area Protection",
+          "quantity": 4,
+          "unit": "each",
+          "unitRaw": "each",
+          "unitCost": 2500,
+          "totalCost": 10000,
+          "rawSize": "4 each",
+          "rawCost": "$10000"
+        },
+        {
+          "name": "Fencing",
+          "quantity": 10000,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 1.3,
+          "totalCost": 13000,
+          "rawSize": "10000 feet",
+          "rawCost": "$13000"
+        },
+        {
+          "name": "Critical Area Planting",
+          "quantity": 100,
+          "unit": "ac",
+          "unitRaw": "ac",
+          "unitCost": 300,
+          "totalCost": 30000,
+          "rawSize": "100 acres",
+          "rawCost": "$30000"
+        }
+      ],
+      "totalReported": 450000,
+      "totalComputed": 450000,
+      "discrepancy": 0
+    },
+    {
+      "id": "cost_table",
+      "title": "Bell Creek BMP Budget",
+      "patternId": "bell_creek_format",
+      "patternConfidence": 0.85,
+      "rows": [
+        {
+          "name": "Streambank and Shoreline Protection",
+          "quantity": 2500,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 69.17,
+          "totalCost": 172904,
+          "rawSize": "2500 feet",
+          "rawCost": "$172904"
+        },
+        {
+          "name": "Grade Stabilization Structure",
+          "quantity": 12,
+          "unit": "structures",
+          "unitRaw": "structures",
+          "unitCost": 6500,
+          "totalCost": 78000,
+          "rawSize": "12 structures",
+          "rawCost": "$78000"
+        },
+        {
+          "name": "Pasture and Hay Land Planting",
+          "quantity": 100,
+          "unit": "ac",
+          "unitRaw": "ac",
+          "unitCost": 200,
+          "totalCost": 20000,
+          "rawSize": "100 acres",
+          "rawCost": "$20000"
+        },
+        {
+          "name": "Water and Sediment Control Basin",
+          "quantity": 4,
+          "unit": "structures",
+          "unitRaw": "structures",
+          "unitCost": 10000,
+          "totalCost": 40000,
+          "rawSize": "4 structures",
+          "rawCost": "$40000"
+        },
+        {
+          "name": "Nutrient Management",
+          "quantity": 700,
+          "unit": "ac",
+          "unitRaw": "ac",
+          "unitCost": 103.8,
+          "totalCost": 72156,
+          "rawSize": "700 acres",
+          "rawCost": "$72156"
+        },
+        {
+          "name": "Tank/Trough",
+          "quantity": 5,
+          "unit": "each",
+          "unitRaw": "each",
+          "unitCost": 2500,
+          "totalCost": 12500,
+          "rawSize": "5 each",
+          "rawCost": "$12500"
+        },
+        {
+          "name": "Diversions",
+          "quantity": 1200,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 1.2,
+          "totalCost": 1440,
+          "rawSize": "1200 feet",
+          "rawCost": "$1440"
+        },
+        {
+          "name": "Heavy Use Area Protection",
+          "quantity": 4,
+          "unit": "each",
+          "unitRaw": "each",
+          "unitCost": 2500,
+          "totalCost": 10000,
+          "rawSize": "4 each",
+          "rawCost": "$10000"
+        },
+        {
+          "name": "Fencing",
+          "quantity": 10000,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 1.3,
+          "totalCost": 13000,
+          "rawSize": "10000 feet",
+          "rawCost": "$13000"
+        },
+        {
+          "name": "Critical Area Planting",
+          "quantity": 100,
+          "unit": "ac",
+          "unitRaw": "ac",
+          "unitCost": 300,
+          "totalCost": 30000,
+          "rawSize": "100 acres",
+          "rawCost": "$30000"
+        }
+      ],
+      "totalReported": 450000,
+      "totalComputed": 450000,
+      "discrepancy": 0
+    },
+    {
+      "id": "cost_table",
+      "title": "Table 8.2 Technical Assistance",
+      "patternId": "tech_assistance_format",
+      "patternConfidence": 0.6,
+      "rows": [
+        {
+          "name": "Technical Assistance",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 41667,
+          "rawSize": "N/A",
+          "rawCost": "$41,667"
+        }
+      ],
+      "totalReported": 41667,
+      "totalComputed": 41667,
+      "discrepancy": 0
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [
+    {
+      "id": "M1",
+      "metric": "At a selected site or sites on the main tributaries of the watershed, water samples will be taken and",
+      "value": null,
+      "unit": null,
+      "source": "At a selected site or sites on the main tributaries of the watershed, water samples will be taken and",
+      "_present": true
+    },
+    {
+      "id": "M2",
+      "metric": "analyzed for organic enrichment/low dissolved oxygen and nutrient content.  After BMPs are installed at",
+      "value": null,
+      "unit": null,
+      "source": "analyzed for organic enrichment/low dissolved oxygen and nutrient content.  After BMPs are installed at",
+      "_present": true
+    },
+    {
+      "id": "M3",
+      "metric": "the site or sites, additional samples will be taken and analyzed to determine the actual load reduction",
+      "value": null,
+      "unit": null,
+      "source": "the site or sites, additional samples will be taken and analyzed to determine the actual load reduction",
+      "_present": true
+    },
+    {
+      "id": "M4",
+      "metric": "resulting from the implementation of the BMPs.  A plan for the monitoring will be developed by the",
+      "value": null,
+      "unit": null,
+      "source": "resulting from the implementation of the BMPs.  A plan for the monitoring will be developed by the",
+      "_present": true
+    },
+    {
+      "id": "M5",
+      "metric": "USGS to determine the exact procedures and details of the monitoring regime.  Funding for this portion",
+      "value": null,
+      "unit": null,
+      "source": "USGS to determine the exact procedures and details of the monitoring regime.  Funding for this portion",
+      "_present": true
+    },
+    {
+      "id": "M6",
+      "metric": "of the project is included in the project budget.",
+      "value": null,
+      "unit": null,
+      "source": "of the project is included in the project budget.",
+      "_present": true
+    },
+    {
+      "id": "M7",
+      "metric": "PROJECT PERIOD",
+      "value": null,
+      "unit": null,
+      "source": "PROJECT PERIOD",
+      "_present": true
+    },
+    {
+      "id": "M8",
+      "metric": "The length of this project will be 3 years.",
+      "value": null,
+      "unit": null,
+      "source": "The length of this project will be 3 years.",
+      "_present": true
+    },
+    {
+      "id": "M9",
+      "metric": "43",
+      "value": null,
+      "unit": null,
+      "source": "43",
+      "_present": true
+    },
+    {
+      "id": "M10",
+      "metric": "PROJECT BUDGET",
+      "value": null,
+      "unit": null,
+      "source": "PROJECT BUDGET",
+      "_present": true
+    },
+    {
+      "id": "M11",
+      "metric": "BUDGET   FEDERAL NON-FEDERAL   TOTAL",
+      "value": null,
+      "unit": null,
+      "source": "BUDGET   FEDERAL NON-FEDERAL   TOTAL",
+      "_present": true
+    },
+    {
+      "id": "M12",
+      "metric": "CATEGORY   FUNDS FUNDS",
+      "value": null,
+      "unit": null,
+      "source": "CATEGORY   FUNDS FUNDS",
+      "_present": true
+    },
+    {
+      "id": "M13",
+      "metric": "Technical Assistance/  $   25,000 $    16,667 *    $   41,667",
+      "value": null,
+      "unit": null,
+      "source": "Technical Assistance/  $   25,000 $    16,667 *    $   41,667",
+      "_present": true
+    },
+    {
+      "id": "M14",
+      "metric": "Travel",
+      "value": null,
+      "unit": null,
+      "source": "Travel",
+      "_present": true
+    },
+    {
+      "id": "M15",
+      "metric": "Installation of BMPs    $ 170,000 $ 113,333 **    $ 283,333",
+      "value": null,
+      "unit": null,
+      "source": "Installation of BMPs    $ 170,000 $ 113,333 **    $ 283,333",
+      "_present": true
+    },
+    {
+      "id": "M16",
+      "metric": "Contractual   $ 100,000 $    66,667  **    $ 166,667",
+      "value": null,
+      "unit": null,
+      "source": "Contractual   $ 100,000 $    66,667  **    $ 166,667",
+      "_present": true
+    },
+    {
+      "id": "M17",
+      "metric": "Information/Education $   10,000 $     6,667 *      $   16,667___",
+      "value": null,
+      "unit": null,
+      "source": "Information/Education $   10,000 $     6,667 *      $   16,667___",
+      "_present": true
+    },
+    {
+      "id": "M18",
+      "metric": "TOTAL   $ 305,000 $ 203,334    $ 508,333",
+      "value": null,
+      "unit": null,
+      "source": "TOTAL   $ 305,000 $ 203,334    $ 508,333",
+      "_present": true
+    },
+    {
+      "id": "M19",
+      "metric": "*   Non-federal match for technical assistance/travel and information/education will be provided the",
+      "value": null,
+      "unit": null,
+      "source": "*   Non-federal match for technical assistance/travel and information/education will be provided the",
+      "_present": true
+    },
+    {
+      "id": "M20",
+      "metric": "local soil and water conservation district commissioners, soil and water conservation district staff and",
+      "value": null,
+      "unit": null,
+      "source": "local soil and water conservation district commissioners, soil and water conservation district staff and",
+      "_present": true
+    },
+    {
+      "id": "M21",
+      "metric": "Mississippi Soil and Water Conservation Commission staff time spent on the project.",
+      "value": null,
+      "unit": null,
+      "source": "Mississippi Soil and Water Conservation Commission staff time spent on the project.",
+      "_present": true
+    },
+    {
+      "id": "M22",
+      "metric": "** Non-federal match for installation of BMPs and contractual will be provided by out of pocket",
+      "value": null,
+      "unit": null,
+      "source": "** Non-federal match for installation of BMPs and contractual will be provided by out of pocket",
+      "_present": true
+    },
+    {
+      "id": "M23",
+      "metric": "expenses of the landowners and operators participating in the project.",
+      "value": null,
+      "unit": null,
+      "source": "expenses of the landowners and operators participating in the project.",
+      "_present": true
+    },
+    {
+      "id": "M24",
+      "metric": "44",
+      "value": null,
+      "unit": null,
+      "source": "44",
+      "_present": true
+    },
+    {
+      "id": "M25",
+      "metric": "Attachment 1",
+      "value": null,
+      "unit": null,
+      "source": "Attachment 1",
+      "_present": true
+    },
+    {
+      "id": "M26",
+      "metric": "45",
+      "value": null,
+      "unit": null,
+      "source": "45",
+      "_present": true
+    },
+    {
+      "id": "M27",
+      "metric": "46",
+      "value": null,
+      "unit": null,
+      "source": "46",
+      "_present": true
+    },
+    {
+      "id": "M28",
+      "metric": "47",
+      "value": null,
+      "unit": null,
+      "source": "47",
+      "_present": true
+    },
+    {
+      "id": "M29",
+      "metric": "48",
+      "value": null,
+      "unit": null,
+      "source": "48",
+      "_present": true
+    },
+    {
+      "id": "M30",
+      "metric": "49",
+      "value": null,
+      "unit": null,
+      "source": "49",
+      "_present": true
+    },
+    {
+      "id": "M31",
+      "metric": "Appendix C",
+      "value": null,
+      "unit": null,
+      "source": "Appendix C",
+      "_present": true
+    },
+    {
+      "id": "M32",
+      "metric": "Stressors",
+      "value": null,
+      "unit": null,
+      "source": "Stressors",
+      "_present": true
+    },
+    {
+      "id": "M33",
+      "metric": "50",
+      "value": null,
+      "unit": null,
+      "source": "50",
+      "_present": true
+    },
+    {
+      "id": "M34",
+      "metric": "Table 2",
+      "value": null,
+      "unit": null,
+      "source": "Table 2",
+      "_present": true
+    },
+    {
+      "id": "M35",
+      "metric": "Stressor Summary Table",
+      "value": null,
+      "unit": null,
+      "source": "Stressor Summary Table",
+      "_present": true
+    },
+    {
+      "id": "M36",
+      "metric": "Concern Link/Immediate",
+      "value": null,
+      "unit": null,
+      "source": "Concern Link/Immediate",
+      "_present": true
+    },
+    {
+      "id": "M37",
+      "metric": "Cause",
+      "value": null,
+      "unit": null,
+      "source": "Cause",
+      "_present": true
+    },
+    {
+      "id": "M38",
+      "metric": "Stressor Description of",
+      "value": null,
+      "unit": null,
+      "source": "Stressor Description of",
+      "_present": true
+    },
+    {
+      "id": "M39",
+      "metric": "Stressor",
+      "value": null,
+      "unit": null,
+      "source": "Stressor",
+      "_present": true
+    },
+    {
+      "id": "M40",
+      "metric": "Location/Extent",
+      "value": null,
+      "unit": null,
+      "source": "Location/Extent",
+      "_present": true
+    },
+    {
+      "id": "M41",
+      "metric": "Sediment Loading",
+      "value": null,
+      "unit": null,
+      "source": "Sediment Loading",
+      "_present": true
+    },
+    {
+      "id": "M42",
+      "metric": "From Agricultural",
+      "value": null,
+      "unit": null,
+      "source": "From Agricultural",
+      "_present": true
+    },
+    {
+      "id": "M43",
+      "metric": "Lands",
+      "value": null,
+      "unit": null,
+      "source": "Lands",
+      "_present": true
+    },
+    {
+      "id": "M44",
+      "metric": "Landuse runoff and",
+      "value": null,
+      "unit": null,
+      "source": "Landuse runoff and",
+      "_present": true
+    },
+    {
+      "id": "M45",
+      "metric": "in-channel sediment processes",
+      "value": null,
+      "unit": null,
+      "source": "in-channel sediment processes",
+      "_present": true
+    },
+    {
+      "id": "M46",
+      "metric": "Sediment A stressor identification study was",
+      "value": null,
+      "unit": null,
+      "source": "Sediment A stressor identification study was",
+      "_present": true
+    },
+    {
+      "id": "M47",
+      "metric": "completed for Muddy Creek Watershed.",
+      "value": null,
+      "unit": null,
+      "source": "completed for Muddy Creek Watershed.",
+      "_present": true
+    },
+    {
+      "id": "M48",
+      "metric": "This analysis identified sediment as the",
+      "value": null,
+      "unit": null,
+      "source": "This analysis identified sediment as the",
+      "_present": true
+    },
+    {
+      "id": "M49",
+      "metric": "a probable stressor of the water body.",
+      "value": null,
+      "unit": null,
+      "source": "a probable stressor of the water body.",
+      "_present": true
+    },
+    {
+      "id": "M50",
+      "metric": "Certain contaminants may be associated",
+      "value": null,
+      "unit": null,
+      "source": "Certain contaminants may be associated",
+      "_present": true
+    },
+    {
+      "id": "M51",
+      "metric": "with sediment such as pesticides and",
+      "value": null,
+      "unit": null,
+      "source": "with sediment such as pesticides and",
+      "_present": true
+    },
+    {
+      "id": "M52",
+      "metric": "nutrients.  However, these contaminants",
+      "value": null,
+      "unit": null,
+      "source": "nutrients.  However, these contaminants",
+      "_present": true
+    },
+    {
+      "id": "M53",
+      "metric": "would also be controlled by the same",
+      "value": null,
+      "unit": null,
+      "source": "would also be controlled by the same",
+      "_present": true
+    },
+    {
+      "id": "M54",
+      "metric": "best management practices (BMPs) that",
+      "value": null,
+      "unit": null,
+      "source": "best management practices (BMPs) that",
+      "_present": true
+    },
+    {
+      "id": "M55",
+      "metric": "control sediment coming from fields.",
+      "value": null,
+      "unit": null,
+      "source": "control sediment coming from fields.",
+      "_present": true
+    },
+    {
+      "id": "M56",
+      "metric": "See figure 5.2 for the locations of",
+      "value": null,
+      "unit": null,
+      "source": "See figure 5.2 for the locations of",
+      "_present": true
+    },
+    {
+      "id": "M57",
+      "metric": "cropland along streams.",
+      "value": null,
+      "unit": null,
+      "source": "cropland along streams.",
+      "_present": true
+    },
+    {
+      "id": "M58",
+      "metric": "There are approximately 20,416",
+      "value": null,
+      "unit": null,
+      "source": "There are approximately 20,416",
+      "_present": true
+    },
+    {
+      "id": "M59",
+      "metric": "acres of agriculture land in the",
+      "value": null,
+      "unit": null,
+      "source": "acres of agriculture land in the",
+      "_present": true
+    },
+    {
+      "id": "M60",
+      "metric": "watershed.  The majority of this",
+      "value": null,
+      "unit": null,
+      "source": "watershed.  The majority of this",
+      "_present": true
+    },
+    {
+      "id": "M61",
+      "metric": "land is pastureland.",
+      "value": null,
+      "unit": null,
+      "source": "land is pastureland.",
+      "_present": true
+    },
+    {
+      "id": "M62",
+      "metric": "All the lands referred to above are",
+      "value": null,
+      "unit": null,
+      "source": "All the lands referred to above are",
+      "_present": true
+    },
+    {
+      "id": "M63",
+      "metric": "in HUC 08010207.",
+      "value": null,
+      "unit": null,
+      "source": "in HUC 08010207.",
+      "_present": true
+    },
+    {
+      "id": "M64",
+      "metric": "Concern Link/Immediate",
+      "value": null,
+      "unit": null,
+      "source": "Concern Link/Immediate",
+      "_present": true
+    },
+    {
+      "id": "M65",
+      "metric": "Cause",
+      "value": null,
+      "unit": null,
+      "source": "Cause",
+      "_present": true
+    },
+    {
+      "id": "M66",
+      "metric": "Stressor Description of Stressor Location/Extent",
+      "value": null,
+      "unit": null,
+      "source": "Stressor Description of Stressor Location/Extent",
+      "_present": true
+    },
+    {
+      "id": "M67",
+      "metric": "Littering Increasing the number of snags",
+      "value": null,
+      "unit": null,
+      "source": "Littering Increasing the number of snags",
+      "_present": true
+    },
+    {
+      "id": "M68",
+      "metric": "and the amount of debris in the",
+      "value": null,
+      "unit": null,
+      "source": "and the amount of debris in the",
+      "_present": true
+    },
+    {
+      "id": "M69",
+      "metric": "creeks and streams",
+      "value": null,
+      "unit": null,
+      "source": "creeks and streams",
+      "_present": true
+    },
+    {
+      "id": "M70",
+      "metric": "Litter People dumping old appliances, old",
+      "value": null,
+      "unit": null,
+      "source": "Litter People dumping old appliances, old",
+      "_present": true
+    },
+    {
+      "id": "M71",
+      "metric": "shingles and tires, household trash, old",
+      "value": null,
+      "unit": null,
+      "source": "shingles and tires, household trash, old",
+      "_present": true
+    },
+    {
+      "id": "M72",
+      "metric": "mattresses and other garbage into the",
+      "value": null,
+      "unit": null,
+      "source": "mattresses and other garbage into the",
+      "_present": true
+    },
+    {
+      "id": "M73",
+      "metric": "creeks and streams from bridges and",
+      "value": null,
+      "unit": null,
+      "source": "creeks and streams from bridges and",
+      "_present": true
+    },
+    {
+      "id": "M74",
+      "metric": "letting it wash down the creeks and",
+      "value": null,
+      "unit": null,
+      "source": "letting it wash down the creeks and",
+      "_present": true
+    },
+    {
+      "id": "M75",
+      "metric": "streams when the flow is increased.",
+      "value": null,
+      "unit": null,
+      "source": "streams when the flow is increased.",
+      "_present": true
+    },
+    {
+      "id": "M76",
+      "metric": "This occurs throughout the",
+      "value": null,
+      "unit": null,
+      "source": "This occurs throughout the",
+      "_present": true
+    },
+    {
+      "id": "M77",
+      "metric": "watershed at most bridge sites in",
+      "value": null,
+      "unit": null,
+      "source": "watershed at most bridge sites in",
+      "_present": true
+    },
+    {
+      "id": "M78",
+      "metric": "rural areas.",
+      "value": null,
+      "unit": null,
+      "source": "rural areas.",
+      "_present": true
+    },
+    {
+      "id": "M79",
+      "metric": "51",
+      "value": null,
+      "unit": null,
+      "source": "51",
+      "_present": true
+    },
+    {
+      "id": "M80",
+      "metric": "Concern Link/Immediate",
+      "value": null,
+      "unit": null,
+      "source": "Concern Link/Immediate",
+      "_present": true
+    },
+    {
+      "id": "M81",
+      "metric": "Cause",
+      "value": null,
+      "unit": null,
+      "source": "Cause",
+      "_present": true
+    },
+    {
+      "id": "M82",
+      "metric": "Stressor Description of Stressor Location/Extent",
+      "value": null,
+      "unit": null,
+      "source": "Stressor Description of Stressor Location/Extent",
+      "_present": true
+    },
+    {
+      "id": "M83",
+      "metric": "Nutrient Loading",
+      "value": null,
+      "unit": null,
+      "source": "Nutrient Loading",
+      "_present": true
+    },
+    {
+      "id": "M84",
+      "metric": "From Agricultural",
+      "value": null,
+      "unit": null,
+      "source": "From Agricultural",
+      "_present": true
+    },
+    {
+      "id": "M85",
+      "metric": "Lands",
+      "value": null,
+      "unit": null,
+      "source": "Lands",
+      "_present": true
+    },
+    {
+      "id": "M86",
+      "metric": "Degradation of in-stream",
+      "value": null,
+      "unit": null,
+      "source": "Degradation of in-stream",
+      "_present": true
+    },
+    {
+      "id": "M87",
+      "metric": "biological conditions",
+      "value": null,
+      "unit": null,
+      "source": "biological conditions",
+      "_present": true
+    },
+    {
+      "id": "M88",
+      "metric": "Nutrients A stressor identification study was",
+      "value": null,
+      "unit": null,
+      "source": "Nutrients A stressor identification study was",
+      "_present": true
+    },
+    {
+      "id": "M89",
+      "metric": "completed for Muddy Creek Watershed.",
+      "value": null,
+      "unit": null,
+      "source": "completed for Muddy Creek Watershed.",
+      "_present": true
+    },
+    {
+      "id": "M90",
+      "metric": "This analysis identified nutrients and",
+      "value": null,
+      "unit": null,
+      "source": "This analysis identified nutrients and",
+      "_present": true
+    },
+    {
+      "id": "M91",
+      "metric": "organic enrichment as the most",
+      "value": null,
+      "unit": null,
+      "source": "organic enrichment as the most",
+      "_present": true
+    },
+    {
+      "id": "M92",
+      "metric": "probable primary stressor of the water",
+      "value": null,
+      "unit": null,
+      "source": "probable primary stressor of the water",
+      "_present": true
+    },
+    {
+      "id": "M93",
+      "metric": "body.  Certain contaminants may be",
+      "value": null,
+      "unit": null,
+      "source": "body.  Certain contaminants may be",
+      "_present": true
+    },
+    {
+      "id": "M94",
+      "metric": "associated with sediment such as",
+      "value": null,
+      "unit": null,
+      "source": "associated with sediment such as",
+      "_present": true
+    },
+    {
+      "id": "M95",
+      "metric": "pesticides and sediment.  However,",
+      "value": null,
+      "unit": null,
+      "source": "pesticides and sediment.  However,",
+      "_present": true
+    },
+    {
+      "id": "M96",
+      "metric": "these contaminants would also be",
+      "value": null,
+      "unit": null,
+      "source": "these contaminants would also be",
+      "_present": true
+    },
+    {
+      "id": "M97",
+      "metric": "controlled by the same best",
+      "value": null,
+      "unit": null,
+      "source": "controlled by the same best",
+      "_present": true
+    },
+    {
+      "id": "M98",
+      "metric": "management practices (BMPs) that",
+      "value": null,
+      "unit": null,
+      "source": "management practices (BMPs) that",
+      "_present": true
+    },
+    {
+      "id": "M99",
+      "metric": "control nutrients coming from fields.",
+      "value": null,
+      "unit": null,
+      "source": "control nutrients coming from fields.",
+      "_present": true
+    },
+    {
+      "id": "M100",
+      "metric": "See figure 5.2 for the locations of",
+      "value": null,
+      "unit": null,
+      "source": "See figure 5.2 for the locations of",
+      "_present": true
+    },
+    {
+      "id": "M101",
+      "metric": "cropland along streams.",
+      "value": null,
+      "unit": null,
+      "source": "cropland along streams.",
+      "_present": true
+    },
+    {
+      "id": "M102",
+      "metric": "There are approximately 20,416",
+      "value": null,
+      "unit": null,
+      "source": "There are approximately 20,416",
+      "_present": true
+    },
+    {
+      "id": "M103",
+      "metric": "acres of agriculture land in the",
+      "value": null,
+      "unit": null,
+      "source": "acres of agriculture land in the",
+      "_present": true
+    },
+    {
+      "id": "M104",
+      "metric": "watershed.  The majority of this",
+      "value": null,
+      "unit": null,
+      "source": "watershed.  The majority of this",
+      "_present": true
+    },
+    {
+      "id": "M105",
+      "metric": "land is pastureland.",
+      "value": null,
+      "unit": null,
+      "source": "land is pastureland.",
+      "_present": true
+    },
+    {
+      "id": "M106",
+      "metric": "All the lands referred to above are",
+      "value": null,
+      "unit": null,
+      "source": "All the lands referred to above are",
+      "_present": true
+    },
+    {
+      "id": "M107",
+      "metric": "in HUC 08010207.",
+      "value": null,
+      "unit": null,
+      "source": "in HUC 08010207.",
+      "_present": true
+    },
+    {
+      "id": "M108",
+      "metric": "Concern Link/Immediate",
+      "value": null,
+      "unit": null,
+      "source": "Concern Link/Immediate",
+      "_present": true
+    },
+    {
+      "id": "M109",
+      "metric": "Cause",
+      "value": null,
+      "unit": null,
+      "source": "Cause",
+      "_present": true
+    },
+    {
+      "id": "M110",
+      "metric": "Stressor Description of Stressor Location/Extent",
+      "value": null,
+      "unit": null,
+      "source": "Stressor Description of Stressor Location/Extent",
+      "_present": true
+    },
+    {
+      "id": "M111",
+      "metric": "Beavers Increased  number of beaver dams",
+      "value": null,
+      "unit": null,
+      "source": "Beavers Increased  number of beaver dams",
+      "_present": true
+    },
+    {
+      "id": "M112",
+      "metric": "in the creeks and streams",
+      "value": null,
+      "unit": null,
+      "source": "in the creeks and streams",
+      "_present": true
+    },
+    {
+      "id": "M113",
+      "metric": "Beavers Beaver dams causing flooding issues on",
+      "value": null,
+      "unit": null,
+      "source": "Beavers Beaver dams causing flooding issues on",
+      "_present": true
+    },
+    {
+      "id": "M114",
+      "metric": "lands within the watershed.  Valuable",
+      "value": null,
+      "unit": null,
+      "source": "lands within the watershed.  Valuable",
+      "_present": true
+    },
+    {
+      "id": "M115",
+      "metric": "topsoil is lost to erosion.  Nutrients and",
+      "value": null,
+      "unit": null,
+      "source": "topsoil is lost to erosion.  Nutrients and",
+      "_present": true
+    },
+    {
+      "id": "M116",
+      "metric": "chemicals are washed into the streams",
+      "value": null,
+      "unit": null,
+      "source": "chemicals are washed into the streams",
+      "_present": true
+    },
+    {
+      "id": "M117",
+      "metric": "and creeks.  Production of valuable",
+      "value": null,
+      "unit": null,
+      "source": "and creeks.  Production of valuable",
+      "_present": true
+    },
+    {
+      "id": "M118",
+      "metric": "pastureland and cropland is lost.",
+      "value": null,
+      "unit": null,
+      "source": "pastureland and cropland is lost.",
+      "_present": true
+    },
+    {
+      "id": "M119",
+      "metric": "This occurs throughout the",
+      "value": null,
+      "unit": null,
+      "source": "This occurs throughout the",
+      "_present": true
+    },
+    {
+      "id": "M120",
+      "metric": "watershed in rural areas.",
+      "value": null,
+      "unit": null,
+      "source": "watershed in rural areas.",
+      "_present": true
+    },
+    {
+      "id": "M121",
+      "metric": "52",
+      "value": null,
+      "unit": null,
+      "source": "52",
+      "_present": true
+    },
+    {
+      "id": "M122",
+      "metric": "Appendix D",
+      "value": null,
+      "unit": null,
+      "source": "Appendix D",
+      "_present": true
+    },
+    {
+      "id": "M123",
+      "metric": "Checklist of Watershed",
+      "value": null,
+      "unit": null,
+      "source": "Checklist of Watershed",
+      "_present": true
+    },
+    {
+      "id": "M124",
+      "metric": "Implementation Elements",
+      "value": null,
+      "unit": null,
+      "source": "Implementation Elements",
+      "_present": true
+    },
+    {
+      "id": "M125",
+      "metric": "53",
+      "value": null,
+      "unit": null,
+      "source": "53",
+      "_present": true
+    },
+    {
+      "id": "M126",
+      "metric": "Table D. 9 Key Elements of a Watershed Plan for 319 Grant",
+      "value": null,
+      "unit": null,
+      "source": "Table D. 9 Key Elements of a Watershed Plan for 319 Grant",
+      "_present": true
+    },
+    {
+      "id": "M127",
+      "metric": "Required WIP Elements for 319 Grant",
+      "value": null,
+      "unit": null,
+      "source": "Required WIP Elements for 319 Grant",
+      "_present": true
+    },
+    {
+      "id": "M128",
+      "metric": "Location in Watershed Implementation Plan",
+      "value": null,
+      "unit": null,
+      "source": "Location in Watershed Implementation Plan",
+      "_present": true
+    },
+    {
+      "id": "M129",
+      "metric": "1. Watershed Description and Background",
+      "value": null,
+      "unit": null,
+      "source": "1. Watershed Description and Background",
+      "_present": true
+    },
+    {
+      "id": "M130",
+      "metric": "Chapter V, Chapter VII Section A",
+      "value": null,
+      "unit": null,
+      "source": "Chapter V, Chapter VII Section A",
+      "_present": true
+    },
+    {
+      "id": "M131",
+      "metric": "2.  Implementation",
+      "value": null,
+      "unit": null,
+      "source": "2.  Implementation",
+      "_present": true
+    },
+    {
+      "id": "M132",
+      "metric": "Chapter VIII Section A Subsection 3",
+      "value": null,
+      "unit": null,
+      "source": "Chapter VIII Section A Subsection 3",
+      "_present": true
+    },
+    {
+      "id": "M133",
+      "metric": "3. Project Goals",
+      "value": null,
+      "unit": null,
+      "source": "3. Project Goals",
+      "_present": true
+    },
+    {
+      "id": "M134",
+      "metric": "Chapter VIII Section A Subsections 2 and 5",
+      "value": null,
+      "unit": null,
+      "source": "Chapter VIII Section A Subsections 2 and 5",
+      "_present": true
+    },
+    {
+      "id": "M135",
+      "metric": "4. Project Costs",
+      "value": null,
+      "unit": null,
+      "source": "4. Project Costs",
+      "_present": true
+    },
+    {
+      "id": "M136",
+      "metric": "Chapter VIII Section A Subsection 7",
+      "value": null,
+      "unit": null,
+      "source": "Chapter VIII Section A Subsection 7",
+      "_present": true
+    },
+    {
+      "id": "M137",
+      "metric": "Chapter IX Section A Subsection 7, 8",
+      "value": null,
+      "unit": null,
+      "source": "Chapter IX Section A Subsection 7, 8",
+      "_present": true
+    },
+    {
+      "id": "M138",
+      "metric": "5. Education and Outreach",
+      "value": null,
+      "unit": null,
+      "source": "5. Education and Outreach",
+      "_present": true
+    },
+    {
+      "id": "M139",
+      "metric": "Chapter IX",
+      "value": null,
+      "unit": null,
+      "source": "Chapter IX",
+      "_present": true
+    },
+    {
+      "id": "M140",
+      "metric": "6. Implementation Schedule",
+      "value": null,
+      "unit": null,
+      "source": "6. Implementation Schedule",
+      "_present": true
+    },
+    {
+      "id": "M141",
+      "metric": "Chapter VIII Section A Subsection 4",
+      "value": null,
+      "unit": null,
+      "source": "Chapter VIII Section A Subsection 4",
+      "_present": true
+    },
+    {
+      "id": "M142",
+      "metric": "7. Milestones",
+      "value": null,
+      "unit": null,
+      "source": "7. Milestones",
+      "_present": true
+    },
+    {
+      "id": "M143",
+      "metric": "Chapter VIII Section A Subsection 4",
+      "value": null,
+      "unit": null,
+      "source": "Chapter VIII Section A Subsection 4",
+      "_present": true
+    },
+    {
+      "id": "M144",
+      "metric": "8. Adaptations and Revisions",
+      "value": null,
+      "unit": null,
+      "source": "8. Adaptations and Revisions",
+      "_present": true
+    },
+    {
+      "id": "M145",
+      "metric": "Chapter X Section A, Chapter XI Section A",
+      "value": null,
+      "unit": null,
+      "source": "Chapter X Section A, Chapter XI Section A",
+      "_present": true
+    },
+    {
+      "id": "M146",
+      "metric": "9. Monitoring",
+      "value": null,
+      "unit": null,
+      "source": "9. Monitoring",
+      "_present": true
+    },
+    {
+      "id": "M147",
+      "metric": "Chapter X Section B Subsections 1 and 2",
+      "value": null,
+      "unit": null,
+      "source": "Chapter X Section B Subsections 1 and 2",
+      "_present": true
+    }
+  ],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-06T00:32:09.442Z",
+  "metadata": {
+    "sourceId": "bell-creek-muddy-creek-watershed-plan-2012-3",
+    "sourceFile": "bell-creek-muddy-creek-watershed-plan-2012-3.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": true,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "sparse_inline_costs",
+        "title": "include EQIP, CRP, and WHIP.  Under these three programs, there has been $375,506.20 spent over the",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 106246.01
+      },
+      {
+        "id": "bell_creek_bmps",
+        "title": "Practice Area Affected BMP Cost BMP Total",
+        "confidence": 0.9,
+        "totalReported": 450000,
+        "totalComputed": 450000
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Streambank and Shoreline Protection 2,500 feet $69.17/ft $172,904",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 450000
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Grade Stabilization Structure 12 structures $6,500 /ea $78,000",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 277096
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Pasture and Hay Land Planting 100 acres $200/ac $20,000",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 199096
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Water and Sediment Control Basin 4 structures $10,000/ ea $40,000",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 179096
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Nutrient Management 700 acres $103.80/ac $72,156",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 139096
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Tank/Trough 5 each $2,500/ea $12,500",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 66940
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Diversions 1,200 feet $1.20/ft $1,440",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 54440
+      },
+      {
+        "id": "tech_assistance",
+        "title": "Item Cost",
+        "confidence": 0.85,
+        "totalReported": 41667,
+        "totalComputed": 41667
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Technical Assistance $41,667",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 107446.01
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Total $41,667",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 65779.01000000001
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Total   $2,000.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 24862.010000000002
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Event Flyers 300 .60/each $180.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 23862.010000000002
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Mailing/Delivery 300 .44/each $135.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 23682.010000000002
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Total   $7,037.01",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 23547.010000000002
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Printing 1,000 1.00/each $1,000.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 1037178.02
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Total   $1,000.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 1036178.02
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Total   $1,000.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 1035178.02
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Brochures 3,000 .65/each $1,950.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 1034178.02
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Brochures 3,000 .65/each $1,950.00",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 10560
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Coloring Books 6,000 .38/each $2,280.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 1032228.02
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Litter Bags 2,500 .42/each $1,050.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 1029948.02
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Total   $5,280.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 1028898.02
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Mailing 500 .44/each $225.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 1023618.02
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Mailing 500 .44/each $225.00",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 1200
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Envelopes 500 .10/each $50.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 1023393.02
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Flyer 500 .65/each $325.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 1023343.02
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Total   $150.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 1022418.02
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Total   $600.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 1022268.02
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Total   $1,000.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 1021668.02
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Signage 20 $100.00 $2,000.00",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 18667.010000000002
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Landowner Meeting and Field Days 3 $2,435.67 $7,037.01",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 16667.010000000002
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Fact Sheets 1,000 $1.00 $1,000.00",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 9630
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Watershed Harmony Puppet Show 1 $1000.00 $1,000.00",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 8630
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Tippah County Fair 3 $1,760.00 $5,280.00",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 7630
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Water Bill Mailers 1 $600.00 $600.00",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 2350
+      },
+      {
+        "id": "tech_assistance",
+        "title": "Item Cost",
+        "confidence": 0.85,
+        "totalReported": 510334.01,
+        "totalComputed": 510334.01
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "BMPs $450,000",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 1020668.02
+      },
+      {
+        "id": "bell_creek_format",
+        "title": "Table 8.1 Funded 319 Project Budget for BMPs.",
+        "confidence": 0.85,
+        "totalReported": 450000,
+        "totalComputed": 450000
+      },
+      {
+        "id": "bell_creek_format",
+        "title": "Bell Creek BMP Budget",
+        "confidence": 0.85,
+        "totalReported": 450000,
+        "totalComputed": 450000
+      },
+      {
+        "id": "tech_assistance_format",
+        "title": "Table 8.2 Technical Assistance",
+        "confidence": 0.6,
+        "totalReported": 41667,
+        "totalComputed": 41667
+      }
+    ],
+    "originalName": "Bell_Creek_Muddy_Creek_Watershed_Plan_2012.pdf",
+    "presence": {
+      "goals": 0,
+      "bmps": 3,
+      "implementation": 0,
+      "monitoring": 147,
+      "outreach": 0
+    }
+  }
+}

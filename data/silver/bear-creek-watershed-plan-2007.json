@@ -1,0 +1,4830 @@
+{
+  "id": "bear-creek-watershed-plan-2007",
+  "summary": {
+    "totalGoals": 1,
+    "totalBMPs": 35,
+    "totalActivities": 0,
+    "primaryGoals": 1,
+    "completionRate": 0,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 1,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "General": 33,
+      "Erosion Control": 1,
+      "Tillage": 1
+    },
+    "avgGoalConfidence": 0,
+    "strongGoals": 0
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "16 Goal The goal of this action item is to removal fish consumption advisories for to achieve this goal.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "Goal 16 Goal The goal of this action item is to removal fish consumption advisories for to achieve this goal.",
+      "confidence": 0,
+      "isPrimary": true,
+      "primaryReason": "fallback_top_confidence",
+      "description": "16 Goal The goal of this action item is to removal fish consumption advisories for to achieve this goal.",
+      "originalSentence": "16 Goal The goal of this action item is to removal fish consumption advisories for to achieve this goal.",
+      "shortTitle": "16 Goal The goal of this action item is to removal fish consumption advisories for to achieve this goal."
+    }
+  ],
+  "mainGoals": [
+    {
+      "id": "G1",
+      "title": "16 Goal The goal of this action item is to removal fish consumption advisories for to achieve this goal.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "Goal 16 Goal The goal of this action item is to removal fish consumption advisories for to achieve this goal.",
+      "confidence": 0,
+      "isPrimary": true,
+      "primaryReason": "fallback_top_confidence",
+      "description": "16 Goal The goal of this action item is to removal fish consumption advisories for to achieve this goal.",
+      "originalSentence": "16 Goal The goal of this action item is to removal fish consumption advisories for to achieve this goal.",
+      "shortTitle": "16 Goal The goal of this action item is to removal fish consumption advisories for to achieve this goal."
+    }
+  ],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "Practice Unit Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Practice Unit Cost"
+    },
+    {
+      "id": "B2",
+      "name": "Number of Units Total Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Number of Units Total Cost"
+    },
+    {
+      "id": "B3",
+      "name": "$1,500.00 100",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$1,500.00 100 $150,000.00|name_cost_tail_trim",
+      "originalName": "$1,500.00 100 $150,000.00"
+    },
+    {
+      "id": "B4",
+      "name": "Overfall Pipes",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Overfall Pipes $1,600.00 40 $64,000.00|name_cost_tail_trim",
+      "originalName": "Overfall Pipes $1,600.00 40 $64,000.00"
+    },
+    {
+      "id": "B5",
+      "name": "$125.00/acre",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$125.00/acre"
+    },
+    {
+      "id": "B6",
+      "name": "$55.00/acre x 15 years*",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$55.00/acre x 15 years*"
+    },
+    {
+      "id": "B7",
+      "name": "$12,500.00",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$12,500.00"
+    },
+    {
+      "id": "B8",
+      "name": "$82,500.00*",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$82,500.00*"
+    },
+    {
+      "id": "B9",
+      "name": "Grass Waterways",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Grass Waterways $35.00/acre 25/acres $875.00|name_cost_tail_trim",
+      "originalName": "Grass Waterways $35.00/acre 25/acres $875.00"
+    },
+    {
+      "id": "B10",
+      "name": "Stiff Grass Hedges",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Stiff Grass Hedges $250.00/site 100/sites $25,000.00|name_cost_tail_trim",
+      "originalName": "Stiff Grass Hedges $250.00/site 100/sites $25,000.00"
+    },
+    {
+      "id": "B11",
+      "name": "Field Borders",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Field Borders $125.00/acre 40/acres $5,000.00|name_cost_tail_trim",
+      "originalName": "Field Borders $125.00/acre 40/acres $5,000.00"
+    },
+    {
+      "id": "B12",
+      "name": "Reforestation",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.05,
+      "source": "Reforestation $145.00/acre 1000/acres $145,000.00|name_cost_tail_trim",
+      "originalName": "Reforestation $145.00/acre 1000/acres $145,000.00"
+    },
+    {
+      "id": "B13",
+      "name": "Wetland Construction",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Wetland Construction $500.00/acre 100/acres $50,000.00|name_cost_tail_trim",
+      "originalName": "Wetland Construction $500.00/acre 100/acres $50,000.00"
+    },
+    {
+      "id": "B14",
+      "name": "Land Forming",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.05,
+      "source": "Land Forming $400.00/acre 1000/acres $400,000.00|name_cost_tail_trim",
+      "originalName": "Land Forming $400.00/acre 1000/acres $400,000.00"
+    },
+    {
+      "id": "B15",
+      "name": "Bank Stabilization",
+      "category": "Erosion Control",
+      "keyword": "Bank Stabilization",
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.4,
+      "source": "Bank Stabilization $3,000.00/site 25/sites $75,000.00|name_cost_tail_trim",
+      "originalName": "Bank Stabilization $3,000.00/site 25/sites $75,000.00"
+    },
+    {
+      "id": "B16",
+      "name": "No-Till*",
+      "category": "Tillage",
+      "keyword": "No-Till",
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.45,
+      "source": "No-Till* $20.00/acre x 15 years* 1000/acres* $300,000.00*|name_cost_tail_trim",
+      "originalName": "No-Till* $20.00/acre x 15 years* 1000/acres* $300,000.00*"
+    },
+    {
+      "id": "B17",
+      "name": "Cover/Double Cropping",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.05,
+      "source": "Cover/Double Cropping $20.00/acre x 15 years* 1000/acres* $300,000.00*|name_cost_tail_trim",
+      "originalName": "Cover/Double Cropping $20.00/acre x 15 years* 1000/acres* $300,000.00*"
+    },
+    {
+      "id": "B18",
+      "name": "TOTAL",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "TOTAL   $1,609,874.00|name_cost_tail_trim",
+      "originalName": "TOTAL   $1,609,874.00"
+    },
+    {
+      "id": "B19",
+      "name": "Weir",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Weir $250,000.00 3 $750,000.00|name_cost_tail_trim",
+      "originalName": "Weir $250,000.00 3 $750,000.00"
+    },
+    {
+      "id": "B20",
+      "name": "Flow Augmentation",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Flow Augmentation $100,000.00 1 $100,000.00|name_cost_tail_trim",
+      "originalName": "Flow Augmentation $100,000.00 1 $100,000.00"
+    },
+    {
+      "id": "B21",
+      "name": "MDWFP Monitoring",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "MDWFP Monitoring $300 day 3 days/yr./5 years $4,500.00|name_cost_tail_trim",
+      "originalName": "MDWFP Monitoring $300 day 3 days/yr./5 years $4,500.00"
+    },
+    {
+      "id": "B22",
+      "name": "MDWFP Stocking",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "MDWFP Stocking $300 day 1 day/yr/5 years $1,500.00|name_cost_tail_trim",
+      "originalName": "MDWFP Stocking $300 day 1 day/yr/5 years $1,500.00"
+    },
+    {
+      "id": "B23",
+      "name": "Flea Beatles",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Flea Beatles $0.00/500 insects N/A $0.00|name_cost_tail_trim",
+      "originalName": "Flea Beatles $0.00/500 insects N/A $0.00"
+    },
+    {
+      "id": "B24",
+      "name": "Herbicide Treatments",
+      "category": "General",
+      "keyword": null,
+      "quantity": 1000,
+      "unit": "acres",
+      "verb": null,
+      "confidence": 0.3,
+      "source": "Herbicide Treatments $90.00/ac. 1000 acres $90,000.00|name_cost_tail_trim",
+      "originalName": "Herbicide Treatments $90.00/ac. 1000 acres $90,000.00"
+    },
+    {
+      "id": "B25",
+      "name": "$590/day",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$590/day"
+    },
+    {
+      "id": "B26",
+      "name": "$266/day",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$266/day"
+    },
+    {
+      "id": "B27",
+      "name": "$288/day",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$288/day"
+    },
+    {
+      "id": "B28",
+      "name": "$13,622.00",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$13,622.00"
+    },
+    {
+      "id": "B29",
+      "name": "Mgt. Plan Development",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Mgt. Plan Development $266/day 7 $1,860.00|name_cost_tail_trim",
+      "originalName": "Mgt. Plan Development $266/day 7 $1,860.00"
+    },
+    {
+      "id": "B30",
+      "name": "Mapping",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Mapping $554/day 4 $2,216.00|name_cost_tail_trim",
+      "originalName": "Mapping $554/day 4 $2,216.00"
+    },
+    {
+      "id": "B31",
+      "name": "Collector offices for a",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Collector offices for a $30 fee in addition to regular license fees.|name_cost_tail_trim",
+      "originalName": "Collector offices for a $30 fee in addition to regular license fees."
+    },
+    {
+      "id": "B32",
+      "name": "Ag BMP",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Ag BMP $1,609,874.00|name_cost_tail_trim",
+      "originalName": "Ag BMP $1,609,874.00"
+    },
+    {
+      "id": "B33",
+      "name": "Low DO",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Low DO $850,000.00|name_cost_tail_trim",
+      "originalName": "Low DO $850,000.00"
+    },
+    {
+      "id": "B34",
+      "name": "Noxious Aquatics",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Noxious Aquatics $96,000.00|name_cost_tail_trim",
+      "originalName": "Noxious Aquatics $96,000.00"
+    },
+    {
+      "id": "B35",
+      "name": "Fisheries Management",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Fisheries Management $17,698.00|name_cost_tail_trim",
+      "originalName": "Fisheries Management $17,698.00"
+    }
+  ],
+  "bmpCostTable": {
+    "id": "adaptive_generic_costs",
+    "title": "$1,500.00 100 $150,000.00",
+    "table": {
+      "columns": [
+        "Item",
+        "Cost",
+        "Extra?"
+      ],
+      "rows": [
+        {
+          "Item": "$1,500.00 100",
+          "Cost": "$150,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "Overfall Pipes $1,600.00 40",
+          "Cost": "$64,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "Grass Waterways $35.00/acre 25/acres",
+          "Cost": "$875.00",
+          "Extra": null
+        },
+        {
+          "Item": "Stiff Grass Hedges $250.00/site 100/sites",
+          "Cost": "$25,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "Field Borders $125.00/acre 40/acres",
+          "Cost": "$5,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "Reforestation $145.00/acre 1000/acres",
+          "Cost": "$145,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "Wetland Construction $500.00/acre 100/acres",
+          "Cost": "$50,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "Land Forming $400.00/acre 1000/acres",
+          "Cost": "$400,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "Bank Stabilization $3,000.00/site 25/sites",
+          "Cost": "$75,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "No-Till*",
+          "Cost": "$20.00",
+          "Extra": "$300,000.00"
+        },
+        {
+          "Item": "Cover/Double Cropping",
+          "Cost": "$20.00",
+          "Extra": "$300,000.00"
+        },
+        {
+          "Item": "TOTAL",
+          "Cost": "$1,609,874.00",
+          "Extra": null
+        }
+      ],
+      "total": null
+    },
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTableNormalized": {
+    "id": "adaptive_generic_costs",
+    "title": "$1,500.00 100 $150,000.00",
+    "rows": [
+      {
+        "name": "$1,500.00 100",
+        "totalCost": 150000,
+        "rawCost": "$150,000.00"
+      },
+      {
+        "name": "Overfall Pipes $1,600.00 40",
+        "totalCost": 64000,
+        "rawCost": "$64,000.00"
+      },
+      {
+        "name": "Grass Waterways $35.00/acre 25/acres",
+        "totalCost": 875,
+        "rawCost": "$875.00"
+      },
+      {
+        "name": "Stiff Grass Hedges $250.00/site 100/sites",
+        "totalCost": 25000,
+        "rawCost": "$25,000.00"
+      },
+      {
+        "name": "Field Borders $125.00/acre 40/acres",
+        "totalCost": 5000,
+        "rawCost": "$5,000.00"
+      },
+      {
+        "name": "Reforestation $145.00/acre 1000/acres",
+        "totalCost": 145000,
+        "rawCost": "$145,000.00"
+      },
+      {
+        "name": "Wetland Construction $500.00/acre 100/acres",
+        "totalCost": 50000,
+        "rawCost": "$50,000.00"
+      },
+      {
+        "name": "Land Forming $400.00/acre 1000/acres",
+        "totalCost": 400000,
+        "rawCost": "$400,000.00"
+      },
+      {
+        "name": "Bank Stabilization $3,000.00/site 25/sites",
+        "totalCost": 75000,
+        "rawCost": "$75,000.00"
+      },
+      {
+        "name": "No-Till*",
+        "totalCost": 20,
+        "rawCost": "$20.00"
+      },
+      {
+        "name": "Cover/Double Cropping",
+        "totalCost": 20,
+        "rawCost": "$20.00"
+      },
+      {
+        "name": "TOTAL",
+        "totalCost": 1609874,
+        "rawCost": "$1,609,874.00"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 2524789,
+    "discrepancy": null,
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTables": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$1,500.00 100 $150,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "$1,500.00 100",
+            "Cost": "$150,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Overfall Pipes $1,600.00 40",
+            "Cost": "$64,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Grass Waterways $35.00/acre 25/acres",
+            "Cost": "$875.00",
+            "Extra": null
+          },
+          {
+            "Item": "Stiff Grass Hedges $250.00/site 100/sites",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field Borders $125.00/acre 40/acres",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Reforestation $145.00/acre 1000/acres",
+            "Cost": "$145,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Wetland Construction $500.00/acre 100/acres",
+            "Cost": "$50,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Land Forming $400.00/acre 1000/acres",
+            "Cost": "$400,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Bank Stabilization $3,000.00/site 25/sites",
+            "Cost": "$75,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "No-Till*",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "Cover/Double Cropping",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Overfall Pipes $1,600.00 40 $64,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Overfall Pipes $1,600.00 40",
+            "Cost": "$64,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Grass Waterways $35.00/acre 25/acres",
+            "Cost": "$875.00",
+            "Extra": null
+          },
+          {
+            "Item": "Stiff Grass Hedges $250.00/site 100/sites",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field Borders $125.00/acre 40/acres",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Reforestation $145.00/acre 1000/acres",
+            "Cost": "$145,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Wetland Construction $500.00/acre 100/acres",
+            "Cost": "$50,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Land Forming $400.00/acre 1000/acres",
+            "Cost": "$400,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Bank Stabilization $3,000.00/site 25/sites",
+            "Cost": "$75,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "No-Till*",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "Cover/Double Cropping",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$125.00/acre",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Grass Waterways $35.00/acre 25/acres",
+            "Cost": "$875.00",
+            "Extra": null
+          },
+          {
+            "Item": "Stiff Grass Hedges $250.00/site 100/sites",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field Borders $125.00/acre 40/acres",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Reforestation $145.00/acre 1000/acres",
+            "Cost": "$145,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Wetland Construction $500.00/acre 100/acres",
+            "Cost": "$50,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Land Forming $400.00/acre 1000/acres",
+            "Cost": "$400,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Bank Stabilization $3,000.00/site 25/sites",
+            "Cost": "$75,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "No-Till*",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "Cover/Double Cropping",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$55.00/acre x 15 years*",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Grass Waterways $35.00/acre 25/acres",
+            "Cost": "$875.00",
+            "Extra": null
+          },
+          {
+            "Item": "Stiff Grass Hedges $250.00/site 100/sites",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field Borders $125.00/acre 40/acres",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Reforestation $145.00/acre 1000/acres",
+            "Cost": "$145,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Wetland Construction $500.00/acre 100/acres",
+            "Cost": "$50,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Land Forming $400.00/acre 1000/acres",
+            "Cost": "$400,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Bank Stabilization $3,000.00/site 25/sites",
+            "Cost": "$75,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "No-Till*",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "Cover/Double Cropping",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$12,500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Grass Waterways $35.00/acre 25/acres",
+            "Cost": "$875.00",
+            "Extra": null
+          },
+          {
+            "Item": "Stiff Grass Hedges $250.00/site 100/sites",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field Borders $125.00/acre 40/acres",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Reforestation $145.00/acre 1000/acres",
+            "Cost": "$145,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Wetland Construction $500.00/acre 100/acres",
+            "Cost": "$50,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Land Forming $400.00/acre 1000/acres",
+            "Cost": "$400,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Bank Stabilization $3,000.00/site 25/sites",
+            "Cost": "$75,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "No-Till*",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "Cover/Double Cropping",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$82,500.00*",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Grass Waterways $35.00/acre 25/acres",
+            "Cost": "$875.00",
+            "Extra": null
+          },
+          {
+            "Item": "Stiff Grass Hedges $250.00/site 100/sites",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field Borders $125.00/acre 40/acres",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Reforestation $145.00/acre 1000/acres",
+            "Cost": "$145,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Wetland Construction $500.00/acre 100/acres",
+            "Cost": "$50,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Land Forming $400.00/acre 1000/acres",
+            "Cost": "$400,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Bank Stabilization $3,000.00/site 25/sites",
+            "Cost": "$75,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "No-Till*",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "Cover/Double Cropping",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Grass Waterways $35.00/acre 25/acres $875.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Grass Waterways $35.00/acre 25/acres",
+            "Cost": "$875.00",
+            "Extra": null
+          },
+          {
+            "Item": "Stiff Grass Hedges $250.00/site 100/sites",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field Borders $125.00/acre 40/acres",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Reforestation $145.00/acre 1000/acres",
+            "Cost": "$145,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Wetland Construction $500.00/acre 100/acres",
+            "Cost": "$50,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Land Forming $400.00/acre 1000/acres",
+            "Cost": "$400,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Bank Stabilization $3,000.00/site 25/sites",
+            "Cost": "$75,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "No-Till*",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "Cover/Double Cropping",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Stiff Grass Hedges $250.00/site 100/sites $25,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Stiff Grass Hedges $250.00/site 100/sites",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field Borders $125.00/acre 40/acres",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Reforestation $145.00/acre 1000/acres",
+            "Cost": "$145,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Wetland Construction $500.00/acre 100/acres",
+            "Cost": "$50,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Land Forming $400.00/acre 1000/acres",
+            "Cost": "$400,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Bank Stabilization $3,000.00/site 25/sites",
+            "Cost": "$75,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "No-Till*",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "Cover/Double Cropping",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Field Borders $125.00/acre 40/acres $5,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Field Borders $125.00/acre 40/acres",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Reforestation $145.00/acre 1000/acres",
+            "Cost": "$145,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Wetland Construction $500.00/acre 100/acres",
+            "Cost": "$50,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Land Forming $400.00/acre 1000/acres",
+            "Cost": "$400,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Bank Stabilization $3,000.00/site 25/sites",
+            "Cost": "$75,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "No-Till*",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "Cover/Double Cropping",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Reforestation $145.00/acre 1000/acres $145,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Reforestation $145.00/acre 1000/acres",
+            "Cost": "$145,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Wetland Construction $500.00/acre 100/acres",
+            "Cost": "$50,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Land Forming $400.00/acre 1000/acres",
+            "Cost": "$400,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Bank Stabilization $3,000.00/site 25/sites",
+            "Cost": "$75,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "No-Till*",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "Cover/Double Cropping",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Wetland Construction $500.00/acre 100/acres $50,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Wetland Construction $500.00/acre 100/acres",
+            "Cost": "$50,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Land Forming $400.00/acre 1000/acres",
+            "Cost": "$400,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Bank Stabilization $3,000.00/site 25/sites",
+            "Cost": "$75,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "No-Till*",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "Cover/Double Cropping",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Land Forming $400.00/acre 1000/acres $400,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Land Forming $400.00/acre 1000/acres",
+            "Cost": "$400,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Bank Stabilization $3,000.00/site 25/sites",
+            "Cost": "$75,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "No-Till*",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "Cover/Double Cropping",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Bank Stabilization $3,000.00/site 25/sites $75,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Bank Stabilization $3,000.00/site 25/sites",
+            "Cost": "$75,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "No-Till*",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "Cover/Double Cropping",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          },
+          {
+            "Item": "Weir $250,000.00 3",
+            "Cost": "$750,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Flow Augmentation $100,000.00 1",
+            "Cost": "$100,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$850,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "No-Till* $20.00/acre x 15 years* 1000/acres* $300,000.00*",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "No-Till*",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "Cover/Double Cropping",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          },
+          {
+            "Item": "Weir $250,000.00 3",
+            "Cost": "$750,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Flow Augmentation $100,000.00 1",
+            "Cost": "$100,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$850,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Cover/Double Cropping $20.00/acre x 15 years* 1000/acres* $300,000.00*",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Cover/Double Cropping",
+            "Cost": "$20.00",
+            "Extra": "$300,000.00"
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          },
+          {
+            "Item": "Weir $250,000.00 3",
+            "Cost": "$750,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Flow Augmentation $100,000.00 1",
+            "Cost": "$100,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$850,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "TOTAL   $1,609,874.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "TOTAL",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          },
+          {
+            "Item": "Weir $250,000.00 3",
+            "Cost": "$750,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Flow Augmentation $100,000.00 1",
+            "Cost": "$100,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$850,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "MDWFP Monitoring $300 day 3 days/yr./5 years",
+            "Cost": "$4,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "MDWFP Stocking $300 day 1 day/yr/5 years",
+            "Cost": "$1,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Flea Beatles $0.00/500 insects N/A",
+            "Cost": "$0.00",
+            "Extra": null
+          },
+          {
+            "Item": "Herbicide Treatments $90.00/ac. 1000 acres",
+            "Cost": "$90,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$96,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Weir $250,000.00 3 $750,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Weir $250,000.00 3",
+            "Cost": "$750,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Flow Augmentation $100,000.00 1",
+            "Cost": "$100,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$850,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "MDWFP Monitoring $300 day 3 days/yr./5 years",
+            "Cost": "$4,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "MDWFP Stocking $300 day 1 day/yr/5 years",
+            "Cost": "$1,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Flea Beatles $0.00/500 insects N/A",
+            "Cost": "$0.00",
+            "Extra": null
+          },
+          {
+            "Item": "Herbicide Treatments $90.00/ac. 1000 acres",
+            "Cost": "$90,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$96,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Flow Augmentation $100,000.00 1 $100,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Flow Augmentation $100,000.00 1",
+            "Cost": "$100,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$850,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "MDWFP Monitoring $300 day 3 days/yr./5 years",
+            "Cost": "$4,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "MDWFP Stocking $300 day 1 day/yr/5 years",
+            "Cost": "$1,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Flea Beatles $0.00/500 insects N/A",
+            "Cost": "$0.00",
+            "Extra": null
+          },
+          {
+            "Item": "Herbicide Treatments $90.00/ac. 1000 acres",
+            "Cost": "$90,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$96,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "TOTAL   $850,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "TOTAL",
+            "Cost": "$850,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "MDWFP Monitoring $300 day 3 days/yr./5 years",
+            "Cost": "$4,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "MDWFP Stocking $300 day 1 day/yr/5 years",
+            "Cost": "$1,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Flea Beatles $0.00/500 insects N/A",
+            "Cost": "$0.00",
+            "Extra": null
+          },
+          {
+            "Item": "Herbicide Treatments $90.00/ac. 1000 acres",
+            "Cost": "$90,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$96,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "MDWFP Monitoring $300 day 3 days/yr./5 years $4,500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "MDWFP Monitoring $300 day 3 days/yr./5 years",
+            "Cost": "$4,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "MDWFP Stocking $300 day 1 day/yr/5 years",
+            "Cost": "$1,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Flea Beatles $0.00/500 insects N/A",
+            "Cost": "$0.00",
+            "Extra": null
+          },
+          {
+            "Item": "Herbicide Treatments $90.00/ac. 1000 acres",
+            "Cost": "$90,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$96,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "MDWFP Stocking $300 day 1 day/yr/5 years $1,500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "MDWFP Stocking $300 day 1 day/yr/5 years",
+            "Cost": "$1,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Flea Beatles $0.00/500 insects N/A",
+            "Cost": "$0.00",
+            "Extra": null
+          },
+          {
+            "Item": "Herbicide Treatments $90.00/ac. 1000 acres",
+            "Cost": "$90,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$96,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mgt. Plan Development $266/day 7",
+            "Cost": "$1,860.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mapping $554/day 4",
+            "Cost": "$2,216.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "Collector offices for a",
+            "Cost": "$30",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          },
+          {
+            "Item": "Low DO",
+            "Cost": "$850,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$96,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$2,573,572.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Flea Beatles $0.00/500 insects N/A $0.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Flea Beatles $0.00/500 insects N/A",
+            "Cost": "$0.00",
+            "Extra": null
+          },
+          {
+            "Item": "Herbicide Treatments $90.00/ac. 1000 acres",
+            "Cost": "$90,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$96,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mgt. Plan Development $266/day 7",
+            "Cost": "$1,860.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mapping $554/day 4",
+            "Cost": "$2,216.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "Collector offices for a",
+            "Cost": "$30",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          },
+          {
+            "Item": "Low DO",
+            "Cost": "$850,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$96,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$2,573,572.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Herbicide Treatments $90.00/ac. 1000 acres $90,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Herbicide Treatments $90.00/ac. 1000 acres",
+            "Cost": "$90,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$96,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mgt. Plan Development $266/day 7",
+            "Cost": "$1,860.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mapping $554/day 4",
+            "Cost": "$2,216.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "Collector offices for a",
+            "Cost": "$30",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          },
+          {
+            "Item": "Low DO",
+            "Cost": "$850,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$96,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$2,573,572.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $96,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$96,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mgt. Plan Development $266/day 7",
+            "Cost": "$1,860.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mapping $554/day 4",
+            "Cost": "$2,216.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "Collector offices for a",
+            "Cost": "$30",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          },
+          {
+            "Item": "Low DO",
+            "Cost": "$850,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$96,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$2,573,572.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$590/day",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Mgt. Plan Development $266/day 7",
+            "Cost": "$1,860.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mapping $554/day 4",
+            "Cost": "$2,216.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "Collector offices for a",
+            "Cost": "$30",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          },
+          {
+            "Item": "Low DO",
+            "Cost": "$850,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$96,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$2,573,572.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$266/day",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Mgt. Plan Development $266/day 7",
+            "Cost": "$1,860.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mapping $554/day 4",
+            "Cost": "$2,216.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "Collector offices for a",
+            "Cost": "$30",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          },
+          {
+            "Item": "Low DO",
+            "Cost": "$850,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$96,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$2,573,572.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$288/day",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Mgt. Plan Development $266/day 7",
+            "Cost": "$1,860.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mapping $554/day 4",
+            "Cost": "$2,216.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "Collector offices for a",
+            "Cost": "$30",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          },
+          {
+            "Item": "Low DO",
+            "Cost": "$850,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$96,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$2,573,572.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$266/day",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Mgt. Plan Development $266/day 7",
+            "Cost": "$1,860.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mapping $554/day 4",
+            "Cost": "$2,216.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "Collector offices for a",
+            "Cost": "$30",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          },
+          {
+            "Item": "Low DO",
+            "Cost": "$850,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$96,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$2,573,572.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$13,622.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Mgt. Plan Development $266/day 7",
+            "Cost": "$1,860.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mapping $554/day 4",
+            "Cost": "$2,216.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "Collector offices for a",
+            "Cost": "$30",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          },
+          {
+            "Item": "Low DO",
+            "Cost": "$850,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$96,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$2,573,572.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Mgt. Plan Development $266/day 7 $1,860.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Mgt. Plan Development $266/day 7",
+            "Cost": "$1,860.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mapping $554/day 4",
+            "Cost": "$2,216.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "Collector offices for a",
+            "Cost": "$30",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          },
+          {
+            "Item": "Low DO",
+            "Cost": "$850,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$96,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$2,573,572.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Mapping $554/day 4 $2,216.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Mapping $554/day 4",
+            "Cost": "$2,216.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "Collector offices for a",
+            "Cost": "$30",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          },
+          {
+            "Item": "Low DO",
+            "Cost": "$850,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$96,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$2,573,572.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "TOTAL   $17,698.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "TOTAL",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "Collector offices for a",
+            "Cost": "$30",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          },
+          {
+            "Item": "Low DO",
+            "Cost": "$850,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$96,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$2,573,572.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Collector offices for a $30 fee in addition to regular license fees.",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Collector offices for a",
+            "Cost": "$30",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          },
+          {
+            "Item": "Low DO",
+            "Cost": "$850,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$96,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$2,573,572.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Ag BMP $1,609,874.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Ag BMP",
+            "Cost": "$1,609,874.00",
+            "Extra": null
+          },
+          {
+            "Item": "Low DO",
+            "Cost": "$850,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$96,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$2,573,572.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Low DO $850,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Low DO",
+            "Cost": "$850,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$96,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$2,573,572.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Noxious Aquatics $96,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$96,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$17,698.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$2,573,572.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$1,500.00 100 $150,000.00",
+      "rows": [
+        {
+          "name": "$1,500.00 100",
+          "totalCost": 150000,
+          "rawCost": "$150,000.00"
+        },
+        {
+          "name": "Overfall Pipes $1,600.00 40",
+          "totalCost": 64000,
+          "rawCost": "$64,000.00"
+        },
+        {
+          "name": "Grass Waterways $35.00/acre 25/acres",
+          "totalCost": 875,
+          "rawCost": "$875.00"
+        },
+        {
+          "name": "Stiff Grass Hedges $250.00/site 100/sites",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Field Borders $125.00/acre 40/acres",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "Reforestation $145.00/acre 1000/acres",
+          "totalCost": 145000,
+          "rawCost": "$145,000.00"
+        },
+        {
+          "name": "Wetland Construction $500.00/acre 100/acres",
+          "totalCost": 50000,
+          "rawCost": "$50,000.00"
+        },
+        {
+          "name": "Land Forming $400.00/acre 1000/acres",
+          "totalCost": 400000,
+          "rawCost": "$400,000.00"
+        },
+        {
+          "name": "Bank Stabilization $3,000.00/site 25/sites",
+          "totalCost": 75000,
+          "rawCost": "$75,000.00"
+        },
+        {
+          "name": "No-Till*",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "Cover/Double Cropping",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2524789,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Overfall Pipes $1,600.00 40 $64,000.00",
+      "rows": [
+        {
+          "name": "Overfall Pipes $1,600.00 40",
+          "totalCost": 64000,
+          "rawCost": "$64,000.00"
+        },
+        {
+          "name": "Grass Waterways $35.00/acre 25/acres",
+          "totalCost": 875,
+          "rawCost": "$875.00"
+        },
+        {
+          "name": "Stiff Grass Hedges $250.00/site 100/sites",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Field Borders $125.00/acre 40/acres",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "Reforestation $145.00/acre 1000/acres",
+          "totalCost": 145000,
+          "rawCost": "$145,000.00"
+        },
+        {
+          "name": "Wetland Construction $500.00/acre 100/acres",
+          "totalCost": 50000,
+          "rawCost": "$50,000.00"
+        },
+        {
+          "name": "Land Forming $400.00/acre 1000/acres",
+          "totalCost": 400000,
+          "rawCost": "$400,000.00"
+        },
+        {
+          "name": "Bank Stabilization $3,000.00/site 25/sites",
+          "totalCost": 75000,
+          "rawCost": "$75,000.00"
+        },
+        {
+          "name": "No-Till*",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "Cover/Double Cropping",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2374789,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$125.00/acre",
+      "rows": [
+        {
+          "name": "Grass Waterways $35.00/acre 25/acres",
+          "totalCost": 875,
+          "rawCost": "$875.00"
+        },
+        {
+          "name": "Stiff Grass Hedges $250.00/site 100/sites",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Field Borders $125.00/acre 40/acres",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "Reforestation $145.00/acre 1000/acres",
+          "totalCost": 145000,
+          "rawCost": "$145,000.00"
+        },
+        {
+          "name": "Wetland Construction $500.00/acre 100/acres",
+          "totalCost": 50000,
+          "rawCost": "$50,000.00"
+        },
+        {
+          "name": "Land Forming $400.00/acre 1000/acres",
+          "totalCost": 400000,
+          "rawCost": "$400,000.00"
+        },
+        {
+          "name": "Bank Stabilization $3,000.00/site 25/sites",
+          "totalCost": 75000,
+          "rawCost": "$75,000.00"
+        },
+        {
+          "name": "No-Till*",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "Cover/Double Cropping",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2310789,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$55.00/acre x 15 years*",
+      "rows": [
+        {
+          "name": "Grass Waterways $35.00/acre 25/acres",
+          "totalCost": 875,
+          "rawCost": "$875.00"
+        },
+        {
+          "name": "Stiff Grass Hedges $250.00/site 100/sites",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Field Borders $125.00/acre 40/acres",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "Reforestation $145.00/acre 1000/acres",
+          "totalCost": 145000,
+          "rawCost": "$145,000.00"
+        },
+        {
+          "name": "Wetland Construction $500.00/acre 100/acres",
+          "totalCost": 50000,
+          "rawCost": "$50,000.00"
+        },
+        {
+          "name": "Land Forming $400.00/acre 1000/acres",
+          "totalCost": 400000,
+          "rawCost": "$400,000.00"
+        },
+        {
+          "name": "Bank Stabilization $3,000.00/site 25/sites",
+          "totalCost": 75000,
+          "rawCost": "$75,000.00"
+        },
+        {
+          "name": "No-Till*",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "Cover/Double Cropping",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2310789,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$12,500.00",
+      "rows": [
+        {
+          "name": "Grass Waterways $35.00/acre 25/acres",
+          "totalCost": 875,
+          "rawCost": "$875.00"
+        },
+        {
+          "name": "Stiff Grass Hedges $250.00/site 100/sites",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Field Borders $125.00/acre 40/acres",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "Reforestation $145.00/acre 1000/acres",
+          "totalCost": 145000,
+          "rawCost": "$145,000.00"
+        },
+        {
+          "name": "Wetland Construction $500.00/acre 100/acres",
+          "totalCost": 50000,
+          "rawCost": "$50,000.00"
+        },
+        {
+          "name": "Land Forming $400.00/acre 1000/acres",
+          "totalCost": 400000,
+          "rawCost": "$400,000.00"
+        },
+        {
+          "name": "Bank Stabilization $3,000.00/site 25/sites",
+          "totalCost": 75000,
+          "rawCost": "$75,000.00"
+        },
+        {
+          "name": "No-Till*",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "Cover/Double Cropping",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2310789,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$82,500.00*",
+      "rows": [
+        {
+          "name": "Grass Waterways $35.00/acre 25/acres",
+          "totalCost": 875,
+          "rawCost": "$875.00"
+        },
+        {
+          "name": "Stiff Grass Hedges $250.00/site 100/sites",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Field Borders $125.00/acre 40/acres",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "Reforestation $145.00/acre 1000/acres",
+          "totalCost": 145000,
+          "rawCost": "$145,000.00"
+        },
+        {
+          "name": "Wetland Construction $500.00/acre 100/acres",
+          "totalCost": 50000,
+          "rawCost": "$50,000.00"
+        },
+        {
+          "name": "Land Forming $400.00/acre 1000/acres",
+          "totalCost": 400000,
+          "rawCost": "$400,000.00"
+        },
+        {
+          "name": "Bank Stabilization $3,000.00/site 25/sites",
+          "totalCost": 75000,
+          "rawCost": "$75,000.00"
+        },
+        {
+          "name": "No-Till*",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "Cover/Double Cropping",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2310789,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Grass Waterways $35.00/acre 25/acres $875.00",
+      "rows": [
+        {
+          "name": "Grass Waterways $35.00/acre 25/acres",
+          "totalCost": 875,
+          "rawCost": "$875.00"
+        },
+        {
+          "name": "Stiff Grass Hedges $250.00/site 100/sites",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Field Borders $125.00/acre 40/acres",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "Reforestation $145.00/acre 1000/acres",
+          "totalCost": 145000,
+          "rawCost": "$145,000.00"
+        },
+        {
+          "name": "Wetland Construction $500.00/acre 100/acres",
+          "totalCost": 50000,
+          "rawCost": "$50,000.00"
+        },
+        {
+          "name": "Land Forming $400.00/acre 1000/acres",
+          "totalCost": 400000,
+          "rawCost": "$400,000.00"
+        },
+        {
+          "name": "Bank Stabilization $3,000.00/site 25/sites",
+          "totalCost": 75000,
+          "rawCost": "$75,000.00"
+        },
+        {
+          "name": "No-Till*",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "Cover/Double Cropping",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2310789,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Stiff Grass Hedges $250.00/site 100/sites $25,000.00",
+      "rows": [
+        {
+          "name": "Stiff Grass Hedges $250.00/site 100/sites",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Field Borders $125.00/acre 40/acres",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "Reforestation $145.00/acre 1000/acres",
+          "totalCost": 145000,
+          "rawCost": "$145,000.00"
+        },
+        {
+          "name": "Wetland Construction $500.00/acre 100/acres",
+          "totalCost": 50000,
+          "rawCost": "$50,000.00"
+        },
+        {
+          "name": "Land Forming $400.00/acre 1000/acres",
+          "totalCost": 400000,
+          "rawCost": "$400,000.00"
+        },
+        {
+          "name": "Bank Stabilization $3,000.00/site 25/sites",
+          "totalCost": 75000,
+          "rawCost": "$75,000.00"
+        },
+        {
+          "name": "No-Till*",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "Cover/Double Cropping",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2309914,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Field Borders $125.00/acre 40/acres $5,000.00",
+      "rows": [
+        {
+          "name": "Field Borders $125.00/acre 40/acres",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "Reforestation $145.00/acre 1000/acres",
+          "totalCost": 145000,
+          "rawCost": "$145,000.00"
+        },
+        {
+          "name": "Wetland Construction $500.00/acre 100/acres",
+          "totalCost": 50000,
+          "rawCost": "$50,000.00"
+        },
+        {
+          "name": "Land Forming $400.00/acre 1000/acres",
+          "totalCost": 400000,
+          "rawCost": "$400,000.00"
+        },
+        {
+          "name": "Bank Stabilization $3,000.00/site 25/sites",
+          "totalCost": 75000,
+          "rawCost": "$75,000.00"
+        },
+        {
+          "name": "No-Till*",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "Cover/Double Cropping",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2284914,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Reforestation $145.00/acre 1000/acres $145,000.00",
+      "rows": [
+        {
+          "name": "Reforestation $145.00/acre 1000/acres",
+          "totalCost": 145000,
+          "rawCost": "$145,000.00"
+        },
+        {
+          "name": "Wetland Construction $500.00/acre 100/acres",
+          "totalCost": 50000,
+          "rawCost": "$50,000.00"
+        },
+        {
+          "name": "Land Forming $400.00/acre 1000/acres",
+          "totalCost": 400000,
+          "rawCost": "$400,000.00"
+        },
+        {
+          "name": "Bank Stabilization $3,000.00/site 25/sites",
+          "totalCost": 75000,
+          "rawCost": "$75,000.00"
+        },
+        {
+          "name": "No-Till*",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "Cover/Double Cropping",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2279914,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Wetland Construction $500.00/acre 100/acres $50,000.00",
+      "rows": [
+        {
+          "name": "Wetland Construction $500.00/acre 100/acres",
+          "totalCost": 50000,
+          "rawCost": "$50,000.00"
+        },
+        {
+          "name": "Land Forming $400.00/acre 1000/acres",
+          "totalCost": 400000,
+          "rawCost": "$400,000.00"
+        },
+        {
+          "name": "Bank Stabilization $3,000.00/site 25/sites",
+          "totalCost": 75000,
+          "rawCost": "$75,000.00"
+        },
+        {
+          "name": "No-Till*",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "Cover/Double Cropping",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2134914,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Land Forming $400.00/acre 1000/acres $400,000.00",
+      "rows": [
+        {
+          "name": "Land Forming $400.00/acre 1000/acres",
+          "totalCost": 400000,
+          "rawCost": "$400,000.00"
+        },
+        {
+          "name": "Bank Stabilization $3,000.00/site 25/sites",
+          "totalCost": 75000,
+          "rawCost": "$75,000.00"
+        },
+        {
+          "name": "No-Till*",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "Cover/Double Cropping",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2084914,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Bank Stabilization $3,000.00/site 25/sites $75,000.00",
+      "rows": [
+        {
+          "name": "Bank Stabilization $3,000.00/site 25/sites",
+          "totalCost": 75000,
+          "rawCost": "$75,000.00"
+        },
+        {
+          "name": "No-Till*",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "Cover/Double Cropping",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        },
+        {
+          "name": "Weir $250,000.00 3",
+          "totalCost": 750000,
+          "rawCost": "$750,000.00"
+        },
+        {
+          "name": "Flow Augmentation $100,000.00 1",
+          "totalCost": 100000,
+          "rawCost": "$100,000.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 850000,
+          "rawCost": "$850,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 3384914,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "No-Till* $20.00/acre x 15 years* 1000/acres* $300,000.00*",
+      "rows": [
+        {
+          "name": "No-Till*",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "Cover/Double Cropping",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        },
+        {
+          "name": "Weir $250,000.00 3",
+          "totalCost": 750000,
+          "rawCost": "$750,000.00"
+        },
+        {
+          "name": "Flow Augmentation $100,000.00 1",
+          "totalCost": 100000,
+          "rawCost": "$100,000.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 850000,
+          "rawCost": "$850,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 3309914,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Cover/Double Cropping $20.00/acre x 15 years* 1000/acres* $300,000.00*",
+      "rows": [
+        {
+          "name": "Cover/Double Cropping",
+          "totalCost": 20,
+          "rawCost": "$20.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        },
+        {
+          "name": "Weir $250,000.00 3",
+          "totalCost": 750000,
+          "rawCost": "$750,000.00"
+        },
+        {
+          "name": "Flow Augmentation $100,000.00 1",
+          "totalCost": 100000,
+          "rawCost": "$100,000.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 850000,
+          "rawCost": "$850,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 3309894,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "TOTAL   $1,609,874.00",
+      "rows": [
+        {
+          "name": "TOTAL",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        },
+        {
+          "name": "Weir $250,000.00 3",
+          "totalCost": 750000,
+          "rawCost": "$750,000.00"
+        },
+        {
+          "name": "Flow Augmentation $100,000.00 1",
+          "totalCost": 100000,
+          "rawCost": "$100,000.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 850000,
+          "rawCost": "$850,000.00"
+        },
+        {
+          "name": "MDWFP Monitoring $300 day 3 days/yr./5 years",
+          "totalCost": 4500,
+          "rawCost": "$4,500.00"
+        },
+        {
+          "name": "MDWFP Stocking $300 day 1 day/yr/5 years",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Flea Beatles $0.00/500 insects N/A",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Herbicide Treatments $90.00/ac. 1000 acres",
+          "totalCost": 90000,
+          "rawCost": "$90,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 96000,
+          "rawCost": "$96,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 3501874,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Weir $250,000.00 3 $750,000.00",
+      "rows": [
+        {
+          "name": "Weir $250,000.00 3",
+          "totalCost": 750000,
+          "rawCost": "$750,000.00"
+        },
+        {
+          "name": "Flow Augmentation $100,000.00 1",
+          "totalCost": 100000,
+          "rawCost": "$100,000.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 850000,
+          "rawCost": "$850,000.00"
+        },
+        {
+          "name": "MDWFP Monitoring $300 day 3 days/yr./5 years",
+          "totalCost": 4500,
+          "rawCost": "$4,500.00"
+        },
+        {
+          "name": "MDWFP Stocking $300 day 1 day/yr/5 years",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Flea Beatles $0.00/500 insects N/A",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Herbicide Treatments $90.00/ac. 1000 acres",
+          "totalCost": 90000,
+          "rawCost": "$90,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 96000,
+          "rawCost": "$96,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1892000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Flow Augmentation $100,000.00 1 $100,000.00",
+      "rows": [
+        {
+          "name": "Flow Augmentation $100,000.00 1",
+          "totalCost": 100000,
+          "rawCost": "$100,000.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 850000,
+          "rawCost": "$850,000.00"
+        },
+        {
+          "name": "MDWFP Monitoring $300 day 3 days/yr./5 years",
+          "totalCost": 4500,
+          "rawCost": "$4,500.00"
+        },
+        {
+          "name": "MDWFP Stocking $300 day 1 day/yr/5 years",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Flea Beatles $0.00/500 insects N/A",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Herbicide Treatments $90.00/ac. 1000 acres",
+          "totalCost": 90000,
+          "rawCost": "$90,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 96000,
+          "rawCost": "$96,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1142000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "TOTAL   $850,000.00",
+      "rows": [
+        {
+          "name": "TOTAL",
+          "totalCost": 850000,
+          "rawCost": "$850,000.00"
+        },
+        {
+          "name": "MDWFP Monitoring $300 day 3 days/yr./5 years",
+          "totalCost": 4500,
+          "rawCost": "$4,500.00"
+        },
+        {
+          "name": "MDWFP Stocking $300 day 1 day/yr/5 years",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Flea Beatles $0.00/500 insects N/A",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Herbicide Treatments $90.00/ac. 1000 acres",
+          "totalCost": 90000,
+          "rawCost": "$90,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 96000,
+          "rawCost": "$96,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1042000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "MDWFP Monitoring $300 day 3 days/yr./5 years $4,500.00",
+      "rows": [
+        {
+          "name": "MDWFP Monitoring $300 day 3 days/yr./5 years",
+          "totalCost": 4500,
+          "rawCost": "$4,500.00"
+        },
+        {
+          "name": "MDWFP Stocking $300 day 1 day/yr/5 years",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Flea Beatles $0.00/500 insects N/A",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Herbicide Treatments $90.00/ac. 1000 acres",
+          "totalCost": 90000,
+          "rawCost": "$90,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 96000,
+          "rawCost": "$96,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 192000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "MDWFP Stocking $300 day 1 day/yr/5 years $1,500.00",
+      "rows": [
+        {
+          "name": "MDWFP Stocking $300 day 1 day/yr/5 years",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Flea Beatles $0.00/500 insects N/A",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Herbicide Treatments $90.00/ac. 1000 acres",
+          "totalCost": 90000,
+          "rawCost": "$90,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 96000,
+          "rawCost": "$96,000.00"
+        },
+        {
+          "name": "Mgt. Plan Development $266/day 7",
+          "totalCost": 1860,
+          "rawCost": "$1,860.00"
+        },
+        {
+          "name": "Mapping $554/day 4",
+          "totalCost": 2216,
+          "rawCost": "$2,216.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "Collector offices for a",
+          "totalCost": 30,
+          "rawCost": "$30"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        },
+        {
+          "name": "Low DO",
+          "totalCost": 850000,
+          "rawCost": "$850,000.00"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 96000,
+          "rawCost": "$96,000.00"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 2573572,
+          "rawCost": "$2,573,572.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 5356448,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Flea Beatles $0.00/500 insects N/A $0.00",
+      "rows": [
+        {
+          "name": "Flea Beatles $0.00/500 insects N/A",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "Herbicide Treatments $90.00/ac. 1000 acres",
+          "totalCost": 90000,
+          "rawCost": "$90,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 96000,
+          "rawCost": "$96,000.00"
+        },
+        {
+          "name": "Mgt. Plan Development $266/day 7",
+          "totalCost": 1860,
+          "rawCost": "$1,860.00"
+        },
+        {
+          "name": "Mapping $554/day 4",
+          "totalCost": 2216,
+          "rawCost": "$2,216.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "Collector offices for a",
+          "totalCost": 30,
+          "rawCost": "$30"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        },
+        {
+          "name": "Low DO",
+          "totalCost": 850000,
+          "rawCost": "$850,000.00"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 96000,
+          "rawCost": "$96,000.00"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 2573572,
+          "rawCost": "$2,573,572.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 5354948,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Herbicide Treatments $90.00/ac. 1000 acres $90,000.00",
+      "rows": [
+        {
+          "name": "Herbicide Treatments $90.00/ac. 1000 acres",
+          "totalCost": 90000,
+          "rawCost": "$90,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 96000,
+          "rawCost": "$96,000.00"
+        },
+        {
+          "name": "Mgt. Plan Development $266/day 7",
+          "totalCost": 1860,
+          "rawCost": "$1,860.00"
+        },
+        {
+          "name": "Mapping $554/day 4",
+          "totalCost": 2216,
+          "rawCost": "$2,216.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "Collector offices for a",
+          "totalCost": 30,
+          "rawCost": "$30"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        },
+        {
+          "name": "Low DO",
+          "totalCost": 850000,
+          "rawCost": "$850,000.00"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 96000,
+          "rawCost": "$96,000.00"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 2573572,
+          "rawCost": "$2,573,572.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 5354948,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $96,000.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 96000,
+          "rawCost": "$96,000.00"
+        },
+        {
+          "name": "Mgt. Plan Development $266/day 7",
+          "totalCost": 1860,
+          "rawCost": "$1,860.00"
+        },
+        {
+          "name": "Mapping $554/day 4",
+          "totalCost": 2216,
+          "rawCost": "$2,216.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "Collector offices for a",
+          "totalCost": 30,
+          "rawCost": "$30"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        },
+        {
+          "name": "Low DO",
+          "totalCost": 850000,
+          "rawCost": "$850,000.00"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 96000,
+          "rawCost": "$96,000.00"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 2573572,
+          "rawCost": "$2,573,572.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 5264948,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$590/day",
+      "rows": [
+        {
+          "name": "Mgt. Plan Development $266/day 7",
+          "totalCost": 1860,
+          "rawCost": "$1,860.00"
+        },
+        {
+          "name": "Mapping $554/day 4",
+          "totalCost": 2216,
+          "rawCost": "$2,216.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "Collector offices for a",
+          "totalCost": 30,
+          "rawCost": "$30"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        },
+        {
+          "name": "Low DO",
+          "totalCost": 850000,
+          "rawCost": "$850,000.00"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 96000,
+          "rawCost": "$96,000.00"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 2573572,
+          "rawCost": "$2,573,572.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 5168948,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$266/day",
+      "rows": [
+        {
+          "name": "Mgt. Plan Development $266/day 7",
+          "totalCost": 1860,
+          "rawCost": "$1,860.00"
+        },
+        {
+          "name": "Mapping $554/day 4",
+          "totalCost": 2216,
+          "rawCost": "$2,216.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "Collector offices for a",
+          "totalCost": 30,
+          "rawCost": "$30"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        },
+        {
+          "name": "Low DO",
+          "totalCost": 850000,
+          "rawCost": "$850,000.00"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 96000,
+          "rawCost": "$96,000.00"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 2573572,
+          "rawCost": "$2,573,572.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 5168948,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$288/day",
+      "rows": [
+        {
+          "name": "Mgt. Plan Development $266/day 7",
+          "totalCost": 1860,
+          "rawCost": "$1,860.00"
+        },
+        {
+          "name": "Mapping $554/day 4",
+          "totalCost": 2216,
+          "rawCost": "$2,216.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "Collector offices for a",
+          "totalCost": 30,
+          "rawCost": "$30"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        },
+        {
+          "name": "Low DO",
+          "totalCost": 850000,
+          "rawCost": "$850,000.00"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 96000,
+          "rawCost": "$96,000.00"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 2573572,
+          "rawCost": "$2,573,572.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 5168948,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$266/day",
+      "rows": [
+        {
+          "name": "Mgt. Plan Development $266/day 7",
+          "totalCost": 1860,
+          "rawCost": "$1,860.00"
+        },
+        {
+          "name": "Mapping $554/day 4",
+          "totalCost": 2216,
+          "rawCost": "$2,216.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "Collector offices for a",
+          "totalCost": 30,
+          "rawCost": "$30"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        },
+        {
+          "name": "Low DO",
+          "totalCost": 850000,
+          "rawCost": "$850,000.00"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 96000,
+          "rawCost": "$96,000.00"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 2573572,
+          "rawCost": "$2,573,572.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 5168948,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$13,622.00",
+      "rows": [
+        {
+          "name": "Mgt. Plan Development $266/day 7",
+          "totalCost": 1860,
+          "rawCost": "$1,860.00"
+        },
+        {
+          "name": "Mapping $554/day 4",
+          "totalCost": 2216,
+          "rawCost": "$2,216.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "Collector offices for a",
+          "totalCost": 30,
+          "rawCost": "$30"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        },
+        {
+          "name": "Low DO",
+          "totalCost": 850000,
+          "rawCost": "$850,000.00"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 96000,
+          "rawCost": "$96,000.00"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 2573572,
+          "rawCost": "$2,573,572.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 5168948,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Mgt. Plan Development $266/day 7 $1,860.00",
+      "rows": [
+        {
+          "name": "Mgt. Plan Development $266/day 7",
+          "totalCost": 1860,
+          "rawCost": "$1,860.00"
+        },
+        {
+          "name": "Mapping $554/day 4",
+          "totalCost": 2216,
+          "rawCost": "$2,216.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "Collector offices for a",
+          "totalCost": 30,
+          "rawCost": "$30"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        },
+        {
+          "name": "Low DO",
+          "totalCost": 850000,
+          "rawCost": "$850,000.00"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 96000,
+          "rawCost": "$96,000.00"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 2573572,
+          "rawCost": "$2,573,572.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 5168948,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Mapping $554/day 4 $2,216.00",
+      "rows": [
+        {
+          "name": "Mapping $554/day 4",
+          "totalCost": 2216,
+          "rawCost": "$2,216.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "Collector offices for a",
+          "totalCost": 30,
+          "rawCost": "$30"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        },
+        {
+          "name": "Low DO",
+          "totalCost": 850000,
+          "rawCost": "$850,000.00"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 96000,
+          "rawCost": "$96,000.00"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 2573572,
+          "rawCost": "$2,573,572.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 5167088,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "TOTAL   $17,698.00",
+      "rows": [
+        {
+          "name": "TOTAL",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "Collector offices for a",
+          "totalCost": 30,
+          "rawCost": "$30"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        },
+        {
+          "name": "Low DO",
+          "totalCost": 850000,
+          "rawCost": "$850,000.00"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 96000,
+          "rawCost": "$96,000.00"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 2573572,
+          "rawCost": "$2,573,572.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 5164872,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Collector offices for a $30 fee in addition to regular license fees.",
+      "rows": [
+        {
+          "name": "Collector offices for a",
+          "totalCost": 30,
+          "rawCost": "$30"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        },
+        {
+          "name": "Low DO",
+          "totalCost": 850000,
+          "rawCost": "$850,000.00"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 96000,
+          "rawCost": "$96,000.00"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 2573572,
+          "rawCost": "$2,573,572.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 5147174,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Ag BMP $1,609,874.00",
+      "rows": [
+        {
+          "name": "Ag BMP",
+          "totalCost": 1609874,
+          "rawCost": "$1,609,874.00"
+        },
+        {
+          "name": "Low DO",
+          "totalCost": 850000,
+          "rawCost": "$850,000.00"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 96000,
+          "rawCost": "$96,000.00"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 2573572,
+          "rawCost": "$2,573,572.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 5147144,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Low DO $850,000.00",
+      "rows": [
+        {
+          "name": "Low DO",
+          "totalCost": 850000,
+          "rawCost": "$850,000.00"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 96000,
+          "rawCost": "$96,000.00"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 2573572,
+          "rawCost": "$2,573,572.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 3537270,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Noxious Aquatics $96,000.00",
+      "rows": [
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 96000,
+          "rawCost": "$96,000.00"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 17698,
+          "rawCost": "$17,698.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 2573572,
+          "rawCost": "$2,573,572.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2687270,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-02T13:23:24.933Z",
+  "metadata": {
+    "sourceId": "bear-creek-watershed-plan-2007",
+    "sourceFile": "bear-creek-watershed-plan-2007.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$1,500.00 100 $150,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2524789
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Overfall Pipes $1,600.00 40 $64,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2374789
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$125.00/acre",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2310789
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$55.00/acre x 15 years*",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2310789
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$12,500.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2310789
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$82,500.00*",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2310789
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Grass Waterways $35.00/acre 25/acres $875.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2310789
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Stiff Grass Hedges $250.00/site 100/sites $25,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2309914
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Field Borders $125.00/acre 40/acres $5,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2284914
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Reforestation $145.00/acre 1000/acres $145,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2279914
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Wetland Construction $500.00/acre 100/acres $50,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2134914
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Land Forming $400.00/acre 1000/acres $400,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2084914
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Bank Stabilization $3,000.00/site 25/sites $75,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 3384914
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "No-Till* $20.00/acre x 15 years* 1000/acres* $300,000.00*",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 3309914
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Cover/Double Cropping $20.00/acre x 15 years* 1000/acres* $300,000.00*",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 3309894
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "TOTAL   $1,609,874.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 3501874
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Weir $250,000.00 3 $750,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1892000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Flow Augmentation $100,000.00 1 $100,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1142000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "TOTAL   $850,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1042000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "MDWFP Monitoring $300 day 3 days/yr./5 years $4,500.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 192000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "MDWFP Stocking $300 day 1 day/yr/5 years $1,500.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 5356448
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Flea Beatles $0.00/500 insects N/A $0.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 5354948
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Herbicide Treatments $90.00/ac. 1000 acres $90,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 5354948
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Total   $96,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 5264948
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$590/day",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 5168948
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$266/day",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 5168948
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$288/day",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 5168948
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$266/day",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 5168948
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$13,622.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 5168948
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Mgt. Plan Development $266/day 7 $1,860.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 5168948
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Mapping $554/day 4 $2,216.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 5167088
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "TOTAL   $17,698.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 5164872
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Collector offices for a $30 fee in addition to regular license fees.",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 5147174
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Ag BMP $1,609,874.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 5147144
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Low DO $850,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 3537270
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Noxious Aquatics $96,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2687270
+      }
+    ]
+  }
+}

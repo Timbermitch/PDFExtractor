@@ -1,0 +1,19 @@
+{
+  "reportId": "booths-creek-bayou-pierre-watershed-plan-2017-6",
+  "tables": [
+    {
+      "id": "cost_table",
+      "title": "BMP Cost Estimates",
+      "patternId": "booths_creek_format",
+      "rowCount": 12,
+      "totalReported": null,
+      "totalComputed": 721854.4800000001,
+      "hash": "e650fbed0d0c343e22a9705f1b486ed41357f8ff",
+      "rowHashes": {
+        "nameHash": "732c79b02b47b2e42b980d63c6692070d4369158",
+        "totalHash": "40a35c17a189502c00ea849747ce196e0090032b"
+      }
+    }
+  ],
+  "combinedHash": "36c1bfd61a71e6086708acc390ce82c357056718"
+}

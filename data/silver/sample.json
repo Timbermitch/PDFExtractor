@@ -1,0 +1,618 @@
+{
+  "id": "sample",
+  "summary": {
+    "totalGoals": 0,
+    "totalBMPs": 6,
+    "totalActivities": 0,
+    "primaryGoals": 0,
+    "completionRate": 0,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 0,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 0
+    },
+    "bmpCategories": {
+      "General": 3,
+      "Structural": 1,
+      "Vegetative": 1,
+      "Erosion Control": 1
+    },
+    "avgGoalConfidence": 0,
+    "strongGoals": 0
+  },
+  "goals": [],
+  "mainGoals": [],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "BMPs    Amount    Estimated Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "BMPs    Amount    Estimated Cost"
+    },
+    {
+      "id": "B2",
+      "name": "Sediment Basin    2 each",
+      "category": "Structural",
+      "keyword": "Sediment Basin",
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.4,
+      "source": "Sediment Basin    2 each    $12,500|name_cost_tail_trim",
+      "originalName": "Sediment Basin    2 each    $12,500"
+    },
+    {
+      "id": "B3",
+      "name": "Cover Crops",
+      "category": "Vegetative",
+      "keyword": "Cover Crop",
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.4,
+      "source": "Cover Crops    800 ac    $58,400|name_cost_tail_trim",
+      "originalName": "Cover Crops    800 ac    $58,400"
+    },
+    {
+      "id": "B4",
+      "name": "Streambank Stabilization",
+      "category": "Erosion Control",
+      "keyword": "Streambank Stabilization",
+      "quantity": 1200,
+      "unit": "ft",
+      "verb": null,
+      "confidence": 0.65,
+      "source": "Streambank Stabilization    1,200 ft    $172,904|name_cost_tail_trim",
+      "originalName": "Streambank Stabilization    1,200 ft    $172,904"
+    },
+    {
+      "id": "B5",
+      "name": "Heavy Use Area Protection    6 each",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Heavy Use Area Protection    6 each    $36,000|name_cost_tail_trim",
+      "originalName": "Heavy Use Area Protection    6 each    $36,000"
+    },
+    {
+      "id": "B6",
+      "name": "Total Estimated Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Total Estimated Cost    $279,804|name_cost_tail_trim",
+      "originalName": "Total Estimated Cost    $279,804"
+    }
+  ],
+  "bmpCostTable": {
+    "id": "phase1_bmps",
+    "title": "BMPs    Amount    Estimated Cost",
+    "table": {
+      "columns": [
+        "BMPs",
+        "Amount",
+        "Estimated Cost"
+      ],
+      "rows": [
+        {
+          "BMPs": "Sediment Basin",
+          "Amount": "2 each",
+          "Estimated Cost": "$12,500"
+        },
+        {
+          "BMPs": "Cover Crops",
+          "Amount": "800 ac",
+          "Estimated Cost": "$58,400"
+        },
+        {
+          "BMPs": "Streambank Stabilization",
+          "Amount": "1,200 ft",
+          "Estimated Cost": "$172,904"
+        },
+        {
+          "BMPs": "Heavy Use Area Protection",
+          "Amount": "6 each",
+          "Estimated Cost": "$36,000"
+        }
+      ],
+      "total": 279804
+    },
+    "patternId": "phase1_bmps",
+    "patternConfidence": 0.9
+  },
+  "bmpCostTableNormalized": {
+    "id": "phase1_bmps",
+    "title": "BMPs    Amount    Estimated Cost",
+    "rows": [
+      {
+        "name": "Sediment Basin",
+        "quantity": 2,
+        "unit": "each",
+        "unitRaw": "each",
+        "unitCost": 6250,
+        "totalCost": 12500,
+        "rawSize": "2 each",
+        "rawCost": "$12,500"
+      },
+      {
+        "name": "Cover Crops",
+        "quantity": 800,
+        "unit": "ac",
+        "unitRaw": "ac",
+        "unitCost": 73,
+        "totalCost": 58400,
+        "rawSize": "800 ac",
+        "rawCost": "$58,400"
+      },
+      {
+        "name": "Streambank Stabilization",
+        "quantity": 1200,
+        "unit": "ft",
+        "unitRaw": "ft",
+        "unitCost": 144.08666666666667,
+        "totalCost": 172904,
+        "rawSize": "1,200 ft",
+        "rawCost": "$172,904"
+      },
+      {
+        "name": "Heavy Use Area Protection",
+        "quantity": 6,
+        "unit": "each",
+        "unitRaw": "each",
+        "unitCost": 6000,
+        "totalCost": 36000,
+        "rawSize": "6 each",
+        "rawCost": "$36,000"
+      }
+    ],
+    "totalReported": 279804,
+    "totalComputed": 279804,
+    "discrepancy": 0,
+    "patternId": "phase1_bmps",
+    "patternConfidence": 0.9
+  },
+  "bmpCostTables": [
+    {
+      "id": "phase1_bmps",
+      "title": "BMPs    Amount    Estimated Cost",
+      "table": {
+        "columns": [
+          "BMPs",
+          "Amount",
+          "Estimated Cost"
+        ],
+        "rows": [
+          {
+            "BMPs": "Sediment Basin",
+            "Amount": "2 each",
+            "Estimated Cost": "$12,500"
+          },
+          {
+            "BMPs": "Cover Crops",
+            "Amount": "800 ac",
+            "Estimated Cost": "$58,400"
+          },
+          {
+            "BMPs": "Streambank Stabilization",
+            "Amount": "1,200 ft",
+            "Estimated Cost": "$172,904"
+          },
+          {
+            "BMPs": "Heavy Use Area Protection",
+            "Amount": "6 each",
+            "Estimated Cost": "$36,000"
+          }
+        ],
+        "total": 279804
+      },
+      "patternId": "phase1_bmps",
+      "patternConfidence": 0.9
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Sediment Basin    2 each    $12,500",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Sediment Basin    2 each",
+            "Cost": "$12,500",
+            "Extra": null
+          },
+          {
+            "Item": "Cover Crops    800 ac",
+            "Cost": "$58,400",
+            "Extra": null
+          },
+          {
+            "Item": "Streambank Stabilization    1,200 ft",
+            "Cost": "$172,904",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Area Protection    6 each",
+            "Cost": "$36,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$279,804",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Cover Crops    800 ac    $58,400",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Cover Crops    800 ac",
+            "Cost": "$58,400",
+            "Extra": null
+          },
+          {
+            "Item": "Streambank Stabilization    1,200 ft",
+            "Cost": "$172,904",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Area Protection    6 each",
+            "Cost": "$36,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$279,804",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Streambank Stabilization    1,200 ft    $172,904",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Streambank Stabilization    1,200 ft",
+            "Cost": "$172,904",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Area Protection    6 each",
+            "Cost": "$36,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$279,804",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "cost_table",
+      "title": "Phase 1 Implementation BMPs",
+      "table": {
+        "columns": [
+          "BMPs",
+          "Amount",
+          "Estimated Cost"
+        ],
+        "rows": [
+          {
+            "BMPs": "Sediment Basin",
+            "Amount": "2 each",
+            "Estimated Cost": "$12500"
+          },
+          {
+            "BMPs": "Cover Crops",
+            "Amount": "800 ac",
+            "Estimated Cost": "$58400"
+          },
+          {
+            "BMPs": "Streambank Stabilization",
+            "Amount": "1200 ft",
+            "Estimated Cost": "$172904"
+          },
+          {
+            "BMPs": "Heavy Use Area Protection",
+            "Amount": "6 each",
+            "Estimated Cost": "$36000"
+          }
+        ],
+        "total": 279804
+      },
+      "patternId": "phase1_bmps_format",
+      "patternConfidence": 0.8
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "phase1_bmps",
+      "title": "BMPs    Amount    Estimated Cost",
+      "rows": [
+        {
+          "name": "Sediment Basin",
+          "quantity": 2,
+          "unit": "each",
+          "unitRaw": "each",
+          "unitCost": 6250,
+          "totalCost": 12500,
+          "rawSize": "2 each",
+          "rawCost": "$12,500"
+        },
+        {
+          "name": "Cover Crops",
+          "quantity": 800,
+          "unit": "ac",
+          "unitRaw": "ac",
+          "unitCost": 73,
+          "totalCost": 58400,
+          "rawSize": "800 ac",
+          "rawCost": "$58,400"
+        },
+        {
+          "name": "Streambank Stabilization",
+          "quantity": 1200,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 144.08666666666667,
+          "totalCost": 172904,
+          "rawSize": "1,200 ft",
+          "rawCost": "$172,904"
+        },
+        {
+          "name": "Heavy Use Area Protection",
+          "quantity": 6,
+          "unit": "each",
+          "unitRaw": "each",
+          "unitCost": 6000,
+          "totalCost": 36000,
+          "rawSize": "6 each",
+          "rawCost": "$36,000"
+        }
+      ],
+      "totalReported": 279804,
+      "totalComputed": 279804,
+      "discrepancy": 0,
+      "patternId": "phase1_bmps",
+      "patternConfidence": 0.9
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Sediment Basin    2 each    $12,500",
+      "rows": [
+        {
+          "name": "Sediment Basin    2 each",
+          "totalCost": 12500,
+          "rawCost": "$12,500"
+        },
+        {
+          "name": "Cover Crops    800 ac",
+          "totalCost": 58400,
+          "rawCost": "$58,400"
+        },
+        {
+          "name": "Streambank Stabilization    1,200 ft",
+          "totalCost": 172904,
+          "rawCost": "$172,904"
+        },
+        {
+          "name": "Heavy Use Area Protection    6 each",
+          "totalCost": 36000,
+          "rawCost": "$36,000"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 279804,
+          "rawCost": "$279,804"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 559608,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Cover Crops    800 ac    $58,400",
+      "rows": [
+        {
+          "name": "Cover Crops    800 ac",
+          "totalCost": 58400,
+          "rawCost": "$58,400"
+        },
+        {
+          "name": "Streambank Stabilization    1,200 ft",
+          "totalCost": 172904,
+          "rawCost": "$172,904"
+        },
+        {
+          "name": "Heavy Use Area Protection    6 each",
+          "totalCost": 36000,
+          "rawCost": "$36,000"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 279804,
+          "rawCost": "$279,804"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 547108,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Streambank Stabilization    1,200 ft    $172,904",
+      "rows": [
+        {
+          "name": "Streambank Stabilization    1,200 ft",
+          "totalCost": 172904,
+          "rawCost": "$172,904"
+        },
+        {
+          "name": "Heavy Use Area Protection    6 each",
+          "totalCost": 36000,
+          "rawCost": "$36,000"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 279804,
+          "rawCost": "$279,804"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 488708,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "cost_table",
+      "title": "Phase 1 Implementation BMPs",
+      "patternId": "phase1_bmps_format",
+      "patternConfidence": 0.8,
+      "rows": [
+        {
+          "name": "Sediment Basin",
+          "quantity": 2,
+          "unit": "each",
+          "unitRaw": "each",
+          "unitCost": 6250,
+          "totalCost": 12500,
+          "rawSize": "2 each",
+          "rawCost": "$12500"
+        },
+        {
+          "name": "Cover Crops",
+          "quantity": 800,
+          "unit": "ac",
+          "unitRaw": "ac",
+          "unitCost": 73,
+          "totalCost": 58400,
+          "rawSize": "800 ac",
+          "rawCost": "$58400"
+        },
+        {
+          "name": "Streambank Stabilization",
+          "quantity": 1200,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 144.08666666666667,
+          "totalCost": 172904,
+          "rawSize": "1200 ft",
+          "rawCost": "$172904"
+        },
+        {
+          "name": "Heavy Use Area Protection",
+          "quantity": 6,
+          "unit": "each",
+          "unitRaw": "each",
+          "unitCost": 6000,
+          "totalCost": 36000,
+          "rawSize": "6 each",
+          "rawCost": "$36000"
+        }
+      ],
+      "totalReported": 279804,
+      "totalComputed": 279804,
+      "discrepancy": 0
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-02T13:23:26.030Z",
+  "metadata": {
+    "sourceId": "sample",
+    "sourceFile": "sample.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "phase1_bmps",
+        "title": "BMPs    Amount    Estimated Cost",
+        "confidence": 0.9,
+        "totalReported": 279804,
+        "totalComputed": 279804
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Sediment Basin    2 each    $12,500",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 559608
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Cover Crops    800 ac    $58,400",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 547108
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Streambank Stabilization    1,200 ft    $172,904",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 488708
+      },
+      {
+        "id": "phase1_bmps_format",
+        "title": "Phase 1 Implementation BMPs",
+        "confidence": 0.8,
+        "totalReported": 279804,
+        "totalComputed": 279804
+      }
+    ]
+  }
+}

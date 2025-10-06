@@ -1,0 +1,4880 @@
+{
+  "id": "ellison-creek-9-key-element-plan-2021-14",
+  "summary": {
+    "totalGoals": 1,
+    "totalBMPs": 4,
+    "totalActivities": 0,
+    "primaryGoals": 1,
+    "completionRate": 0,
+    "totalMetrics": 124,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 1,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "General": 4
+    },
+    "avgGoalConfidence": 0.95,
+    "strongGoals": 1
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "confidence": 0.95,
+      "isPrimary": true,
+      "primaryReason": "bronze_direct_slice",
+      "description": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "originalSentence": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "shortTitle": "The ultimate goal is to bring about behavior changes and the use of \"best…",
+      "_present": false
+    }
+  ],
+  "mainGoals": [
+    {
+      "id": "G1",
+      "title": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "confidence": 0.95,
+      "isPrimary": true,
+      "primaryReason": "bronze_direct_slice",
+      "description": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "originalSentence": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "shortTitle": "The ultimate goal is to bring about behavior changes and the use of \"best…",
+      "_present": false
+    }
+  ],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "Total Estimated Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.25,
+      "source": "summary_line:Total Estimated Cost   $1,973,910",
+      "_present": true
+    },
+    {
+      "id": "B2",
+      "name": "Technical Assistance N/A",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.25,
+      "source": "summary_line:Technical Assistance N/A $15,000",
+      "_present": true
+    },
+    {
+      "id": "B3",
+      "name": "Education and Outreach N/A",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.25,
+      "source": "summary_line:Education and Outreach N/A $14,000",
+      "_present": true
+    },
+    {
+      "id": "B4",
+      "name": "Monitoring  N/A",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.25,
+      "source": "summary_line:Monitoring  N/A $10,000",
+      "_present": true
+    }
+  ],
+  "bmpCostTable": {
+    "id": "full_project_implementation",
+    "title": "Cost Estimate: Full Project Implementation",
+    "table": {
+      "columns": [
+        "BMP",
+        "Size/Amount",
+        "Estimated Cost"
+      ],
+      "rows": [
+        {
+          "BMP": "Grade Stabilization Structure",
+          "Size/Amount": "80 each @ $6,500",
+          "Estimated Cost": "$520,000"
+        },
+        {
+          "BMP": "Sediment Basin",
+          "Size/Amount": "2 each @ $6,250",
+          "Estimated Cost": "$12,500"
+        },
+        {
+          "BMP": "Grassed Waterway",
+          "Size/Amount": "5 each @ $1,408",
+          "Estimated Cost": "$7,040"
+        },
+        {
+          "BMP": "Heavy Use Area Protection",
+          "Size/Amount": "9,000 sq.ft. @ $3.93",
+          "Estimated Cost": "$35,370"
+        },
+        {
+          "BMP": "Stream Crossing",
+          "Size/Amount": "4 each @ $5,000",
+          "Estimated Cost": "$20,000"
+        },
+        {
+          "BMP": "Tank/Trough",
+          "Size/Amount": "17 each @ $6,000",
+          "Estimated Cost": "$102,000"
+        },
+        {
+          "BMP": "Cover Crops",
+          "Size/Amount": "800 ac @ $73",
+          "Estimated Cost": "$58,400"
+        },
+        {
+          "BMP": "Fencing",
+          "Size/Amount": "7,500 ft. @ $4.50",
+          "Estimated Cost": "$33,750"
+        },
+        {
+          "BMP": "Dikes",
+          "Size/Amount": "20,000 ft. @ $1.90",
+          "Estimated Cost": "$38,000"
+        },
+        {
+          "BMP": "Diversions",
+          "Size/Amount": "10,000 ft @ $2.50",
+          "Estimated Cost": "$25,000"
+        },
+        {
+          "BMP": "Pond",
+          "Size/Amount": "5 @ $6,250",
+          "Estimated Cost": "$31,250"
+        },
+        {
+          "BMP": "Terraces",
+          "Size/Amount": "35,000 ft. @ $1.86",
+          "Estimated Cost": "$65,100"
+        },
+        {
+          "BMP": "Forage and Biomass Planting",
+          "Size/Amount": "300 ac. @ $211",
+          "Estimated Cost": "$63,300"
+        },
+        {
+          "BMP": "Streambank and Shoreline Protection",
+          "Size/Amount": "4,000 ft. @ $183.55",
+          "Estimated Cost": "$734,200"
+        },
+        {
+          "BMP": "Technical Assistance",
+          "Size/Amount": "N/A",
+          "Estimated Cost": "$45,000"
+        },
+        {
+          "BMP": "Education and Outreach",
+          "Size/Amount": "N/A",
+          "Estimated Cost": "$28,000"
+        },
+        {
+          "BMP": "Monitoring",
+          "Size/Amount": "N/A",
+          "Estimated Cost": "$20,000"
+        },
+        {
+          "BMP": "Coordination, Plan Revision",
+          "Size/Amount": "",
+          "Estimated Cost": "$135,000"
+        }
+      ],
+      "total": 1973910
+    },
+    "patternId": "full_project_estimate",
+    "patternConfidence": 0.65
+  },
+  "bmpCostTableNormalized": {
+    "id": "full_project_implementation",
+    "title": "Cost Estimate: Full Project Implementation",
+    "patternId": "full_project_estimate",
+    "patternConfidence": 0.65,
+    "rows": [
+      {
+        "name": "Grade Stabilization Structure",
+        "rawSize": "80 each @ $6,500",
+        "rawCost": "$520,000",
+        "quantity": 80,
+        "unit": null,
+        "unitRaw": null,
+        "unitCost": 6500,
+        "totalCost": 520000
+      },
+      {
+        "name": "Sediment Basin",
+        "rawSize": "2 each @ $6,250",
+        "rawCost": "$12,500",
+        "quantity": 2,
+        "unit": null,
+        "unitRaw": null,
+        "unitCost": 6250,
+        "totalCost": 12500
+      },
+      {
+        "name": "Grassed Waterway",
+        "rawSize": "5 each @ $1,408",
+        "rawCost": "$7,040",
+        "quantity": 5,
+        "unit": null,
+        "unitRaw": null,
+        "unitCost": 1408,
+        "totalCost": 7040
+      },
+      {
+        "name": "Heavy Use Area Protection",
+        "rawSize": "9,000 sq.ft. @ $3.93",
+        "rawCost": "$35,370",
+        "quantity": 9000,
+        "unit": "sq_ft",
+        "unitRaw": "sq.ft",
+        "unitCost": 3.93,
+        "totalCost": 35370
+      },
+      {
+        "name": "Stream Crossing",
+        "rawSize": "4 each @ $5,000",
+        "rawCost": "$20,000",
+        "quantity": 4,
+        "unit": null,
+        "unitRaw": null,
+        "unitCost": 5000,
+        "totalCost": 20000
+      },
+      {
+        "name": "Tank/Trough",
+        "rawSize": "17 each @ $6,000",
+        "rawCost": "$102,000",
+        "quantity": 17,
+        "unit": null,
+        "unitRaw": null,
+        "unitCost": 6000,
+        "totalCost": 102000
+      },
+      {
+        "name": "Cover Crops",
+        "rawSize": "800 ac @ $73",
+        "rawCost": "$58,400",
+        "quantity": 800,
+        "unit": "acre",
+        "unitRaw": "ac",
+        "unitCost": 73,
+        "totalCost": 58400
+      },
+      {
+        "name": "Fencing",
+        "rawSize": "7,500 ft. @ $4.50",
+        "rawCost": "$33,750",
+        "quantity": 7500,
+        "unit": "ft",
+        "unitRaw": "ft",
+        "unitCost": 4.5,
+        "totalCost": 33750
+      },
+      {
+        "name": "Dikes",
+        "rawSize": "20,000 ft. @ $1.90",
+        "rawCost": "$38,000",
+        "quantity": 20000,
+        "unit": "ft",
+        "unitRaw": "ft",
+        "unitCost": 1.9,
+        "totalCost": 38000
+      },
+      {
+        "name": "Diversions",
+        "rawSize": "10,000 ft @ $2.50",
+        "rawCost": "$25,000",
+        "quantity": 10000,
+        "unit": "ft",
+        "unitRaw": "ft",
+        "unitCost": 2.5,
+        "totalCost": 25000
+      },
+      {
+        "name": "Pond",
+        "rawSize": "5 @ $6,250",
+        "rawCost": "$31,250",
+        "quantity": 5,
+        "unit": null,
+        "unitRaw": null,
+        "unitCost": 6250,
+        "totalCost": 31250
+      },
+      {
+        "name": "Terraces",
+        "rawSize": "35,000 ft. @ $1.86",
+        "rawCost": "$65,100",
+        "quantity": 35000,
+        "unit": "ft",
+        "unitRaw": "ft",
+        "unitCost": 1.86,
+        "totalCost": 65100
+      },
+      {
+        "name": "Forage and Biomass Planting",
+        "rawSize": "300 ac. @ $211",
+        "rawCost": "$63,300",
+        "quantity": 300,
+        "unit": "acre",
+        "unitRaw": "ac",
+        "unitCost": 211,
+        "totalCost": 63300
+      },
+      {
+        "name": "Streambank and Shoreline Protection",
+        "rawSize": "4,000 ft. @ $183.55",
+        "rawCost": "$734,200",
+        "quantity": 4000,
+        "unit": "ft",
+        "unitRaw": "ft",
+        "unitCost": 183.55,
+        "totalCost": 734200
+      },
+      {
+        "name": "Technical Assistance",
+        "rawSize": "N/A",
+        "rawCost": "$45,000",
+        "quantity": null,
+        "unit": null,
+        "unitRaw": null,
+        "unitCost": null,
+        "totalCost": 45000
+      },
+      {
+        "name": "Education and Outreach",
+        "rawSize": "N/A",
+        "rawCost": "$28,000",
+        "quantity": null,
+        "unit": null,
+        "unitRaw": null,
+        "unitCost": null,
+        "totalCost": 28000
+      },
+      {
+        "name": "Monitoring",
+        "rawSize": "N/A",
+        "rawCost": "$20,000",
+        "quantity": null,
+        "unit": null,
+        "unitRaw": null,
+        "unitCost": null,
+        "totalCost": 20000
+      },
+      {
+        "name": "Coordination, Plan Revision",
+        "rawSize": "",
+        "rawCost": "$135,000",
+        "quantity": null,
+        "unit": null,
+        "unitRaw": null,
+        "unitCost": null,
+        "totalCost": 135000
+      }
+    ],
+    "totalReported": 1973910,
+    "totalComputed": 1973910,
+    "discrepancy": 0
+  },
+  "bmpCostTables": [
+    {
+      "id": "narrative_cost_block",
+      "title": "Grade Stabilization Structure 80 each @ $6,500 $520,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Grade Stabilization Structure 80 each @ $6,500",
+            "Cost": "$520,000"
+          },
+          {
+            "Item": "Sediment Basin 2 each @ $6,250",
+            "Cost": "$12,500"
+          },
+          {
+            "Item": "Grassed Waterway 5 each @ $1,408",
+            "Cost": "$7,040"
+          },
+          {
+            "Item": "Heavy Use Area Protection 9,000 sq.ft. @ $3.93",
+            "Cost": "$35,370"
+          },
+          {
+            "Item": "Stream Crossing 4 each @ $5,000",
+            "Cost": "$20,000"
+          },
+          {
+            "Item": "Tank/Trough 17 each @ $6,000",
+            "Cost": "$102,000"
+          },
+          {
+            "Item": "Cover Crops 800 ac @ $73",
+            "Cost": "$58,400"
+          },
+          {
+            "Item": "Fencing 7,500 ft. @ $4.50",
+            "Cost": "$33,750"
+          },
+          {
+            "Item": "Dikes 20,000 ft. @ $1.90",
+            "Cost": "$38,000"
+          },
+          {
+            "Item": "Diversions 10,000 ft @ $2.50",
+            "Cost": "$25,000"
+          },
+          {
+            "Item": "Pond 5 @ $6,250",
+            "Cost": "$31,250"
+          },
+          {
+            "Item": "Terraces 35,000 ft. @ $1.86",
+            "Cost": "$65,100"
+          },
+          {
+            "Item": "Forage and Biomass Planting 300 ac. @ $211",
+            "Cost": "$63,300"
+          },
+          {
+            "Item": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+            "Cost": "$734,200"
+          },
+          {
+            "Item": "Technical Assistance** N/A",
+            "Cost": "$45,000"
+          },
+          {
+            "Item": "Education and Outreach** N/A",
+            "Cost": "$28,000"
+          },
+          {
+            "Item": "Monitoring**  N/A",
+            "Cost": "$20,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Sediment Basin 2 each @ $6,250 $12,500",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Sediment Basin 2 each @ $6,250",
+            "Cost": "$12,500"
+          },
+          {
+            "Item": "Grassed Waterway 5 each @ $1,408",
+            "Cost": "$7,040"
+          },
+          {
+            "Item": "Heavy Use Area Protection 9,000 sq.ft. @ $3.93",
+            "Cost": "$35,370"
+          },
+          {
+            "Item": "Stream Crossing 4 each @ $5,000",
+            "Cost": "$20,000"
+          },
+          {
+            "Item": "Tank/Trough 17 each @ $6,000",
+            "Cost": "$102,000"
+          },
+          {
+            "Item": "Cover Crops 800 ac @ $73",
+            "Cost": "$58,400"
+          },
+          {
+            "Item": "Fencing 7,500 ft. @ $4.50",
+            "Cost": "$33,750"
+          },
+          {
+            "Item": "Dikes 20,000 ft. @ $1.90",
+            "Cost": "$38,000"
+          },
+          {
+            "Item": "Diversions 10,000 ft @ $2.50",
+            "Cost": "$25,000"
+          },
+          {
+            "Item": "Pond 5 @ $6,250",
+            "Cost": "$31,250"
+          },
+          {
+            "Item": "Terraces 35,000 ft. @ $1.86",
+            "Cost": "$65,100"
+          },
+          {
+            "Item": "Forage and Biomass Planting 300 ac. @ $211",
+            "Cost": "$63,300"
+          },
+          {
+            "Item": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+            "Cost": "$734,200"
+          },
+          {
+            "Item": "Technical Assistance** N/A",
+            "Cost": "$45,000"
+          },
+          {
+            "Item": "Education and Outreach** N/A",
+            "Cost": "$28,000"
+          },
+          {
+            "Item": "Monitoring**  N/A",
+            "Cost": "$20,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Grassed Waterway 5 each @ $1,408 $7,040",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Grassed Waterway 5 each @ $1,408",
+            "Cost": "$7,040"
+          },
+          {
+            "Item": "Heavy Use Area Protection 9,000 sq.ft. @ $3.93",
+            "Cost": "$35,370"
+          },
+          {
+            "Item": "Stream Crossing 4 each @ $5,000",
+            "Cost": "$20,000"
+          },
+          {
+            "Item": "Tank/Trough 17 each @ $6,000",
+            "Cost": "$102,000"
+          },
+          {
+            "Item": "Cover Crops 800 ac @ $73",
+            "Cost": "$58,400"
+          },
+          {
+            "Item": "Fencing 7,500 ft. @ $4.50",
+            "Cost": "$33,750"
+          },
+          {
+            "Item": "Dikes 20,000 ft. @ $1.90",
+            "Cost": "$38,000"
+          },
+          {
+            "Item": "Diversions 10,000 ft @ $2.50",
+            "Cost": "$25,000"
+          },
+          {
+            "Item": "Pond 5 @ $6,250",
+            "Cost": "$31,250"
+          },
+          {
+            "Item": "Terraces 35,000 ft. @ $1.86",
+            "Cost": "$65,100"
+          },
+          {
+            "Item": "Forage and Biomass Planting 300 ac. @ $211",
+            "Cost": "$63,300"
+          },
+          {
+            "Item": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+            "Cost": "$734,200"
+          },
+          {
+            "Item": "Technical Assistance** N/A",
+            "Cost": "$45,000"
+          },
+          {
+            "Item": "Education and Outreach** N/A",
+            "Cost": "$28,000"
+          },
+          {
+            "Item": "Monitoring**  N/A",
+            "Cost": "$20,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Heavy Use Area Protection 9,000 sq.ft. @ $3.93 $35,370",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Heavy Use Area Protection 9,000 sq.ft. @ $3.93",
+            "Cost": "$35,370"
+          },
+          {
+            "Item": "Stream Crossing 4 each @ $5,000",
+            "Cost": "$20,000"
+          },
+          {
+            "Item": "Tank/Trough 17 each @ $6,000",
+            "Cost": "$102,000"
+          },
+          {
+            "Item": "Cover Crops 800 ac @ $73",
+            "Cost": "$58,400"
+          },
+          {
+            "Item": "Fencing 7,500 ft. @ $4.50",
+            "Cost": "$33,750"
+          },
+          {
+            "Item": "Dikes 20,000 ft. @ $1.90",
+            "Cost": "$38,000"
+          },
+          {
+            "Item": "Diversions 10,000 ft @ $2.50",
+            "Cost": "$25,000"
+          },
+          {
+            "Item": "Pond 5 @ $6,250",
+            "Cost": "$31,250"
+          },
+          {
+            "Item": "Terraces 35,000 ft. @ $1.86",
+            "Cost": "$65,100"
+          },
+          {
+            "Item": "Forage and Biomass Planting 300 ac. @ $211",
+            "Cost": "$63,300"
+          },
+          {
+            "Item": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+            "Cost": "$734,200"
+          },
+          {
+            "Item": "Technical Assistance** N/A",
+            "Cost": "$45,000"
+          },
+          {
+            "Item": "Education and Outreach** N/A",
+            "Cost": "$28,000"
+          },
+          {
+            "Item": "Monitoring**  N/A",
+            "Cost": "$20,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Stream Crossing 4 each @ $5,000 $20,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Stream Crossing 4 each @ $5,000",
+            "Cost": "$20,000"
+          },
+          {
+            "Item": "Tank/Trough 17 each @ $6,000",
+            "Cost": "$102,000"
+          },
+          {
+            "Item": "Cover Crops 800 ac @ $73",
+            "Cost": "$58,400"
+          },
+          {
+            "Item": "Fencing 7,500 ft. @ $4.50",
+            "Cost": "$33,750"
+          },
+          {
+            "Item": "Dikes 20,000 ft. @ $1.90",
+            "Cost": "$38,000"
+          },
+          {
+            "Item": "Diversions 10,000 ft @ $2.50",
+            "Cost": "$25,000"
+          },
+          {
+            "Item": "Pond 5 @ $6,250",
+            "Cost": "$31,250"
+          },
+          {
+            "Item": "Terraces 35,000 ft. @ $1.86",
+            "Cost": "$65,100"
+          },
+          {
+            "Item": "Forage and Biomass Planting 300 ac. @ $211",
+            "Cost": "$63,300"
+          },
+          {
+            "Item": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+            "Cost": "$734,200"
+          },
+          {
+            "Item": "Technical Assistance** N/A",
+            "Cost": "$45,000"
+          },
+          {
+            "Item": "Education and Outreach** N/A",
+            "Cost": "$28,000"
+          },
+          {
+            "Item": "Monitoring**  N/A",
+            "Cost": "$20,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Tank/Trough 17 each @ $6,000 $102,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Tank/Trough 17 each @ $6,000",
+            "Cost": "$102,000"
+          },
+          {
+            "Item": "Cover Crops 800 ac @ $73",
+            "Cost": "$58,400"
+          },
+          {
+            "Item": "Fencing 7,500 ft. @ $4.50",
+            "Cost": "$33,750"
+          },
+          {
+            "Item": "Dikes 20,000 ft. @ $1.90",
+            "Cost": "$38,000"
+          },
+          {
+            "Item": "Diversions 10,000 ft @ $2.50",
+            "Cost": "$25,000"
+          },
+          {
+            "Item": "Pond 5 @ $6,250",
+            "Cost": "$31,250"
+          },
+          {
+            "Item": "Terraces 35,000 ft. @ $1.86",
+            "Cost": "$65,100"
+          },
+          {
+            "Item": "Forage and Biomass Planting 300 ac. @ $211",
+            "Cost": "$63,300"
+          },
+          {
+            "Item": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+            "Cost": "$734,200"
+          },
+          {
+            "Item": "Technical Assistance** N/A",
+            "Cost": "$45,000"
+          },
+          {
+            "Item": "Education and Outreach** N/A",
+            "Cost": "$28,000"
+          },
+          {
+            "Item": "Monitoring**  N/A",
+            "Cost": "$20,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Cover Crops 800 ac @ $73 $58,400",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Cover Crops 800 ac @ $73",
+            "Cost": "$58,400"
+          },
+          {
+            "Item": "Fencing 7,500 ft. @ $4.50",
+            "Cost": "$33,750"
+          },
+          {
+            "Item": "Dikes 20,000 ft. @ $1.90",
+            "Cost": "$38,000"
+          },
+          {
+            "Item": "Diversions 10,000 ft @ $2.50",
+            "Cost": "$25,000"
+          },
+          {
+            "Item": "Pond 5 @ $6,250",
+            "Cost": "$31,250"
+          },
+          {
+            "Item": "Terraces 35,000 ft. @ $1.86",
+            "Cost": "$65,100"
+          },
+          {
+            "Item": "Forage and Biomass Planting 300 ac. @ $211",
+            "Cost": "$63,300"
+          },
+          {
+            "Item": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+            "Cost": "$734,200"
+          },
+          {
+            "Item": "Technical Assistance** N/A",
+            "Cost": "$45,000"
+          },
+          {
+            "Item": "Education and Outreach** N/A",
+            "Cost": "$28,000"
+          },
+          {
+            "Item": "Monitoring**  N/A",
+            "Cost": "$20,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Fencing 7,500 ft. @ $4.50 $33,750",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Fencing 7,500 ft. @ $4.50",
+            "Cost": "$33,750"
+          },
+          {
+            "Item": "Dikes 20,000 ft. @ $1.90",
+            "Cost": "$38,000"
+          },
+          {
+            "Item": "Diversions 10,000 ft @ $2.50",
+            "Cost": "$25,000"
+          },
+          {
+            "Item": "Pond 5 @ $6,250",
+            "Cost": "$31,250"
+          },
+          {
+            "Item": "Terraces 35,000 ft. @ $1.86",
+            "Cost": "$65,100"
+          },
+          {
+            "Item": "Forage and Biomass Planting 300 ac. @ $211",
+            "Cost": "$63,300"
+          },
+          {
+            "Item": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+            "Cost": "$734,200"
+          },
+          {
+            "Item": "Technical Assistance** N/A",
+            "Cost": "$45,000"
+          },
+          {
+            "Item": "Education and Outreach** N/A",
+            "Cost": "$28,000"
+          },
+          {
+            "Item": "Monitoring**  N/A",
+            "Cost": "$20,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Dikes 20,000 ft. @ $1.90 $38,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Dikes 20,000 ft. @ $1.90",
+            "Cost": "$38,000"
+          },
+          {
+            "Item": "Diversions 10,000 ft @ $2.50",
+            "Cost": "$25,000"
+          },
+          {
+            "Item": "Pond 5 @ $6,250",
+            "Cost": "$31,250"
+          },
+          {
+            "Item": "Terraces 35,000 ft. @ $1.86",
+            "Cost": "$65,100"
+          },
+          {
+            "Item": "Forage and Biomass Planting 300 ac. @ $211",
+            "Cost": "$63,300"
+          },
+          {
+            "Item": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+            "Cost": "$734,200"
+          },
+          {
+            "Item": "Technical Assistance** N/A",
+            "Cost": "$45,000"
+          },
+          {
+            "Item": "Education and Outreach** N/A",
+            "Cost": "$28,000"
+          },
+          {
+            "Item": "Monitoring**  N/A",
+            "Cost": "$20,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Diversions 10,000 ft @ $2.50 $25,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Diversions 10,000 ft @ $2.50",
+            "Cost": "$25,000"
+          },
+          {
+            "Item": "Pond 5 @ $6,250",
+            "Cost": "$31,250"
+          },
+          {
+            "Item": "Terraces 35,000 ft. @ $1.86",
+            "Cost": "$65,100"
+          },
+          {
+            "Item": "Forage and Biomass Planting 300 ac. @ $211",
+            "Cost": "$63,300"
+          },
+          {
+            "Item": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+            "Cost": "$734,200"
+          },
+          {
+            "Item": "Technical Assistance** N/A",
+            "Cost": "$45,000"
+          },
+          {
+            "Item": "Education and Outreach** N/A",
+            "Cost": "$28,000"
+          },
+          {
+            "Item": "Monitoring**  N/A",
+            "Cost": "$20,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Pond 5 @ $6,250 $31,250",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Pond 5 @ $6,250",
+            "Cost": "$31,250"
+          },
+          {
+            "Item": "Terraces 35,000 ft. @ $1.86",
+            "Cost": "$65,100"
+          },
+          {
+            "Item": "Forage and Biomass Planting 300 ac. @ $211",
+            "Cost": "$63,300"
+          },
+          {
+            "Item": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+            "Cost": "$734,200"
+          },
+          {
+            "Item": "Technical Assistance** N/A",
+            "Cost": "$45,000"
+          },
+          {
+            "Item": "Education and Outreach** N/A",
+            "Cost": "$28,000"
+          },
+          {
+            "Item": "Monitoring**  N/A",
+            "Cost": "$20,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Terraces 35,000 ft. @ $1.86 $65,100",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Terraces 35,000 ft. @ $1.86",
+            "Cost": "$65,100"
+          },
+          {
+            "Item": "Forage and Biomass Planting 300 ac. @ $211",
+            "Cost": "$63,300"
+          },
+          {
+            "Item": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+            "Cost": "$734,200"
+          },
+          {
+            "Item": "Technical Assistance** N/A",
+            "Cost": "$45,000"
+          },
+          {
+            "Item": "Education and Outreach** N/A",
+            "Cost": "$28,000"
+          },
+          {
+            "Item": "Monitoring**  N/A",
+            "Cost": "$20,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Forage and Biomass Planting 300 ac. @ $211 $63,300",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Forage and Biomass Planting 300 ac. @ $211",
+            "Cost": "$63,300"
+          },
+          {
+            "Item": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+            "Cost": "$734,200"
+          },
+          {
+            "Item": "Technical Assistance** N/A",
+            "Cost": "$45,000"
+          },
+          {
+            "Item": "Education and Outreach** N/A",
+            "Cost": "$28,000"
+          },
+          {
+            "Item": "Monitoring**  N/A",
+            "Cost": "$20,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Streambank and Shoreline Protection 4,000 ft. @ $183.55 $734,200",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+            "Cost": "$734,200"
+          },
+          {
+            "Item": "Technical Assistance** N/A",
+            "Cost": "$45,000"
+          },
+          {
+            "Item": "Education and Outreach** N/A",
+            "Cost": "$28,000"
+          },
+          {
+            "Item": "Monitoring**  N/A",
+            "Cost": "$20,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Technical Assistance** N/A $45,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Technical Assistance** N/A",
+            "Cost": "$45,000"
+          },
+          {
+            "Item": "Education and Outreach** N/A",
+            "Cost": "$28,000"
+          },
+          {
+            "Item": "Monitoring**  N/A",
+            "Cost": "$20,000"
+          },
+          {
+            "Item": "Coordination, Plan Revision**",
+            "Cost": "$135,000"
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$1,973,910"
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000"
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$14,000"
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$10,000"
+          },
+          {
+            "Item": "Coordination, Plan Revision",
+            "Cost": "$45,000"
+          },
+          {
+            "Item": "Total Estimated Phase 1 Cost",
+            "Cost": "$299,966"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Education and Outreach** N/A $28,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Education and Outreach** N/A",
+            "Cost": "$28,000"
+          },
+          {
+            "Item": "Monitoring**  N/A",
+            "Cost": "$20,000"
+          },
+          {
+            "Item": "Coordination, Plan Revision**",
+            "Cost": "$135,000"
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$1,973,910"
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000"
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$14,000"
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$10,000"
+          },
+          {
+            "Item": "Coordination, Plan Revision",
+            "Cost": "$45,000"
+          },
+          {
+            "Item": "Total Estimated Phase 1 Cost",
+            "Cost": "$299,966"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Monitoring**  N/A $20,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Monitoring**  N/A",
+            "Cost": "$20,000"
+          },
+          {
+            "Item": "Coordination, Plan Revision**",
+            "Cost": "$135,000"
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$1,973,910"
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000"
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$14,000"
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$10,000"
+          },
+          {
+            "Item": "Coordination, Plan Revision",
+            "Cost": "$45,000"
+          },
+          {
+            "Item": "Total Estimated Phase 1 Cost",
+            "Cost": "$299,966"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Coordination, Plan Revision**   $135,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Coordination, Plan Revision**",
+            "Cost": "$135,000"
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$1,973,910"
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000"
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$14,000"
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$10,000"
+          },
+          {
+            "Item": "Coordination, Plan Revision",
+            "Cost": "$45,000"
+          },
+          {
+            "Item": "Total Estimated Phase 1 Cost",
+            "Cost": "$299,966"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total Estimated Cost   $1,973,910",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$1,973,910"
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000"
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$14,000"
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$10,000"
+          },
+          {
+            "Item": "Coordination, Plan Revision",
+            "Cost": "$45,000"
+          },
+          {
+            "Item": "Total Estimated Phase 1 Cost",
+            "Cost": "$299,966"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Grade Stabilization Structure 20 each @ $6,500 $130,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Grade Stabilization Structure 20 each @ $6,500",
+            "Cost": "$130,000"
+          },
+          {
+            "Item": "Heavy Use Area Protection 2,700 sq.ft. @ $3.93",
+            "Cost": "$10,611"
+          },
+          {
+            "Item": "Tank/Trough 5 each @ $6,000",
+            "Cost": "$30,000"
+          },
+          {
+            "Item": "Cover Crops 235 ac @ $73",
+            "Cost": "$17,155"
+          },
+          {
+            "Item": "Fencing 2,100 ft. @ $4.50",
+            "Cost": "$9,450"
+          },
+          {
+            "Item": "Pond 3 each @ $6,250",
+            "Cost": "$18,750"
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000"
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$14,000"
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$10,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Heavy Use Area Protection 2,700 sq.ft. @ $3.93 $10,611",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Heavy Use Area Protection 2,700 sq.ft. @ $3.93",
+            "Cost": "$10,611"
+          },
+          {
+            "Item": "Tank/Trough 5 each @ $6,000",
+            "Cost": "$30,000"
+          },
+          {
+            "Item": "Cover Crops 235 ac @ $73",
+            "Cost": "$17,155"
+          },
+          {
+            "Item": "Fencing 2,100 ft. @ $4.50",
+            "Cost": "$9,450"
+          },
+          {
+            "Item": "Pond 3 each @ $6,250",
+            "Cost": "$18,750"
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000"
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$14,000"
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$10,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Tank/Trough 5 each @ $6,000 $30,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Tank/Trough 5 each @ $6,000",
+            "Cost": "$30,000"
+          },
+          {
+            "Item": "Cover Crops 235 ac @ $73",
+            "Cost": "$17,155"
+          },
+          {
+            "Item": "Fencing 2,100 ft. @ $4.50",
+            "Cost": "$9,450"
+          },
+          {
+            "Item": "Pond 3 each @ $6,250",
+            "Cost": "$18,750"
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000"
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$14,000"
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$10,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Cover Crops 235 ac @ $73 $17,155",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Cover Crops 235 ac @ $73",
+            "Cost": "$17,155"
+          },
+          {
+            "Item": "Fencing 2,100 ft. @ $4.50",
+            "Cost": "$9,450"
+          },
+          {
+            "Item": "Pond 3 each @ $6,250",
+            "Cost": "$18,750"
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000"
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$14,000"
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$10,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Fencing 2,100 ft. @ $4.50 $9,450",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Fencing 2,100 ft. @ $4.50",
+            "Cost": "$9,450"
+          },
+          {
+            "Item": "Pond 3 each @ $6,250",
+            "Cost": "$18,750"
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000"
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$14,000"
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$10,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Pond 3 each @ $6,250 $18,750",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Pond 3 each @ $6,250",
+            "Cost": "$18,750"
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000"
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$14,000"
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$10,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Technical Assistance N/A $15,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000"
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$14,000"
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$10,000"
+          },
+          {
+            "Item": "Coordination, Plan Revision",
+            "Cost": "$45,000"
+          },
+          {
+            "Item": "Total Estimated Phase 1 Cost",
+            "Cost": "$299,966"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "full_project_implementation",
+      "title": "Cost Estimate: Full Project Implementation",
+      "table": {
+        "columns": [
+          "BMP",
+          "Size/Amount",
+          "Estimated Cost"
+        ],
+        "rows": [
+          {
+            "BMP": "Grade Stabilization Structure",
+            "Size/Amount": "80 each @ $6,500",
+            "Estimated Cost": "$520,000"
+          },
+          {
+            "BMP": "Sediment Basin",
+            "Size/Amount": "2 each @ $6,250",
+            "Estimated Cost": "$12,500"
+          },
+          {
+            "BMP": "Grassed Waterway",
+            "Size/Amount": "5 each @ $1,408",
+            "Estimated Cost": "$7,040"
+          },
+          {
+            "BMP": "Heavy Use Area Protection",
+            "Size/Amount": "9,000 sq.ft. @ $3.93",
+            "Estimated Cost": "$35,370"
+          },
+          {
+            "BMP": "Stream Crossing",
+            "Size/Amount": "4 each @ $5,000",
+            "Estimated Cost": "$20,000"
+          },
+          {
+            "BMP": "Tank/Trough",
+            "Size/Amount": "17 each @ $6,000",
+            "Estimated Cost": "$102,000"
+          },
+          {
+            "BMP": "Cover Crops",
+            "Size/Amount": "800 ac @ $73",
+            "Estimated Cost": "$58,400"
+          },
+          {
+            "BMP": "Fencing",
+            "Size/Amount": "7,500 ft. @ $4.50",
+            "Estimated Cost": "$33,750"
+          },
+          {
+            "BMP": "Dikes",
+            "Size/Amount": "20,000 ft. @ $1.90",
+            "Estimated Cost": "$38,000"
+          },
+          {
+            "BMP": "Diversions",
+            "Size/Amount": "10,000 ft @ $2.50",
+            "Estimated Cost": "$25,000"
+          },
+          {
+            "BMP": "Pond",
+            "Size/Amount": "5 @ $6,250",
+            "Estimated Cost": "$31,250"
+          },
+          {
+            "BMP": "Terraces",
+            "Size/Amount": "35,000 ft. @ $1.86",
+            "Estimated Cost": "$65,100"
+          },
+          {
+            "BMP": "Forage and Biomass Planting",
+            "Size/Amount": "300 ac. @ $211",
+            "Estimated Cost": "$63,300"
+          },
+          {
+            "BMP": "Streambank and Shoreline Protection",
+            "Size/Amount": "4,000 ft. @ $183.55",
+            "Estimated Cost": "$734,200"
+          },
+          {
+            "BMP": "Technical Assistance",
+            "Size/Amount": "N/A",
+            "Estimated Cost": "$45,000"
+          },
+          {
+            "BMP": "Education and Outreach",
+            "Size/Amount": "N/A",
+            "Estimated Cost": "$28,000"
+          },
+          {
+            "BMP": "Monitoring",
+            "Size/Amount": "N/A",
+            "Estimated Cost": "$20,000"
+          },
+          {
+            "BMP": "Coordination, Plan Revision",
+            "Size/Amount": "",
+            "Estimated Cost": "$135,000"
+          }
+        ],
+        "total": 1973910
+      },
+      "patternId": "full_project_estimate",
+      "patternConfidence": 0.65
+    },
+    {
+      "id": "phase1_implementation",
+      "title": "Cost Estimate: Phase 1 Implementation:",
+      "table": {
+        "columns": [
+          "BMP",
+          "Size/Amount",
+          "Estimated Cost"
+        ],
+        "rows": [
+          {
+            "BMP": "Grade Stabilization Structure",
+            "Size/Amount": "20 each @ $6,500",
+            "Estimated Cost": "$130,000"
+          },
+          {
+            "BMP": "Heavy Use Area Protection",
+            "Size/Amount": "2,700 sq.ft. @ $3.93",
+            "Estimated Cost": "$10,611"
+          },
+          {
+            "BMP": "Tank/Trough",
+            "Size/Amount": "5 each @ $6,000",
+            "Estimated Cost": "$30,000"
+          },
+          {
+            "BMP": "Cover Crops",
+            "Size/Amount": "235 ac @ $73",
+            "Estimated Cost": "$17,155"
+          },
+          {
+            "BMP": "Fencing",
+            "Size/Amount": "2,100 ft. @ $4.50",
+            "Estimated Cost": "$9,450"
+          },
+          {
+            "BMP": "Pond",
+            "Size/Amount": "3 each @ $6,250",
+            "Estimated Cost": "$18,750"
+          },
+          {
+            "BMP": "Technical Assistance",
+            "Size/Amount": "N/A",
+            "Estimated Cost": "$15,000"
+          },
+          {
+            "BMP": "Education and Outreach",
+            "Size/Amount": "N/A",
+            "Estimated Cost": "$14,000"
+          },
+          {
+            "BMP": "Monitoring",
+            "Size/Amount": "N/A",
+            "Estimated Cost": "$10,000"
+          },
+          {
+            "BMP": "Coordination, Plan Revision",
+            "Size/Amount": "",
+            "Estimated Cost": "$45,000"
+          }
+        ],
+        "total": 299966
+      },
+      "patternId": "phase1_estimate",
+      "patternConfidence": 0.65
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "narrative_cost_block",
+      "title": "Grade Stabilization Structure 80 each @ $6,500 $520,000",
+      "rows": [
+        {
+          "name": "Grade Stabilization Structure 80 each @ $6,500",
+          "totalCost": 520000,
+          "rawCost": "$520,000"
+        },
+        {
+          "name": "Sediment Basin 2 each @ $6,250",
+          "totalCost": 12500,
+          "rawCost": "$12,500"
+        },
+        {
+          "name": "Grassed Waterway 5 each @ $1,408",
+          "totalCost": 7040,
+          "rawCost": "$7,040"
+        },
+        {
+          "name": "Heavy Use Area Protection 9,000 sq.ft. @ $3.93",
+          "totalCost": 35370,
+          "rawCost": "$35,370"
+        },
+        {
+          "name": "Stream Crossing 4 each @ $5,000",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Tank/Trough 17 each @ $6,000",
+          "totalCost": 102000,
+          "rawCost": "$102,000"
+        },
+        {
+          "name": "Cover Crops 800 ac @ $73",
+          "totalCost": 58400,
+          "rawCost": "$58,400"
+        },
+        {
+          "name": "Fencing 7,500 ft. @ $4.50",
+          "totalCost": 33750,
+          "rawCost": "$33,750"
+        },
+        {
+          "name": "Dikes 20,000 ft. @ $1.90",
+          "totalCost": 38000,
+          "rawCost": "$38,000"
+        },
+        {
+          "name": "Diversions 10,000 ft @ $2.50",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Pond 5 @ $6,250",
+          "totalCost": 31250,
+          "rawCost": "$31,250"
+        },
+        {
+          "name": "Terraces 35,000 ft. @ $1.86",
+          "totalCost": 65100,
+          "rawCost": "$65,100"
+        },
+        {
+          "name": "Forage and Biomass Planting 300 ac. @ $211",
+          "totalCost": 63300,
+          "rawCost": "$63,300"
+        },
+        {
+          "name": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+          "totalCost": 734200,
+          "rawCost": "$734,200"
+        },
+        {
+          "name": "Technical Assistance** N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "Education and Outreach** N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "Monitoring**  N/A",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1838910,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Sediment Basin 2 each @ $6,250 $12,500",
+      "rows": [
+        {
+          "name": "Sediment Basin 2 each @ $6,250",
+          "totalCost": 12500,
+          "rawCost": "$12,500"
+        },
+        {
+          "name": "Grassed Waterway 5 each @ $1,408",
+          "totalCost": 7040,
+          "rawCost": "$7,040"
+        },
+        {
+          "name": "Heavy Use Area Protection 9,000 sq.ft. @ $3.93",
+          "totalCost": 35370,
+          "rawCost": "$35,370"
+        },
+        {
+          "name": "Stream Crossing 4 each @ $5,000",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Tank/Trough 17 each @ $6,000",
+          "totalCost": 102000,
+          "rawCost": "$102,000"
+        },
+        {
+          "name": "Cover Crops 800 ac @ $73",
+          "totalCost": 58400,
+          "rawCost": "$58,400"
+        },
+        {
+          "name": "Fencing 7,500 ft. @ $4.50",
+          "totalCost": 33750,
+          "rawCost": "$33,750"
+        },
+        {
+          "name": "Dikes 20,000 ft. @ $1.90",
+          "totalCost": 38000,
+          "rawCost": "$38,000"
+        },
+        {
+          "name": "Diversions 10,000 ft @ $2.50",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Pond 5 @ $6,250",
+          "totalCost": 31250,
+          "rawCost": "$31,250"
+        },
+        {
+          "name": "Terraces 35,000 ft. @ $1.86",
+          "totalCost": 65100,
+          "rawCost": "$65,100"
+        },
+        {
+          "name": "Forage and Biomass Planting 300 ac. @ $211",
+          "totalCost": 63300,
+          "rawCost": "$63,300"
+        },
+        {
+          "name": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+          "totalCost": 734200,
+          "rawCost": "$734,200"
+        },
+        {
+          "name": "Technical Assistance** N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "Education and Outreach** N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "Monitoring**  N/A",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1318910,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Grassed Waterway 5 each @ $1,408 $7,040",
+      "rows": [
+        {
+          "name": "Grassed Waterway 5 each @ $1,408",
+          "totalCost": 7040,
+          "rawCost": "$7,040"
+        },
+        {
+          "name": "Heavy Use Area Protection 9,000 sq.ft. @ $3.93",
+          "totalCost": 35370,
+          "rawCost": "$35,370"
+        },
+        {
+          "name": "Stream Crossing 4 each @ $5,000",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Tank/Trough 17 each @ $6,000",
+          "totalCost": 102000,
+          "rawCost": "$102,000"
+        },
+        {
+          "name": "Cover Crops 800 ac @ $73",
+          "totalCost": 58400,
+          "rawCost": "$58,400"
+        },
+        {
+          "name": "Fencing 7,500 ft. @ $4.50",
+          "totalCost": 33750,
+          "rawCost": "$33,750"
+        },
+        {
+          "name": "Dikes 20,000 ft. @ $1.90",
+          "totalCost": 38000,
+          "rawCost": "$38,000"
+        },
+        {
+          "name": "Diversions 10,000 ft @ $2.50",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Pond 5 @ $6,250",
+          "totalCost": 31250,
+          "rawCost": "$31,250"
+        },
+        {
+          "name": "Terraces 35,000 ft. @ $1.86",
+          "totalCost": 65100,
+          "rawCost": "$65,100"
+        },
+        {
+          "name": "Forage and Biomass Planting 300 ac. @ $211",
+          "totalCost": 63300,
+          "rawCost": "$63,300"
+        },
+        {
+          "name": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+          "totalCost": 734200,
+          "rawCost": "$734,200"
+        },
+        {
+          "name": "Technical Assistance** N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "Education and Outreach** N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "Monitoring**  N/A",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1306410,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Heavy Use Area Protection 9,000 sq.ft. @ $3.93 $35,370",
+      "rows": [
+        {
+          "name": "Heavy Use Area Protection 9,000 sq.ft. @ $3.93",
+          "totalCost": 35370,
+          "rawCost": "$35,370"
+        },
+        {
+          "name": "Stream Crossing 4 each @ $5,000",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Tank/Trough 17 each @ $6,000",
+          "totalCost": 102000,
+          "rawCost": "$102,000"
+        },
+        {
+          "name": "Cover Crops 800 ac @ $73",
+          "totalCost": 58400,
+          "rawCost": "$58,400"
+        },
+        {
+          "name": "Fencing 7,500 ft. @ $4.50",
+          "totalCost": 33750,
+          "rawCost": "$33,750"
+        },
+        {
+          "name": "Dikes 20,000 ft. @ $1.90",
+          "totalCost": 38000,
+          "rawCost": "$38,000"
+        },
+        {
+          "name": "Diversions 10,000 ft @ $2.50",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Pond 5 @ $6,250",
+          "totalCost": 31250,
+          "rawCost": "$31,250"
+        },
+        {
+          "name": "Terraces 35,000 ft. @ $1.86",
+          "totalCost": 65100,
+          "rawCost": "$65,100"
+        },
+        {
+          "name": "Forage and Biomass Planting 300 ac. @ $211",
+          "totalCost": 63300,
+          "rawCost": "$63,300"
+        },
+        {
+          "name": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+          "totalCost": 734200,
+          "rawCost": "$734,200"
+        },
+        {
+          "name": "Technical Assistance** N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "Education and Outreach** N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "Monitoring**  N/A",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1299370,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Stream Crossing 4 each @ $5,000 $20,000",
+      "rows": [
+        {
+          "name": "Stream Crossing 4 each @ $5,000",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Tank/Trough 17 each @ $6,000",
+          "totalCost": 102000,
+          "rawCost": "$102,000"
+        },
+        {
+          "name": "Cover Crops 800 ac @ $73",
+          "totalCost": 58400,
+          "rawCost": "$58,400"
+        },
+        {
+          "name": "Fencing 7,500 ft. @ $4.50",
+          "totalCost": 33750,
+          "rawCost": "$33,750"
+        },
+        {
+          "name": "Dikes 20,000 ft. @ $1.90",
+          "totalCost": 38000,
+          "rawCost": "$38,000"
+        },
+        {
+          "name": "Diversions 10,000 ft @ $2.50",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Pond 5 @ $6,250",
+          "totalCost": 31250,
+          "rawCost": "$31,250"
+        },
+        {
+          "name": "Terraces 35,000 ft. @ $1.86",
+          "totalCost": 65100,
+          "rawCost": "$65,100"
+        },
+        {
+          "name": "Forage and Biomass Planting 300 ac. @ $211",
+          "totalCost": 63300,
+          "rawCost": "$63,300"
+        },
+        {
+          "name": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+          "totalCost": 734200,
+          "rawCost": "$734,200"
+        },
+        {
+          "name": "Technical Assistance** N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "Education and Outreach** N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "Monitoring**  N/A",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1264000,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Tank/Trough 17 each @ $6,000 $102,000",
+      "rows": [
+        {
+          "name": "Tank/Trough 17 each @ $6,000",
+          "totalCost": 102000,
+          "rawCost": "$102,000"
+        },
+        {
+          "name": "Cover Crops 800 ac @ $73",
+          "totalCost": 58400,
+          "rawCost": "$58,400"
+        },
+        {
+          "name": "Fencing 7,500 ft. @ $4.50",
+          "totalCost": 33750,
+          "rawCost": "$33,750"
+        },
+        {
+          "name": "Dikes 20,000 ft. @ $1.90",
+          "totalCost": 38000,
+          "rawCost": "$38,000"
+        },
+        {
+          "name": "Diversions 10,000 ft @ $2.50",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Pond 5 @ $6,250",
+          "totalCost": 31250,
+          "rawCost": "$31,250"
+        },
+        {
+          "name": "Terraces 35,000 ft. @ $1.86",
+          "totalCost": 65100,
+          "rawCost": "$65,100"
+        },
+        {
+          "name": "Forage and Biomass Planting 300 ac. @ $211",
+          "totalCost": 63300,
+          "rawCost": "$63,300"
+        },
+        {
+          "name": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+          "totalCost": 734200,
+          "rawCost": "$734,200"
+        },
+        {
+          "name": "Technical Assistance** N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "Education and Outreach** N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "Monitoring**  N/A",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1244000,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Cover Crops 800 ac @ $73 $58,400",
+      "rows": [
+        {
+          "name": "Cover Crops 800 ac @ $73",
+          "totalCost": 58400,
+          "rawCost": "$58,400"
+        },
+        {
+          "name": "Fencing 7,500 ft. @ $4.50",
+          "totalCost": 33750,
+          "rawCost": "$33,750"
+        },
+        {
+          "name": "Dikes 20,000 ft. @ $1.90",
+          "totalCost": 38000,
+          "rawCost": "$38,000"
+        },
+        {
+          "name": "Diversions 10,000 ft @ $2.50",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Pond 5 @ $6,250",
+          "totalCost": 31250,
+          "rawCost": "$31,250"
+        },
+        {
+          "name": "Terraces 35,000 ft. @ $1.86",
+          "totalCost": 65100,
+          "rawCost": "$65,100"
+        },
+        {
+          "name": "Forage and Biomass Planting 300 ac. @ $211",
+          "totalCost": 63300,
+          "rawCost": "$63,300"
+        },
+        {
+          "name": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+          "totalCost": 734200,
+          "rawCost": "$734,200"
+        },
+        {
+          "name": "Technical Assistance** N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "Education and Outreach** N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "Monitoring**  N/A",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1142000,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Fencing 7,500 ft. @ $4.50 $33,750",
+      "rows": [
+        {
+          "name": "Fencing 7,500 ft. @ $4.50",
+          "totalCost": 33750,
+          "rawCost": "$33,750"
+        },
+        {
+          "name": "Dikes 20,000 ft. @ $1.90",
+          "totalCost": 38000,
+          "rawCost": "$38,000"
+        },
+        {
+          "name": "Diversions 10,000 ft @ $2.50",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Pond 5 @ $6,250",
+          "totalCost": 31250,
+          "rawCost": "$31,250"
+        },
+        {
+          "name": "Terraces 35,000 ft. @ $1.86",
+          "totalCost": 65100,
+          "rawCost": "$65,100"
+        },
+        {
+          "name": "Forage and Biomass Planting 300 ac. @ $211",
+          "totalCost": 63300,
+          "rawCost": "$63,300"
+        },
+        {
+          "name": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+          "totalCost": 734200,
+          "rawCost": "$734,200"
+        },
+        {
+          "name": "Technical Assistance** N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "Education and Outreach** N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "Monitoring**  N/A",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1083600,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Dikes 20,000 ft. @ $1.90 $38,000",
+      "rows": [
+        {
+          "name": "Dikes 20,000 ft. @ $1.90",
+          "totalCost": 38000,
+          "rawCost": "$38,000"
+        },
+        {
+          "name": "Diversions 10,000 ft @ $2.50",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Pond 5 @ $6,250",
+          "totalCost": 31250,
+          "rawCost": "$31,250"
+        },
+        {
+          "name": "Terraces 35,000 ft. @ $1.86",
+          "totalCost": 65100,
+          "rawCost": "$65,100"
+        },
+        {
+          "name": "Forage and Biomass Planting 300 ac. @ $211",
+          "totalCost": 63300,
+          "rawCost": "$63,300"
+        },
+        {
+          "name": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+          "totalCost": 734200,
+          "rawCost": "$734,200"
+        },
+        {
+          "name": "Technical Assistance** N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "Education and Outreach** N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "Monitoring**  N/A",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1049850,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Diversions 10,000 ft @ $2.50 $25,000",
+      "rows": [
+        {
+          "name": "Diversions 10,000 ft @ $2.50",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Pond 5 @ $6,250",
+          "totalCost": 31250,
+          "rawCost": "$31,250"
+        },
+        {
+          "name": "Terraces 35,000 ft. @ $1.86",
+          "totalCost": 65100,
+          "rawCost": "$65,100"
+        },
+        {
+          "name": "Forage and Biomass Planting 300 ac. @ $211",
+          "totalCost": 63300,
+          "rawCost": "$63,300"
+        },
+        {
+          "name": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+          "totalCost": 734200,
+          "rawCost": "$734,200"
+        },
+        {
+          "name": "Technical Assistance** N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "Education and Outreach** N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "Monitoring**  N/A",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1011850,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Pond 5 @ $6,250 $31,250",
+      "rows": [
+        {
+          "name": "Pond 5 @ $6,250",
+          "totalCost": 31250,
+          "rawCost": "$31,250"
+        },
+        {
+          "name": "Terraces 35,000 ft. @ $1.86",
+          "totalCost": 65100,
+          "rawCost": "$65,100"
+        },
+        {
+          "name": "Forage and Biomass Planting 300 ac. @ $211",
+          "totalCost": 63300,
+          "rawCost": "$63,300"
+        },
+        {
+          "name": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+          "totalCost": 734200,
+          "rawCost": "$734,200"
+        },
+        {
+          "name": "Technical Assistance** N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "Education and Outreach** N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "Monitoring**  N/A",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 986850,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Terraces 35,000 ft. @ $1.86 $65,100",
+      "rows": [
+        {
+          "name": "Terraces 35,000 ft. @ $1.86",
+          "totalCost": 65100,
+          "rawCost": "$65,100"
+        },
+        {
+          "name": "Forage and Biomass Planting 300 ac. @ $211",
+          "totalCost": 63300,
+          "rawCost": "$63,300"
+        },
+        {
+          "name": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+          "totalCost": 734200,
+          "rawCost": "$734,200"
+        },
+        {
+          "name": "Technical Assistance** N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "Education and Outreach** N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "Monitoring**  N/A",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 955600,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Forage and Biomass Planting 300 ac. @ $211 $63,300",
+      "rows": [
+        {
+          "name": "Forage and Biomass Planting 300 ac. @ $211",
+          "totalCost": 63300,
+          "rawCost": "$63,300"
+        },
+        {
+          "name": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+          "totalCost": 734200,
+          "rawCost": "$734,200"
+        },
+        {
+          "name": "Technical Assistance** N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "Education and Outreach** N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "Monitoring**  N/A",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 890500,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Streambank and Shoreline Protection 4,000 ft. @ $183.55 $734,200",
+      "rows": [
+        {
+          "name": "Streambank and Shoreline Protection 4,000 ft. @ $183.55",
+          "totalCost": 734200,
+          "rawCost": "$734,200"
+        },
+        {
+          "name": "Technical Assistance** N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "Education and Outreach** N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "Monitoring**  N/A",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 827200,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Technical Assistance** N/A $45,000",
+      "rows": [
+        {
+          "name": "Technical Assistance** N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "Education and Outreach** N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "Monitoring**  N/A",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Coordination, Plan Revision**",
+          "totalCost": 135000,
+          "rawCost": "$135,000"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 1973910,
+          "rawCost": "$1,973,910"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 14000,
+          "rawCost": "$14,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "Coordination, Plan Revision",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "Total Estimated Phase 1 Cost",
+          "totalCost": 299966,
+          "rawCost": "$299,966"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2585876,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Education and Outreach** N/A $28,000",
+      "rows": [
+        {
+          "name": "Education and Outreach** N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "Monitoring**  N/A",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Coordination, Plan Revision**",
+          "totalCost": 135000,
+          "rawCost": "$135,000"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 1973910,
+          "rawCost": "$1,973,910"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 14000,
+          "rawCost": "$14,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "Coordination, Plan Revision",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "Total Estimated Phase 1 Cost",
+          "totalCost": 299966,
+          "rawCost": "$299,966"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2540876,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Monitoring**  N/A $20,000",
+      "rows": [
+        {
+          "name": "Monitoring**  N/A",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Coordination, Plan Revision**",
+          "totalCost": 135000,
+          "rawCost": "$135,000"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 1973910,
+          "rawCost": "$1,973,910"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 14000,
+          "rawCost": "$14,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "Coordination, Plan Revision",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "Total Estimated Phase 1 Cost",
+          "totalCost": 299966,
+          "rawCost": "$299,966"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2512876,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Coordination, Plan Revision**   $135,000",
+      "rows": [
+        {
+          "name": "Coordination, Plan Revision**",
+          "totalCost": 135000,
+          "rawCost": "$135,000"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 1973910,
+          "rawCost": "$1,973,910"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 14000,
+          "rawCost": "$14,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "Coordination, Plan Revision",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "Total Estimated Phase 1 Cost",
+          "totalCost": 299966,
+          "rawCost": "$299,966"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2492876,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total Estimated Cost   $1,973,910",
+      "rows": [
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 1973910,
+          "rawCost": "$1,973,910"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 14000,
+          "rawCost": "$14,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "Coordination, Plan Revision",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "Total Estimated Phase 1 Cost",
+          "totalCost": 299966,
+          "rawCost": "$299,966"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2357876,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Grade Stabilization Structure 20 each @ $6,500 $130,000",
+      "rows": [
+        {
+          "name": "Grade Stabilization Structure 20 each @ $6,500",
+          "totalCost": 130000,
+          "rawCost": "$130,000"
+        },
+        {
+          "name": "Heavy Use Area Protection 2,700 sq.ft. @ $3.93",
+          "totalCost": 10611,
+          "rawCost": "$10,611"
+        },
+        {
+          "name": "Tank/Trough 5 each @ $6,000",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        },
+        {
+          "name": "Cover Crops 235 ac @ $73",
+          "totalCost": 17155,
+          "rawCost": "$17,155"
+        },
+        {
+          "name": "Fencing 2,100 ft. @ $4.50",
+          "totalCost": 9450,
+          "rawCost": "$9,450"
+        },
+        {
+          "name": "Pond 3 each @ $6,250",
+          "totalCost": 18750,
+          "rawCost": "$18,750"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 14000,
+          "rawCost": "$14,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 254966,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Heavy Use Area Protection 2,700 sq.ft. @ $3.93 $10,611",
+      "rows": [
+        {
+          "name": "Heavy Use Area Protection 2,700 sq.ft. @ $3.93",
+          "totalCost": 10611,
+          "rawCost": "$10,611"
+        },
+        {
+          "name": "Tank/Trough 5 each @ $6,000",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        },
+        {
+          "name": "Cover Crops 235 ac @ $73",
+          "totalCost": 17155,
+          "rawCost": "$17,155"
+        },
+        {
+          "name": "Fencing 2,100 ft. @ $4.50",
+          "totalCost": 9450,
+          "rawCost": "$9,450"
+        },
+        {
+          "name": "Pond 3 each @ $6,250",
+          "totalCost": 18750,
+          "rawCost": "$18,750"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 14000,
+          "rawCost": "$14,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 124966,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Tank/Trough 5 each @ $6,000 $30,000",
+      "rows": [
+        {
+          "name": "Tank/Trough 5 each @ $6,000",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        },
+        {
+          "name": "Cover Crops 235 ac @ $73",
+          "totalCost": 17155,
+          "rawCost": "$17,155"
+        },
+        {
+          "name": "Fencing 2,100 ft. @ $4.50",
+          "totalCost": 9450,
+          "rawCost": "$9,450"
+        },
+        {
+          "name": "Pond 3 each @ $6,250",
+          "totalCost": 18750,
+          "rawCost": "$18,750"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 14000,
+          "rawCost": "$14,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 114355,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Cover Crops 235 ac @ $73 $17,155",
+      "rows": [
+        {
+          "name": "Cover Crops 235 ac @ $73",
+          "totalCost": 17155,
+          "rawCost": "$17,155"
+        },
+        {
+          "name": "Fencing 2,100 ft. @ $4.50",
+          "totalCost": 9450,
+          "rawCost": "$9,450"
+        },
+        {
+          "name": "Pond 3 each @ $6,250",
+          "totalCost": 18750,
+          "rawCost": "$18,750"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 14000,
+          "rawCost": "$14,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 84355,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Fencing 2,100 ft. @ $4.50 $9,450",
+      "rows": [
+        {
+          "name": "Fencing 2,100 ft. @ $4.50",
+          "totalCost": 9450,
+          "rawCost": "$9,450"
+        },
+        {
+          "name": "Pond 3 each @ $6,250",
+          "totalCost": 18750,
+          "rawCost": "$18,750"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 14000,
+          "rawCost": "$14,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 67200,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Pond 3 each @ $6,250 $18,750",
+      "rows": [
+        {
+          "name": "Pond 3 each @ $6,250",
+          "totalCost": 18750,
+          "rawCost": "$18,750"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 14000,
+          "rawCost": "$14,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 57750,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Technical Assistance N/A $15,000",
+      "rows": [
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 14000,
+          "rawCost": "$14,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "Coordination, Plan Revision",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "Total Estimated Phase 1 Cost",
+          "totalCost": 299966,
+          "rawCost": "$299,966"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 383966,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "full_project_implementation",
+      "title": "Cost Estimate: Full Project Implementation",
+      "patternId": "full_project_estimate",
+      "patternConfidence": 0.65,
+      "rows": [
+        {
+          "name": "Grade Stabilization Structure",
+          "rawSize": "80 each @ $6,500",
+          "rawCost": "$520,000",
+          "quantity": 80,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 6500,
+          "totalCost": 520000
+        },
+        {
+          "name": "Sediment Basin",
+          "rawSize": "2 each @ $6,250",
+          "rawCost": "$12,500",
+          "quantity": 2,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 6250,
+          "totalCost": 12500
+        },
+        {
+          "name": "Grassed Waterway",
+          "rawSize": "5 each @ $1,408",
+          "rawCost": "$7,040",
+          "quantity": 5,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 1408,
+          "totalCost": 7040
+        },
+        {
+          "name": "Heavy Use Area Protection",
+          "rawSize": "9,000 sq.ft. @ $3.93",
+          "rawCost": "$35,370",
+          "quantity": 9000,
+          "unit": "sq_ft",
+          "unitRaw": "sq.ft",
+          "unitCost": 3.93,
+          "totalCost": 35370
+        },
+        {
+          "name": "Stream Crossing",
+          "rawSize": "4 each @ $5,000",
+          "rawCost": "$20,000",
+          "quantity": 4,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 5000,
+          "totalCost": 20000
+        },
+        {
+          "name": "Tank/Trough",
+          "rawSize": "17 each @ $6,000",
+          "rawCost": "$102,000",
+          "quantity": 17,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 6000,
+          "totalCost": 102000
+        },
+        {
+          "name": "Cover Crops",
+          "rawSize": "800 ac @ $73",
+          "rawCost": "$58,400",
+          "quantity": 800,
+          "unit": "acre",
+          "unitRaw": "ac",
+          "unitCost": 73,
+          "totalCost": 58400
+        },
+        {
+          "name": "Fencing",
+          "rawSize": "7,500 ft. @ $4.50",
+          "rawCost": "$33,750",
+          "quantity": 7500,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 4.5,
+          "totalCost": 33750
+        },
+        {
+          "name": "Dikes",
+          "rawSize": "20,000 ft. @ $1.90",
+          "rawCost": "$38,000",
+          "quantity": 20000,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 1.9,
+          "totalCost": 38000
+        },
+        {
+          "name": "Diversions",
+          "rawSize": "10,000 ft @ $2.50",
+          "rawCost": "$25,000",
+          "quantity": 10000,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 2.5,
+          "totalCost": 25000
+        },
+        {
+          "name": "Pond",
+          "rawSize": "5 @ $6,250",
+          "rawCost": "$31,250",
+          "quantity": 5,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 6250,
+          "totalCost": 31250
+        },
+        {
+          "name": "Terraces",
+          "rawSize": "35,000 ft. @ $1.86",
+          "rawCost": "$65,100",
+          "quantity": 35000,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 1.86,
+          "totalCost": 65100
+        },
+        {
+          "name": "Forage and Biomass Planting",
+          "rawSize": "300 ac. @ $211",
+          "rawCost": "$63,300",
+          "quantity": 300,
+          "unit": "acre",
+          "unitRaw": "ac",
+          "unitCost": 211,
+          "totalCost": 63300
+        },
+        {
+          "name": "Streambank and Shoreline Protection",
+          "rawSize": "4,000 ft. @ $183.55",
+          "rawCost": "$734,200",
+          "quantity": 4000,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 183.55,
+          "totalCost": 734200
+        },
+        {
+          "name": "Technical Assistance",
+          "rawSize": "N/A",
+          "rawCost": "$45,000",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 45000
+        },
+        {
+          "name": "Education and Outreach",
+          "rawSize": "N/A",
+          "rawCost": "$28,000",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 28000
+        },
+        {
+          "name": "Monitoring",
+          "rawSize": "N/A",
+          "rawCost": "$20,000",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 20000
+        },
+        {
+          "name": "Coordination, Plan Revision",
+          "rawSize": "",
+          "rawCost": "$135,000",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 135000
+        }
+      ],
+      "totalReported": 1973910,
+      "totalComputed": 1973910,
+      "discrepancy": 0
+    },
+    {
+      "id": "phase1_implementation",
+      "title": "Cost Estimate: Phase 1 Implementation:",
+      "patternId": "phase1_estimate",
+      "patternConfidence": 0.65,
+      "rows": [
+        {
+          "name": "Grade Stabilization Structure",
+          "rawSize": "20 each @ $6,500",
+          "rawCost": "$130,000",
+          "quantity": 20,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 6500,
+          "totalCost": 130000
+        },
+        {
+          "name": "Heavy Use Area Protection",
+          "rawSize": "2,700 sq.ft. @ $3.93",
+          "rawCost": "$10,611",
+          "quantity": 2700,
+          "unit": "sq_ft",
+          "unitRaw": "sq.ft",
+          "unitCost": 3.93,
+          "totalCost": 10611
+        },
+        {
+          "name": "Tank/Trough",
+          "rawSize": "5 each @ $6,000",
+          "rawCost": "$30,000",
+          "quantity": 5,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 6000,
+          "totalCost": 30000
+        },
+        {
+          "name": "Cover Crops",
+          "rawSize": "235 ac @ $73",
+          "rawCost": "$17,155",
+          "quantity": 235,
+          "unit": "acre",
+          "unitRaw": "ac",
+          "unitCost": 73,
+          "totalCost": 17155
+        },
+        {
+          "name": "Fencing",
+          "rawSize": "2,100 ft. @ $4.50",
+          "rawCost": "$9,450",
+          "quantity": 2100,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 4.5,
+          "totalCost": 9450
+        },
+        {
+          "name": "Pond",
+          "rawSize": "3 each @ $6,250",
+          "rawCost": "$18,750",
+          "quantity": 3,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 6250,
+          "totalCost": 18750
+        },
+        {
+          "name": "Technical Assistance",
+          "rawSize": "N/A",
+          "rawCost": "$15,000",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 15000
+        },
+        {
+          "name": "Education and Outreach",
+          "rawSize": "N/A",
+          "rawCost": "$14,000",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 14000
+        },
+        {
+          "name": "Monitoring",
+          "rawSize": "N/A",
+          "rawCost": "$10,000",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 10000
+        },
+        {
+          "name": "Coordination, Plan Revision",
+          "rawSize": "",
+          "rawCost": "$45,000",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 45000
+        }
+      ],
+      "totalReported": 299966,
+      "totalComputed": 299966,
+      "discrepancy": 0
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [
+    {
+      "id": "M1",
+      "metric": "Completed using historical",
+      "value": null,
+      "unit": null,
+      "source": "Completed using historical",
+      "_present": true
+    },
+    {
+      "id": "M2",
+      "metric": "data",
+      "value": null,
+      "unit": null,
+      "source": "data",
+      "_present": true
+    },
+    {
+      "id": "M3",
+      "metric": "Ellison Creek Watershed Plan GY2021",
+      "value": null,
+      "unit": null,
+      "source": "Ellison Creek Watershed Plan GY2021",
+      "_present": true
+    },
+    {
+      "id": "M4",
+      "metric": "11",
+      "value": null,
+      "unit": null,
+      "source": "11",
+      "_present": true
+    },
+    {
+      "id": "M5",
+      "metric": "Meet with landowners and cooperators",
+      "value": null,
+      "unit": null,
+      "source": "Meet with landowners and cooperators",
+      "_present": true
+    },
+    {
+      "id": "M6",
+      "metric": "to secure commitments to install BMPs",
+      "value": null,
+      "unit": null,
+      "source": "to secure commitments to install BMPs",
+      "_present": true
+    },
+    {
+      "id": "M7",
+      "metric": "in priority areas",
+      "value": null,
+      "unit": null,
+      "source": "in priority areas",
+      "_present": true
+    },
+    {
+      "id": "M8",
+      "metric": "Landowner",
+      "value": null,
+      "unit": null,
+      "source": "Landowner",
+      "_present": true
+    },
+    {
+      "id": "M9",
+      "metric": "Commitment",
+      "value": null,
+      "unit": null,
+      "source": "Commitment",
+      "_present": true
+    },
+    {
+      "id": "M10",
+      "metric": "Months 1-36",
+      "value": null,
+      "unit": null,
+      "source": "Months 1-36",
+      "_present": true
+    },
+    {
+      "id": "M11",
+      "metric": "Establish routine meeting schedule for",
+      "value": null,
+      "unit": null,
+      "source": "Establish routine meeting schedule for",
+      "_present": true
+    },
+    {
+      "id": "M12",
+      "metric": "WIT to support WBP revision",
+      "value": null,
+      "unit": null,
+      "source": "WIT to support WBP revision",
+      "_present": true
+    },
+    {
+      "id": "M13",
+      "metric": "WIT Meetings Months 1-36",
+      "value": null,
+      "unit": null,
+      "source": "WIT Meetings Months 1-36",
+      "_present": true
+    },
+    {
+      "id": "M14",
+      "metric": "Implement BMPs BMP Instillation Months 1-36",
+      "value": null,
+      "unit": null,
+      "source": "Implement BMPs BMP Instillation Months 1-36",
+      "_present": true
+    },
+    {
+      "id": "M15",
+      "metric": "Coordinate with Landowners to inspect",
+      "value": null,
+      "unit": null,
+      "source": "Coordinate with Landowners to inspect",
+      "_present": true
+    },
+    {
+      "id": "M16",
+      "metric": "BMPs that were installed using Section",
+      "value": null,
+      "unit": null,
+      "source": "BMPs that were installed using Section",
+      "_present": true
+    },
+    {
+      "id": "M17",
+      "metric": "319 funds",
+      "value": null,
+      "unit": null,
+      "source": "319 funds",
+      "_present": true
+    },
+    {
+      "id": "M18",
+      "metric": "BMP Inspection Months 1-36",
+      "value": null,
+      "unit": null,
+      "source": "BMP Inspection Months 1-36",
+      "_present": true
+    },
+    {
+      "id": "M19",
+      "metric": "Begin monitoring to collect data on",
+      "value": null,
+      "unit": null,
+      "source": "Begin monitoring to collect data on",
+      "_present": true
+    },
+    {
+      "id": "M20",
+      "metric": "post-BMP water quality",
+      "value": null,
+      "unit": null,
+      "source": "post-BMP water quality",
+      "_present": true
+    },
+    {
+      "id": "M21",
+      "metric": "Post-BMP Monitoring Months 40-48",
+      "value": null,
+      "unit": null,
+      "source": "Post-BMP Monitoring Months 40-48",
+      "_present": true
+    },
+    {
+      "id": "M22",
+      "metric": "Implement education and outreach plan Education/Outreach",
+      "value": null,
+      "unit": null,
+      "source": "Implement education and outreach plan Education/Outreach",
+      "_present": true
+    },
+    {
+      "id": "M23",
+      "metric": "events scheduled",
+      "value": null,
+      "unit": null,
+      "source": "events scheduled",
+      "_present": true
+    },
+    {
+      "id": "M24",
+      "metric": "Months 8-36",
+      "value": null,
+      "unit": null,
+      "source": "Months 8-36",
+      "_present": true
+    },
+    {
+      "id": "M25",
+      "metric": "Finalize revised WBP Final Revised WBP Months 30-36",
+      "value": null,
+      "unit": null,
+      "source": "Finalize revised WBP Final Revised WBP Months 30-36",
+      "_present": true
+    },
+    {
+      "id": "M26",
+      "metric": "Goal: Reduce sediment loads entering waters in the Ellison Creek Watershed.",
+      "value": null,
+      "unit": null,
+      "source": "Goal: Reduce sediment loads entering waters in the Ellison Creek Watershed.",
+      "_present": true
+    },
+    {
+      "id": "M27",
+      "metric": "Element h:  Load Reduction Evaluation",
+      "value": null,
+      "unit": null,
+      "source": "Element h:  Load Reduction Evaluation",
+      "_present": true
+    },
+    {
+      "id": "M28",
+      "metric": "The State of Mississippi Water Quality Criteria for Intrastate, Interstate, and Coastal Waters",
+      "value": null,
+      "unit": null,
+      "source": "The State of Mississippi Water Quality Criteria for Intrastate, Interstate, and Coastal Waters",
+      "_present": true
+    },
+    {
+      "id": "M29",
+      "metric": "(MDEQ, 2021) do not include a water quality standard applicable to aquatic life protection due",
+      "value": null,
+      "unit": null,
+      "source": "(MDEQ, 2021) do not include a water quality standard applicable to aquatic life protection due",
+      "_present": true
+    },
+    {
+      "id": "M30",
+      "metric": "to sediment. However, a narrative standard for the protection of aquatic life was interpreted to",
+      "value": null,
+      "unit": null,
+      "source": "to sediment. However, a narrative standard for the protection of aquatic life was interpreted to",
+      "_present": true
+    },
+    {
+      "id": "M31",
+      "metric": "determine an applicable target for the Ellison Creek TMDL. The narrative standard is that waters",
+      "value": null,
+      "unit": null,
+      "source": "determine an applicable target for the Ellison Creek TMDL. The narrative standard is that waters",
+      "_present": true
+    },
+    {
+      "id": "M32",
+      "metric": "shall be free from materials attributable to municipal, industrial, agricultural, or other dischargers",
+      "value": null,
+      "unit": null,
+      "source": "shall be free from materials attributable to municipal, industrial, agricultural, or other dischargers",
+      "_present": true
+    },
+    {
+      "id": "M33",
+      "metric": "producing color, odor, taste, total suspended solids, or other conditions in such degree as to",
+      "value": null,
+      "unit": null,
+      "source": "producing color, odor, taste, total suspended solids, or other conditions in such degree as to",
+      "_present": true
+    },
+    {
+      "id": "M34",
+      "metric": "create a nuisance, render the waters injurious to public health, recreation, or to aquatic life and",
+      "value": null,
+      "unit": null,
+      "source": "create a nuisance, render the waters injurious to public health, recreation, or to aquatic life and",
+      "_present": true
+    },
+    {
+      "id": "M35",
+      "metric": "wildlife, or adversely affect the palatability of fish, aesthetic quality, or impair the waters for any",
+      "value": null,
+      "unit": null,
+      "source": "wildlife, or adversely affect the palatability of fish, aesthetic quality, or impair the waters for any",
+      "_present": true
+    },
+    {
+      "id": "M36",
+      "metric": "designated uses.  In lieu of numeric criteria for sediment, monitoring will be conducted to collect",
+      "value": null,
+      "unit": null,
+      "source": "designated uses.  In lieu of numeric criteria for sediment, monitoring will be conducted to collect",
+      "_present": true
+    },
+    {
+      "id": "M37",
+      "metric": "data on parameters that are considered surrogates for sediment concentrations and may include",
+      "value": null,
+      "unit": null,
+      "source": "data on parameters that are considered surrogates for sediment concentrations and may include",
+      "_present": true
+    },
+    {
+      "id": "M38",
+      "metric": "measurements for Total Suspend Solids, Total Suspended Sediment, and turbidity along with",
+      "value": null,
+      "unit": null,
+      "source": "measurements for Total Suspend Solids, Total Suspended Sediment, and turbidity along with",
+      "_present": true
+    },
+    {
+      "id": "M39",
+      "metric": "conventional parameters generally measured to determine aquatic health (e.g. Dissolved Oxygen,",
+      "value": null,
+      "unit": null,
+      "source": "conventional parameters generally measured to determine aquatic health (e.g. Dissolved Oxygen,",
+      "_present": true
+    },
+    {
+      "id": "M40",
+      "metric": "pH, Temperature, Conductivity).  The following thresholds will be used to measure compliance",
+      "value": null,
+      "unit": null,
+      "source": "pH, Temperature, Conductivity).  The following thresholds will be used to measure compliance",
+      "_present": true
+    },
+    {
+      "id": "M41",
+      "metric": "with water quality criteria and/or target thresholds:",
+      "value": null,
+      "unit": null,
+      "source": "with water quality criteria and/or target thresholds:",
+      "_present": true
+    },
+    {
+      "id": "M42",
+      "metric": "Ellison Creek Watershed Plan GY2021",
+      "value": null,
+      "unit": null,
+      "source": "Ellison Creek Watershed Plan GY2021",
+      "_present": true
+    },
+    {
+      "id": "M43",
+      "metric": "12",
+      "value": null,
+      "unit": null,
+      "source": "12",
+      "_present": true
+    },
+    {
+      "id": "M44",
+      "metric": "Success Measurement Thresholds:",
+      "value": null,
+      "unit": null,
+      "source": "Success Measurement Thresholds:",
+      "_present": true
+    },
+    {
+      "id": "M45",
+      "metric": "Parameter Threshold",
+      "value": null,
+      "unit": null,
+      "source": "Parameter Threshold",
+      "_present": true
+    },
+    {
+      "id": "M46",
+      "metric": "Dissolved Oxygen",
+      "value": null,
+      "unit": null,
+      "source": "Dissolved Oxygen",
+      "_present": true
+    },
+    {
+      "id": "M47",
+      "metric": "Daily Average of 5.0 mg/L; Instantaneous",
+      "value": null,
+      "unit": null,
+      "source": "Daily Average of 5.0 mg/L; Instantaneous",
+      "_present": true
+    },
+    {
+      "id": "M48",
+      "metric": "threshold of 4.0 mg/L",
+      "value": null,
+      "unit": null,
+      "source": "threshold of 4.0 mg/L",
+      "_present": true
+    },
+    {
+      "id": "M49",
+      "metric": "Dissolved Oxygen % Sat. > 70% - < 125%",
+      "value": null,
+      "unit": null,
+      "source": "Dissolved Oxygen % Sat. > 70% - < 125%",
+      "_present": true
+    },
+    {
+      "id": "M50",
+      "metric": "pH 6.0-9.0",
+      "value": null,
+      "unit": null,
+      "source": "pH 6.0-9.0",
+      "_present": true
+    },
+    {
+      "id": "M51",
+      "metric": "Temperature Not to exceed 90°F",
+      "value": null,
+      "unit": null,
+      "source": "Temperature Not to exceed 90°F",
+      "_present": true
+    },
+    {
+      "id": "M52",
+      "metric": "Specific Conductance Less Than 1000 micromhos/cm",
+      "value": null,
+      "unit": null,
+      "source": "Specific Conductance Less Than 1000 micromhos/cm",
+      "_present": true
+    },
+    {
+      "id": "M53",
+      "metric": "Dissolved Solids",
+      "value": null,
+      "unit": null,
+      "source": "Dissolved Solids",
+      "_present": true
+    },
+    {
+      "id": "M54",
+      "metric": "Monthly average less than 750 mg/L;",
+      "value": null,
+      "unit": null,
+      "source": "Monthly average less than 750 mg/L;",
+      "_present": true
+    },
+    {
+      "id": "M55",
+      "metric": "instantaneous threshold less than 1500",
+      "value": null,
+      "unit": null,
+      "source": "instantaneous threshold less than 1500",
+      "_present": true
+    },
+    {
+      "id": "M56",
+      "metric": "mg/L",
+      "value": null,
+      "unit": null,
+      "source": "mg/L",
+      "_present": true
+    },
+    {
+      "id": "M57",
+      "metric": "Chemical Oxygen Demand <50 mg/l",
+      "value": null,
+      "unit": null,
+      "source": "Chemical Oxygen Demand <50 mg/l",
+      "_present": true
+    },
+    {
+      "id": "M58",
+      "metric": "Turbidity <100 NTU",
+      "value": null,
+      "unit": null,
+      "source": "Turbidity <100 NTU",
+      "_present": true
+    },
+    {
+      "id": "M59",
+      "metric": "Total Suspended Solids <80 mg/l",
+      "value": null,
+      "unit": null,
+      "source": "Total Suspended Solids <80 mg/l",
+      "_present": true
+    },
+    {
+      "id": "M60",
+      "metric": "M-BISQ West Bioregion",
+      "value": null,
+      "unit": null,
+      "source": "M-BISQ West Bioregion",
+      "_present": true
+    },
+    {
+      "id": "M61",
+      "metric": "Assessment threshold 43.7 (25th percentile",
+      "value": null,
+      "unit": null,
+      "source": "Assessment threshold 43.7 (25th percentile",
+      "_present": true
+    },
+    {
+      "id": "M62",
+      "metric": "of reference condition)",
+      "value": null,
+      "unit": null,
+      "source": "of reference condition)",
+      "_present": true
+    },
+    {
+      "id": "M63",
+      "metric": "In addition to chemical data, biological community data and in stream habitat surveys will be",
+      "value": null,
+      "unit": null,
+      "source": "In addition to chemical data, biological community data and in stream habitat surveys will be",
+      "_present": true
+    },
+    {
+      "id": "M64",
+      "metric": "collected over the course of the project to determine attainment of the Aquatic Life Designated",
+      "value": null,
+      "unit": null,
+      "source": "collected over the course of the project to determine attainment of the Aquatic Life Designated",
+      "_present": true
+    },
+    {
+      "id": "M65",
+      "metric": "Use.  These data are extremely helpful in identifying positive trends in water quality and should",
+      "value": null,
+      "unit": null,
+      "source": "Use.  These data are extremely helpful in identifying positive trends in water quality and should",
+      "_present": true
+    },
+    {
+      "id": "M66",
+      "metric": "provide information to help determine if the implementation activities are resulting in water",
+      "value": null,
+      "unit": null,
+      "source": "provide information to help determine if the implementation activities are resulting in water",
+      "_present": true
+    },
+    {
+      "id": "M67",
+      "metric": "quality improvements.  Mississippi uses a calibrated and verified index of biotic integrity to",
+      "value": null,
+      "unit": null,
+      "source": "quality improvements.  Mississippi uses a calibrated and verified index of biotic integrity to",
+      "_present": true
+    },
+    {
+      "id": "M68",
+      "metric": "make water quality assessment decisions.  This index, the Mississippi Benthic Index of Stream",
+      "value": null,
+      "unit": null,
+      "source": "make water quality assessment decisions.  This index, the Mississippi Benthic Index of Stream",
+      "_present": true
+    },
+    {
+      "id": "M69",
+      "metric": "Quality (M-BISQ) was originally developed in 2000 and has undergone three recalibration",
+      "value": null,
+      "unit": null,
+      "source": "Quality (M-BISQ) was originally developed in 2000 and has undergone three recalibration",
+      "_present": true
+    },
+    {
+      "id": "M70",
+      "metric": "efforts to refine the sensitivity of the index.  As part of the index development process, the state",
+      "value": null,
+      "unit": null,
+      "source": "efforts to refine the sensitivity of the index.  As part of the index development process, the state",
+      "_present": true
+    },
+    {
+      "id": "M71",
+      "metric": "was divided into unique bioregions.  Within each bioregion, the index has a defined attainment",
+      "value": null,
+      "unit": null,
+      "source": "was divided into unique bioregions.  Within each bioregion, the index has a defined attainment",
+      "_present": true
+    },
+    {
+      "id": "M72",
+      "metric": "threshold that is used to determine if the biological community measures collected at a site are",
+      "value": null,
+      "unit": null,
+      "source": "threshold that is used to determine if the biological community measures collected at a site are",
+      "_present": true
+    },
+    {
+      "id": "M73",
+      "metric": "representative of good water quality that can support a balanced benthic macroinvertebrate",
+      "value": null,
+      "unit": null,
+      "source": "representative of good water quality that can support a balanced benthic macroinvertebrate",
+      "_present": true
+    },
+    {
+      "id": "M74",
+      "metric": "community.  If the score is above the attainment threshold for the bioregion, the site is assessed",
+      "value": null,
+      "unit": null,
+      "source": "community.  If the score is above the attainment threshold for the bioregion, the site is assessed",
+      "_present": true
+    },
+    {
+      "id": "M75",
+      "metric": "as attaining the aquatic life use designation.  Ellison Creek is in the West bioregion and the",
+      "value": null,
+      "unit": null,
+      "source": "as attaining the aquatic life use designation.  Ellison Creek is in the West bioregion and the",
+      "_present": true
+    },
+    {
+      "id": "M76",
+      "metric": "attainment threshold is 43.7.  Along with overall MBISQ scores, the in-stream habitat surveys",
+      "value": null,
+      "unit": null,
+      "source": "attainment threshold is 43.7.  Along with overall MBISQ scores, the in-stream habitat surveys",
+      "_present": true
+    },
+    {
+      "id": "M77",
+      "metric": "will also be used to determine change over time.",
+      "value": null,
+      "unit": null,
+      "source": "will also be used to determine change over time.",
+      "_present": true
+    },
+    {
+      "id": "M78",
+      "metric": "It should be noted that recovery time of a stream is variable and may extend beyond the",
+      "value": null,
+      "unit": null,
+      "source": "It should be noted that recovery time of a stream is variable and may extend beyond the",
+      "_present": true
+    },
+    {
+      "id": "M79",
+      "metric": "timeframe identified in the workplan.  At the end of the project, data will be analyzed to",
+      "value": null,
+      "unit": null,
+      "source": "timeframe identified in the workplan.  At the end of the project, data will be analyzed to",
+      "_present": true
+    },
+    {
+      "id": "M80",
+      "metric": "determine if the data indicate improvements to water quality in Ellison Creek.  In the event data",
+      "value": null,
+      "unit": null,
+      "source": "determine if the data indicate improvements to water quality in Ellison Creek.  In the event data",
+      "_present": true
+    },
+    {
+      "id": "M81",
+      "metric": "indicate little or no positive change, a Stressor Analysis will be conducted to determine if any",
+      "value": null,
+      "unit": null,
+      "source": "indicate little or no positive change, a Stressor Analysis will be conducted to determine if any",
+      "_present": true
+    },
+    {
+      "id": "M82",
+      "metric": "new or additional stressors are preventing improvements to water quality.  If any new stressors",
+      "value": null,
+      "unit": null,
+      "source": "new or additional stressors are preventing improvements to water quality.  If any new stressors",
+      "_present": true
+    },
+    {
+      "id": "M83",
+      "metric": "are identified, the Watershed Implementation Team will identify future actions/activities to",
+      "value": null,
+      "unit": null,
+      "source": "are identified, the Watershed Implementation Team will identify future actions/activities to",
+      "_present": true
+    },
+    {
+      "id": "M84",
+      "metric": "address those stressors.",
+      "value": null,
+      "unit": null,
+      "source": "address those stressors.",
+      "_present": true
+    },
+    {
+      "id": "M85",
+      "metric": "Ellison Creek Watershed Plan GY2021",
+      "value": null,
+      "unit": null,
+      "source": "Ellison Creek Watershed Plan GY2021",
+      "_present": true
+    },
+    {
+      "id": "M86",
+      "metric": "13",
+      "value": null,
+      "unit": null,
+      "source": "13",
+      "_present": true
+    },
+    {
+      "id": "M87",
+      "metric": "Element i: Monitoring",
+      "value": null,
+      "unit": null,
+      "source": "Element i: Monitoring",
+      "_present": true
+    },
+    {
+      "id": "M88",
+      "metric": "Prior to BMP installation, pre-implementation water quality chemical and biological monitoring",
+      "value": null,
+      "unit": null,
+      "source": "Prior to BMP installation, pre-implementation water quality chemical and biological monitoring",
+      "_present": true
+    },
+    {
+      "id": "M89",
+      "metric": "will be collected to serve as baseline data for the project along with any historical data available",
+      "value": null,
+      "unit": null,
+      "source": "will be collected to serve as baseline data for the project along with any historical data available",
+      "_present": true
+    },
+    {
+      "id": "M90",
+      "metric": "in Ellison Creek. Water quality monitoring will include water chemistry data (nutrients,",
+      "value": null,
+      "unit": null,
+      "source": "in Ellison Creek. Water quality monitoring will include water chemistry data (nutrients,",
+      "_present": true
+    },
+    {
+      "id": "M91",
+      "metric": "suspended solids, oxygen demand, chlorides, etc.), in-situ field measurements for such",
+      "value": null,
+      "unit": null,
+      "source": "suspended solids, oxygen demand, chlorides, etc.), in-situ field measurements for such",
+      "_present": true
+    },
+    {
+      "id": "M92",
+      "metric": "parameters as dissolved oxygen, pH, temperature, specific conductance, and turbidity, datalogger",
+      "value": null,
+      "unit": null,
+      "source": "parameters as dissolved oxygen, pH, temperature, specific conductance, and turbidity, datalogger",
+      "_present": true
+    },
+    {
+      "id": "M93",
+      "metric": "(sonde) deployment for continuous in-situ field measurement data as well as biological",
+      "value": null,
+      "unit": null,
+      "source": "(sonde) deployment for continuous in-situ field measurement data as well as biological",
+      "_present": true
+    },
+    {
+      "id": "M94",
+      "metric": "community monitoring for benthic macroinvertebrates.  A list of this historical water quality",
+      "value": null,
+      "unit": null,
+      "source": "community monitoring for benthic macroinvertebrates.  A list of this historical water quality",
+      "_present": true
+    },
+    {
+      "id": "M95",
+      "metric": "monitoring in the Ellison Creek Watershed is provided in the table below and their sample",
+      "value": null,
+      "unit": null,
+      "source": "monitoring in the Ellison Creek Watershed is provided in the table below and their sample",
+      "_present": true
+    },
+    {
+      "id": "M96",
+      "metric": "locations are shown in Figures 1 and 2.",
+      "value": null,
+      "unit": null,
+      "source": "locations are shown in Figures 1 and 2.",
+      "_present": true
+    },
+    {
+      "id": "M97",
+      "metric": "Station",
+      "value": null,
+      "unit": null,
+      "source": "Station",
+      "_present": true
+    },
+    {
+      "id": "M98",
+      "metric": "ID",
+      "value": null,
+      "unit": null,
+      "source": "ID",
+      "_present": true
+    },
+    {
+      "id": "M99",
+      "metric": "Water",
+      "value": null,
+      "unit": null,
+      "source": "Water",
+      "_present": true
+    },
+    {
+      "id": "M100",
+      "metric": "Sample",
+      "value": null,
+      "unit": null,
+      "source": "Sample",
+      "_present": true
+    },
+    {
+      "id": "M101",
+      "metric": "Year(s)",
+      "value": null,
+      "unit": null,
+      "source": "Year(s)",
+      "_present": true
+    },
+    {
+      "id": "M102",
+      "metric": "Collecting",
+      "value": null,
+      "unit": null,
+      "source": "Collecting",
+      "_present": true
+    },
+    {
+      "id": "M103",
+      "metric": "Agency",
+      "value": null,
+      "unit": null,
+      "source": "Agency",
+      "_present": true
+    },
+    {
+      "id": "M104",
+      "metric": "Project",
+      "value": null,
+      "unit": null,
+      "source": "Project",
+      "_present": true
+    },
+    {
+      "id": "M105",
+      "metric": "Water",
+      "value": null,
+      "unit": null,
+      "source": "Water",
+      "_present": true
+    },
+    {
+      "id": "M106",
+      "metric": "Chem",
+      "value": null,
+      "unit": null,
+      "source": "Chem",
+      "_present": true
+    },
+    {
+      "id": "M107",
+      "metric": "In-",
+      "value": null,
+      "unit": null,
+      "source": "In-",
+      "_present": true
+    },
+    {
+      "id": "M108",
+      "metric": "Situ",
+      "value": null,
+      "unit": null,
+      "source": "Situ",
+      "_present": true
+    },
+    {
+      "id": "M109",
+      "metric": "Sonde Benthics",
+      "value": null,
+      "unit": null,
+      "source": "Sonde Benthics",
+      "_present": true
+    },
+    {
+      "id": "M110",
+      "metric": "Body",
+      "value": null,
+      "unit": null,
+      "source": "Body",
+      "_present": true
+    },
+    {
+      "id": "M111",
+      "metric": "BB071",
+      "value": null,
+      "unit": null,
+      "source": "BB071",
+      "_present": true
+    },
+    {
+      "id": "M112",
+      "metric": "Ellison",
+      "value": null,
+      "unit": null,
+      "source": "Ellison",
+      "_present": true
+    },
+    {
+      "id": "M113",
+      "metric": "Creek",
+      "value": null,
+      "unit": null,
+      "source": "Creek",
+      "_present": true
+    },
+    {
+      "id": "M114",
+      "metric": "2001 MDEQ M-BISQ X X",
+      "value": null,
+      "unit": null,
+      "source": "2001 MDEQ M-BISQ X X",
+      "_present": true
+    },
+    {
+      "id": "M115",
+      "metric": "X",
+      "value": null,
+      "unit": null,
+      "source": "X",
+      "_present": true
+    },
+    {
+      "id": "M116",
+      "metric": "Monitoring locations will be selected using best professional judgment and will be targeted to",
+      "value": null,
+      "unit": null,
+      "source": "Monitoring locations will be selected using best professional judgment and will be targeted to",
+      "_present": true
+    },
+    {
+      "id": "M117",
+      "metric": "reflect water quality downstream of BMP activity.  Once BMP installation is complete, and there",
+      "value": null,
+      "unit": null,
+      "source": "reflect water quality downstream of BMP activity.  Once BMP installation is complete, and there",
+      "_present": true
+    },
+    {
+      "id": "M118",
+      "metric": "has been sufficient time for the stream to stabilize, post BMP monitoring will be initiated.  Post",
+      "value": null,
+      "unit": null,
+      "source": "has been sufficient time for the stream to stabilize, post BMP monitoring will be initiated.  Post",
+      "_present": true
+    },
+    {
+      "id": "M119",
+      "metric": "BMP monitoring will be conducted in a way that allows for comparison with the pre-",
+      "value": null,
+      "unit": null,
+      "source": "BMP monitoring will be conducted in a way that allows for comparison with the pre-",
+      "_present": true
+    },
+    {
+      "id": "M120",
+      "metric": "implementation data.  Because recovery periods of streams can be dependent on type and amount",
+      "value": null,
+      "unit": null,
+      "source": "implementation data.  Because recovery periods of streams can be dependent on type and amount",
+      "_present": true
+    },
+    {
+      "id": "M121",
+      "metric": "of BMPs installed, more than 1 year of post BMP data may be needed to observe a change in",
+      "value": null,
+      "unit": null,
+      "source": "of BMPs installed, more than 1 year of post BMP data may be needed to observe a change in",
+      "_present": true
+    },
+    {
+      "id": "M122",
+      "metric": "water quality.  In some cases, it may take 5 or more years to see full benefits of BMPs. All data",
+      "value": null,
+      "unit": null,
+      "source": "water quality.  In some cases, it may take 5 or more years to see full benefits of BMPs. All data",
+      "_present": true
+    },
+    {
+      "id": "M123",
+      "metric": "collection efforts will be conducted using trained personnel following established Standard",
+      "value": null,
+      "unit": null,
+      "source": "collection efforts will be conducted using trained personnel following established Standard",
+      "_present": true
+    },
+    {
+      "id": "M124",
+      "metric": "Operating Procedures and adhering to agency Quality Assurance protocols.",
+      "value": null,
+      "unit": null,
+      "source": "Operating Procedures and adhering to agency Quality Assurance protocols.",
+      "_present": true
+    }
+  ],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-05T19:52:46.201Z",
+  "metadata": {
+    "sourceId": "ellison-creek-9-key-element-plan-2021-14",
+    "sourceFile": "ellison-creek-9-key-element-plan-2021-14.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "narrative_cost_block",
+        "title": "Grade Stabilization Structure 80 each @ $6,500 $520,000",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 1838910
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Sediment Basin 2 each @ $6,250 $12,500",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 1318910
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Grassed Waterway 5 each @ $1,408 $7,040",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 1306410
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Heavy Use Area Protection 9,000 sq.ft. @ $3.93 $35,370",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 1299370
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Stream Crossing 4 each @ $5,000 $20,000",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 1264000
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Tank/Trough 17 each @ $6,000 $102,000",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 1244000
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Cover Crops 800 ac @ $73 $58,400",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 1142000
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Fencing 7,500 ft. @ $4.50 $33,750",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 1083600
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Dikes 20,000 ft. @ $1.90 $38,000",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 1049850
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Diversions 10,000 ft @ $2.50 $25,000",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 1011850
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Pond 5 @ $6,250 $31,250",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 986850
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Terraces 35,000 ft. @ $1.86 $65,100",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 955600
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Forage and Biomass Planting 300 ac. @ $211 $63,300",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 890500
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Streambank and Shoreline Protection 4,000 ft. @ $183.55 $734,200",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 827200
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Technical Assistance** N/A $45,000",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 2585876
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Education and Outreach** N/A $28,000",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 2540876
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Monitoring**  N/A $20,000",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 2512876
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Coordination, Plan Revision**   $135,000",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 2492876
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Total Estimated Cost   $1,973,910",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 2357876
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Grade Stabilization Structure 20 each @ $6,500 $130,000",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 254966
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Heavy Use Area Protection 2,700 sq.ft. @ $3.93 $10,611",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 124966
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Tank/Trough 5 each @ $6,000 $30,000",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 114355
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Cover Crops 235 ac @ $73 $17,155",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 84355
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Fencing 2,100 ft. @ $4.50 $9,450",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 67200
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Pond 3 each @ $6,250 $18,750",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 57750
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Technical Assistance N/A $15,000",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 383966
+      },
+      {
+        "id": "full_project_estimate",
+        "title": "Cost Estimate: Full Project Implementation",
+        "confidence": 0.65,
+        "totalReported": 1973910,
+        "totalComputed": 1973910
+      },
+      {
+        "id": "phase1_estimate",
+        "title": "Cost Estimate: Phase 1 Implementation:",
+        "confidence": 0.65,
+        "totalReported": 299966,
+        "totalComputed": 299966
+      }
+    ],
+    "originalName": "Ellison_Creek_9_Key_Element_Plan_2021.pdf",
+    "presence": {
+      "goals": 0,
+      "bmps": 4,
+      "implementation": 0,
+      "monitoring": 124,
+      "outreach": 0
+    }
+  }
+}

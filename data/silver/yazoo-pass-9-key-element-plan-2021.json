@@ -1,0 +1,2363 @@
+{
+  "id": "yazoo-pass-9-key-element-plan-2021",
+  "summary": {
+    "totalGoals": 2,
+    "totalBMPs": 20,
+    "totalActivities": 0,
+    "primaryGoals": 2,
+    "completionRate": 0,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 2,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "General": 19,
+      "Vegetative": 1
+    },
+    "avgGoalConfidence": 0.05,
+    "strongGoals": 0
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "The ultimate goal is to bring about behavior • Waste Pesticide Disposal Event - The primary goal of this program is to help Mississippi",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The ultimate goal is to bring about behavior • Waste Pesticide Disposal Event - The primary goal of this program is to help Mississippi",
+      "confidence": 0.05,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "fullParagraph": "the watershed, as well as solutions to its problems. The ultimate goal is to bring about behavior • Waste Pesticide Disposal Event - The primary goal of this program is to help Mississippi",
+      "description": "the watershed, as well as solutions to its problems. The ultimate goal is to bring about behavior • Waste Pesticide Disposal Event - The primary goal of this program is to help Mississippi",
+      "originalSentence": "The ultimate goal is to bring about behavior • Waste Pesticide Disposal Event - The primary goal of this program is to help Mississippi",
+      "shortTitle": "The ultimate goal is to bring about behavior • Waste Pesticide Disposal Event - The primary goal of this program is to help Mississippi"
+    },
+    {
+      "id": "G2",
+      "title": "the watershed, as well as solutions to its problems. The ultimate goal is to bring about behavior",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "the watershed, as well as solutions to its problems.  The ultimate goal is to bring about behavior",
+      "confidence": 0.05,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "fullParagraph": "the watershed, as well as solutions to its problems. The ultimate goal is to bring about behavior • Waste Pesticide Disposal Event - The primary goal of this program is to help Mississippi",
+      "description": "the watershed, as well as solutions to its problems. The ultimate goal is to bring about behavior • Waste Pesticide Disposal Event - The primary goal of this program is to help Mississippi",
+      "originalSentence": "the watershed, as well as solutions to its problems. The ultimate goal is to bring about behavior",
+      "shortTitle": "the watershed, as well as solutions to its problems. The ultimate goal is to bring about behavior"
+    }
+  ],
+  "mainGoals": [
+    {
+      "id": "G1",
+      "title": "The ultimate goal is to bring about behavior • Waste Pesticide Disposal Event - The primary goal of this program is to help Mississippi",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The ultimate goal is to bring about behavior • Waste Pesticide Disposal Event - The primary goal of this program is to help Mississippi",
+      "confidence": 0.05,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "fullParagraph": "the watershed, as well as solutions to its problems. The ultimate goal is to bring about behavior • Waste Pesticide Disposal Event - The primary goal of this program is to help Mississippi",
+      "description": "the watershed, as well as solutions to its problems. The ultimate goal is to bring about behavior • Waste Pesticide Disposal Event - The primary goal of this program is to help Mississippi",
+      "originalSentence": "The ultimate goal is to bring about behavior • Waste Pesticide Disposal Event - The primary goal of this program is to help Mississippi",
+      "shortTitle": "The ultimate goal is to bring about behavior • Waste Pesticide Disposal Event - The primary goal of this program is to help Mississippi"
+    },
+    {
+      "id": "G2",
+      "title": "the watershed, as well as solutions to its problems. The ultimate goal is to bring about behavior",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "the watershed, as well as solutions to its problems.  The ultimate goal is to bring about behavior",
+      "confidence": 0.05,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "fullParagraph": "the watershed, as well as solutions to its problems. The ultimate goal is to bring about behavior • Waste Pesticide Disposal Event - The primary goal of this program is to help Mississippi",
+      "description": "the watershed, as well as solutions to its problems. The ultimate goal is to bring about behavior • Waste Pesticide Disposal Event - The primary goal of this program is to help Mississippi",
+      "originalSentence": "the watershed, as well as solutions to its problems. The ultimate goal is to bring about behavior",
+      "shortTitle": "the watershed, as well as solutions to its problems. The ultimate goal is to bring about behavior"
+    }
+  ],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "$1,025,000 had been spent on conservation practices in the Coldwater River (HUC 8)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$1,025,000 had been spent on conservation practices in the Coldwater River (HUC 8)"
+    },
+    {
+      "id": "B2",
+      "name": "BMPs Size/Amount Estimated Cost 32",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "BMPs Size/Amount Estimated Cost 32 @ $6,480 $207,360|name_cost_tail_trim",
+      "originalName": "BMPs Size/Amount Estimated Cost 32 @ $6,480 $207,360"
+    },
+    {
+      "id": "B3",
+      "name": "82",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "82 @ $2,400 $196,800|name_cost_tail_trim",
+      "originalName": "82 @ $2,400 $196,800"
+    },
+    {
+      "id": "B4",
+      "name": "20,898",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "20,898 @ $10 $208,980|name_cost_tail_trim",
+      "originalName": "20,898 @ $10 $208,980"
+    },
+    {
+      "id": "B5",
+      "name": "17,727",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "17,727 @ $73 $1,294,071|name_cost_tail_trim",
+      "originalName": "17,727 @ $73 $1,294,071"
+    },
+    {
+      "id": "B6",
+      "name": "$30,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$30,000"
+    },
+    {
+      "id": "B7",
+      "name": "$50,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$50,000"
+    },
+    {
+      "id": "B8",
+      "name": "$58,500",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$58,500"
+    },
+    {
+      "id": "B9",
+      "name": "$109,320",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$109,320"
+    },
+    {
+      "id": "B10",
+      "name": "$2,155,031",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$2,155,031"
+    },
+    {
+      "id": "B11",
+      "name": "BMPs Size/Amount Estimated Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "BMPs Size/Amount Estimated Cost"
+    },
+    {
+      "id": "B12",
+      "name": "Grade Stabilization Structure (#) 5",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Grade Stabilization Structure (#) 5 @ $6,480 $32,400|name_cost_tail_trim",
+      "originalName": "Grade Stabilization Structure (#) 5 @ $6,480 $32,400"
+    },
+    {
+      "id": "B13",
+      "name": "Water Control Structure (#) 40",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Water Control Structure (#) 40 @ $2,400 $96,000|name_cost_tail_trim",
+      "originalName": "Water Control Structure (#) 40 @ $2,400 $96,000"
+    },
+    {
+      "id": "B14",
+      "name": "Cover Crop (3",
+      "category": "Vegetative",
+      "keyword": "Cover Crop",
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.4,
+      "source": "Cover Crop (3 80 ac sites - 2 yr.) $73  $35,040|name_cost_tail_trim",
+      "originalName": "Cover Crop (3 80 ac sites - 2 yr.) $73  $35,040"
+    },
+    {
+      "id": "B15",
+      "name": "Education/Outreach N/A",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Education/Outreach N/A $24,900|name_cost_tail_trim",
+      "originalName": "Education/Outreach N/A $24,900"
+    },
+    {
+      "id": "B16",
+      "name": "Full Watershed",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Full Watershed    $15,000|name_cost_tail_trim",
+      "originalName": "Full Watershed    $15,000"
+    },
+    {
+      "id": "B17",
+      "name": "Lake Landowners (OSDS)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Lake Landowners (OSDS)   $25,000|name_cost_tail_trim",
+      "originalName": "Lake Landowners (OSDS)   $25,000"
+    },
+    {
+      "id": "B18",
+      "name": "Monitoring N/A",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Monitoring N/A $29,250|name_cost_tail_trim",
+      "originalName": "Monitoring N/A $29,250"
+    },
+    {
+      "id": "B19",
+      "name": "$54,660",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$54,660"
+    },
+    {
+      "id": "B20",
+      "name": "Total Estimated Project Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Total Estimated Project Cost   $312,250|name_cost_tail_trim",
+      "originalName": "Total Estimated Project Cost   $312,250"
+    }
+  ],
+  "bmpCostTable": {
+    "id": "adaptive_generic_costs",
+    "title": "$1,025,000 had been spent on conservation practices in the Coldwater River (HUC 8)",
+    "table": {
+      "columns": [
+        "Item",
+        "Cost",
+        "Extra?"
+      ],
+      "rows": [
+        {
+          "Item": "32 @",
+          "Cost": "$6,480",
+          "Extra": "$207,360"
+        },
+        {
+          "Item": "82 @",
+          "Cost": "$2,400",
+          "Extra": "$196,800"
+        },
+        {
+          "Item": "20,898 @",
+          "Cost": "$10",
+          "Extra": "$208,980"
+        },
+        {
+          "Item": "17,727 @",
+          "Cost": "$73",
+          "Extra": "$1,294,071"
+        },
+        {
+          "Item": "Grade Stabilization Structure (#) 5 @",
+          "Cost": "$6,480",
+          "Extra": "$32,400"
+        },
+        {
+          "Item": "Water Control Structure (#) 40 @",
+          "Cost": "$2,400",
+          "Extra": "$96,000"
+        },
+        {
+          "Item": "Cover Crop (3 80 ac sites - 2 yr.)",
+          "Cost": "$73",
+          "Extra": "$35,040"
+        },
+        {
+          "Item": "Education/Outreach N/A",
+          "Cost": "$24,900",
+          "Extra": null
+        },
+        {
+          "Item": "Full Watershed",
+          "Cost": "$15,000",
+          "Extra": null
+        },
+        {
+          "Item": "Lake Landowners (OSDS)",
+          "Cost": "$25,000",
+          "Extra": null
+        },
+        {
+          "Item": "Monitoring N/A",
+          "Cost": "$29,250",
+          "Extra": null
+        },
+        {
+          "Item": "Total Estimated Project Cost",
+          "Cost": "$312,250",
+          "Extra": null
+        }
+      ],
+      "total": null
+    },
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTableNormalized": {
+    "id": "adaptive_generic_costs",
+    "title": "$1,025,000 had been spent on conservation practices in the Coldwater River (HUC 8)",
+    "rows": [
+      {
+        "name": "32 @",
+        "totalCost": 6480,
+        "rawCost": "$6,480"
+      },
+      {
+        "name": "82 @",
+        "totalCost": 2400,
+        "rawCost": "$2,400"
+      },
+      {
+        "name": "20,898 @",
+        "totalCost": 10,
+        "rawCost": "$10"
+      },
+      {
+        "name": "17,727 @",
+        "totalCost": 73,
+        "rawCost": "$73"
+      },
+      {
+        "name": "Grade Stabilization Structure (#) 5 @",
+        "totalCost": 6480,
+        "rawCost": "$6,480"
+      },
+      {
+        "name": "Water Control Structure (#) 40 @",
+        "totalCost": 2400,
+        "rawCost": "$2,400"
+      },
+      {
+        "name": "Cover Crop (3 80 ac sites - 2 yr.)",
+        "totalCost": 73,
+        "rawCost": "$73"
+      },
+      {
+        "name": "Education/Outreach N/A",
+        "totalCost": 24900,
+        "rawCost": "$24,900"
+      },
+      {
+        "name": "Full Watershed",
+        "totalCost": 15000,
+        "rawCost": "$15,000"
+      },
+      {
+        "name": "Lake Landowners (OSDS)",
+        "totalCost": 25000,
+        "rawCost": "$25,000"
+      },
+      {
+        "name": "Monitoring N/A",
+        "totalCost": 29250,
+        "rawCost": "$29,250"
+      },
+      {
+        "name": "Total Estimated Project Cost",
+        "totalCost": 312250,
+        "rawCost": "$312,250"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 424316,
+    "discrepancy": null,
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTables": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$1,025,000 had been spent on conservation practices in the Coldwater River (HUC 8)",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "32 @",
+            "Cost": "$6,480",
+            "Extra": "$207,360"
+          },
+          {
+            "Item": "82 @",
+            "Cost": "$2,400",
+            "Extra": "$196,800"
+          },
+          {
+            "Item": "20,898 @",
+            "Cost": "$10",
+            "Extra": "$208,980"
+          },
+          {
+            "Item": "17,727 @",
+            "Cost": "$73",
+            "Extra": "$1,294,071"
+          },
+          {
+            "Item": "Grade Stabilization Structure (#) 5 @",
+            "Cost": "$6,480",
+            "Extra": "$32,400"
+          },
+          {
+            "Item": "Water Control Structure (#) 40 @",
+            "Cost": "$2,400",
+            "Extra": "$96,000"
+          },
+          {
+            "Item": "Cover Crop (3 80 ac sites - 2 yr.)",
+            "Cost": "$73",
+            "Extra": "$35,040"
+          },
+          {
+            "Item": "Education/Outreach N/A",
+            "Cost": "$24,900",
+            "Extra": null
+          },
+          {
+            "Item": "Full Watershed",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Lake Landowners (OSDS)",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring N/A",
+            "Cost": "$29,250",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$312,250",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "32 @ $6,480 $207,360",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "32 @",
+            "Cost": "$6,480",
+            "Extra": "$207,360"
+          },
+          {
+            "Item": "82 @",
+            "Cost": "$2,400",
+            "Extra": "$196,800"
+          },
+          {
+            "Item": "20,898 @",
+            "Cost": "$10",
+            "Extra": "$208,980"
+          },
+          {
+            "Item": "17,727 @",
+            "Cost": "$73",
+            "Extra": "$1,294,071"
+          },
+          {
+            "Item": "Grade Stabilization Structure (#) 5 @",
+            "Cost": "$6,480",
+            "Extra": "$32,400"
+          },
+          {
+            "Item": "Water Control Structure (#) 40 @",
+            "Cost": "$2,400",
+            "Extra": "$96,000"
+          },
+          {
+            "Item": "Cover Crop (3 80 ac sites - 2 yr.)",
+            "Cost": "$73",
+            "Extra": "$35,040"
+          },
+          {
+            "Item": "Education/Outreach N/A",
+            "Cost": "$24,900",
+            "Extra": null
+          },
+          {
+            "Item": "Full Watershed",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Lake Landowners (OSDS)",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring N/A",
+            "Cost": "$29,250",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$312,250",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "82 @ $2,400 $196,800",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "82 @",
+            "Cost": "$2,400",
+            "Extra": "$196,800"
+          },
+          {
+            "Item": "20,898 @",
+            "Cost": "$10",
+            "Extra": "$208,980"
+          },
+          {
+            "Item": "17,727 @",
+            "Cost": "$73",
+            "Extra": "$1,294,071"
+          },
+          {
+            "Item": "Grade Stabilization Structure (#) 5 @",
+            "Cost": "$6,480",
+            "Extra": "$32,400"
+          },
+          {
+            "Item": "Water Control Structure (#) 40 @",
+            "Cost": "$2,400",
+            "Extra": "$96,000"
+          },
+          {
+            "Item": "Cover Crop (3 80 ac sites - 2 yr.)",
+            "Cost": "$73",
+            "Extra": "$35,040"
+          },
+          {
+            "Item": "Education/Outreach N/A",
+            "Cost": "$24,900",
+            "Extra": null
+          },
+          {
+            "Item": "Full Watershed",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Lake Landowners (OSDS)",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring N/A",
+            "Cost": "$29,250",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$312,250",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "20,898 @ $10 $208,980",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "20,898 @",
+            "Cost": "$10",
+            "Extra": "$208,980"
+          },
+          {
+            "Item": "17,727 @",
+            "Cost": "$73",
+            "Extra": "$1,294,071"
+          },
+          {
+            "Item": "Grade Stabilization Structure (#) 5 @",
+            "Cost": "$6,480",
+            "Extra": "$32,400"
+          },
+          {
+            "Item": "Water Control Structure (#) 40 @",
+            "Cost": "$2,400",
+            "Extra": "$96,000"
+          },
+          {
+            "Item": "Cover Crop (3 80 ac sites - 2 yr.)",
+            "Cost": "$73",
+            "Extra": "$35,040"
+          },
+          {
+            "Item": "Education/Outreach N/A",
+            "Cost": "$24,900",
+            "Extra": null
+          },
+          {
+            "Item": "Full Watershed",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Lake Landowners (OSDS)",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring N/A",
+            "Cost": "$29,250",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$312,250",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "17,727 @ $73 $1,294,071",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "17,727 @",
+            "Cost": "$73",
+            "Extra": "$1,294,071"
+          },
+          {
+            "Item": "Grade Stabilization Structure (#) 5 @",
+            "Cost": "$6,480",
+            "Extra": "$32,400"
+          },
+          {
+            "Item": "Water Control Structure (#) 40 @",
+            "Cost": "$2,400",
+            "Extra": "$96,000"
+          },
+          {
+            "Item": "Cover Crop (3 80 ac sites - 2 yr.)",
+            "Cost": "$73",
+            "Extra": "$35,040"
+          },
+          {
+            "Item": "Education/Outreach N/A",
+            "Cost": "$24,900",
+            "Extra": null
+          },
+          {
+            "Item": "Full Watershed",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Lake Landowners (OSDS)",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring N/A",
+            "Cost": "$29,250",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$312,250",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$30,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Grade Stabilization Structure (#) 5 @",
+            "Cost": "$6,480",
+            "Extra": "$32,400"
+          },
+          {
+            "Item": "Water Control Structure (#) 40 @",
+            "Cost": "$2,400",
+            "Extra": "$96,000"
+          },
+          {
+            "Item": "Cover Crop (3 80 ac sites - 2 yr.)",
+            "Cost": "$73",
+            "Extra": "$35,040"
+          },
+          {
+            "Item": "Education/Outreach N/A",
+            "Cost": "$24,900",
+            "Extra": null
+          },
+          {
+            "Item": "Full Watershed",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Lake Landowners (OSDS)",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring N/A",
+            "Cost": "$29,250",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$312,250",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$50,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Grade Stabilization Structure (#) 5 @",
+            "Cost": "$6,480",
+            "Extra": "$32,400"
+          },
+          {
+            "Item": "Water Control Structure (#) 40 @",
+            "Cost": "$2,400",
+            "Extra": "$96,000"
+          },
+          {
+            "Item": "Cover Crop (3 80 ac sites - 2 yr.)",
+            "Cost": "$73",
+            "Extra": "$35,040"
+          },
+          {
+            "Item": "Education/Outreach N/A",
+            "Cost": "$24,900",
+            "Extra": null
+          },
+          {
+            "Item": "Full Watershed",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Lake Landowners (OSDS)",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring N/A",
+            "Cost": "$29,250",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$312,250",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$58,500",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Grade Stabilization Structure (#) 5 @",
+            "Cost": "$6,480",
+            "Extra": "$32,400"
+          },
+          {
+            "Item": "Water Control Structure (#) 40 @",
+            "Cost": "$2,400",
+            "Extra": "$96,000"
+          },
+          {
+            "Item": "Cover Crop (3 80 ac sites - 2 yr.)",
+            "Cost": "$73",
+            "Extra": "$35,040"
+          },
+          {
+            "Item": "Education/Outreach N/A",
+            "Cost": "$24,900",
+            "Extra": null
+          },
+          {
+            "Item": "Full Watershed",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Lake Landowners (OSDS)",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring N/A",
+            "Cost": "$29,250",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$312,250",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$109,320",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Grade Stabilization Structure (#) 5 @",
+            "Cost": "$6,480",
+            "Extra": "$32,400"
+          },
+          {
+            "Item": "Water Control Structure (#) 40 @",
+            "Cost": "$2,400",
+            "Extra": "$96,000"
+          },
+          {
+            "Item": "Cover Crop (3 80 ac sites - 2 yr.)",
+            "Cost": "$73",
+            "Extra": "$35,040"
+          },
+          {
+            "Item": "Education/Outreach N/A",
+            "Cost": "$24,900",
+            "Extra": null
+          },
+          {
+            "Item": "Full Watershed",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Lake Landowners (OSDS)",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring N/A",
+            "Cost": "$29,250",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$312,250",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$2,155,031",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Grade Stabilization Structure (#) 5 @",
+            "Cost": "$6,480",
+            "Extra": "$32,400"
+          },
+          {
+            "Item": "Water Control Structure (#) 40 @",
+            "Cost": "$2,400",
+            "Extra": "$96,000"
+          },
+          {
+            "Item": "Cover Crop (3 80 ac sites - 2 yr.)",
+            "Cost": "$73",
+            "Extra": "$35,040"
+          },
+          {
+            "Item": "Education/Outreach N/A",
+            "Cost": "$24,900",
+            "Extra": null
+          },
+          {
+            "Item": "Full Watershed",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Lake Landowners (OSDS)",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring N/A",
+            "Cost": "$29,250",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$312,250",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Grade Stabilization Structure (#) 5 @ $6,480 $32,400",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Grade Stabilization Structure (#) 5 @",
+            "Cost": "$6,480",
+            "Extra": "$32,400"
+          },
+          {
+            "Item": "Water Control Structure (#) 40 @",
+            "Cost": "$2,400",
+            "Extra": "$96,000"
+          },
+          {
+            "Item": "Cover Crop (3 80 ac sites - 2 yr.)",
+            "Cost": "$73",
+            "Extra": "$35,040"
+          },
+          {
+            "Item": "Education/Outreach N/A",
+            "Cost": "$24,900",
+            "Extra": null
+          },
+          {
+            "Item": "Full Watershed",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Lake Landowners (OSDS)",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring N/A",
+            "Cost": "$29,250",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$312,250",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Water Control Structure (#) 40 @ $2,400 $96,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Water Control Structure (#) 40 @",
+            "Cost": "$2,400",
+            "Extra": "$96,000"
+          },
+          {
+            "Item": "Cover Crop (3 80 ac sites - 2 yr.)",
+            "Cost": "$73",
+            "Extra": "$35,040"
+          },
+          {
+            "Item": "Education/Outreach N/A",
+            "Cost": "$24,900",
+            "Extra": null
+          },
+          {
+            "Item": "Full Watershed",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Lake Landowners (OSDS)",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring N/A",
+            "Cost": "$29,250",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$312,250",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Cover Crop (3 80 ac sites - 2 yr.) $73  $35,040",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Cover Crop (3 80 ac sites - 2 yr.)",
+            "Cost": "$73",
+            "Extra": "$35,040"
+          },
+          {
+            "Item": "Education/Outreach N/A",
+            "Cost": "$24,900",
+            "Extra": null
+          },
+          {
+            "Item": "Full Watershed",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Lake Landowners (OSDS)",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring N/A",
+            "Cost": "$29,250",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$312,250",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Education/Outreach N/A $24,900",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Education/Outreach N/A",
+            "Cost": "$24,900",
+            "Extra": null
+          },
+          {
+            "Item": "Full Watershed",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Lake Landowners (OSDS)",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring N/A",
+            "Cost": "$29,250",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$312,250",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Full Watershed    $15,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Full Watershed",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Lake Landowners (OSDS)",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring N/A",
+            "Cost": "$29,250",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$312,250",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Lake Landowners (OSDS)   $25,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Lake Landowners (OSDS)",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring N/A",
+            "Cost": "$29,250",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$312,250",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$1,025,000 had been spent on conservation practices in the Coldwater River (HUC 8)",
+      "rows": [
+        {
+          "name": "32 @",
+          "totalCost": 6480,
+          "rawCost": "$6,480"
+        },
+        {
+          "name": "82 @",
+          "totalCost": 2400,
+          "rawCost": "$2,400"
+        },
+        {
+          "name": "20,898 @",
+          "totalCost": 10,
+          "rawCost": "$10"
+        },
+        {
+          "name": "17,727 @",
+          "totalCost": 73,
+          "rawCost": "$73"
+        },
+        {
+          "name": "Grade Stabilization Structure (#) 5 @",
+          "totalCost": 6480,
+          "rawCost": "$6,480"
+        },
+        {
+          "name": "Water Control Structure (#) 40 @",
+          "totalCost": 2400,
+          "rawCost": "$2,400"
+        },
+        {
+          "name": "Cover Crop (3 80 ac sites - 2 yr.)",
+          "totalCost": 73,
+          "rawCost": "$73"
+        },
+        {
+          "name": "Education/Outreach N/A",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Full Watershed",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Lake Landowners (OSDS)",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Monitoring N/A",
+          "totalCost": 29250,
+          "rawCost": "$29,250"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 312250,
+          "rawCost": "$312,250"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 424316,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "32 @ $6,480 $207,360",
+      "rows": [
+        {
+          "name": "32 @",
+          "totalCost": 6480,
+          "rawCost": "$6,480"
+        },
+        {
+          "name": "82 @",
+          "totalCost": 2400,
+          "rawCost": "$2,400"
+        },
+        {
+          "name": "20,898 @",
+          "totalCost": 10,
+          "rawCost": "$10"
+        },
+        {
+          "name": "17,727 @",
+          "totalCost": 73,
+          "rawCost": "$73"
+        },
+        {
+          "name": "Grade Stabilization Structure (#) 5 @",
+          "totalCost": 6480,
+          "rawCost": "$6,480"
+        },
+        {
+          "name": "Water Control Structure (#) 40 @",
+          "totalCost": 2400,
+          "rawCost": "$2,400"
+        },
+        {
+          "name": "Cover Crop (3 80 ac sites - 2 yr.)",
+          "totalCost": 73,
+          "rawCost": "$73"
+        },
+        {
+          "name": "Education/Outreach N/A",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Full Watershed",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Lake Landowners (OSDS)",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Monitoring N/A",
+          "totalCost": 29250,
+          "rawCost": "$29,250"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 312250,
+          "rawCost": "$312,250"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 424316,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "82 @ $2,400 $196,800",
+      "rows": [
+        {
+          "name": "82 @",
+          "totalCost": 2400,
+          "rawCost": "$2,400"
+        },
+        {
+          "name": "20,898 @",
+          "totalCost": 10,
+          "rawCost": "$10"
+        },
+        {
+          "name": "17,727 @",
+          "totalCost": 73,
+          "rawCost": "$73"
+        },
+        {
+          "name": "Grade Stabilization Structure (#) 5 @",
+          "totalCost": 6480,
+          "rawCost": "$6,480"
+        },
+        {
+          "name": "Water Control Structure (#) 40 @",
+          "totalCost": 2400,
+          "rawCost": "$2,400"
+        },
+        {
+          "name": "Cover Crop (3 80 ac sites - 2 yr.)",
+          "totalCost": 73,
+          "rawCost": "$73"
+        },
+        {
+          "name": "Education/Outreach N/A",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Full Watershed",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Lake Landowners (OSDS)",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Monitoring N/A",
+          "totalCost": 29250,
+          "rawCost": "$29,250"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 312250,
+          "rawCost": "$312,250"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 417836,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "20,898 @ $10 $208,980",
+      "rows": [
+        {
+          "name": "20,898 @",
+          "totalCost": 10,
+          "rawCost": "$10"
+        },
+        {
+          "name": "17,727 @",
+          "totalCost": 73,
+          "rawCost": "$73"
+        },
+        {
+          "name": "Grade Stabilization Structure (#) 5 @",
+          "totalCost": 6480,
+          "rawCost": "$6,480"
+        },
+        {
+          "name": "Water Control Structure (#) 40 @",
+          "totalCost": 2400,
+          "rawCost": "$2,400"
+        },
+        {
+          "name": "Cover Crop (3 80 ac sites - 2 yr.)",
+          "totalCost": 73,
+          "rawCost": "$73"
+        },
+        {
+          "name": "Education/Outreach N/A",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Full Watershed",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Lake Landowners (OSDS)",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Monitoring N/A",
+          "totalCost": 29250,
+          "rawCost": "$29,250"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 312250,
+          "rawCost": "$312,250"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 415436,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "17,727 @ $73 $1,294,071",
+      "rows": [
+        {
+          "name": "17,727 @",
+          "totalCost": 73,
+          "rawCost": "$73"
+        },
+        {
+          "name": "Grade Stabilization Structure (#) 5 @",
+          "totalCost": 6480,
+          "rawCost": "$6,480"
+        },
+        {
+          "name": "Water Control Structure (#) 40 @",
+          "totalCost": 2400,
+          "rawCost": "$2,400"
+        },
+        {
+          "name": "Cover Crop (3 80 ac sites - 2 yr.)",
+          "totalCost": 73,
+          "rawCost": "$73"
+        },
+        {
+          "name": "Education/Outreach N/A",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Full Watershed",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Lake Landowners (OSDS)",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Monitoring N/A",
+          "totalCost": 29250,
+          "rawCost": "$29,250"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 312250,
+          "rawCost": "$312,250"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 415426,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$30,000",
+      "rows": [
+        {
+          "name": "Grade Stabilization Structure (#) 5 @",
+          "totalCost": 6480,
+          "rawCost": "$6,480"
+        },
+        {
+          "name": "Water Control Structure (#) 40 @",
+          "totalCost": 2400,
+          "rawCost": "$2,400"
+        },
+        {
+          "name": "Cover Crop (3 80 ac sites - 2 yr.)",
+          "totalCost": 73,
+          "rawCost": "$73"
+        },
+        {
+          "name": "Education/Outreach N/A",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Full Watershed",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Lake Landowners (OSDS)",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Monitoring N/A",
+          "totalCost": 29250,
+          "rawCost": "$29,250"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 312250,
+          "rawCost": "$312,250"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 415353,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$50,000",
+      "rows": [
+        {
+          "name": "Grade Stabilization Structure (#) 5 @",
+          "totalCost": 6480,
+          "rawCost": "$6,480"
+        },
+        {
+          "name": "Water Control Structure (#) 40 @",
+          "totalCost": 2400,
+          "rawCost": "$2,400"
+        },
+        {
+          "name": "Cover Crop (3 80 ac sites - 2 yr.)",
+          "totalCost": 73,
+          "rawCost": "$73"
+        },
+        {
+          "name": "Education/Outreach N/A",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Full Watershed",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Lake Landowners (OSDS)",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Monitoring N/A",
+          "totalCost": 29250,
+          "rawCost": "$29,250"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 312250,
+          "rawCost": "$312,250"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 415353,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$58,500",
+      "rows": [
+        {
+          "name": "Grade Stabilization Structure (#) 5 @",
+          "totalCost": 6480,
+          "rawCost": "$6,480"
+        },
+        {
+          "name": "Water Control Structure (#) 40 @",
+          "totalCost": 2400,
+          "rawCost": "$2,400"
+        },
+        {
+          "name": "Cover Crop (3 80 ac sites - 2 yr.)",
+          "totalCost": 73,
+          "rawCost": "$73"
+        },
+        {
+          "name": "Education/Outreach N/A",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Full Watershed",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Lake Landowners (OSDS)",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Monitoring N/A",
+          "totalCost": 29250,
+          "rawCost": "$29,250"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 312250,
+          "rawCost": "$312,250"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 415353,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$109,320",
+      "rows": [
+        {
+          "name": "Grade Stabilization Structure (#) 5 @",
+          "totalCost": 6480,
+          "rawCost": "$6,480"
+        },
+        {
+          "name": "Water Control Structure (#) 40 @",
+          "totalCost": 2400,
+          "rawCost": "$2,400"
+        },
+        {
+          "name": "Cover Crop (3 80 ac sites - 2 yr.)",
+          "totalCost": 73,
+          "rawCost": "$73"
+        },
+        {
+          "name": "Education/Outreach N/A",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Full Watershed",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Lake Landowners (OSDS)",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Monitoring N/A",
+          "totalCost": 29250,
+          "rawCost": "$29,250"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 312250,
+          "rawCost": "$312,250"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 415353,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$2,155,031",
+      "rows": [
+        {
+          "name": "Grade Stabilization Structure (#) 5 @",
+          "totalCost": 6480,
+          "rawCost": "$6,480"
+        },
+        {
+          "name": "Water Control Structure (#) 40 @",
+          "totalCost": 2400,
+          "rawCost": "$2,400"
+        },
+        {
+          "name": "Cover Crop (3 80 ac sites - 2 yr.)",
+          "totalCost": 73,
+          "rawCost": "$73"
+        },
+        {
+          "name": "Education/Outreach N/A",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Full Watershed",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Lake Landowners (OSDS)",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Monitoring N/A",
+          "totalCost": 29250,
+          "rawCost": "$29,250"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 312250,
+          "rawCost": "$312,250"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 415353,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Grade Stabilization Structure (#) 5 @ $6,480 $32,400",
+      "rows": [
+        {
+          "name": "Grade Stabilization Structure (#) 5 @",
+          "totalCost": 6480,
+          "rawCost": "$6,480"
+        },
+        {
+          "name": "Water Control Structure (#) 40 @",
+          "totalCost": 2400,
+          "rawCost": "$2,400"
+        },
+        {
+          "name": "Cover Crop (3 80 ac sites - 2 yr.)",
+          "totalCost": 73,
+          "rawCost": "$73"
+        },
+        {
+          "name": "Education/Outreach N/A",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Full Watershed",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Lake Landowners (OSDS)",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Monitoring N/A",
+          "totalCost": 29250,
+          "rawCost": "$29,250"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 312250,
+          "rawCost": "$312,250"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 415353,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Water Control Structure (#) 40 @ $2,400 $96,000",
+      "rows": [
+        {
+          "name": "Water Control Structure (#) 40 @",
+          "totalCost": 2400,
+          "rawCost": "$2,400"
+        },
+        {
+          "name": "Cover Crop (3 80 ac sites - 2 yr.)",
+          "totalCost": 73,
+          "rawCost": "$73"
+        },
+        {
+          "name": "Education/Outreach N/A",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Full Watershed",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Lake Landowners (OSDS)",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Monitoring N/A",
+          "totalCost": 29250,
+          "rawCost": "$29,250"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 312250,
+          "rawCost": "$312,250"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 408873,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Cover Crop (3 80 ac sites - 2 yr.) $73  $35,040",
+      "rows": [
+        {
+          "name": "Cover Crop (3 80 ac sites - 2 yr.)",
+          "totalCost": 73,
+          "rawCost": "$73"
+        },
+        {
+          "name": "Education/Outreach N/A",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Full Watershed",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Lake Landowners (OSDS)",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Monitoring N/A",
+          "totalCost": 29250,
+          "rawCost": "$29,250"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 312250,
+          "rawCost": "$312,250"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 406473,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Education/Outreach N/A $24,900",
+      "rows": [
+        {
+          "name": "Education/Outreach N/A",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Full Watershed",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Lake Landowners (OSDS)",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Monitoring N/A",
+          "totalCost": 29250,
+          "rawCost": "$29,250"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 312250,
+          "rawCost": "$312,250"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 406400,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Full Watershed    $15,000",
+      "rows": [
+        {
+          "name": "Full Watershed",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Lake Landowners (OSDS)",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Monitoring N/A",
+          "totalCost": 29250,
+          "rawCost": "$29,250"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 312250,
+          "rawCost": "$312,250"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 381500,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Lake Landowners (OSDS)   $25,000",
+      "rows": [
+        {
+          "name": "Lake Landowners (OSDS)",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Monitoring N/A",
+          "totalCost": 29250,
+          "rawCost": "$29,250"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 312250,
+          "rawCost": "$312,250"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 366500,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-02T13:23:26.592Z",
+  "metadata": {
+    "sourceId": "yazoo-pass-9-key-element-plan-2021",
+    "sourceFile": "yazoo-pass-9-key-element-plan-2021.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$1,025,000 had been spent on conservation practices in the Coldwater River (HUC 8)",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 424316
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "32 @ $6,480 $207,360",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 424316
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "82 @ $2,400 $196,800",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 417836
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "20,898 @ $10 $208,980",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 415436
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "17,727 @ $73 $1,294,071",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 415426
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$30,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 415353
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$50,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 415353
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$58,500",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 415353
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$109,320",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 415353
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$2,155,031",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 415353
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Grade Stabilization Structure (#) 5 @ $6,480 $32,400",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 415353
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Water Control Structure (#) 40 @ $2,400 $96,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 408873
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Cover Crop (3 80 ac sites - 2 yr.) $73  $35,040",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 406473
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Education/Outreach N/A $24,900",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 406400
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Full Watershed    $15,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 381500
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Lake Landowners (OSDS)   $25,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 366500
+      }
+    ]
+  }
+}

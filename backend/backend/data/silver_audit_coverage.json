@@ -1,0 +1,51 @@
+{
+  "generatedAt": "2025-10-06T02:08:46.956Z",
+  "analyzed": [
+    {
+      "id": "coldwater-river-watershed-plan-2013",
+      "goals": 1,
+      "bmps": 0,
+      "zeroGoals": false,
+      "zeroBMPs": true,
+      "suspiciousTitle": null,
+      "badGoalSamples": null,
+      "badBmpSamples": null
+    },
+    {
+      "id": "old-fort-bayou-watershed-plan-2019-2",
+      "goals": 5,
+      "bmps": 14,
+      "zeroGoals": false,
+      "zeroBMPs": false,
+      "suspiciousTitle": null,
+      "badGoalSamples": null,
+      "badBmpSamples": [
+        "Fence",
+        "Pipeline",
+        "Pond"
+      ]
+    },
+    {
+      "id": "turkey-creek-watershed-plan-2006",
+      "goals": 5,
+      "bmps": 48,
+      "zeroGoals": false,
+      "zeroBMPs": false,
+      "suspiciousTitle": null,
+      "badGoalSamples": null,
+      "badBmpSamples": [
+        "Subtotal",
+        "Creekkeeper"
+      ]
+    }
+  ],
+  "summary": {
+    "total": 3,
+    "totalGoals": 11,
+    "totalBMPs": 62,
+    "avgGoals": 3.7,
+    "avgBMPs": 20.7,
+    "zeroGoal": 0,
+    "zeroBMP": 1
+  }
+}

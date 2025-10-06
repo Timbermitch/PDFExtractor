@@ -1,0 +1,604 @@
+{
+  "id": "basket-creek-hickahala-creek-9-key-element-plan-2018",
+  "summary": {
+    "totalGoals": 1,
+    "totalBMPs": 8,
+    "totalActivities": 0,
+    "primaryGoals": 1,
+    "completionRate": 0,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 1,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "Livestock Exclusion": 1,
+      "General": 7
+    },
+    "avgGoalConfidence": 0.95,
+    "strongGoals": 1
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "confidence": 0.95,
+      "isPrimary": true,
+      "primaryReason": "bronze_direct_slice",
+      "description": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "originalSentence": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "shortTitle": "The ultimate goal is to bring about behavior changes and the use of \"best…"
+    }
+  ],
+  "mainGoals": [
+    {
+      "id": "G1",
+      "title": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "confidence": 0.95,
+      "isPrimary": true,
+      "primaryReason": "bronze_direct_slice",
+      "description": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "originalSentence": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "shortTitle": "The ultimate goal is to bring about behavior changes and the use of \"best…"
+    }
+  ],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "Fencing",
+      "category": "Livestock Exclusion",
+      "keyword": "Fencing",
+      "quantity": 10000,
+      "unit": "ft",
+      "verb": null,
+      "confidence": 0.65,
+      "source": "Fencing 10,000ft @$2.33 23,300 15,533|name_cost_tail_trim",
+      "originalName": "Fencing 10,000ft @$2.33 23,300 15,533"
+    },
+    {
+      "id": "B2",
+      "name": "Tank/Trough 3@$3,500 10,500 7,500",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Tank/Trough 3@$3,500 10,500 7,500"
+    },
+    {
+      "id": "B3",
+      "name": "Ponds",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Ponds 4 ea @ $9,000 36,000 24,000|name_cost_tail_trim",
+      "originalName": "Ponds 4 ea @ $9,000 36,000 24,000"
+    },
+    {
+      "id": "B4",
+      "name": "Streambank and Shoreline Protection",
+      "category": "General",
+      "keyword": null,
+      "quantity": 500,
+      "unit": "ft",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "Streambank and Shoreline Protection 500 ft @ $161.00 ft 80,500 54,167|name_cost_tail_trim",
+      "originalName": "Streambank and Shoreline Protection 500 ft @ $161.00 ft 80,500 54,167"
+    },
+    {
+      "id": "B5",
+      "name": "Grade Stabilization Structure",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Grade Stabilization Structure 8 ac @ $6,609.80 52,878 35,252|name_cost_tail_trim",
+      "originalName": "Grade Stabilization Structure 8 ac @ $6,609.80 52,878 35,252"
+    },
+    {
+      "id": "B6",
+      "name": "Heavy Use Area Protection",
+      "category": "General",
+      "keyword": null,
+      "quantity": 1240,
+      "unit": "ft",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "Heavy Use Area Protection 1,240 ft @ $2.84 3,522 2,348|name_cost_tail_trim",
+      "originalName": "Heavy Use Area Protection 1,240 ft @ $2.84 3,522 2,348"
+    },
+    {
+      "id": "B7",
+      "name": "$276,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$276,000"
+    },
+    {
+      "id": "B8",
+      "name": "$168,667",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$168,667"
+    }
+  ],
+  "bmpCostTable": {
+    "id": "adaptive_generic_costs",
+    "title": "Fencing 10,000ft @$2.33 23,300 15,533",
+    "table": {
+      "columns": [
+        "Item",
+        "Cost",
+        "Extra?"
+      ],
+      "rows": [
+        {
+          "Item": "Fencing 10,000ft @",
+          "Cost": "$2.33",
+          "Extra": null
+        },
+        {
+          "Item": "Tank/Trough 3@",
+          "Cost": "$3,500",
+          "Extra": null
+        },
+        {
+          "Item": "Ponds 4 ea @",
+          "Cost": "$9,000",
+          "Extra": null
+        },
+        {
+          "Item": "Streambank and Shoreline Protection 500 ft @",
+          "Cost": "$161.00",
+          "Extra": null
+        },
+        {
+          "Item": "Grade Stabilization Structure 8 ac @",
+          "Cost": "$6,609.80",
+          "Extra": null
+        },
+        {
+          "Item": "Heavy Use Area Protection 1,240 ft @",
+          "Cost": "$2.84",
+          "Extra": null
+        }
+      ],
+      "total": null
+    },
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTableNormalized": {
+    "id": "adaptive_generic_costs",
+    "title": "Fencing 10,000ft @$2.33 23,300 15,533",
+    "rows": [
+      {
+        "name": "Fencing 10,000ft @",
+        "totalCost": 2.33,
+        "rawCost": "$2.33"
+      },
+      {
+        "name": "Tank/Trough 3@",
+        "totalCost": 3500,
+        "rawCost": "$3,500"
+      },
+      {
+        "name": "Ponds 4 ea @",
+        "totalCost": 9000,
+        "rawCost": "$9,000"
+      },
+      {
+        "name": "Streambank and Shoreline Protection 500 ft @",
+        "totalCost": 161,
+        "rawCost": "$161.00"
+      },
+      {
+        "name": "Grade Stabilization Structure 8 ac @",
+        "totalCost": 6609.8,
+        "rawCost": "$6,609.80"
+      },
+      {
+        "name": "Heavy Use Area Protection 1,240 ft @",
+        "totalCost": 2.84,
+        "rawCost": "$2.84"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 19275.97,
+    "discrepancy": null,
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTables": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Fencing 10,000ft @$2.33 23,300 15,533",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Fencing 10,000ft @",
+            "Cost": "$2.33",
+            "Extra": null
+          },
+          {
+            "Item": "Tank/Trough 3@",
+            "Cost": "$3,500",
+            "Extra": null
+          },
+          {
+            "Item": "Ponds 4 ea @",
+            "Cost": "$9,000",
+            "Extra": null
+          },
+          {
+            "Item": "Streambank and Shoreline Protection 500 ft @",
+            "Cost": "$161.00",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure 8 ac @",
+            "Cost": "$6,609.80",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Area Protection 1,240 ft @",
+            "Cost": "$2.84",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Tank/Trough 3@$3,500 10,500 7,500",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Tank/Trough 3@",
+            "Cost": "$3,500",
+            "Extra": null
+          },
+          {
+            "Item": "Ponds 4 ea @",
+            "Cost": "$9,000",
+            "Extra": null
+          },
+          {
+            "Item": "Streambank and Shoreline Protection 500 ft @",
+            "Cost": "$161.00",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure 8 ac @",
+            "Cost": "$6,609.80",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Area Protection 1,240 ft @",
+            "Cost": "$2.84",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Ponds 4 ea @ $9,000 36,000 24,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Ponds 4 ea @",
+            "Cost": "$9,000",
+            "Extra": null
+          },
+          {
+            "Item": "Streambank and Shoreline Protection 500 ft @",
+            "Cost": "$161.00",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure 8 ac @",
+            "Cost": "$6,609.80",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Area Protection 1,240 ft @",
+            "Cost": "$2.84",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Streambank and Shoreline Protection 500 ft @ $161.00 ft 80,500 54,167",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Streambank and Shoreline Protection 500 ft @",
+            "Cost": "$161.00",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure 8 ac @",
+            "Cost": "$6,609.80",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Area Protection 1,240 ft @",
+            "Cost": "$2.84",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Fencing 10,000ft @$2.33 23,300 15,533",
+      "rows": [
+        {
+          "name": "Fencing 10,000ft @",
+          "totalCost": 2.33,
+          "rawCost": "$2.33"
+        },
+        {
+          "name": "Tank/Trough 3@",
+          "totalCost": 3500,
+          "rawCost": "$3,500"
+        },
+        {
+          "name": "Ponds 4 ea @",
+          "totalCost": 9000,
+          "rawCost": "$9,000"
+        },
+        {
+          "name": "Streambank and Shoreline Protection 500 ft @",
+          "totalCost": 161,
+          "rawCost": "$161.00"
+        },
+        {
+          "name": "Grade Stabilization Structure 8 ac @",
+          "totalCost": 6609.8,
+          "rawCost": "$6,609.80"
+        },
+        {
+          "name": "Heavy Use Area Protection 1,240 ft @",
+          "totalCost": 2.84,
+          "rawCost": "$2.84"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 19275.97,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Tank/Trough 3@$3,500 10,500 7,500",
+      "rows": [
+        {
+          "name": "Tank/Trough 3@",
+          "totalCost": 3500,
+          "rawCost": "$3,500"
+        },
+        {
+          "name": "Ponds 4 ea @",
+          "totalCost": 9000,
+          "rawCost": "$9,000"
+        },
+        {
+          "name": "Streambank and Shoreline Protection 500 ft @",
+          "totalCost": 161,
+          "rawCost": "$161.00"
+        },
+        {
+          "name": "Grade Stabilization Structure 8 ac @",
+          "totalCost": 6609.8,
+          "rawCost": "$6,609.80"
+        },
+        {
+          "name": "Heavy Use Area Protection 1,240 ft @",
+          "totalCost": 2.84,
+          "rawCost": "$2.84"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 19273.64,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Ponds 4 ea @ $9,000 36,000 24,000",
+      "rows": [
+        {
+          "name": "Ponds 4 ea @",
+          "totalCost": 9000,
+          "rawCost": "$9,000"
+        },
+        {
+          "name": "Streambank and Shoreline Protection 500 ft @",
+          "totalCost": 161,
+          "rawCost": "$161.00"
+        },
+        {
+          "name": "Grade Stabilization Structure 8 ac @",
+          "totalCost": 6609.8,
+          "rawCost": "$6,609.80"
+        },
+        {
+          "name": "Heavy Use Area Protection 1,240 ft @",
+          "totalCost": 2.84,
+          "rawCost": "$2.84"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 15773.64,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Streambank and Shoreline Protection 500 ft @ $161.00 ft 80,500 54,167",
+      "rows": [
+        {
+          "name": "Streambank and Shoreline Protection 500 ft @",
+          "totalCost": 161,
+          "rawCost": "$161.00"
+        },
+        {
+          "name": "Grade Stabilization Structure 8 ac @",
+          "totalCost": 6609.8,
+          "rawCost": "$6,609.80"
+        },
+        {
+          "name": "Heavy Use Area Protection 1,240 ft @",
+          "totalCost": 2.84,
+          "rawCost": "$2.84"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 6773.64,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-02T13:23:24.881Z",
+  "metadata": {
+    "sourceId": "basket-creek-hickahala-creek-9-key-element-plan-2018",
+    "sourceFile": "basket-creek-hickahala-creek-9-key-element-plan-2018.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Fencing 10,000ft @$2.33 23,300 15,533",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 19275.97
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Tank/Trough 3@$3,500 10,500 7,500",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 19273.64
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Ponds 4 ea @ $9,000 36,000 24,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 15773.64
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Streambank and Shoreline Protection 500 ft @ $161.00 ft 80,500 54,167",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 6773.64
+      }
+    ]
+  }
+}

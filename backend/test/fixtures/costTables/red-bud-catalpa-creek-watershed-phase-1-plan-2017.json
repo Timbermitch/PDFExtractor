@@ -1,0 +1,19 @@
+{
+  "reportId": "red-bud-catalpa-creek-watershed-phase-1-plan-2017",
+  "tables": [
+    {
+      "id": "cost_table",
+      "title": "ESTIMATED COSTS TO FULLY IMPLEMENT BMPS (100% BASIS).  The cost estimates provided by NRCS for these",
+      "patternId": null,
+      "rowCount": 1,
+      "totalReported": null,
+      "totalComputed": 44000,
+      "hash": "d5e332a8875cad88b3b301173623247abbd018f5",
+      "rowHashes": {
+        "nameHash": "f555452f4437fca649f69c986f041e3043fd007e",
+        "totalHash": "86df7acf9eed30219c412ce6d740f45076f63785"
+      }
+    }
+  ],
+  "combinedHash": "792280cc847b2980fc835fafdf2bf6512e6abbdc"
+}

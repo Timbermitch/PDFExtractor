@@ -1,0 +1,73 @@
+{
+  "summary": {
+    "totalReports": 6,
+    "withCost": 3,
+    "withoutCost": 3,
+    "coveragePct": 0.5,
+    "withAdaptive": 0,
+    "suspectedTrunc": 0,
+    "timestamp": "2025-10-02T13:12:19.650Z"
+  },
+  "reports": [
+    {
+      "id": "booths-creek-bayou-pierre-watershed-plan-2017-6",
+      "hasCost": true,
+      "adaptive": false,
+      "tableCount": 2,
+      "adaptiveCount": 0,
+      "bronzeLen": 22548,
+      "segmentCount": null,
+      "suspectedTrunc": false
+    },
+    {
+      "id": "red-bud-catalpa-creek-watershed-phase-1-plan-2017",
+      "hasCost": true,
+      "adaptive": false,
+      "tableCount": 2,
+      "adaptiveCount": 0,
+      "bronzeLen": 159226,
+      "segmentCount": null,
+      "suspectedTrunc": false
+    },
+    {
+      "id": "rotten-bayou-watershed-plan-2015-2",
+      "hasCost": true,
+      "adaptive": false,
+      "tableCount": 2,
+      "adaptiveCount": 0,
+      "bronzeLen": 625473,
+      "segmentCount": null,
+      "suspectedTrunc": false
+    },
+    {
+      "id": "coldwater-river-watershed-plan-2013",
+      "hasCost": false,
+      "adaptive": false,
+      "tableCount": 0,
+      "adaptiveCount": 0,
+      "bronzeLen": 48343,
+      "segmentCount": null,
+      "suspectedTrunc": false
+    },
+    {
+      "id": "old-fort-bayou-watershed-plan-2019-2",
+      "hasCost": false,
+      "adaptive": false,
+      "tableCount": 0,
+      "adaptiveCount": 0,
+      "bronzeLen": 156083,
+      "segmentCount": null,
+      "suspectedTrunc": false
+    },
+    {
+      "id": "turkey-creek-watershed-plan-2006",
+      "hasCost": false,
+      "adaptive": false,
+      "tableCount": 0,
+      "adaptiveCount": 0,
+      "bronzeLen": 88578,
+      "segmentCount": null,
+      "suspectedTrunc": false
+    }
+  ]
+}

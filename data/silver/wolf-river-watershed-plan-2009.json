@@ -1,0 +1,2415 @@
+{
+  "id": "wolf-river-watershed-plan-2009",
+  "summary": {
+    "totalGoals": 9,
+    "totalBMPs": 10,
+    "totalActivities": 0,
+    "primaryGoals": 2,
+    "completionRate": 0,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 9,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "General": 10
+    },
+    "avgGoalConfidence": 0.011111111111111112,
+    "strongGoals": 0
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "a goal of increasing awareness of watershed issues, in general and increasing Goal/Benefit Desired Management Action Where When Goal/Benefit Desired Management Action Where When education, participation, and support.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "a goal of increasing awareness of watershed issues, in general and increasing Goal/Benefit Desired Management Action Where When Goal/Benefit Desired Management Action Where When education, participation, and support.",
+      "confidence": 0,
+      "description": "a goal of increasing awareness of watershed issues, in general and increasing Goal/Benefit Desired Management Action Where When Goal/Benefit Desired Management Action Where When education, participation, and support.",
+      "originalSentence": "a goal of increasing awareness of watershed issues, in general and increasing Goal/Benefit Desired Management Action Where When Goal/Benefit Desired Management Action Where When education, participation, and support.",
+      "shortTitle": "a goal of increasing awareness of watershed issues, in general and increasing Goal/Benefit Desired…"
+    },
+    {
+      "id": "G2",
+      "title": "primary goal of the coordinated media campaign will be to increase the level of Website development will begin in the first quarter of 2010 with the goal of having the",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": "2010",
+      "achievedYear": null,
+      "targetYear": "2010",
+      "responsible": null,
+      "source": "primary goal of the coordinated media campaign will be to increase the level of Website development will begin in the first quarter of 2010 with the goal of having the",
+      "confidence": 0.05,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "description": "primary goal of the coordinated media campaign will be to increase the level of Website development will begin in the first quarter of 2010 with the goal of having the",
+      "originalSentence": "primary goal of the coordinated media campaign will be to increase the level of Website development will begin in the first quarter of 2010 with the goal of having the",
+      "shortTitle": "primary goal of the coordinated media campaign will be to increase the level of…"
+    },
+    {
+      "id": "G3",
+      "title": "Website development will begin in the first quarter of 2010 with the goal of having the",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": "2010",
+      "achievedYear": null,
+      "targetYear": "2010",
+      "responsible": null,
+      "source": "Website  development  will  begin  in  the  first  quarter  of  2010  with  the  goal  of  having  the",
+      "confidence": 0,
+      "description": "Website development will begin in the first quarter of 2010 with the goal of having the",
+      "originalSentence": "Website development will begin in the first quarter of 2010 with the goal of having the",
+      "shortTitle": "Website development will begin in the first quarter of 2010 with the goal of having the"
+    },
+    {
+      "id": "G4",
+      "title": "education, participation, and support. The primary goal of the program is to maximize",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "education,  participation,  and  support.    The  primary  goal  of  the  program  is  to  maximize",
+      "confidence": 0,
+      "description": "education, participation, and support. The primary goal of the program is to maximize",
+      "originalSentence": "education, participation, and support. The primary goal of the program is to maximize",
+      "shortTitle": "education, participation, and support. The primary goal of the program is to maximize"
+    },
+    {
+      "id": "G5",
+      "title": "among stream users and riparian landowners. To accomplish this goal, the program",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "among  stream  users  and  riparian  landowners.    To  accomplish  this  goal,  the  program",
+      "confidence": 0,
+      "description": "among stream users and riparian landowners. To accomplish this goal, the program",
+      "originalSentence": "among stream users and riparian landowners. To accomplish this goal, the program",
+      "shortTitle": "among stream users and riparian landowners. To accomplish this goal, the program"
+    },
+    {
+      "id": "G6",
+      "title": "primary goal of the coordinated media campaign will be to increase the level of",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "primary  goal  of  the  coordinated  media  campaign  will  be  to  increase  the  level  of",
+      "confidence": 0,
+      "description": "primary goal of the coordinated media campaign will be to increase the level of",
+      "originalSentence": "primary goal of the coordinated media campaign will be to increase the level of",
+      "shortTitle": "primary goal of the coordinated media campaign will be to increase the level of"
+    },
+    {
+      "id": "G7",
+      "title": "To accomplish this goal, the program easements will affect the estimated cost of this goal.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "To accomplish this goal, the program easements will affect the estimated cost of this goal.",
+      "confidence": 0,
+      "description": "To accomplish this goal, the program easements will affect the estimated cost of this goal.",
+      "originalSentence": "To accomplish this goal, the program easements will affect the estimated cost of this goal.",
+      "shortTitle": "To accomplish this goal, the program easements will affect the estimated cost of this goal."
+    },
+    {
+      "id": "G8",
+      "title": "The primary goal of the program is to maximize among stream users and riparian landowners.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The primary goal of the program is to maximize among stream users and riparian landowners.",
+      "confidence": 0.05,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "description": "The primary goal of the program is to maximize among stream users and riparian landowners.",
+      "originalSentence": "The primary goal of the program is to maximize among stream users and riparian landowners.",
+      "shortTitle": "The primary goal of the program is to maximize among stream users and riparian landowners."
+    },
+    {
+      "id": "G9",
+      "title": "a goal of increasing awareness of watershed issues, in general and increasing",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "a  goal  of  increasing  awareness  of  watershed  issues,  in  general  and  increasing",
+      "confidence": 0,
+      "description": "a goal of increasing awareness of watershed issues, in general and increasing",
+      "originalSentence": "a goal of increasing awareness of watershed issues, in general and increasing",
+      "shortTitle": "a goal of increasing awareness of watershed issues, in general and increasing"
+    }
+  ],
+  "mainGoals": [
+    {
+      "id": "G2",
+      "title": "primary goal of the coordinated media campaign will be to increase the level of Website development will begin in the first quarter of 2010 with the goal of having the",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": "2010",
+      "achievedYear": null,
+      "targetYear": "2010",
+      "responsible": null,
+      "source": "primary goal of the coordinated media campaign will be to increase the level of Website development will begin in the first quarter of 2010 with the goal of having the",
+      "confidence": 0.05,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "description": "primary goal of the coordinated media campaign will be to increase the level of Website development will begin in the first quarter of 2010 with the goal of having the",
+      "originalSentence": "primary goal of the coordinated media campaign will be to increase the level of Website development will begin in the first quarter of 2010 with the goal of having the",
+      "shortTitle": "primary goal of the coordinated media campaign will be to increase the level of…"
+    },
+    {
+      "id": "G8",
+      "title": "The primary goal of the program is to maximize among stream users and riparian landowners.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The primary goal of the program is to maximize among stream users and riparian landowners.",
+      "confidence": 0.05,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "description": "The primary goal of the program is to maximize among stream users and riparian landowners.",
+      "originalSentence": "The primary goal of the program is to maximize among stream users and riparian landowners.",
+      "shortTitle": "The primary goal of the program is to maximize among stream users and riparian landowners."
+    }
+  ],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "an estimated value of approximately",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "an estimated value of approximately $15,000 per year.|name_cost_tail_trim",
+      "originalName": "an estimated value of approximately $15,000 per year."
+    },
+    {
+      "id": "B2",
+      "name": "easements will affect the estimated cost of this goal. Stakeholder Meetings and Presentations Entire Watershed 2009 – 2010",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.05,
+      "source": "easements will affect the estimated cost of this goal. Stakeholder Meetings and Presentations Entire Watershed 2009 – 2010 $10,000 Watershed Maps & GIS Database Entire Watershed 2009 – 2010  $10,000 Coordinated Media Campaign Entire Watershed 2009 – 2010 $10,000 Development of Educational Materials Entire Watershed 2009 – 2010 $30,000 Expedition Based Education Entire Watershed 2009 – 2010 $20,000 Watershed Signage Entire Watershed 2009 – 2010 $10,000 West Harrison High School Partnership Entire Watershed 2009 – 2010 $10,000 Total Cost – Education Strategies $100,000 stakeholder meetings will be approximately $10,000.00. for watershed mapping is anticipated to be at $10,000.|name_cost_tail_trim",
+      "originalName": "easements will affect the estimated cost of this goal. Stakeholder Meetings and Presentations Entire Watershed 2009 – 2010 $10,000 Watershed Maps & GIS Database Entire Watershed 2009 – 2010  $10,000 Coordinated Media Campaign Entire Watershed 2009 – 2010 $10,000 Development of Educational Materials Entire Watershed 2009 – 2010 $30,000 Expedition Based Education Entire Watershed 2009 – 2010 $20,000 Watershed Signage Entire Watershed 2009 – 2010 $10,000 West Harrison High School Partnership Entire Watershed 2009 – 2010 $10,000 Total Cost – Education Strategies $100,000 stakeholder meetings will be approximately $10,000.00. for watershed mapping is anticipated to be at $10,000."
+    },
+    {
+      "id": "B3",
+      "name": "be approximately",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "be approximately $10,000.00|name_cost_tail_trim",
+      "originalName": "be approximately $10,000.00"
+    },
+    {
+      "id": "B4",
+      "name": "• Development of factsheets and brochures",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "• Development of factsheets and brochures  $10,000.00|name_cost_tail_trim",
+      "originalName": "• Development of factsheets and brochures  $10,000.00"
+    },
+    {
+      "id": "B5",
+      "name": "• Mass mail-out",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "• Mass mail-out        $5,000.00|name_cost_tail_trim",
+      "originalName": "• Mass mail-out        $5,000.00"
+    },
+    {
+      "id": "B6",
+      "name": "• Table-top display development",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "• Table-top display development      $5,000.00|name_cost_tail_trim",
+      "originalName": "• Table-top display development      $5,000.00"
+    },
+    {
+      "id": "B7",
+      "name": "• Website development",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "• Website development     $10,000.00|name_cost_tail_trim",
+      "originalName": "• Website development     $10,000.00"
+    },
+    {
+      "id": "B8",
+      "name": "Total Cost Estimate",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Total Cost Estimate $30,000.00|name_cost_tail_trim",
+      "originalName": "Total Cost Estimate $30,000.00"
+    },
+    {
+      "id": "B9",
+      "name": "The budget for this strategy is approximately",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "The budget for this strategy is approximately $20,000 and includes support for clean-up|name_cost_tail_trim",
+      "originalName": "The budget for this strategy is approximately $20,000 and includes support for clean-up"
+    },
+    {
+      "id": "B10",
+      "name": "The budget for the watershed signage component will be",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "The budget for the watershed signage component will be $10,000.00.|name_cost_tail_trim",
+      "originalName": "The budget for the watershed signage component will be $10,000.00."
+    }
+  ],
+  "bmpCostTable": {
+    "id": "adaptive_generic_costs",
+    "title": "Stakeholder Meetings and Presentations Entire Watershed 2009 – 2010 $10,000",
+    "table": {
+      "columns": [
+        "Item",
+        "Cost",
+        "Extra?"
+      ],
+      "rows": [
+        {
+          "Item": "Stakeholder Meetings and Presentations Entire Watershed 2009 – 2010",
+          "Cost": "$10,000",
+          "Extra": null
+        },
+        {
+          "Item": "Watershed Maps & GIS Database Entire Watershed 2009 – 2010",
+          "Cost": "$10,000",
+          "Extra": null
+        },
+        {
+          "Item": "Coordinated Media Campaign Entire Watershed 2009 – 2010",
+          "Cost": "$10,000",
+          "Extra": null
+        },
+        {
+          "Item": "Development of Educational Materials Entire Watershed 2009 – 2010",
+          "Cost": "$30,000",
+          "Extra": null
+        },
+        {
+          "Item": "Expedition Based Education Entire Watershed 2009 – 2010",
+          "Cost": "$20,000",
+          "Extra": null
+        },
+        {
+          "Item": "Watershed Signage Entire Watershed 2009 – 2010",
+          "Cost": "$10,000",
+          "Extra": null
+        },
+        {
+          "Item": "West Harrison High School Partnership Entire Watershed 2009 – 2010",
+          "Cost": "$10,000",
+          "Extra": null
+        }
+      ],
+      "total": null
+    },
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTableNormalized": {
+    "id": "adaptive_generic_costs",
+    "title": "Stakeholder Meetings and Presentations Entire Watershed 2009 – 2010 $10,000",
+    "rows": [
+      {
+        "name": "Stakeholder Meetings and Presentations Entire Watershed 2009 – 2010",
+        "totalCost": 10000,
+        "rawCost": "$10,000"
+      },
+      {
+        "name": "Watershed Maps & GIS Database Entire Watershed 2009 – 2010",
+        "totalCost": 10000,
+        "rawCost": "$10,000"
+      },
+      {
+        "name": "Coordinated Media Campaign Entire Watershed 2009 – 2010",
+        "totalCost": 10000,
+        "rawCost": "$10,000"
+      },
+      {
+        "name": "Development of Educational Materials Entire Watershed 2009 – 2010",
+        "totalCost": 30000,
+        "rawCost": "$30,000"
+      },
+      {
+        "name": "Expedition Based Education Entire Watershed 2009 – 2010",
+        "totalCost": 20000,
+        "rawCost": "$20,000"
+      },
+      {
+        "name": "Watershed Signage Entire Watershed 2009 – 2010",
+        "totalCost": 10000,
+        "rawCost": "$10,000"
+      },
+      {
+        "name": "West Harrison High School Partnership Entire Watershed 2009 – 2010",
+        "totalCost": 10000,
+        "rawCost": "$10,000"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 100000,
+    "discrepancy": null,
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTables": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Stakeholder Meetings and Presentations Entire Watershed 2009 – 2010 $10,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Stakeholder Meetings and Presentations Entire Watershed 2009 – 2010",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Maps & GIS Database Entire Watershed 2009 – 2010",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "Coordinated Media Campaign Entire Watershed 2009 – 2010",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "Development of Educational Materials Entire Watershed 2009 – 2010",
+            "Cost": "$30,000",
+            "Extra": null
+          },
+          {
+            "Item": "Expedition Based Education Entire Watershed 2009 – 2010",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Signage Entire Watershed 2009 – 2010",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "West Harrison High School Partnership Entire Watershed 2009 – 2010",
+            "Cost": "$10,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Watershed Maps & GIS Database Entire Watershed 2009 – 2010  $10,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Watershed Maps & GIS Database Entire Watershed 2009 – 2010",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "Coordinated Media Campaign Entire Watershed 2009 – 2010",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "Development of Educational Materials Entire Watershed 2009 – 2010",
+            "Cost": "$30,000",
+            "Extra": null
+          },
+          {
+            "Item": "Expedition Based Education Entire Watershed 2009 – 2010",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Signage Entire Watershed 2009 – 2010",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "West Harrison High School Partnership Entire Watershed 2009 – 2010",
+            "Cost": "$10,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Coordinated Media Campaign Entire Watershed 2009 – 2010 $10,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Coordinated Media Campaign Entire Watershed 2009 – 2010",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "Development of Educational Materials Entire Watershed 2009 – 2010",
+            "Cost": "$30,000",
+            "Extra": null
+          },
+          {
+            "Item": "Expedition Based Education Entire Watershed 2009 – 2010",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Signage Entire Watershed 2009 – 2010",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "West Harrison High School Partnership Entire Watershed 2009 – 2010",
+            "Cost": "$10,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Development of Educational Materials Entire Watershed 2009 – 2010 $30,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Development of Educational Materials Entire Watershed 2009 – 2010",
+            "Cost": "$30,000",
+            "Extra": null
+          },
+          {
+            "Item": "Expedition Based Education Entire Watershed 2009 – 2010",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Signage Entire Watershed 2009 – 2010",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "West Harrison High School Partnership Entire Watershed 2009 – 2010",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "stakeholder meetings will be approximately",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "for watershed mapping is anticipated to be at",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "be approximately",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Development of factsheets and brochures",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Mass mail-out",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Table-top display development",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Website development",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total Cost Estimate",
+            "Cost": "$30,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "The budget for this strategy is approximately",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "The budget for the watershed signage component will be",
+            "Cost": "$10,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Expedition Based Education Entire Watershed 2009 – 2010 $20,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Expedition Based Education Entire Watershed 2009 – 2010",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Signage Entire Watershed 2009 – 2010",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "West Harrison High School Partnership Entire Watershed 2009 – 2010",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "stakeholder meetings will be approximately",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "for watershed mapping is anticipated to be at",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "be approximately",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Development of factsheets and brochures",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Mass mail-out",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Table-top display development",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Website development",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total Cost Estimate",
+            "Cost": "$30,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "The budget for this strategy is approximately",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "The budget for the watershed signage component will be",
+            "Cost": "$10,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Watershed Signage Entire Watershed 2009 – 2010 $10,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Watershed Signage Entire Watershed 2009 – 2010",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "West Harrison High School Partnership Entire Watershed 2009 – 2010",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "stakeholder meetings will be approximately",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "for watershed mapping is anticipated to be at",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "be approximately",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Development of factsheets and brochures",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Mass mail-out",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Table-top display development",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Website development",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total Cost Estimate",
+            "Cost": "$30,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "The budget for this strategy is approximately",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "The budget for the watershed signage component will be",
+            "Cost": "$10,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "West Harrison High School Partnership Entire Watershed 2009 – 2010 $10,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "West Harrison High School Partnership Entire Watershed 2009 – 2010",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "stakeholder meetings will be approximately",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "for watershed mapping is anticipated to be at",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "be approximately",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Development of factsheets and brochures",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Mass mail-out",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Table-top display development",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Website development",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total Cost Estimate",
+            "Cost": "$30,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "The budget for this strategy is approximately",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "The budget for the watershed signage component will be",
+            "Cost": "$10,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$100,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "stakeholder meetings will be approximately",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "for watershed mapping is anticipated to be at",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "be approximately",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Development of factsheets and brochures",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Mass mail-out",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Table-top display development",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Website development",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total Cost Estimate",
+            "Cost": "$30,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "The budget for this strategy is approximately",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "The budget for the watershed signage component will be",
+            "Cost": "$10,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "stakeholder meetings will be approximately $10,000.00.",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "stakeholder meetings will be approximately",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "for watershed mapping is anticipated to be at",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "be approximately",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Development of factsheets and brochures",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Mass mail-out",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Table-top display development",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Website development",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total Cost Estimate",
+            "Cost": "$30,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "The budget for this strategy is approximately",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "The budget for the watershed signage component will be",
+            "Cost": "$10,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "for watershed mapping is anticipated to be at $10,000.",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "for watershed mapping is anticipated to be at",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "be approximately",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Development of factsheets and brochures",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Mass mail-out",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Table-top display development",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Website development",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total Cost Estimate",
+            "Cost": "$30,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "The budget for this strategy is approximately",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "The budget for the watershed signage component will be",
+            "Cost": "$10,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "be approximately $10,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "be approximately",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Development of factsheets and brochures",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Mass mail-out",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Table-top display development",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Website development",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total Cost Estimate",
+            "Cost": "$30,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "The budget for this strategy is approximately",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "The budget for the watershed signage component will be",
+            "Cost": "$10,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "• Development of factsheets and brochures  $10,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "• Development of factsheets and brochures",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Mass mail-out",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Table-top display development",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Website development",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total Cost Estimate",
+            "Cost": "$30,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "The budget for this strategy is approximately",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "The budget for the watershed signage component will be",
+            "Cost": "$10,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "• Mass mail-out        $5,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "• Mass mail-out",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Table-top display development",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Website development",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total Cost Estimate",
+            "Cost": "$30,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "The budget for this strategy is approximately",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "The budget for the watershed signage component will be",
+            "Cost": "$10,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "• Table-top display development      $5,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "• Table-top display development",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "• Website development",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total Cost Estimate",
+            "Cost": "$30,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "The budget for this strategy is approximately",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "The budget for the watershed signage component will be",
+            "Cost": "$10,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "• Website development     $10,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "• Website development",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total Cost Estimate",
+            "Cost": "$30,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "The budget for this strategy is approximately",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "The budget for the watershed signage component will be",
+            "Cost": "$10,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total Cost Estimate $30,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Total Cost Estimate",
+            "Cost": "$30,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "The budget for this strategy is approximately",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "The budget for the watershed signage component will be",
+            "Cost": "$10,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Stakeholder Meetings and Presentations Entire Watershed 2009 – 2010 $10,000",
+      "rows": [
+        {
+          "name": "Stakeholder Meetings and Presentations Entire Watershed 2009 – 2010",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "Watershed Maps & GIS Database Entire Watershed 2009 – 2010",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "Coordinated Media Campaign Entire Watershed 2009 – 2010",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "Development of Educational Materials Entire Watershed 2009 – 2010",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        },
+        {
+          "name": "Expedition Based Education Entire Watershed 2009 – 2010",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Watershed Signage Entire Watershed 2009 – 2010",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "West Harrison High School Partnership Entire Watershed 2009 – 2010",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 100000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Watershed Maps & GIS Database Entire Watershed 2009 – 2010  $10,000",
+      "rows": [
+        {
+          "name": "Watershed Maps & GIS Database Entire Watershed 2009 – 2010",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "Coordinated Media Campaign Entire Watershed 2009 – 2010",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "Development of Educational Materials Entire Watershed 2009 – 2010",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        },
+        {
+          "name": "Expedition Based Education Entire Watershed 2009 – 2010",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Watershed Signage Entire Watershed 2009 – 2010",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "West Harrison High School Partnership Entire Watershed 2009 – 2010",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 90000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Coordinated Media Campaign Entire Watershed 2009 – 2010 $10,000",
+      "rows": [
+        {
+          "name": "Coordinated Media Campaign Entire Watershed 2009 – 2010",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "Development of Educational Materials Entire Watershed 2009 – 2010",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        },
+        {
+          "name": "Expedition Based Education Entire Watershed 2009 – 2010",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Watershed Signage Entire Watershed 2009 – 2010",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "West Harrison High School Partnership Entire Watershed 2009 – 2010",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 80000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Development of Educational Materials Entire Watershed 2009 – 2010 $30,000",
+      "rows": [
+        {
+          "name": "Development of Educational Materials Entire Watershed 2009 – 2010",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        },
+        {
+          "name": "Expedition Based Education Entire Watershed 2009 – 2010",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Watershed Signage Entire Watershed 2009 – 2010",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "West Harrison High School Partnership Entire Watershed 2009 – 2010",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "stakeholder meetings will be approximately",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "for watershed mapping is anticipated to be at",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "be approximately",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "• Development of factsheets and brochures",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "• Mass mail-out",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "• Table-top display development",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "• Website development",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "Total Cost Estimate",
+          "totalCost": 30000,
+          "rawCost": "$30,000.00"
+        },
+        {
+          "name": "The budget for this strategy is approximately",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "The budget for the watershed signage component will be",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 190000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Expedition Based Education Entire Watershed 2009 – 2010 $20,000",
+      "rows": [
+        {
+          "name": "Expedition Based Education Entire Watershed 2009 – 2010",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Watershed Signage Entire Watershed 2009 – 2010",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "West Harrison High School Partnership Entire Watershed 2009 – 2010",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "stakeholder meetings will be approximately",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "for watershed mapping is anticipated to be at",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "be approximately",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "• Development of factsheets and brochures",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "• Mass mail-out",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "• Table-top display development",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "• Website development",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "Total Cost Estimate",
+          "totalCost": 30000,
+          "rawCost": "$30,000.00"
+        },
+        {
+          "name": "The budget for this strategy is approximately",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "The budget for the watershed signage component will be",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 160000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Watershed Signage Entire Watershed 2009 – 2010 $10,000",
+      "rows": [
+        {
+          "name": "Watershed Signage Entire Watershed 2009 – 2010",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "West Harrison High School Partnership Entire Watershed 2009 – 2010",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "stakeholder meetings will be approximately",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "for watershed mapping is anticipated to be at",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "be approximately",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "• Development of factsheets and brochures",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "• Mass mail-out",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "• Table-top display development",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "• Website development",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "Total Cost Estimate",
+          "totalCost": 30000,
+          "rawCost": "$30,000.00"
+        },
+        {
+          "name": "The budget for this strategy is approximately",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "The budget for the watershed signage component will be",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 140000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "West Harrison High School Partnership Entire Watershed 2009 – 2010 $10,000",
+      "rows": [
+        {
+          "name": "West Harrison High School Partnership Entire Watershed 2009 – 2010",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "stakeholder meetings will be approximately",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "for watershed mapping is anticipated to be at",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "be approximately",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "• Development of factsheets and brochures",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "• Mass mail-out",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "• Table-top display development",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "• Website development",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "Total Cost Estimate",
+          "totalCost": 30000,
+          "rawCost": "$30,000.00"
+        },
+        {
+          "name": "The budget for this strategy is approximately",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "The budget for the watershed signage component will be",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 130000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$100,000",
+      "rows": [
+        {
+          "name": "stakeholder meetings will be approximately",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "for watershed mapping is anticipated to be at",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "be approximately",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "• Development of factsheets and brochures",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "• Mass mail-out",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "• Table-top display development",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "• Website development",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "Total Cost Estimate",
+          "totalCost": 30000,
+          "rawCost": "$30,000.00"
+        },
+        {
+          "name": "The budget for this strategy is approximately",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "The budget for the watershed signage component will be",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 120000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "stakeholder meetings will be approximately $10,000.00.",
+      "rows": [
+        {
+          "name": "stakeholder meetings will be approximately",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "for watershed mapping is anticipated to be at",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "be approximately",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "• Development of factsheets and brochures",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "• Mass mail-out",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "• Table-top display development",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "• Website development",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "Total Cost Estimate",
+          "totalCost": 30000,
+          "rawCost": "$30,000.00"
+        },
+        {
+          "name": "The budget for this strategy is approximately",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "The budget for the watershed signage component will be",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 120000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "for watershed mapping is anticipated to be at $10,000.",
+      "rows": [
+        {
+          "name": "for watershed mapping is anticipated to be at",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "be approximately",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "• Development of factsheets and brochures",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "• Mass mail-out",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "• Table-top display development",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "• Website development",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "Total Cost Estimate",
+          "totalCost": 30000,
+          "rawCost": "$30,000.00"
+        },
+        {
+          "name": "The budget for this strategy is approximately",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "The budget for the watershed signage component will be",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 110000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "be approximately $10,000.00",
+      "rows": [
+        {
+          "name": "be approximately",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "• Development of factsheets and brochures",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "• Mass mail-out",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "• Table-top display development",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "• Website development",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "Total Cost Estimate",
+          "totalCost": 30000,
+          "rawCost": "$30,000.00"
+        },
+        {
+          "name": "The budget for this strategy is approximately",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "The budget for the watershed signage component will be",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 100000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "• Development of factsheets and brochures  $10,000.00",
+      "rows": [
+        {
+          "name": "• Development of factsheets and brochures",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "• Mass mail-out",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "• Table-top display development",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "• Website development",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "Total Cost Estimate",
+          "totalCost": 30000,
+          "rawCost": "$30,000.00"
+        },
+        {
+          "name": "The budget for this strategy is approximately",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "The budget for the watershed signage component will be",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 90000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "• Mass mail-out        $5,000.00",
+      "rows": [
+        {
+          "name": "• Mass mail-out",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "• Table-top display development",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "• Website development",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "Total Cost Estimate",
+          "totalCost": 30000,
+          "rawCost": "$30,000.00"
+        },
+        {
+          "name": "The budget for this strategy is approximately",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "The budget for the watershed signage component will be",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 80000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "• Table-top display development      $5,000.00",
+      "rows": [
+        {
+          "name": "• Table-top display development",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "• Website development",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "Total Cost Estimate",
+          "totalCost": 30000,
+          "rawCost": "$30,000.00"
+        },
+        {
+          "name": "The budget for this strategy is approximately",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "The budget for the watershed signage component will be",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 75000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "• Website development     $10,000.00",
+      "rows": [
+        {
+          "name": "• Website development",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "Total Cost Estimate",
+          "totalCost": 30000,
+          "rawCost": "$30,000.00"
+        },
+        {
+          "name": "The budget for this strategy is approximately",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "The budget for the watershed signage component will be",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 70000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total Cost Estimate $30,000.00",
+      "rows": [
+        {
+          "name": "Total Cost Estimate",
+          "totalCost": 30000,
+          "rawCost": "$30,000.00"
+        },
+        {
+          "name": "The budget for this strategy is approximately",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "The budget for the watershed signage component will be",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 60000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-02T13:23:26.554Z",
+  "metadata": {
+    "sourceId": "wolf-river-watershed-plan-2009",
+    "sourceFile": "wolf-river-watershed-plan-2009.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Stakeholder Meetings and Presentations Entire Watershed 2009 – 2010 $10,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 100000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Watershed Maps & GIS Database Entire Watershed 2009 – 2010  $10,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 90000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Coordinated Media Campaign Entire Watershed 2009 – 2010 $10,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 80000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Development of Educational Materials Entire Watershed 2009 – 2010 $30,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 190000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Expedition Based Education Entire Watershed 2009 – 2010 $20,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 160000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Watershed Signage Entire Watershed 2009 – 2010 $10,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 140000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "West Harrison High School Partnership Entire Watershed 2009 – 2010 $10,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 130000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$100,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 120000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "stakeholder meetings will be approximately $10,000.00.",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 120000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "for watershed mapping is anticipated to be at $10,000.",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 110000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "be approximately $10,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 100000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "• Development of factsheets and brochures  $10,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 90000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "• Mass mail-out        $5,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 80000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "• Table-top display development      $5,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 75000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "• Website development     $10,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 70000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Total Cost Estimate $30,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 60000
+      }
+    ]
+  }
+}

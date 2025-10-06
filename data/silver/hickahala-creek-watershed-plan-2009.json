@@ -1,0 +1,4958 @@
+{
+  "id": "hickahala-creek-watershed-plan-2009",
+  "summary": {
+    "totalGoals": 5,
+    "totalBMPs": 34,
+    "totalActivities": 0,
+    "primaryGoals": 0,
+    "completionRate": 0,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 5,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "General": 34
+    },
+    "avgGoalConfidence": 0,
+    "strongGoals": 0
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "PLT's goal is to \"teach students HOW to think, not WHAT to think The goal of this team is to develop and implement management plans for its Basin streams.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "PLT's goal is to \"teach students HOW to think, not WHAT to think The goal of this team is to develop and implement management plans for its Basin streams.",
+      "confidence": 0,
+      "description": "PLT's goal is to \"teach students HOW to think, not WHAT to think The goal of this team is to develop and implement management plans for its Basin streams.",
+      "originalSentence": "PLT's goal is to \"teach students HOW to think, not WHAT to think The goal of this team is to develop and implement management plans for its Basin streams.",
+      "shortTitle": "PLT's goal is to \"teach students HOW to think, not WHAT to think The…"
+    },
+    {
+      "id": "G2",
+      "title": "The goal for this watershed implementation plan is to reduce meet the watershed implementation plan goal: lesson plans.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The goal for this watershed implementation plan is to reduce meet the watershed implementation plan goal: lesson plans.",
+      "confidence": 0,
+      "fullParagraph": "plan reflect this principle. The goal for this watershed implementation plan is to reduce meet the watershed implementation plan goal: lesson plans. PLT’s goal is to “teach students HOW to think, not WHAT to think The goal of this team is to develop and implement management plans for its Basin streams. The second goal is to inform and educate the public about",
+      "description": "plan reflect this principle. The goal for this watershed implementation plan is to reduce meet the watershed implementation plan goal: lesson plans. PLT’s goal is to “teach students HOW to think, not WHAT to think The goal of this team is to develop and implement management plans for its Basin streams. The second goal is to inform and educate the public about",
+      "originalSentence": "The goal for this watershed implementation plan is to reduce meet the watershed implementation plan goal: lesson plans.",
+      "shortTitle": "The goal for this watershed implementation plan is to reduce meet the watershed implementation plan goal: lesson plans."
+    },
+    {
+      "id": "G3",
+      "title": "plan reflect this principle. The goal for this watershed implementation plan is to reduce",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "plan reflect this principle. The goal for this watershed implementation plan is to reduce",
+      "confidence": 0,
+      "description": "plan reflect this principle. The goal for this watershed implementation plan is to reduce",
+      "originalSentence": "plan reflect this principle. The goal for this watershed implementation plan is to reduce",
+      "shortTitle": "plan reflect this principle. The goal for this watershed implementation plan is to reduce"
+    },
+    {
+      "id": "G4",
+      "title": "lesson plans. PLT’s goal is to “teach students HOW to think, not WHAT to think",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "lesson plans. PLT’s goal is to “teach students HOW to think, not WHAT to think",
+      "confidence": 0,
+      "description": "lesson plans. PLT’s goal is to “teach students HOW to think, not WHAT to think",
+      "originalSentence": "lesson plans. PLT’s goal is to “teach students HOW to think, not WHAT to think",
+      "shortTitle": "lesson plans. PLT’s goal is to “teach students HOW to think, not WHAT to think"
+    },
+    {
+      "id": "G5",
+      "title": "streams. The second goal is to inform and educate the public about",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "streams. The second goal is to inform and educate the public about",
+      "confidence": 0,
+      "description": "streams. The second goal is to inform and educate the public about",
+      "originalSentence": "streams. The second goal is to inform and educate the public about",
+      "shortTitle": "streams. The second goal is to inform and educate the public about"
+    }
+  ],
+  "mainGoals": [],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "EQIP over the next 3 years is",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "EQIP over the next 3 years is $250,000.|name_cost_tail_trim",
+      "originalName": "EQIP over the next 3 years is $250,000."
+    },
+    {
+      "id": "B2",
+      "name": "Unit Cost Number of Units Total Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Unit Cost Number of Units Total Cost"
+    },
+    {
+      "id": "B3",
+      "name": "$250/acre",
+      "category": "General",
+      "keyword": null,
+      "quantity": 100,
+      "unit": "acres",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "$250/acre 100 acres $25,000|name_cost_tail_trim",
+      "originalName": "$250/acre 100 acres $25,000"
+    },
+    {
+      "id": "B4",
+      "name": "$1,700/ea 70 structures",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$1,700/ea 70 structures $119,000|name_cost_tail_trim",
+      "originalName": "$1,700/ea 70 structures $119,000"
+    },
+    {
+      "id": "B5",
+      "name": "$1.66/ft",
+      "category": "General",
+      "keyword": null,
+      "quantity": 20000,
+      "unit": "feet",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "$1.66/ft 20,000 feet $33,200|name_cost_tail_trim",
+      "originalName": "$1.66/ft 20,000 feet $33,200"
+    },
+    {
+      "id": "B6",
+      "name": "$2,500/ea 22 ponds",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$2,500/ea 22 ponds $55,000|name_cost_tail_trim",
+      "originalName": "$2,500/ea 22 ponds $55,000"
+    },
+    {
+      "id": "B7",
+      "name": "$122.20/ac",
+      "category": "General",
+      "keyword": null,
+      "quantity": 1500,
+      "unit": "acres",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "$122.20/ac 1,500 acres $183,300|name_cost_tail_trim",
+      "originalName": "$122.20/ac 1,500 acres $183,300"
+    },
+    {
+      "id": "B8",
+      "name": "$6,000/ea 20 crossings",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$6,000/ea 20 crossings $120,000|name_cost_tail_trim",
+      "originalName": "$6,000/ea 20 crossings $120,000"
+    },
+    {
+      "id": "B9",
+      "name": "$2,500/ea 50 basins",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$2,500/ea 50 basins $125,000|name_cost_tail_trim",
+      "originalName": "$2,500/ea 50 basins $125,000"
+    },
+    {
+      "id": "B10",
+      "name": "$.80/ft",
+      "category": "General",
+      "keyword": null,
+      "quantity": 100000,
+      "unit": "feet",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "$.80/ft 100,000 feet $80,000|name_cost_tail_trim",
+      "originalName": "$.80/ft 100,000 feet $80,000"
+    },
+    {
+      "id": "B11",
+      "name": "$160/ac",
+      "category": "General",
+      "keyword": null,
+      "quantity": 400,
+      "unit": "acres",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "$160/ac 400 acres $64,000|name_cost_tail_trim",
+      "originalName": "$160/ac 400 acres $64,000"
+    },
+    {
+      "id": "B12",
+      "name": "Total",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Total   $804,500|name_cost_tail_trim",
+      "originalName": "Total   $804,500"
+    },
+    {
+      "id": "B13",
+      "name": "- Signing incentive payments of up to",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "- Signing incentive payments of up to $100 per acre,|name_cost_tail_trim",
+      "originalName": "- Signing incentive payments of up to $100 per acre,"
+    },
+    {
+      "id": "B14",
+      "name": "Item Unit Cost Total Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Item Unit Cost Total Cost"
+    },
+    {
+      "id": "B15",
+      "name": "Signs 20",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Signs 20 $25.00 $500.00|name_cost_tail_trim",
+      "originalName": "Signs 20 $25.00 $500.00"
+    },
+    {
+      "id": "B16",
+      "name": "Item Units Cost Total Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Item Units Cost Total Cost"
+    },
+    {
+      "id": "B17",
+      "name": "Event Flyers 100 .30/each",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Event Flyers 100 .30/each $30.00|name_cost_tail_trim",
+      "originalName": "Event Flyers 100 .30/each $30.00"
+    },
+    {
+      "id": "B18",
+      "name": "Mailing/Delivery 100 .39/each",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Mailing/Delivery 100 .39/each $39.00|name_cost_tail_trim",
+      "originalName": "Mailing/Delivery 100 .39/each $39.00"
+    },
+    {
+      "id": "B19",
+      "name": "Miscellaneous 1",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Miscellaneous 1 $950.00 $950.00|name_cost_tail_trim",
+      "originalName": "Miscellaneous 1 $950.00 $950.00"
+    },
+    {
+      "id": "B20",
+      "name": "Printing 1,000 .30/each",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Printing 1,000 .30/each $300.00|name_cost_tail_trim",
+      "originalName": "Printing 1,000 .30/each $300.00"
+    },
+    {
+      "id": "B21",
+      "name": "Adopt A Stream Workshop 1 day workshop",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Adopt A Stream Workshop 1 day workshop $1,500.00 $1,500.00|name_cost_tail_trim",
+      "originalName": "Adopt A Stream Workshop 1 day workshop $1,500.00 $1,500.00"
+    },
+    {
+      "id": "B22",
+      "name": "PLT Workshop 1 workshop",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "PLT Workshop 1 workshop $1,350.00 $1,350.00|name_cost_tail_trim",
+      "originalName": "PLT Workshop 1 workshop $1,350.00 $1,350.00"
+    },
+    {
+      "id": "B23",
+      "name": "Watershed Harmony Puppet Show 1 show",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Watershed Harmony Puppet Show 1 show $500.00 $500.00|name_cost_tail_trim",
+      "originalName": "Watershed Harmony Puppet Show 1 show $500.00 $500.00"
+    },
+    {
+      "id": "B24",
+      "name": "Storm Drain Marking 1 Project",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Storm Drain Marking 1 Project $500.00 $500.00|name_cost_tail_trim",
+      "originalName": "Storm Drain Marking 1 Project $500.00 $500.00"
+    },
+    {
+      "id": "B25",
+      "name": "Signage",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Signage   $500.00|name_cost_tail_trim",
+      "originalName": "Signage   $500.00"
+    },
+    {
+      "id": "B26",
+      "name": "Field Days",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Field Days   $1,019.00|name_cost_tail_trim",
+      "originalName": "Field Days   $1,019.00"
+    },
+    {
+      "id": "B27",
+      "name": "Fact Sheets",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Fact Sheets   $300.00|name_cost_tail_trim",
+      "originalName": "Fact Sheets   $300.00"
+    },
+    {
+      "id": "B28",
+      "name": "Adopt-A-Stream",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Adopt-A-Stream   $1,500.00|name_cost_tail_trim",
+      "originalName": "Adopt-A-Stream   $1,500.00"
+    },
+    {
+      "id": "B29",
+      "name": "Project Learning Tree",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Project Learning Tree   $1,350.00|name_cost_tail_trim",
+      "originalName": "Project Learning Tree   $1,350.00"
+    },
+    {
+      "id": "B30",
+      "name": "Watershed Harmony Puppet Show",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Watershed Harmony Puppet Show   $500.00|name_cost_tail_trim",
+      "originalName": "Watershed Harmony Puppet Show   $500.00"
+    },
+    {
+      "id": "B31",
+      "name": "Storm Drain Marking Project",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Storm Drain Marking Project   $500.00|name_cost_tail_trim",
+      "originalName": "Storm Drain Marking Project   $500.00"
+    },
+    {
+      "id": "B32",
+      "name": "319 funds-",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "319 funds-     $804,500.00|name_cost_tail_trim",
+      "originalName": "319 funds-     $804,500.00"
+    },
+    {
+      "id": "B33",
+      "name": "USDA funds-",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "USDA funds- $250,000.00|name_cost_tail_trim",
+      "originalName": "USDA funds- $250,000.00"
+    },
+    {
+      "id": "B34",
+      "name": "The project cost is",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "The project cost is $864,501. Of this amount, $518,700 in 319 funds are requested with the balance of $345,801 to be supplied as match.|name_cost_tail_trim",
+      "originalName": "The project cost is $864,501. Of this amount, $518,700 in 319 funds are requested with the balance of $345,801 to be supplied as match."
+    }
+  ],
+  "bmpCostTable": {
+    "id": "adaptive_generic_costs",
+    "title": "EQIP over the next 3 years is $250,000.",
+    "table": {
+      "columns": [
+        "Item",
+        "Cost",
+        "Extra?"
+      ],
+      "rows": [
+        {
+          "Item": "EQIP over the next 3 years is",
+          "Cost": "$250,000",
+          "Extra": null
+        },
+        {
+          "Item": "$250/acre 100 acres",
+          "Cost": "$25,000",
+          "Extra": null
+        },
+        {
+          "Item": "$1,700/ea 70 structures",
+          "Cost": "$119,000",
+          "Extra": null
+        },
+        {
+          "Item": "$1.66/ft 20,000 feet",
+          "Cost": "$33,200",
+          "Extra": null
+        },
+        {
+          "Item": "$2,500/ea 22 ponds",
+          "Cost": "$55,000",
+          "Extra": null
+        },
+        {
+          "Item": "$122.20/ac 1,500 acres",
+          "Cost": "$183,300",
+          "Extra": null
+        },
+        {
+          "Item": "$6,000/ea 20 crossings",
+          "Cost": "$120,000",
+          "Extra": null
+        },
+        {
+          "Item": "$2,500/ea 50 basins",
+          "Cost": "$125,000",
+          "Extra": null
+        },
+        {
+          "Item": "$.80/ft 100,000 feet",
+          "Cost": "$80,000",
+          "Extra": null
+        },
+        {
+          "Item": "$160/ac 400 acres",
+          "Cost": "$64,000",
+          "Extra": null
+        },
+        {
+          "Item": "Total",
+          "Cost": "$804,500",
+          "Extra": null
+        },
+        {
+          "Item": "- Signing incentive payments of up to",
+          "Cost": "$100",
+          "Extra": null
+        }
+      ],
+      "total": null
+    },
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTableNormalized": {
+    "id": "adaptive_generic_costs",
+    "title": "EQIP over the next 3 years is $250,000.",
+    "rows": [
+      {
+        "name": "EQIP over the next 3 years is",
+        "totalCost": 250000,
+        "rawCost": "$250,000"
+      },
+      {
+        "name": "$250/acre 100 acres",
+        "totalCost": 25000,
+        "rawCost": "$25,000"
+      },
+      {
+        "name": "$1,700/ea 70 structures",
+        "totalCost": 119000,
+        "rawCost": "$119,000"
+      },
+      {
+        "name": "$1.66/ft 20,000 feet",
+        "totalCost": 33200,
+        "rawCost": "$33,200"
+      },
+      {
+        "name": "$2,500/ea 22 ponds",
+        "totalCost": 55000,
+        "rawCost": "$55,000"
+      },
+      {
+        "name": "$122.20/ac 1,500 acres",
+        "totalCost": 183300,
+        "rawCost": "$183,300"
+      },
+      {
+        "name": "$6,000/ea 20 crossings",
+        "totalCost": 120000,
+        "rawCost": "$120,000"
+      },
+      {
+        "name": "$2,500/ea 50 basins",
+        "totalCost": 125000,
+        "rawCost": "$125,000"
+      },
+      {
+        "name": "$.80/ft 100,000 feet",
+        "totalCost": 80000,
+        "rawCost": "$80,000"
+      },
+      {
+        "name": "$160/ac 400 acres",
+        "totalCost": 64000,
+        "rawCost": "$64,000"
+      },
+      {
+        "name": "Total",
+        "totalCost": 804500,
+        "rawCost": "$804,500"
+      },
+      {
+        "name": "- Signing incentive payments of up to",
+        "totalCost": 100,
+        "rawCost": "$100"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 1859100,
+    "discrepancy": null,
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTables": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "EQIP over the next 3 years is $250,000.",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "EQIP over the next 3 years is",
+            "Cost": "$250,000",
+            "Extra": null
+          },
+          {
+            "Item": "$250/acre 100 acres",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "$1,700/ea 70 structures",
+            "Cost": "$119,000",
+            "Extra": null
+          },
+          {
+            "Item": "$1.66/ft 20,000 feet",
+            "Cost": "$33,200",
+            "Extra": null
+          },
+          {
+            "Item": "$2,500/ea 22 ponds",
+            "Cost": "$55,000",
+            "Extra": null
+          },
+          {
+            "Item": "$122.20/ac 1,500 acres",
+            "Cost": "$183,300",
+            "Extra": null
+          },
+          {
+            "Item": "$6,000/ea 20 crossings",
+            "Cost": "$120,000",
+            "Extra": null
+          },
+          {
+            "Item": "$2,500/ea 50 basins",
+            "Cost": "$125,000",
+            "Extra": null
+          },
+          {
+            "Item": "$.80/ft 100,000 feet",
+            "Cost": "$80,000",
+            "Extra": null
+          },
+          {
+            "Item": "$160/ac 400 acres",
+            "Cost": "$64,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$804,500",
+            "Extra": null
+          },
+          {
+            "Item": "- Signing incentive payments of up to",
+            "Cost": "$100",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$250/acre 100 acres $25,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "$250/acre 100 acres",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "$1,700/ea 70 structures",
+            "Cost": "$119,000",
+            "Extra": null
+          },
+          {
+            "Item": "$1.66/ft 20,000 feet",
+            "Cost": "$33,200",
+            "Extra": null
+          },
+          {
+            "Item": "$2,500/ea 22 ponds",
+            "Cost": "$55,000",
+            "Extra": null
+          },
+          {
+            "Item": "$122.20/ac 1,500 acres",
+            "Cost": "$183,300",
+            "Extra": null
+          },
+          {
+            "Item": "$6,000/ea 20 crossings",
+            "Cost": "$120,000",
+            "Extra": null
+          },
+          {
+            "Item": "$2,500/ea 50 basins",
+            "Cost": "$125,000",
+            "Extra": null
+          },
+          {
+            "Item": "$.80/ft 100,000 feet",
+            "Cost": "$80,000",
+            "Extra": null
+          },
+          {
+            "Item": "$160/ac 400 acres",
+            "Cost": "$64,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$804,500",
+            "Extra": null
+          },
+          {
+            "Item": "- Signing incentive payments of up to",
+            "Cost": "$100",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$1,700/ea 70 structures $119,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "$1,700/ea 70 structures",
+            "Cost": "$119,000",
+            "Extra": null
+          },
+          {
+            "Item": "$1.66/ft 20,000 feet",
+            "Cost": "$33,200",
+            "Extra": null
+          },
+          {
+            "Item": "$2,500/ea 22 ponds",
+            "Cost": "$55,000",
+            "Extra": null
+          },
+          {
+            "Item": "$122.20/ac 1,500 acres",
+            "Cost": "$183,300",
+            "Extra": null
+          },
+          {
+            "Item": "$6,000/ea 20 crossings",
+            "Cost": "$120,000",
+            "Extra": null
+          },
+          {
+            "Item": "$2,500/ea 50 basins",
+            "Cost": "$125,000",
+            "Extra": null
+          },
+          {
+            "Item": "$.80/ft 100,000 feet",
+            "Cost": "$80,000",
+            "Extra": null
+          },
+          {
+            "Item": "$160/ac 400 acres",
+            "Cost": "$64,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$804,500",
+            "Extra": null
+          },
+          {
+            "Item": "- Signing incentive payments of up to",
+            "Cost": "$100",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$1.66/ft 20,000 feet $33,200",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "$1.66/ft 20,000 feet",
+            "Cost": "$33,200",
+            "Extra": null
+          },
+          {
+            "Item": "$2,500/ea 22 ponds",
+            "Cost": "$55,000",
+            "Extra": null
+          },
+          {
+            "Item": "$122.20/ac 1,500 acres",
+            "Cost": "$183,300",
+            "Extra": null
+          },
+          {
+            "Item": "$6,000/ea 20 crossings",
+            "Cost": "$120,000",
+            "Extra": null
+          },
+          {
+            "Item": "$2,500/ea 50 basins",
+            "Cost": "$125,000",
+            "Extra": null
+          },
+          {
+            "Item": "$.80/ft 100,000 feet",
+            "Cost": "$80,000",
+            "Extra": null
+          },
+          {
+            "Item": "$160/ac 400 acres",
+            "Cost": "$64,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$804,500",
+            "Extra": null
+          },
+          {
+            "Item": "- Signing incentive payments of up to",
+            "Cost": "$100",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$2,500/ea 22 ponds $55,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "$2,500/ea 22 ponds",
+            "Cost": "$55,000",
+            "Extra": null
+          },
+          {
+            "Item": "$122.20/ac 1,500 acres",
+            "Cost": "$183,300",
+            "Extra": null
+          },
+          {
+            "Item": "$6,000/ea 20 crossings",
+            "Cost": "$120,000",
+            "Extra": null
+          },
+          {
+            "Item": "$2,500/ea 50 basins",
+            "Cost": "$125,000",
+            "Extra": null
+          },
+          {
+            "Item": "$.80/ft 100,000 feet",
+            "Cost": "$80,000",
+            "Extra": null
+          },
+          {
+            "Item": "$160/ac 400 acres",
+            "Cost": "$64,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$804,500",
+            "Extra": null
+          },
+          {
+            "Item": "- Signing incentive payments of up to",
+            "Cost": "$100",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$122.20/ac 1,500 acres $183,300",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "$122.20/ac 1,500 acres",
+            "Cost": "$183,300",
+            "Extra": null
+          },
+          {
+            "Item": "$6,000/ea 20 crossings",
+            "Cost": "$120,000",
+            "Extra": null
+          },
+          {
+            "Item": "$2,500/ea 50 basins",
+            "Cost": "$125,000",
+            "Extra": null
+          },
+          {
+            "Item": "$.80/ft 100,000 feet",
+            "Cost": "$80,000",
+            "Extra": null
+          },
+          {
+            "Item": "$160/ac 400 acres",
+            "Cost": "$64,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$804,500",
+            "Extra": null
+          },
+          {
+            "Item": "- Signing incentive payments of up to",
+            "Cost": "$100",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$6,000/ea 20 crossings $120,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "$6,000/ea 20 crossings",
+            "Cost": "$120,000",
+            "Extra": null
+          },
+          {
+            "Item": "$2,500/ea 50 basins",
+            "Cost": "$125,000",
+            "Extra": null
+          },
+          {
+            "Item": "$.80/ft 100,000 feet",
+            "Cost": "$80,000",
+            "Extra": null
+          },
+          {
+            "Item": "$160/ac 400 acres",
+            "Cost": "$64,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$804,500",
+            "Extra": null
+          },
+          {
+            "Item": "- Signing incentive payments of up to",
+            "Cost": "$100",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$2,500/ea 50 basins $125,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "$2,500/ea 50 basins",
+            "Cost": "$125,000",
+            "Extra": null
+          },
+          {
+            "Item": "$.80/ft 100,000 feet",
+            "Cost": "$80,000",
+            "Extra": null
+          },
+          {
+            "Item": "$160/ac 400 acres",
+            "Cost": "$64,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$804,500",
+            "Extra": null
+          },
+          {
+            "Item": "- Signing incentive payments of up to",
+            "Cost": "$100",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$.80/ft 100,000 feet $80,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "$.80/ft 100,000 feet",
+            "Cost": "$80,000",
+            "Extra": null
+          },
+          {
+            "Item": "$160/ac 400 acres",
+            "Cost": "$64,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$804,500",
+            "Extra": null
+          },
+          {
+            "Item": "- Signing incentive payments of up to",
+            "Cost": "$100",
+            "Extra": null
+          },
+          {
+            "Item": "Signs 20",
+            "Cost": "$25.00",
+            "Extra": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$500.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$160/ac 400 acres $64,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "$160/ac 400 acres",
+            "Cost": "$64,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$804,500",
+            "Extra": null
+          },
+          {
+            "Item": "- Signing incentive payments of up to",
+            "Cost": "$100",
+            "Extra": null
+          },
+          {
+            "Item": "Signs 20",
+            "Cost": "$25.00",
+            "Extra": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$500.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $804,500",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$804,500",
+            "Extra": null
+          },
+          {
+            "Item": "- Signing incentive payments of up to",
+            "Cost": "$100",
+            "Extra": null
+          },
+          {
+            "Item": "Signs 20",
+            "Cost": "$25.00",
+            "Extra": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Event Flyers 100 .30/each",
+            "Cost": "$30.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mailing/Delivery 100 .39/each",
+            "Cost": "$39.00",
+            "Extra": null
+          },
+          {
+            "Item": "Miscellaneous 1",
+            "Cost": "$950.00",
+            "Extra": "$950.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,019.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "- Signing incentive payments of up to $100 per acre,",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "- Signing incentive payments of up to",
+            "Cost": "$100",
+            "Extra": null
+          },
+          {
+            "Item": "Signs 20",
+            "Cost": "$25.00",
+            "Extra": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Event Flyers 100 .30/each",
+            "Cost": "$30.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mailing/Delivery 100 .39/each",
+            "Cost": "$39.00",
+            "Extra": null
+          },
+          {
+            "Item": "Miscellaneous 1",
+            "Cost": "$950.00",
+            "Extra": "$950.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,019.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Signs 20 $25.00 $500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Signs 20",
+            "Cost": "$25.00",
+            "Extra": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Event Flyers 100 .30/each",
+            "Cost": "$30.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mailing/Delivery 100 .39/each",
+            "Cost": "$39.00",
+            "Extra": null
+          },
+          {
+            "Item": "Miscellaneous 1",
+            "Cost": "$950.00",
+            "Extra": "$950.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,019.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Event Flyers 100 .30/each",
+            "Cost": "$30.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mailing/Delivery 100 .39/each",
+            "Cost": "$39.00",
+            "Extra": null
+          },
+          {
+            "Item": "Miscellaneous 1",
+            "Cost": "$950.00",
+            "Extra": "$950.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,019.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Event Flyers 100 .30/each $30.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Event Flyers 100 .30/each",
+            "Cost": "$30.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mailing/Delivery 100 .39/each",
+            "Cost": "$39.00",
+            "Extra": null
+          },
+          {
+            "Item": "Miscellaneous 1",
+            "Cost": "$950.00",
+            "Extra": "$950.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,019.00",
+            "Extra": null
+          },
+          {
+            "Item": "Printing 1,000 .30/each",
+            "Cost": "$300.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$300.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Mailing/Delivery 100 .39/each $39.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Mailing/Delivery 100 .39/each",
+            "Cost": "$39.00",
+            "Extra": null
+          },
+          {
+            "Item": "Miscellaneous 1",
+            "Cost": "$950.00",
+            "Extra": "$950.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,019.00",
+            "Extra": null
+          },
+          {
+            "Item": "Printing 1,000 .30/each",
+            "Cost": "$300.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$300.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Miscellaneous 1 $950.00 $950.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Miscellaneous 1",
+            "Cost": "$950.00",
+            "Extra": "$950.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,019.00",
+            "Extra": null
+          },
+          {
+            "Item": "Printing 1,000 .30/each",
+            "Cost": "$300.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$300.00",
+            "Extra": null
+          },
+          {
+            "Item": "Adopt A Stream Workshop 1 day workshop",
+            "Cost": "$1,500.00",
+            "Extra": "$1,500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,500.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $1,019.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$1,019.00",
+            "Extra": null
+          },
+          {
+            "Item": "Printing 1,000 .30/each",
+            "Cost": "$300.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$300.00",
+            "Extra": null
+          },
+          {
+            "Item": "Adopt A Stream Workshop 1 day workshop",
+            "Cost": "$1,500.00",
+            "Extra": "$1,500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,500.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Printing 1,000 .30/each $300.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Printing 1,000 .30/each",
+            "Cost": "$300.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$300.00",
+            "Extra": null
+          },
+          {
+            "Item": "Adopt A Stream Workshop 1 day workshop",
+            "Cost": "$1,500.00",
+            "Extra": "$1,500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "PLT Workshop 1 workshop",
+            "Cost": "$1,350.00",
+            "Extra": "$1,350.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,350.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $300.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$300.00",
+            "Extra": null
+          },
+          {
+            "Item": "Adopt A Stream Workshop 1 day workshop",
+            "Cost": "$1,500.00",
+            "Extra": "$1,500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "PLT Workshop 1 workshop",
+            "Cost": "$1,350.00",
+            "Extra": "$1,350.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,350.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Adopt A Stream Workshop 1 day workshop $1,500.00 $1,500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Adopt A Stream Workshop 1 day workshop",
+            "Cost": "$1,500.00",
+            "Extra": "$1,500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "PLT Workshop 1 workshop",
+            "Cost": "$1,350.00",
+            "Extra": "$1,350.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show 1 show",
+            "Cost": "$500.00",
+            "Extra": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$500.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $1,500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$1,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "PLT Workshop 1 workshop",
+            "Cost": "$1,350.00",
+            "Extra": "$1,350.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show 1 show",
+            "Cost": "$500.00",
+            "Extra": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$500.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "PLT Workshop 1 workshop $1,350.00 $1,350.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "PLT Workshop 1 workshop",
+            "Cost": "$1,350.00",
+            "Extra": "$1,350.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show 1 show",
+            "Cost": "$500.00",
+            "Extra": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Storm Drain Marking 1 Project",
+            "Cost": "$500.00",
+            "Extra": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$500.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $1,350.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$1,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show 1 show",
+            "Cost": "$500.00",
+            "Extra": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Storm Drain Marking 1 Project",
+            "Cost": "$500.00",
+            "Extra": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$500.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Watershed Harmony Puppet Show 1 show $500.00 $500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Watershed Harmony Puppet Show 1 show",
+            "Cost": "$500.00",
+            "Extra": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Storm Drain Marking 1 Project",
+            "Cost": "$500.00",
+            "Extra": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Signage",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field Days",
+            "Cost": "$1,019.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fact Sheets",
+            "Cost": "$300.00",
+            "Extra": null
+          },
+          {
+            "Item": "Adopt-A-Stream",
+            "Cost": "$1,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Storm Drain Marking Project",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$5,669.00",
+            "Extra": null
+          },
+          {
+            "Item": "319 funds-",
+            "Cost": "$804,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "USDA funds-",
+            "Cost": "$250,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$864,501",
+            "Extra": "$518,700"
+          },
+          {
+            "Item": "the balance of",
+            "Cost": "$345,801",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Storm Drain Marking 1 Project",
+            "Cost": "$500.00",
+            "Extra": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Signage",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field Days",
+            "Cost": "$1,019.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fact Sheets",
+            "Cost": "$300.00",
+            "Extra": null
+          },
+          {
+            "Item": "Adopt-A-Stream",
+            "Cost": "$1,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Storm Drain Marking Project",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$5,669.00",
+            "Extra": null
+          },
+          {
+            "Item": "319 funds-",
+            "Cost": "$804,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "USDA funds-",
+            "Cost": "$250,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$864,501",
+            "Extra": "$518,700"
+          },
+          {
+            "Item": "the balance of",
+            "Cost": "$345,801",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Storm Drain Marking 1 Project $500.00 $500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Storm Drain Marking 1 Project",
+            "Cost": "$500.00",
+            "Extra": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Signage",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field Days",
+            "Cost": "$1,019.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fact Sheets",
+            "Cost": "$300.00",
+            "Extra": null
+          },
+          {
+            "Item": "Adopt-A-Stream",
+            "Cost": "$1,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Storm Drain Marking Project",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$5,669.00",
+            "Extra": null
+          },
+          {
+            "Item": "319 funds-",
+            "Cost": "$804,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "USDA funds-",
+            "Cost": "$250,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$864,501",
+            "Extra": "$518,700"
+          },
+          {
+            "Item": "the balance of",
+            "Cost": "$345,801",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Signage",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field Days",
+            "Cost": "$1,019.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fact Sheets",
+            "Cost": "$300.00",
+            "Extra": null
+          },
+          {
+            "Item": "Adopt-A-Stream",
+            "Cost": "$1,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Storm Drain Marking Project",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$5,669.00",
+            "Extra": null
+          },
+          {
+            "Item": "319 funds-",
+            "Cost": "$804,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "USDA funds-",
+            "Cost": "$250,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$864,501",
+            "Extra": "$518,700"
+          },
+          {
+            "Item": "the balance of",
+            "Cost": "$345,801",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Signage   $500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Signage",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field Days",
+            "Cost": "$1,019.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fact Sheets",
+            "Cost": "$300.00",
+            "Extra": null
+          },
+          {
+            "Item": "Adopt-A-Stream",
+            "Cost": "$1,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Storm Drain Marking Project",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$5,669.00",
+            "Extra": null
+          },
+          {
+            "Item": "319 funds-",
+            "Cost": "$804,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "USDA funds-",
+            "Cost": "$250,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$864,501",
+            "Extra": "$518,700"
+          },
+          {
+            "Item": "the balance of",
+            "Cost": "$345,801",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Field Days   $1,019.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Field Days",
+            "Cost": "$1,019.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fact Sheets",
+            "Cost": "$300.00",
+            "Extra": null
+          },
+          {
+            "Item": "Adopt-A-Stream",
+            "Cost": "$1,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Storm Drain Marking Project",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$5,669.00",
+            "Extra": null
+          },
+          {
+            "Item": "319 funds-",
+            "Cost": "$804,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "USDA funds-",
+            "Cost": "$250,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$864,501",
+            "Extra": "$518,700"
+          },
+          {
+            "Item": "the balance of",
+            "Cost": "$345,801",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Fact Sheets   $300.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Fact Sheets",
+            "Cost": "$300.00",
+            "Extra": null
+          },
+          {
+            "Item": "Adopt-A-Stream",
+            "Cost": "$1,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Storm Drain Marking Project",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$5,669.00",
+            "Extra": null
+          },
+          {
+            "Item": "319 funds-",
+            "Cost": "$804,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "USDA funds-",
+            "Cost": "$250,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$864,501",
+            "Extra": "$518,700"
+          },
+          {
+            "Item": "the balance of",
+            "Cost": "$345,801",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Adopt-A-Stream   $1,500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Adopt-A-Stream",
+            "Cost": "$1,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Storm Drain Marking Project",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$5,669.00",
+            "Extra": null
+          },
+          {
+            "Item": "319 funds-",
+            "Cost": "$804,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "USDA funds-",
+            "Cost": "$250,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$864,501",
+            "Extra": "$518,700"
+          },
+          {
+            "Item": "the balance of",
+            "Cost": "$345,801",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Project Learning Tree   $1,350.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Storm Drain Marking Project",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$5,669.00",
+            "Extra": null
+          },
+          {
+            "Item": "319 funds-",
+            "Cost": "$804,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "USDA funds-",
+            "Cost": "$250,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$864,501",
+            "Extra": "$518,700"
+          },
+          {
+            "Item": "the balance of",
+            "Cost": "$345,801",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Watershed Harmony Puppet Show   $500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Storm Drain Marking Project",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$5,669.00",
+            "Extra": null
+          },
+          {
+            "Item": "319 funds-",
+            "Cost": "$804,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "USDA funds-",
+            "Cost": "$250,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$864,501",
+            "Extra": "$518,700"
+          },
+          {
+            "Item": "the balance of",
+            "Cost": "$345,801",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Storm Drain Marking Project   $500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Storm Drain Marking Project",
+            "Cost": "$500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$5,669.00",
+            "Extra": null
+          },
+          {
+            "Item": "319 funds-",
+            "Cost": "$804,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "USDA funds-",
+            "Cost": "$250,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$864,501",
+            "Extra": "$518,700"
+          },
+          {
+            "Item": "the balance of",
+            "Cost": "$345,801",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $5,669.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$5,669.00",
+            "Extra": null
+          },
+          {
+            "Item": "319 funds-",
+            "Cost": "$804,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "USDA funds-",
+            "Cost": "$250,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$864,501",
+            "Extra": "$518,700"
+          },
+          {
+            "Item": "the balance of",
+            "Cost": "$345,801",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "319 funds-     $804,500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "319 funds-",
+            "Cost": "$804,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "USDA funds-",
+            "Cost": "$250,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$864,501",
+            "Extra": "$518,700"
+          },
+          {
+            "Item": "the balance of",
+            "Cost": "$345,801",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "USDA funds- $250,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "USDA funds-",
+            "Cost": "$250,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$864,501",
+            "Extra": "$518,700"
+          },
+          {
+            "Item": "the balance of",
+            "Cost": "$345,801",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "EQIP over the next 3 years is $250,000.",
+      "rows": [
+        {
+          "name": "EQIP over the next 3 years is",
+          "totalCost": 250000,
+          "rawCost": "$250,000"
+        },
+        {
+          "name": "$250/acre 100 acres",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "$1,700/ea 70 structures",
+          "totalCost": 119000,
+          "rawCost": "$119,000"
+        },
+        {
+          "name": "$1.66/ft 20,000 feet",
+          "totalCost": 33200,
+          "rawCost": "$33,200"
+        },
+        {
+          "name": "$2,500/ea 22 ponds",
+          "totalCost": 55000,
+          "rawCost": "$55,000"
+        },
+        {
+          "name": "$122.20/ac 1,500 acres",
+          "totalCost": 183300,
+          "rawCost": "$183,300"
+        },
+        {
+          "name": "$6,000/ea 20 crossings",
+          "totalCost": 120000,
+          "rawCost": "$120,000"
+        },
+        {
+          "name": "$2,500/ea 50 basins",
+          "totalCost": 125000,
+          "rawCost": "$125,000"
+        },
+        {
+          "name": "$.80/ft 100,000 feet",
+          "totalCost": 80000,
+          "rawCost": "$80,000"
+        },
+        {
+          "name": "$160/ac 400 acres",
+          "totalCost": 64000,
+          "rawCost": "$64,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 804500,
+          "rawCost": "$804,500"
+        },
+        {
+          "name": "- Signing incentive payments of up to",
+          "totalCost": 100,
+          "rawCost": "$100"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1859100,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$250/acre 100 acres $25,000",
+      "rows": [
+        {
+          "name": "$250/acre 100 acres",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "$1,700/ea 70 structures",
+          "totalCost": 119000,
+          "rawCost": "$119,000"
+        },
+        {
+          "name": "$1.66/ft 20,000 feet",
+          "totalCost": 33200,
+          "rawCost": "$33,200"
+        },
+        {
+          "name": "$2,500/ea 22 ponds",
+          "totalCost": 55000,
+          "rawCost": "$55,000"
+        },
+        {
+          "name": "$122.20/ac 1,500 acres",
+          "totalCost": 183300,
+          "rawCost": "$183,300"
+        },
+        {
+          "name": "$6,000/ea 20 crossings",
+          "totalCost": 120000,
+          "rawCost": "$120,000"
+        },
+        {
+          "name": "$2,500/ea 50 basins",
+          "totalCost": 125000,
+          "rawCost": "$125,000"
+        },
+        {
+          "name": "$.80/ft 100,000 feet",
+          "totalCost": 80000,
+          "rawCost": "$80,000"
+        },
+        {
+          "name": "$160/ac 400 acres",
+          "totalCost": 64000,
+          "rawCost": "$64,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 804500,
+          "rawCost": "$804,500"
+        },
+        {
+          "name": "- Signing incentive payments of up to",
+          "totalCost": 100,
+          "rawCost": "$100"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1609100,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$1,700/ea 70 structures $119,000",
+      "rows": [
+        {
+          "name": "$1,700/ea 70 structures",
+          "totalCost": 119000,
+          "rawCost": "$119,000"
+        },
+        {
+          "name": "$1.66/ft 20,000 feet",
+          "totalCost": 33200,
+          "rawCost": "$33,200"
+        },
+        {
+          "name": "$2,500/ea 22 ponds",
+          "totalCost": 55000,
+          "rawCost": "$55,000"
+        },
+        {
+          "name": "$122.20/ac 1,500 acres",
+          "totalCost": 183300,
+          "rawCost": "$183,300"
+        },
+        {
+          "name": "$6,000/ea 20 crossings",
+          "totalCost": 120000,
+          "rawCost": "$120,000"
+        },
+        {
+          "name": "$2,500/ea 50 basins",
+          "totalCost": 125000,
+          "rawCost": "$125,000"
+        },
+        {
+          "name": "$.80/ft 100,000 feet",
+          "totalCost": 80000,
+          "rawCost": "$80,000"
+        },
+        {
+          "name": "$160/ac 400 acres",
+          "totalCost": 64000,
+          "rawCost": "$64,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 804500,
+          "rawCost": "$804,500"
+        },
+        {
+          "name": "- Signing incentive payments of up to",
+          "totalCost": 100,
+          "rawCost": "$100"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1584100,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$1.66/ft 20,000 feet $33,200",
+      "rows": [
+        {
+          "name": "$1.66/ft 20,000 feet",
+          "totalCost": 33200,
+          "rawCost": "$33,200"
+        },
+        {
+          "name": "$2,500/ea 22 ponds",
+          "totalCost": 55000,
+          "rawCost": "$55,000"
+        },
+        {
+          "name": "$122.20/ac 1,500 acres",
+          "totalCost": 183300,
+          "rawCost": "$183,300"
+        },
+        {
+          "name": "$6,000/ea 20 crossings",
+          "totalCost": 120000,
+          "rawCost": "$120,000"
+        },
+        {
+          "name": "$2,500/ea 50 basins",
+          "totalCost": 125000,
+          "rawCost": "$125,000"
+        },
+        {
+          "name": "$.80/ft 100,000 feet",
+          "totalCost": 80000,
+          "rawCost": "$80,000"
+        },
+        {
+          "name": "$160/ac 400 acres",
+          "totalCost": 64000,
+          "rawCost": "$64,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 804500,
+          "rawCost": "$804,500"
+        },
+        {
+          "name": "- Signing incentive payments of up to",
+          "totalCost": 100,
+          "rawCost": "$100"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1465100,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$2,500/ea 22 ponds $55,000",
+      "rows": [
+        {
+          "name": "$2,500/ea 22 ponds",
+          "totalCost": 55000,
+          "rawCost": "$55,000"
+        },
+        {
+          "name": "$122.20/ac 1,500 acres",
+          "totalCost": 183300,
+          "rawCost": "$183,300"
+        },
+        {
+          "name": "$6,000/ea 20 crossings",
+          "totalCost": 120000,
+          "rawCost": "$120,000"
+        },
+        {
+          "name": "$2,500/ea 50 basins",
+          "totalCost": 125000,
+          "rawCost": "$125,000"
+        },
+        {
+          "name": "$.80/ft 100,000 feet",
+          "totalCost": 80000,
+          "rawCost": "$80,000"
+        },
+        {
+          "name": "$160/ac 400 acres",
+          "totalCost": 64000,
+          "rawCost": "$64,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 804500,
+          "rawCost": "$804,500"
+        },
+        {
+          "name": "- Signing incentive payments of up to",
+          "totalCost": 100,
+          "rawCost": "$100"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1431900,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$122.20/ac 1,500 acres $183,300",
+      "rows": [
+        {
+          "name": "$122.20/ac 1,500 acres",
+          "totalCost": 183300,
+          "rawCost": "$183,300"
+        },
+        {
+          "name": "$6,000/ea 20 crossings",
+          "totalCost": 120000,
+          "rawCost": "$120,000"
+        },
+        {
+          "name": "$2,500/ea 50 basins",
+          "totalCost": 125000,
+          "rawCost": "$125,000"
+        },
+        {
+          "name": "$.80/ft 100,000 feet",
+          "totalCost": 80000,
+          "rawCost": "$80,000"
+        },
+        {
+          "name": "$160/ac 400 acres",
+          "totalCost": 64000,
+          "rawCost": "$64,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 804500,
+          "rawCost": "$804,500"
+        },
+        {
+          "name": "- Signing incentive payments of up to",
+          "totalCost": 100,
+          "rawCost": "$100"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1376900,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$6,000/ea 20 crossings $120,000",
+      "rows": [
+        {
+          "name": "$6,000/ea 20 crossings",
+          "totalCost": 120000,
+          "rawCost": "$120,000"
+        },
+        {
+          "name": "$2,500/ea 50 basins",
+          "totalCost": 125000,
+          "rawCost": "$125,000"
+        },
+        {
+          "name": "$.80/ft 100,000 feet",
+          "totalCost": 80000,
+          "rawCost": "$80,000"
+        },
+        {
+          "name": "$160/ac 400 acres",
+          "totalCost": 64000,
+          "rawCost": "$64,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 804500,
+          "rawCost": "$804,500"
+        },
+        {
+          "name": "- Signing incentive payments of up to",
+          "totalCost": 100,
+          "rawCost": "$100"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1193600,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$2,500/ea 50 basins $125,000",
+      "rows": [
+        {
+          "name": "$2,500/ea 50 basins",
+          "totalCost": 125000,
+          "rawCost": "$125,000"
+        },
+        {
+          "name": "$.80/ft 100,000 feet",
+          "totalCost": 80000,
+          "rawCost": "$80,000"
+        },
+        {
+          "name": "$160/ac 400 acres",
+          "totalCost": 64000,
+          "rawCost": "$64,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 804500,
+          "rawCost": "$804,500"
+        },
+        {
+          "name": "- Signing incentive payments of up to",
+          "totalCost": 100,
+          "rawCost": "$100"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1073600,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$.80/ft 100,000 feet $80,000",
+      "rows": [
+        {
+          "name": "$.80/ft 100,000 feet",
+          "totalCost": 80000,
+          "rawCost": "$80,000"
+        },
+        {
+          "name": "$160/ac 400 acres",
+          "totalCost": 64000,
+          "rawCost": "$64,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 804500,
+          "rawCost": "$804,500"
+        },
+        {
+          "name": "- Signing incentive payments of up to",
+          "totalCost": 100,
+          "rawCost": "$100"
+        },
+        {
+          "name": "Signs 20",
+          "totalCost": 25,
+          "rawCost": "$25.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 949125,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$160/ac 400 acres $64,000",
+      "rows": [
+        {
+          "name": "$160/ac 400 acres",
+          "totalCost": 64000,
+          "rawCost": "$64,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 804500,
+          "rawCost": "$804,500"
+        },
+        {
+          "name": "- Signing incentive payments of up to",
+          "totalCost": 100,
+          "rawCost": "$100"
+        },
+        {
+          "name": "Signs 20",
+          "totalCost": 25,
+          "rawCost": "$25.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 869125,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $804,500",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 804500,
+          "rawCost": "$804,500"
+        },
+        {
+          "name": "- Signing incentive payments of up to",
+          "totalCost": 100,
+          "rawCost": "$100"
+        },
+        {
+          "name": "Signs 20",
+          "totalCost": 25,
+          "rawCost": "$25.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Event Flyers 100 .30/each",
+          "totalCost": 30,
+          "rawCost": "$30.00"
+        },
+        {
+          "name": "Mailing/Delivery 100 .39/each",
+          "totalCost": 39,
+          "rawCost": "$39.00"
+        },
+        {
+          "name": "Miscellaneous 1",
+          "totalCost": 950,
+          "rawCost": "$950.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1019,
+          "rawCost": "$1,019.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 807163,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "- Signing incentive payments of up to $100 per acre,",
+      "rows": [
+        {
+          "name": "- Signing incentive payments of up to",
+          "totalCost": 100,
+          "rawCost": "$100"
+        },
+        {
+          "name": "Signs 20",
+          "totalCost": 25,
+          "rawCost": "$25.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Event Flyers 100 .30/each",
+          "totalCost": 30,
+          "rawCost": "$30.00"
+        },
+        {
+          "name": "Mailing/Delivery 100 .39/each",
+          "totalCost": 39,
+          "rawCost": "$39.00"
+        },
+        {
+          "name": "Miscellaneous 1",
+          "totalCost": 950,
+          "rawCost": "$950.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1019,
+          "rawCost": "$1,019.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2663,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Signs 20 $25.00 $500.00",
+      "rows": [
+        {
+          "name": "Signs 20",
+          "totalCost": 25,
+          "rawCost": "$25.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Event Flyers 100 .30/each",
+          "totalCost": 30,
+          "rawCost": "$30.00"
+        },
+        {
+          "name": "Mailing/Delivery 100 .39/each",
+          "totalCost": 39,
+          "rawCost": "$39.00"
+        },
+        {
+          "name": "Miscellaneous 1",
+          "totalCost": 950,
+          "rawCost": "$950.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1019,
+          "rawCost": "$1,019.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2563,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $500.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Event Flyers 100 .30/each",
+          "totalCost": 30,
+          "rawCost": "$30.00"
+        },
+        {
+          "name": "Mailing/Delivery 100 .39/each",
+          "totalCost": 39,
+          "rawCost": "$39.00"
+        },
+        {
+          "name": "Miscellaneous 1",
+          "totalCost": 950,
+          "rawCost": "$950.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1019,
+          "rawCost": "$1,019.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2538,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Event Flyers 100 .30/each $30.00",
+      "rows": [
+        {
+          "name": "Event Flyers 100 .30/each",
+          "totalCost": 30,
+          "rawCost": "$30.00"
+        },
+        {
+          "name": "Mailing/Delivery 100 .39/each",
+          "totalCost": 39,
+          "rawCost": "$39.00"
+        },
+        {
+          "name": "Miscellaneous 1",
+          "totalCost": 950,
+          "rawCost": "$950.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1019,
+          "rawCost": "$1,019.00"
+        },
+        {
+          "name": "Printing 1,000 .30/each",
+          "totalCost": 300,
+          "rawCost": "$300.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 300,
+          "rawCost": "$300.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2638,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Mailing/Delivery 100 .39/each $39.00",
+      "rows": [
+        {
+          "name": "Mailing/Delivery 100 .39/each",
+          "totalCost": 39,
+          "rawCost": "$39.00"
+        },
+        {
+          "name": "Miscellaneous 1",
+          "totalCost": 950,
+          "rawCost": "$950.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1019,
+          "rawCost": "$1,019.00"
+        },
+        {
+          "name": "Printing 1,000 .30/each",
+          "totalCost": 300,
+          "rawCost": "$300.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 300,
+          "rawCost": "$300.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2608,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Miscellaneous 1 $950.00 $950.00",
+      "rows": [
+        {
+          "name": "Miscellaneous 1",
+          "totalCost": 950,
+          "rawCost": "$950.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1019,
+          "rawCost": "$1,019.00"
+        },
+        {
+          "name": "Printing 1,000 .30/each",
+          "totalCost": 300,
+          "rawCost": "$300.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 300,
+          "rawCost": "$300.00"
+        },
+        {
+          "name": "Adopt A Stream Workshop 1 day workshop",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 5569,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $1,019.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 1019,
+          "rawCost": "$1,019.00"
+        },
+        {
+          "name": "Printing 1,000 .30/each",
+          "totalCost": 300,
+          "rawCost": "$300.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 300,
+          "rawCost": "$300.00"
+        },
+        {
+          "name": "Adopt A Stream Workshop 1 day workshop",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 4619,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Printing 1,000 .30/each $300.00",
+      "rows": [
+        {
+          "name": "Printing 1,000 .30/each",
+          "totalCost": 300,
+          "rawCost": "$300.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 300,
+          "rawCost": "$300.00"
+        },
+        {
+          "name": "Adopt A Stream Workshop 1 day workshop",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "PLT Workshop 1 workshop",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 6300,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $300.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 300,
+          "rawCost": "$300.00"
+        },
+        {
+          "name": "Adopt A Stream Workshop 1 day workshop",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "PLT Workshop 1 workshop",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 6000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Adopt A Stream Workshop 1 day workshop $1,500.00 $1,500.00",
+      "rows": [
+        {
+          "name": "Adopt A Stream Workshop 1 day workshop",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "PLT Workshop 1 workshop",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show 1 show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 6700,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $1,500.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "PLT Workshop 1 workshop",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show 1 show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 5200,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "PLT Workshop 1 workshop $1,350.00 $1,350.00",
+      "rows": [
+        {
+          "name": "PLT Workshop 1 workshop",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show 1 show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Storm Drain Marking 1 Project",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 4700,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $1,350.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show 1 show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Storm Drain Marking 1 Project",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 3350,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Watershed Harmony Puppet Show 1 show $500.00 $500.00",
+      "rows": [
+        {
+          "name": "Watershed Harmony Puppet Show 1 show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Storm Drain Marking 1 Project",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Signage",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Field Days",
+          "totalCost": 1019,
+          "rawCost": "$1,019.00"
+        },
+        {
+          "name": "Fact Sheets",
+          "totalCost": 300,
+          "rawCost": "$300.00"
+        },
+        {
+          "name": "Adopt-A-Stream",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Storm Drain Marking Project",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 5669,
+          "rawCost": "$5,669.00"
+        },
+        {
+          "name": "319 funds-",
+          "totalCost": 804500,
+          "rawCost": "$804,500.00"
+        },
+        {
+          "name": "USDA funds-",
+          "totalCost": 250000,
+          "rawCost": "$250,000.00"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 864501,
+          "rawCost": "$864,501"
+        },
+        {
+          "name": "the balance of",
+          "totalCost": 345801,
+          "rawCost": "$345,801"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2278140,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $500.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Storm Drain Marking 1 Project",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Signage",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Field Days",
+          "totalCost": 1019,
+          "rawCost": "$1,019.00"
+        },
+        {
+          "name": "Fact Sheets",
+          "totalCost": 300,
+          "rawCost": "$300.00"
+        },
+        {
+          "name": "Adopt-A-Stream",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Storm Drain Marking Project",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 5669,
+          "rawCost": "$5,669.00"
+        },
+        {
+          "name": "319 funds-",
+          "totalCost": 804500,
+          "rawCost": "$804,500.00"
+        },
+        {
+          "name": "USDA funds-",
+          "totalCost": 250000,
+          "rawCost": "$250,000.00"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 864501,
+          "rawCost": "$864,501"
+        },
+        {
+          "name": "the balance of",
+          "totalCost": 345801,
+          "rawCost": "$345,801"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2277640,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Storm Drain Marking 1 Project $500.00 $500.00",
+      "rows": [
+        {
+          "name": "Storm Drain Marking 1 Project",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Signage",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Field Days",
+          "totalCost": 1019,
+          "rawCost": "$1,019.00"
+        },
+        {
+          "name": "Fact Sheets",
+          "totalCost": 300,
+          "rawCost": "$300.00"
+        },
+        {
+          "name": "Adopt-A-Stream",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Storm Drain Marking Project",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 5669,
+          "rawCost": "$5,669.00"
+        },
+        {
+          "name": "319 funds-",
+          "totalCost": 804500,
+          "rawCost": "$804,500.00"
+        },
+        {
+          "name": "USDA funds-",
+          "totalCost": 250000,
+          "rawCost": "$250,000.00"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 864501,
+          "rawCost": "$864,501"
+        },
+        {
+          "name": "the balance of",
+          "totalCost": 345801,
+          "rawCost": "$345,801"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2277140,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $500.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Signage",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Field Days",
+          "totalCost": 1019,
+          "rawCost": "$1,019.00"
+        },
+        {
+          "name": "Fact Sheets",
+          "totalCost": 300,
+          "rawCost": "$300.00"
+        },
+        {
+          "name": "Adopt-A-Stream",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Storm Drain Marking Project",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 5669,
+          "rawCost": "$5,669.00"
+        },
+        {
+          "name": "319 funds-",
+          "totalCost": 804500,
+          "rawCost": "$804,500.00"
+        },
+        {
+          "name": "USDA funds-",
+          "totalCost": 250000,
+          "rawCost": "$250,000.00"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 864501,
+          "rawCost": "$864,501"
+        },
+        {
+          "name": "the balance of",
+          "totalCost": 345801,
+          "rawCost": "$345,801"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2276640,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Signage   $500.00",
+      "rows": [
+        {
+          "name": "Signage",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Field Days",
+          "totalCost": 1019,
+          "rawCost": "$1,019.00"
+        },
+        {
+          "name": "Fact Sheets",
+          "totalCost": 300,
+          "rawCost": "$300.00"
+        },
+        {
+          "name": "Adopt-A-Stream",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Storm Drain Marking Project",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 5669,
+          "rawCost": "$5,669.00"
+        },
+        {
+          "name": "319 funds-",
+          "totalCost": 804500,
+          "rawCost": "$804,500.00"
+        },
+        {
+          "name": "USDA funds-",
+          "totalCost": 250000,
+          "rawCost": "$250,000.00"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 864501,
+          "rawCost": "$864,501"
+        },
+        {
+          "name": "the balance of",
+          "totalCost": 345801,
+          "rawCost": "$345,801"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2276140,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Field Days   $1,019.00",
+      "rows": [
+        {
+          "name": "Field Days",
+          "totalCost": 1019,
+          "rawCost": "$1,019.00"
+        },
+        {
+          "name": "Fact Sheets",
+          "totalCost": 300,
+          "rawCost": "$300.00"
+        },
+        {
+          "name": "Adopt-A-Stream",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Storm Drain Marking Project",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 5669,
+          "rawCost": "$5,669.00"
+        },
+        {
+          "name": "319 funds-",
+          "totalCost": 804500,
+          "rawCost": "$804,500.00"
+        },
+        {
+          "name": "USDA funds-",
+          "totalCost": 250000,
+          "rawCost": "$250,000.00"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 864501,
+          "rawCost": "$864,501"
+        },
+        {
+          "name": "the balance of",
+          "totalCost": 345801,
+          "rawCost": "$345,801"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2275640,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Fact Sheets   $300.00",
+      "rows": [
+        {
+          "name": "Fact Sheets",
+          "totalCost": 300,
+          "rawCost": "$300.00"
+        },
+        {
+          "name": "Adopt-A-Stream",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Storm Drain Marking Project",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 5669,
+          "rawCost": "$5,669.00"
+        },
+        {
+          "name": "319 funds-",
+          "totalCost": 804500,
+          "rawCost": "$804,500.00"
+        },
+        {
+          "name": "USDA funds-",
+          "totalCost": 250000,
+          "rawCost": "$250,000.00"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 864501,
+          "rawCost": "$864,501"
+        },
+        {
+          "name": "the balance of",
+          "totalCost": 345801,
+          "rawCost": "$345,801"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2274621,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Adopt-A-Stream   $1,500.00",
+      "rows": [
+        {
+          "name": "Adopt-A-Stream",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Storm Drain Marking Project",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 5669,
+          "rawCost": "$5,669.00"
+        },
+        {
+          "name": "319 funds-",
+          "totalCost": 804500,
+          "rawCost": "$804,500.00"
+        },
+        {
+          "name": "USDA funds-",
+          "totalCost": 250000,
+          "rawCost": "$250,000.00"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 864501,
+          "rawCost": "$864,501"
+        },
+        {
+          "name": "the balance of",
+          "totalCost": 345801,
+          "rawCost": "$345,801"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2274321,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Project Learning Tree   $1,350.00",
+      "rows": [
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Storm Drain Marking Project",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 5669,
+          "rawCost": "$5,669.00"
+        },
+        {
+          "name": "319 funds-",
+          "totalCost": 804500,
+          "rawCost": "$804,500.00"
+        },
+        {
+          "name": "USDA funds-",
+          "totalCost": 250000,
+          "rawCost": "$250,000.00"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 864501,
+          "rawCost": "$864,501"
+        },
+        {
+          "name": "the balance of",
+          "totalCost": 345801,
+          "rawCost": "$345,801"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2272821,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Watershed Harmony Puppet Show   $500.00",
+      "rows": [
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Storm Drain Marking Project",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 5669,
+          "rawCost": "$5,669.00"
+        },
+        {
+          "name": "319 funds-",
+          "totalCost": 804500,
+          "rawCost": "$804,500.00"
+        },
+        {
+          "name": "USDA funds-",
+          "totalCost": 250000,
+          "rawCost": "$250,000.00"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 864501,
+          "rawCost": "$864,501"
+        },
+        {
+          "name": "the balance of",
+          "totalCost": 345801,
+          "rawCost": "$345,801"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2271471,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Storm Drain Marking Project   $500.00",
+      "rows": [
+        {
+          "name": "Storm Drain Marking Project",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 5669,
+          "rawCost": "$5,669.00"
+        },
+        {
+          "name": "319 funds-",
+          "totalCost": 804500,
+          "rawCost": "$804,500.00"
+        },
+        {
+          "name": "USDA funds-",
+          "totalCost": 250000,
+          "rawCost": "$250,000.00"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 864501,
+          "rawCost": "$864,501"
+        },
+        {
+          "name": "the balance of",
+          "totalCost": 345801,
+          "rawCost": "$345,801"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2270971,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $5,669.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 5669,
+          "rawCost": "$5,669.00"
+        },
+        {
+          "name": "319 funds-",
+          "totalCost": 804500,
+          "rawCost": "$804,500.00"
+        },
+        {
+          "name": "USDA funds-",
+          "totalCost": 250000,
+          "rawCost": "$250,000.00"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 864501,
+          "rawCost": "$864,501"
+        },
+        {
+          "name": "the balance of",
+          "totalCost": 345801,
+          "rawCost": "$345,801"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2270471,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "319 funds-     $804,500.00",
+      "rows": [
+        {
+          "name": "319 funds-",
+          "totalCost": 804500,
+          "rawCost": "$804,500.00"
+        },
+        {
+          "name": "USDA funds-",
+          "totalCost": 250000,
+          "rawCost": "$250,000.00"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 864501,
+          "rawCost": "$864,501"
+        },
+        {
+          "name": "the balance of",
+          "totalCost": 345801,
+          "rawCost": "$345,801"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2264802,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "USDA funds- $250,000.00",
+      "rows": [
+        {
+          "name": "USDA funds-",
+          "totalCost": 250000,
+          "rawCost": "$250,000.00"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 864501,
+          "rawCost": "$864,501"
+        },
+        {
+          "name": "the balance of",
+          "totalCost": 345801,
+          "rawCost": "$345,801"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1460302,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-02T13:23:25.387Z",
+  "metadata": {
+    "sourceId": "hickahala-creek-watershed-plan-2009",
+    "sourceFile": "hickahala-creek-watershed-plan-2009.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "adaptive_generic_costs",
+        "title": "EQIP over the next 3 years is $250,000.",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1859100
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$250/acre 100 acres $25,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1609100
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$1,700/ea 70 structures $119,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1584100
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$1.66/ft 20,000 feet $33,200",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1465100
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$2,500/ea 22 ponds $55,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1431900
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$122.20/ac 1,500 acres $183,300",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1376900
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$6,000/ea 20 crossings $120,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1193600
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$2,500/ea 50 basins $125,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1073600
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$.80/ft 100,000 feet $80,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 949125
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$160/ac 400 acres $64,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 869125
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Total   $804,500",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 807163
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "- Signing incentive payments of up to $100 per acre,",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2663
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Signs 20 $25.00 $500.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2563
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Total   $500.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2538
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Event Flyers 100 .30/each $30.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2638
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Mailing/Delivery 100 .39/each $39.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2608
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Miscellaneous 1 $950.00 $950.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 5569
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Total   $1,019.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 4619
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Printing 1,000 .30/each $300.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 6300
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Total   $300.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 6000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Adopt A Stream Workshop 1 day workshop $1,500.00 $1,500.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 6700
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Total   $1,500.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 5200
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "PLT Workshop 1 workshop $1,350.00 $1,350.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 4700
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Total   $1,350.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 3350
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Watershed Harmony Puppet Show 1 show $500.00 $500.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2278140
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Total   $500.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2277640
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Storm Drain Marking 1 Project $500.00 $500.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2277140
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Total   $500.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2276640
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Signage   $500.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2276140
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Field Days   $1,019.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2275640
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Fact Sheets   $300.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2274621
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Adopt-A-Stream   $1,500.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2274321
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Project Learning Tree   $1,350.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2272821
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Watershed Harmony Puppet Show   $500.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2271471
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Storm Drain Marking Project   $500.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2270971
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Total   $5,669.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2270471
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "319 funds-     $804,500.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2264802
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "USDA funds- $250,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1460302
+      }
+    ]
+  }
+}

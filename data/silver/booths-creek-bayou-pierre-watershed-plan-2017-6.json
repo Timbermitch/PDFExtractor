@@ -1,0 +1,640 @@
+{
+  "id": "booths-creek-bayou-pierre-watershed-plan-2017-6",
+  "summary": {
+    "totalGoals": 1,
+    "totalBMPs": 2,
+    "totalActivities": 0,
+    "primaryGoals": 1,
+    "completionRate": 0,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 1,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "General": 2
+    },
+    "avgGoalConfidence": 0.95,
+    "strongGoals": 1
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "confidence": 0.95,
+      "isPrimary": true,
+      "primaryReason": "bronze_direct_slice",
+      "description": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "originalSentence": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "shortTitle": "The ultimate goal is to bring about behavior changes and the use of \"best…",
+      "_present": false
+    }
+  ],
+  "mainGoals": [
+    {
+      "id": "G1",
+      "title": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "confidence": 0.95,
+      "isPrimary": true,
+      "primaryReason": "bronze_direct_slice",
+      "description": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "originalSentence": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "shortTitle": "The ultimate goal is to bring about behavior changes and the use of \"best…",
+      "_present": false
+    }
+  ],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "Education/Outreach",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.25,
+      "source": "summary_line:Education/Outreach         $10,000",
+      "_present": true
+    },
+    {
+      "id": "B2",
+      "name": "Monitoring",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.25,
+      "source": "summary_line:Monitoring          $20,000",
+      "_present": true
+    }
+  ],
+  "bmpCostTable": {
+    "id": "cost_table",
+    "title": "BMP Cost Estimates",
+    "table": {
+      "columns": [
+        "Code",
+        "Practice",
+        "Units",
+        "Cost",
+        "Estimated Units",
+        "Total"
+      ],
+      "rows": [
+        {
+          "Code": "314",
+          "Practice": "Brush Management",
+          "Units": "ac",
+          "Cost": "$44.70",
+          "Estimated Units": "500",
+          "Total": "$22,350.00"
+        },
+        {
+          "Code": "315",
+          "Practice": "Herbaceous Weed Control",
+          "Units": "ac",
+          "Cost": "$113.27",
+          "Estimated Units": "500",
+          "Total": "$56,635.00"
+        },
+        {
+          "Code": "342",
+          "Practice": "Critical Area Planting",
+          "Units": "ac",
+          "Cost": "$165.43",
+          "Estimated Units": "50",
+          "Total": "$8,271.50"
+        },
+        {
+          "Code": "386",
+          "Practice": "Field Border",
+          "Units": "ac",
+          "Cost": "$430.93",
+          "Estimated Units": "200",
+          "Total": "$86,186.00"
+        },
+        {
+          "Code": "391",
+          "Practice": "Riparian Forest Buffer",
+          "Units": "ac",
+          "Cost": "$346.61",
+          "Estimated Units": "50",
+          "Total": "$17,330.50"
+        },
+        {
+          "Code": "393",
+          "Practice": "Filter Strip",
+          "Units": "ac",
+          "Cost": "$129.94",
+          "Estimated Units": "50",
+          "Total": "$6,497.00"
+        },
+        {
+          "Code": "410",
+          "Practice": "Grade Stabilization Structure",
+          "Units": "no",
+          "Cost": "$11,980.66",
+          "Estimated Units": "25",
+          "Total": "$299,516.50"
+        },
+        {
+          "Code": "412",
+          "Practice": "Grassed Waterway",
+          "Units": "ac",
+          "Cost": "$1,825.54",
+          "Estimated Units": "50",
+          "Total": "$91,277.00"
+        },
+        {
+          "Code": "441",
+          "Practice": "Irrigation System, Microirrigation",
+          "Units": "ac",
+          "Cost": "$2,175.52",
+          "Estimated Units": "20",
+          "Total": "$43,510.40"
+        },
+        {
+          "Code": "442",
+          "Practice": "Irrigation System, Sprinkler",
+          "Units": "ea",
+          "Cost": "$34,762.34",
+          "Estimated Units": "2",
+          "Total": "$69,524.68"
+        },
+        {
+          "Code": "449",
+          "Practice": "Irrigation Water Management",
+          "Units": "ac",
+          "Cost": "$34.95",
+          "Estimated Units": "200",
+          "Total": "$6,990.00"
+        },
+        {
+          "Code": "484",
+          "Practice": "Mulching",
+          "Units": "ac",
+          "Cost": "$1,376.59",
+          "Estimated Units": "10",
+          "Total": "$13,765.90"
+        }
+      ],
+      "total": null
+    },
+    "patternId": "booths_creek_format",
+    "patternConfidence": 0.85
+  },
+  "bmpCostTableNormalized": {
+    "id": "cost_table",
+    "title": "BMP Cost Estimates",
+    "patternId": "booths_creek_format",
+    "patternConfidence": 0.85,
+    "rows": [
+      {
+        "name": "314 - Brush Management",
+        "quantity": 500,
+        "unit": "acre",
+        "unitRaw": "ac",
+        "unitCost": 44.7,
+        "totalCost": 22350,
+        "rawSize": "500 ac",
+        "rawCost": "$22,350.00"
+      },
+      {
+        "name": "315 - Herbaceous Weed Control",
+        "quantity": 500,
+        "unit": "acre",
+        "unitRaw": "ac",
+        "unitCost": 113.27,
+        "totalCost": 56635,
+        "rawSize": "500 ac",
+        "rawCost": "$56,635.00"
+      },
+      {
+        "name": "342 - Critical Area Planting",
+        "quantity": 50,
+        "unit": "acre",
+        "unitRaw": "ac",
+        "unitCost": 165.43,
+        "totalCost": 8271.5,
+        "rawSize": "50 ac",
+        "rawCost": "$8,271.50"
+      },
+      {
+        "name": "386 - Field Border",
+        "quantity": 200,
+        "unit": "acre",
+        "unitRaw": "ac",
+        "unitCost": 430.93,
+        "totalCost": 86186,
+        "rawSize": "200 ac",
+        "rawCost": "$86,186.00"
+      },
+      {
+        "name": "391 - Riparian Forest Buffer",
+        "quantity": 50,
+        "unit": "acre",
+        "unitRaw": "ac",
+        "unitCost": 346.61,
+        "totalCost": 17330.5,
+        "rawSize": "50 ac",
+        "rawCost": "$17,330.50"
+      },
+      {
+        "name": "393 - Filter Strip",
+        "quantity": 50,
+        "unit": "acre",
+        "unitRaw": "ac",
+        "unitCost": 129.94,
+        "totalCost": 6497,
+        "rawSize": "50 ac",
+        "rawCost": "$6,497.00"
+      },
+      {
+        "name": "410 - Grade Stabilization Structure",
+        "quantity": 25,
+        "unit": "each",
+        "unitRaw": "no",
+        "unitCost": 11980.66,
+        "totalCost": 299516.5,
+        "rawSize": "25 no",
+        "rawCost": "$299,516.50"
+      },
+      {
+        "name": "412 - Grassed Waterway",
+        "quantity": 50,
+        "unit": "acre",
+        "unitRaw": "ac",
+        "unitCost": 1825.54,
+        "totalCost": 91277,
+        "rawSize": "50 ac",
+        "rawCost": "$91,277.00"
+      },
+      {
+        "name": "441 - Irrigation System, Microirrigation",
+        "quantity": 20,
+        "unit": "acre",
+        "unitRaw": "ac",
+        "unitCost": 2175.52,
+        "totalCost": 43510.4,
+        "rawSize": "20 ac",
+        "rawCost": "$43,510.40"
+      },
+      {
+        "name": "442 - Irrigation System, Sprinkler",
+        "quantity": 2,
+        "unit": "each",
+        "unitRaw": "ea",
+        "unitCost": 34762.34,
+        "totalCost": 69524.68,
+        "rawSize": "2 ea",
+        "rawCost": "$69,524.68"
+      },
+      {
+        "name": "449 - Irrigation Water Management",
+        "quantity": 200,
+        "unit": "acre",
+        "unitRaw": "ac",
+        "unitCost": 34.95,
+        "totalCost": 6990,
+        "rawSize": "200 ac",
+        "rawCost": "$6,990.00"
+      },
+      {
+        "name": "484 - Mulching",
+        "quantity": 10,
+        "unit": "acre",
+        "unitRaw": "ac",
+        "unitCost": 1376.59,
+        "totalCost": 13765.9,
+        "rawSize": "10 ac",
+        "rawCost": "$13,765.90"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 721854.4800000001,
+    "discrepancy": null
+  },
+  "bmpCostTables": [
+    {
+      "id": "cost_table",
+      "title": "BMP Cost Estimates",
+      "table": {
+        "columns": [
+          "Code",
+          "Practice",
+          "Units",
+          "Cost",
+          "Estimated Units",
+          "Total"
+        ],
+        "rows": [
+          {
+            "Code": "314",
+            "Practice": "Brush Management",
+            "Units": "ac",
+            "Cost": "$44.70",
+            "Estimated Units": "500",
+            "Total": "$22,350.00"
+          },
+          {
+            "Code": "315",
+            "Practice": "Herbaceous Weed Control",
+            "Units": "ac",
+            "Cost": "$113.27",
+            "Estimated Units": "500",
+            "Total": "$56,635.00"
+          },
+          {
+            "Code": "342",
+            "Practice": "Critical Area Planting",
+            "Units": "ac",
+            "Cost": "$165.43",
+            "Estimated Units": "50",
+            "Total": "$8,271.50"
+          },
+          {
+            "Code": "386",
+            "Practice": "Field Border",
+            "Units": "ac",
+            "Cost": "$430.93",
+            "Estimated Units": "200",
+            "Total": "$86,186.00"
+          },
+          {
+            "Code": "391",
+            "Practice": "Riparian Forest Buffer",
+            "Units": "ac",
+            "Cost": "$346.61",
+            "Estimated Units": "50",
+            "Total": "$17,330.50"
+          },
+          {
+            "Code": "393",
+            "Practice": "Filter Strip",
+            "Units": "ac",
+            "Cost": "$129.94",
+            "Estimated Units": "50",
+            "Total": "$6,497.00"
+          },
+          {
+            "Code": "410",
+            "Practice": "Grade Stabilization Structure",
+            "Units": "no",
+            "Cost": "$11,980.66",
+            "Estimated Units": "25",
+            "Total": "$299,516.50"
+          },
+          {
+            "Code": "412",
+            "Practice": "Grassed Waterway",
+            "Units": "ac",
+            "Cost": "$1,825.54",
+            "Estimated Units": "50",
+            "Total": "$91,277.00"
+          },
+          {
+            "Code": "441",
+            "Practice": "Irrigation System, Microirrigation",
+            "Units": "ac",
+            "Cost": "$2,175.52",
+            "Estimated Units": "20",
+            "Total": "$43,510.40"
+          },
+          {
+            "Code": "442",
+            "Practice": "Irrigation System, Sprinkler",
+            "Units": "ea",
+            "Cost": "$34,762.34",
+            "Estimated Units": "2",
+            "Total": "$69,524.68"
+          },
+          {
+            "Code": "449",
+            "Practice": "Irrigation Water Management",
+            "Units": "ac",
+            "Cost": "$34.95",
+            "Estimated Units": "200",
+            "Total": "$6,990.00"
+          },
+          {
+            "Code": "484",
+            "Practice": "Mulching",
+            "Units": "ac",
+            "Cost": "$1,376.59",
+            "Estimated Units": "10",
+            "Total": "$13,765.90"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "booths_creek_format",
+      "patternConfidence": 0.85
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "cost_table",
+      "title": "BMP Cost Estimates",
+      "patternId": "booths_creek_format",
+      "patternConfidence": 0.85,
+      "rows": [
+        {
+          "name": "314 - Brush Management",
+          "quantity": 500,
+          "unit": "acre",
+          "unitRaw": "ac",
+          "unitCost": 44.7,
+          "totalCost": 22350,
+          "rawSize": "500 ac",
+          "rawCost": "$22,350.00"
+        },
+        {
+          "name": "315 - Herbaceous Weed Control",
+          "quantity": 500,
+          "unit": "acre",
+          "unitRaw": "ac",
+          "unitCost": 113.27,
+          "totalCost": 56635,
+          "rawSize": "500 ac",
+          "rawCost": "$56,635.00"
+        },
+        {
+          "name": "342 - Critical Area Planting",
+          "quantity": 50,
+          "unit": "acre",
+          "unitRaw": "ac",
+          "unitCost": 165.43,
+          "totalCost": 8271.5,
+          "rawSize": "50 ac",
+          "rawCost": "$8,271.50"
+        },
+        {
+          "name": "386 - Field Border",
+          "quantity": 200,
+          "unit": "acre",
+          "unitRaw": "ac",
+          "unitCost": 430.93,
+          "totalCost": 86186,
+          "rawSize": "200 ac",
+          "rawCost": "$86,186.00"
+        },
+        {
+          "name": "391 - Riparian Forest Buffer",
+          "quantity": 50,
+          "unit": "acre",
+          "unitRaw": "ac",
+          "unitCost": 346.61,
+          "totalCost": 17330.5,
+          "rawSize": "50 ac",
+          "rawCost": "$17,330.50"
+        },
+        {
+          "name": "393 - Filter Strip",
+          "quantity": 50,
+          "unit": "acre",
+          "unitRaw": "ac",
+          "unitCost": 129.94,
+          "totalCost": 6497,
+          "rawSize": "50 ac",
+          "rawCost": "$6,497.00"
+        },
+        {
+          "name": "410 - Grade Stabilization Structure",
+          "quantity": 25,
+          "unit": "each",
+          "unitRaw": "no",
+          "unitCost": 11980.66,
+          "totalCost": 299516.5,
+          "rawSize": "25 no",
+          "rawCost": "$299,516.50"
+        },
+        {
+          "name": "412 - Grassed Waterway",
+          "quantity": 50,
+          "unit": "acre",
+          "unitRaw": "ac",
+          "unitCost": 1825.54,
+          "totalCost": 91277,
+          "rawSize": "50 ac",
+          "rawCost": "$91,277.00"
+        },
+        {
+          "name": "441 - Irrigation System, Microirrigation",
+          "quantity": 20,
+          "unit": "acre",
+          "unitRaw": "ac",
+          "unitCost": 2175.52,
+          "totalCost": 43510.4,
+          "rawSize": "20 ac",
+          "rawCost": "$43,510.40"
+        },
+        {
+          "name": "442 - Irrigation System, Sprinkler",
+          "quantity": 2,
+          "unit": "each",
+          "unitRaw": "ea",
+          "unitCost": 34762.34,
+          "totalCost": 69524.68,
+          "rawSize": "2 ea",
+          "rawCost": "$69,524.68"
+        },
+        {
+          "name": "449 - Irrigation Water Management",
+          "quantity": 200,
+          "unit": "acre",
+          "unitRaw": "ac",
+          "unitCost": 34.95,
+          "totalCost": 6990,
+          "rawSize": "200 ac",
+          "rawCost": "$6,990.00"
+        },
+        {
+          "name": "484 - Mulching",
+          "quantity": 10,
+          "unit": "acre",
+          "unitRaw": "ac",
+          "unitCost": 1376.59,
+          "totalCost": 13765.9,
+          "rawSize": "10 ac",
+          "rawCost": "$13,765.90"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 721854.4800000001,
+      "discrepancy": null
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-02T11:14:45.848Z",
+  "metadata": {
+    "sourceId": "booths-creek-bayou-pierre-watershed-plan-2017-6",
+    "sourceFile": "booths-creek-bayou-pierre-watershed-plan-2017-6.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "booths_creek_format",
+        "title": "BMP Cost Estimates",
+        "confidence": 0.85,
+        "totalReported": null,
+        "totalComputed": 721854.4800000001
+      }
+    ],
+    "originalName": "Booths_Creek_Bayou_Pierre_Watershed_Plan_2017.pdf",
+    "presence": {
+      "goals": 0,
+      "bmps": 2,
+      "implementation": 0,
+      "monitoring": 0,
+      "outreach": 0
+    }
+  }
+}

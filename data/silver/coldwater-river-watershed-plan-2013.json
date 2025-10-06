@@ -1,0 +1,337 @@
+{
+  "id": "coldwater-river-watershed-plan-2013",
+  "summary": {
+    "totalGoals": 1,
+    "totalBMPs": 1,
+    "totalActivities": 0,
+    "primaryGoals": 0,
+    "completionRate": 0,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 1,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "General": 1
+    },
+    "avgGoalConfidence": 0,
+    "strongGoals": 0
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "29 The goal of this plan is to provide guidance for implementing and evaluating conservation 5.1 Goal 6.1 Goal",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "29 The goal of this plan is to provide guidance for implementing and evaluating conservation 5.1 Goal 6.1 Goal",
+      "confidence": 0,
+      "description": "29 The goal of this plan is to provide guidance for implementing and evaluating conservation 5.1 Goal 6.1 Goal",
+      "originalSentence": "29 The goal of this plan is to provide guidance for implementing and evaluating conservation 5.1 Goal 6.1 Goal",
+      "shortTitle": "29 The goal of this plan is to provide guidance for implementing and evaluating conservation 5.1 Goal 6.1 Goal"
+    }
+  ],
+  "mainGoals": [],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "Practice Producer NRCS EPA-MDEQ Total",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Practice Producer NRCS EPA-MDEQ Total"
+    }
+  ],
+  "bmpCostTable": {
+    "id": "multi_funding_source_costs",
+    "title": "Practice Producer NRCS EPA-MDEQ Total",
+    "table": {
+      "columns": [
+        "Practice",
+        "Producer",
+        "NRCS",
+        "EPA-MDEQ",
+        "Total"
+      ],
+      "rows": [
+        {
+          "Practice": "Tail-water Recovery Systems",
+          "Producer": "$112,500",
+          "NRCS": "$501,090",
+          "EPA-MDEQ": "$110,850",
+          "Total": "$724,440"
+        },
+        {
+          "Practice": "Land Leveling with Pads",
+          "Producer": "$262,500",
+          "NRCS": "$378,750",
+          "EPA-MDEQ": null,
+          "Total": "$641,250"
+        },
+        {
+          "Practice": "Water Control Structures",
+          "Producer": "$117,300",
+          "NRCS": "$67,300",
+          "EPA-MDEQ": "$55,000",
+          "Total": "$239,600"
+        },
+        {
+          "Practice": "Low Grade Weirs",
+          "Producer": "$26,250",
+          "NRCS": null,
+          "EPA-MDEQ": "$10,000",
+          "Total": "$36,250"
+        },
+        {
+          "Practice": "Two-Stage Ditch",
+          "Producer": "$11,400",
+          "NRCS": null,
+          "EPA-MDEQ": "$39,150",
+          "Total": "$50,550"
+        }
+      ],
+      "total": 1692090
+    },
+    "patternId": "multi_funding_source_costs",
+    "patternConfidence": 0.83
+  },
+  "bmpCostTableNormalized": {
+    "id": "multi_funding_source_costs",
+    "title": "Practice Producer NRCS EPA-MDEQ Total",
+    "rows": [
+      {
+        "name": "Tail-water Recovery Systems",
+        "totalCost": 724440,
+        "producerContribution": 112500,
+        "nrcsContribution": 501090,
+        "otherContribution": 110850,
+        "fundingPctProducer": 0.15529236375683286,
+        "fundingPctNRCS": 0.6916928938214345,
+        "fundingPctOther": 0.15301474242173266,
+        "rawCost": "$724,440"
+      },
+      {
+        "name": "Land Leveling with Pads",
+        "totalCost": 641250,
+        "producerContribution": 262500,
+        "nrcsContribution": 378750,
+        "otherContribution": null,
+        "fundingPctProducer": 0.4093567251461988,
+        "fundingPctNRCS": 0.5906432748538012,
+        "fundingPctOther": 0,
+        "rawCost": "$641,250"
+      },
+      {
+        "name": "Water Control Structures",
+        "totalCost": 239600,
+        "producerContribution": 117300,
+        "nrcsContribution": 67300,
+        "otherContribution": 55000,
+        "fundingPctProducer": 0.4895659432387312,
+        "fundingPctNRCS": 0.2808848080133556,
+        "fundingPctOther": 0.2295492487479132,
+        "rawCost": "$239,600"
+      },
+      {
+        "name": "Low Grade Weirs",
+        "totalCost": 36250,
+        "producerContribution": 26250,
+        "nrcsContribution": null,
+        "otherContribution": 10000,
+        "fundingPctProducer": 0.7241379310344828,
+        "fundingPctNRCS": 0,
+        "fundingPctOther": 0.27586206896551724,
+        "rawCost": "$36,250"
+      },
+      {
+        "name": "Two-Stage Ditch",
+        "totalCost": 50550,
+        "producerContribution": 11400,
+        "nrcsContribution": null,
+        "otherContribution": 39150,
+        "fundingPctProducer": 0.22551928783382788,
+        "fundingPctNRCS": 0,
+        "fundingPctOther": 0.7744807121661721,
+        "rawCost": "$50,550"
+      }
+    ],
+    "totalReported": 1692090,
+    "totalComputed": 1692090,
+    "producerComputed": 529950,
+    "nrcsComputed": 947140,
+    "otherComputed": 215000,
+    "discrepancy": 0,
+    "patternId": "multi_funding_source_costs",
+    "patternConfidence": 0.83
+  },
+  "bmpCostTables": [
+    {
+      "id": "multi_funding_source_costs",
+      "title": "Practice Producer NRCS EPA-MDEQ Total",
+      "table": {
+        "columns": [
+          "Practice",
+          "Producer",
+          "NRCS",
+          "EPA-MDEQ",
+          "Total"
+        ],
+        "rows": [
+          {
+            "Practice": "Tail-water Recovery Systems",
+            "Producer": "$112,500",
+            "NRCS": "$501,090",
+            "EPA-MDEQ": "$110,850",
+            "Total": "$724,440"
+          },
+          {
+            "Practice": "Land Leveling with Pads",
+            "Producer": "$262,500",
+            "NRCS": "$378,750",
+            "EPA-MDEQ": null,
+            "Total": "$641,250"
+          },
+          {
+            "Practice": "Water Control Structures",
+            "Producer": "$117,300",
+            "NRCS": "$67,300",
+            "EPA-MDEQ": "$55,000",
+            "Total": "$239,600"
+          },
+          {
+            "Practice": "Low Grade Weirs",
+            "Producer": "$26,250",
+            "NRCS": null,
+            "EPA-MDEQ": "$10,000",
+            "Total": "$36,250"
+          },
+          {
+            "Practice": "Two-Stage Ditch",
+            "Producer": "$11,400",
+            "NRCS": null,
+            "EPA-MDEQ": "$39,150",
+            "Total": "$50,550"
+          }
+        ],
+        "total": 1692090
+      },
+      "patternId": "multi_funding_source_costs",
+      "patternConfidence": 0.83
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "multi_funding_source_costs",
+      "title": "Practice Producer NRCS EPA-MDEQ Total",
+      "rows": [
+        {
+          "name": "Tail-water Recovery Systems",
+          "totalCost": 724440,
+          "producerContribution": 112500,
+          "nrcsContribution": 501090,
+          "otherContribution": 110850,
+          "fundingPctProducer": 0.15529236375683286,
+          "fundingPctNRCS": 0.6916928938214345,
+          "fundingPctOther": 0.15301474242173266,
+          "rawCost": "$724,440"
+        },
+        {
+          "name": "Land Leveling with Pads",
+          "totalCost": 641250,
+          "producerContribution": 262500,
+          "nrcsContribution": 378750,
+          "otherContribution": null,
+          "fundingPctProducer": 0.4093567251461988,
+          "fundingPctNRCS": 0.5906432748538012,
+          "fundingPctOther": 0,
+          "rawCost": "$641,250"
+        },
+        {
+          "name": "Water Control Structures",
+          "totalCost": 239600,
+          "producerContribution": 117300,
+          "nrcsContribution": 67300,
+          "otherContribution": 55000,
+          "fundingPctProducer": 0.4895659432387312,
+          "fundingPctNRCS": 0.2808848080133556,
+          "fundingPctOther": 0.2295492487479132,
+          "rawCost": "$239,600"
+        },
+        {
+          "name": "Low Grade Weirs",
+          "totalCost": 36250,
+          "producerContribution": 26250,
+          "nrcsContribution": null,
+          "otherContribution": 10000,
+          "fundingPctProducer": 0.7241379310344828,
+          "fundingPctNRCS": 0,
+          "fundingPctOther": 0.27586206896551724,
+          "rawCost": "$36,250"
+        },
+        {
+          "name": "Two-Stage Ditch",
+          "totalCost": 50550,
+          "producerContribution": 11400,
+          "nrcsContribution": null,
+          "otherContribution": 39150,
+          "fundingPctProducer": 0.22551928783382788,
+          "fundingPctNRCS": 0,
+          "fundingPctOther": 0.7744807121661721,
+          "rawCost": "$50,550"
+        }
+      ],
+      "totalReported": 1692090,
+      "totalComputed": 1692090,
+      "producerComputed": 529950,
+      "nrcsComputed": 947140,
+      "otherComputed": 215000,
+      "discrepancy": 0,
+      "patternId": "multi_funding_source_costs",
+      "patternConfidence": 0.83
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-02T17:52:50.399Z",
+  "metadata": {
+    "sourceId": "coldwater-river-watershed-plan-2013",
+    "sourceFile": "coldwater-river-watershed-plan-2013.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "multi_funding_source_costs",
+        "title": "Practice Producer NRCS EPA-MDEQ Total",
+        "confidence": 0.83,
+        "totalReported": 1692090,
+        "totalComputed": 1692090
+      }
+    ]
+  }
+}

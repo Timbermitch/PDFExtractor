@@ -1,0 +1,3485 @@
+{
+  "id": "dry-creek-9-key-element-plan-2017-4",
+  "summary": {
+    "totalGoals": 1,
+    "totalBMPs": 74,
+    "totalActivities": 0,
+    "primaryGoals": 1,
+    "completionRate": 0,
+    "totalMetrics": 88,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 1,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "Livestock Exclusion": 1,
+      "General": 71,
+      "Structural": 1,
+      "Nutrient Management": 1
+    },
+    "avgGoalConfidence": 0.95,
+    "strongGoals": 1
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "confidence": 0.95,
+      "isPrimary": true,
+      "primaryReason": "bronze_direct_slice",
+      "description": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "originalSentence": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "shortTitle": "The ultimate goal is to bring about behavior changes and the use of \"best…",
+      "_present": false
+    }
+  ],
+  "mainGoals": [
+    {
+      "id": "G1",
+      "title": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "confidence": 0.95,
+      "isPrimary": true,
+      "primaryReason": "bronze_direct_slice",
+      "description": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "originalSentence": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "shortTitle": "The ultimate goal is to bring about behavior changes and the use of \"best…",
+      "_present": false
+    }
+  ],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "Fencing",
+      "category": "Livestock Exclusion",
+      "keyword": "Fencing",
+      "quantity": 9420,
+      "unit": "ft",
+      "verb": null,
+      "confidence": 0.65,
+      "source": "Fencing 9,420 ft @ $2.75/ft $25,905  $10,362|name_cost_tail_trim",
+      "originalName": "Fencing 9,420 ft @ $2.75/ft $25,905  $10,362",
+      "_present": true
+    },
+    {
+      "id": "B2",
+      "name": "Water Facilities",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Water Facilities 12ea @ $1,304.86 $15,658  $8,000|name_cost_tail_trim",
+      "originalName": "Water Facilities 12ea @ $1,304.86 $15,658  $8,000",
+      "_present": true
+    },
+    {
+      "id": "B3",
+      "name": "Heavy Use Areas",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Heavy Use Areas 12ea @ $1,571.28 $18,855  $12,000|name_cost_tail_trim",
+      "originalName": "Heavy Use Areas 12ea @ $1,571.28 $18,855  $12,000",
+      "_present": true
+    },
+    {
+      "id": "B4",
+      "name": "Stream Crossings",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Stream Crossings 7 ea @ $4,197.42 $29,382  $26,000|name_cost_tail_trim",
+      "originalName": "Stream Crossings 7 ea @ $4,197.42 $29,382  $26,000",
+      "_present": true
+    },
+    {
+      "id": "B5",
+      "name": "Ponds",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Ponds 7 es @ $8,585.72 $60,100  $12,000|name_cost_tail_trim",
+      "originalName": "Ponds 7 es @ $8,585.72 $60,100  $12,000",
+      "_present": true
+    },
+    {
+      "id": "B6",
+      "name": "Sediment Basins",
+      "category": "Structural",
+      "keyword": "Sediment Basin",
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.4,
+      "source": "Sediment Basins 6 ea @ $5,845.34 $35,072  $14,029|name_cost_tail_trim",
+      "originalName": "Sediment Basins 6 ea @ $5,845.34 $35,072  $14,029",
+      "_present": true
+    },
+    {
+      "id": "B7",
+      "name": "Nutrient Management",
+      "category": "Nutrient Management",
+      "keyword": "Nutrient Management",
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.4,
+      "source": "Nutrient Management 200 ac @ $425 $85,000  $34,000|name_cost_tail_trim",
+      "originalName": "Nutrient Management 200 ac @ $425 $85,000  $34,000",
+      "_present": true
+    },
+    {
+      "id": "B8",
+      "name": "Critical Area Planting",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Critical Area Planting 9 ac @ $773.83 $6,964  $2,786|name_cost_tail_trim",
+      "originalName": "Critical Area Planting 9 ac @ $773.83 $6,964  $2,786",
+      "_present": true
+    },
+    {
+      "id": "B9",
+      "name": "Establishment of Permanent Vegetation",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Establishment of Permanent Vegetation 200 ac @ $425 $85,000  $34,000|name_cost_tail_trim",
+      "originalName": "Establishment of Permanent Vegetation 200 ac @ $425 $85,000  $34,000",
+      "_present": true
+    },
+    {
+      "id": "B10",
+      "name": "Forage and Biomass Planting",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Forage and Biomass Planting 42.5 ac @ $422.34 $17,949  $7,180|name_cost_tail_trim",
+      "originalName": "Forage and Biomass Planting 42.5 ac @ $422.34 $17,949  $7,180",
+      "_present": true
+    },
+    {
+      "id": "B11",
+      "name": "Education/Outreach",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Education/Outreach  $24,900|name_cost_tail_trim",
+      "originalName": "Education/Outreach  $24,900",
+      "_present": true
+    },
+    {
+      "id": "B12",
+      "name": "Monitoring",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Monitoring  $13,000|name_cost_tail_trim",
+      "originalName": "Monitoring  $13,000",
+      "_present": true
+    },
+    {
+      "id": "B13",
+      "name": "Project Management, Implementation,",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Project Management, Implementation,",
+      "_present": true
+    },
+    {
+      "id": "B14",
+      "name": "Coordination, Plan Revision",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Coordination, Plan Revision  $54,660|name_cost_tail_trim",
+      "originalName": "Coordination, Plan Revision  $54,660",
+      "_present": true
+    },
+    {
+      "id": "B15",
+      "name": "Total Estimated Project Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Total Estimated Project Cost  $472,447  $160,356|name_cost_tail_trim",
+      "originalName": "Total Estimated Project Cost  $472,447  $160,356",
+      "_present": true
+    },
+    {
+      "id": "B16",
+      "name": "To maximize education and outreach activities and monitoring efforts, MDEQ plans to leverage with existing programs already allocated for funding where possible.",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "To maximize education and outreach activities and monitoring efforts, MDEQ plans to leverage with existing programs already allocated for funding where possible.",
+      "_present": false
+    },
+    {
+      "id": "B17",
+      "name": "Total estimated cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Total estimated cost:  $472,447|name_cost_tail_trim",
+      "originalName": "Total estimated cost:  $472,447",
+      "_present": true
+    },
+    {
+      "id": "B18",
+      "name": "Total landowner match",
+      "category": "General",
+      "keyword": null,
+      "quantity": 40,
+      "unit": "%",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "Total landowner match: $160,356 (40% of estimated cost)|name_cost_tail_trim",
+      "originalName": "Total landowner match: $160,356 (40% of estimated cost)",
+      "_present": true
+    },
+    {
+      "id": "B19",
+      "name": "Element e: Information and Education",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Element e: Information and Education",
+      "_present": true
+    },
+    {
+      "id": "B20",
+      "name": "The MDEQ, in cooperation with numerous federal, state, and local stakeholders has developed diversified information/education programs, best management practices manuals, literature, books, videos, and public service announcements that address pollutants from the seven (7)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "The MDEQ, in cooperation with numerous federal, state, and local stakeholders has developed diversified information/education programs, best management practices manuals, literature, books, videos, and public service announcements that address pollutants from the seven (7)",
+      "_present": false
+    },
+    {
+      "id": "B21",
+      "name": "major landuse categories of Nonpoint Source Pollution, namely; agriculture, construction, forestry, on-site waste water disposal, surface mining, urban storm water runoff, and hydrologic modification.  Audiences from pre-school to adults throughout the state are reached with a",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "major landuse categories of Nonpoint Source Pollution, namely; agriculture, construction, forestry, on-site waste water disposal, surface mining, urban storm water runoff, and hydrologic modification.  Audiences from pre-school to adults throughout the state are reached with a",
+      "_present": false
+    },
+    {
+      "id": "B22",
+      "name": "Dry Creek Watershed Plan GY 2016",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.05,
+      "source": "Dry Creek Watershed Plan GY 2016",
+      "_present": true
+    },
+    {
+      "id": "B23",
+      "name": "8 variety of mature, well-designed programs each year. These programs, events, manuals and literature can be used in the Dry Creek watershed project by tailoring them to address the sedimentation.  A positive approach is used to reach the full diversity of people in the",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "8 variety of mature, well-designed programs each year. These programs, events, manuals and literature can be used in the Dry Creek watershed project by tailoring them to address the sedimentation.  A positive approach is used to reach the full diversity of people in the",
+      "_present": false
+    },
+    {
+      "id": "B24",
+      "name": "community with projects that foster a “sense of place”, a “sense of pride in community”, and a sense of the native plants, animals, and general ecology of their region, as well as, the history of the community and a sense of economics.  Stakeholders and coordinators join together to",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "community with projects that foster a “sense of place”, a “sense of pride in community”, and a sense of the native plants, animals, and general ecology of their region, as well as, the history of the community and a sense of economics.  Stakeholders and coordinators join together to",
+      "_present": false
+    },
+    {
+      "id": "B25",
+      "name": "participate in problem-solving, brainstorming, plan development, training workshops, festival event planning, soil and water conservation field days, tree boards, poster, art and writing projects and other activities that promote collaboration and ownership of the watershed, as well",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "participate in problem-solving, brainstorming, plan development, training workshops, festival event planning, soil and water conservation field days, tree boards, poster, art and writing projects and other activities that promote collaboration and ownership of the watershed, as well",
+      "_present": false
+    },
+    {
+      "id": "B26",
+      "name": "as, solutions to its problems.  The ultimate goal is to bring about behavior changes and the use of “best management practices” that will improve water quality and the overall quality of life in the watershed.  Evaluation forms, pre-test/ post-test, surveys, and reporting of the number of people who attend workshops, trainings and events are among the methods used to measure the success of education/information programs.  A partial list of MDEQ’s programs that could be used in the Dry Creek watershed are listed below:  Water Model Presentations - Enviroscapes and groundwater aquifer models distributed statewide with training and related interactive lesson plans.",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "as, solutions to its problems.  The ultimate goal is to bring about behavior changes and the use of “best management practices” that will improve water quality and the overall quality of life in the watershed.  Evaluation forms, pre-test/ post-test, surveys, and reporting of the number of people who attend workshops, trainings and events are among the methods used to measure the success of education/information programs.  A partial list of MDEQ’s programs that could be used in the Dry Creek watershed are listed below:  Water Model Presentations - Enviroscapes and groundwater aquifer models distributed statewide with training and related interactive lesson plans.",
+      "_present": false
+    },
+    {
+      "id": "B27",
+      "name": " Teacher Workshops – train educators in proximity to the watershed about NPS pollution and provide materials and information that can be used in their classrooms.",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": "train",
+      "confidence": 0.15,
+      "source": " Teacher Workshops – train educators in proximity to the watershed about NPS pollution and provide materials and information that can be used in their classrooms.",
+      "_present": false
+    },
+    {
+      "id": "B28",
+      "name": " Adopt A Stream - workshops and training venues for citizens, teachers, and students in the Dry Creek Watershed.",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": " Adopt A Stream - workshops and training venues for citizens, teachers, and students in the Dry Creek Watershed.",
+      "_present": false
+    },
+    {
+      "id": "B29",
+      "name": "  Watershed Harmony Mobile Classroom - for ages kindergarten – adults with state and federal public education objectives tailored for 4 th and 5 th grade students.",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "  Watershed Harmony Mobile Classroom - for ages kindergarten – adults with state and federal public education objectives tailored for 4 th and 5 th grade students.",
+      "_present": false
+    },
+    {
+      "id": "B30",
+      "name": " Storm Drain Marking - projects for scouts, environmental clubs, and citizen groups.",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": " Storm Drain Marking - projects for scouts, environmental clubs, and citizen groups.",
+      "_present": true
+    },
+    {
+      "id": "B31",
+      "name": " “Train the Trainer” - workshops and materials for Soil and Water districts, Extension",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": "train",
+      "confidence": 0.15,
+      "source": " “Train the Trainer” - workshops and materials for Soil and Water districts, Extension",
+      "_present": true
+    },
+    {
+      "id": "B32",
+      "name": "Service, etc.",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Service, etc.",
+      "_present": true
+    },
+    {
+      "id": "B33",
+      "name": "As part of the education outreach efforts, the stakeholder group forming the Dry Creek",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "As part of the education outreach efforts, the stakeholder group forming the Dry Creek",
+      "_present": true
+    },
+    {
+      "id": "B34",
+      "name": "Watershed Implementation Team (WIT) will participate in a minimum of 5 face-to-face meetings.  The purpose of these meetings is to provide updates on implementation activities, education events and review and modify the watershed plan.  In concert with these WIT",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Watershed Implementation Team (WIT) will participate in a minimum of 5 face-to-face meetings.  The purpose of these meetings is to provide updates on implementation activities, education events and review and modify the watershed plan.  In concert with these WIT",
+      "_present": false
+    },
+    {
+      "id": "B35",
+      "name": "meetings, and to incentivize stakeholder participation, project funding will be used to purchase food and other refreshments for the WIT along with providing support for renting facilities in which to host those events.  In accordance with 41 CFR § 301-74.11, light refreshments, meals,",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "meetings, and to incentivize stakeholder participation, project funding will be used to purchase food and other refreshments for the WIT along with providing support for renting facilities in which to host those events.  In accordance with 41 CFR § 301-74.11, light refreshments, meals,",
+      "_present": false
+    },
+    {
+      "id": "B36",
+      "name": "and/or beverages are an allowable expense under CWA Section 319, provided a description of the agenda, purpose, location, costs, etc., are outlined in an approved 319 grant workplan. The purpose of the meetings will be for updating the watershed plan, and hosting field days to",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "and/or beverages are an allowable expense under CWA Section 319, provided a description of the agenda, purpose, location, costs, etc., are outlined in an approved 319 grant workplan. The purpose of the meetings will be for updating the watershed plan, and hosting field days to",
+      "_present": false
+    },
+    {
+      "id": "B37",
+      "name": "showcase the implemented BMPs for the public. At this time the exact number of participants and locations are not known therefore costs have been estimated for the purposes of this plan and will be updated.",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "showcase the implemented BMPs for the public. At this time the exact number of participants and locations are not known therefore costs have been estimated for the purposes of this plan and will be updated.",
+      "_present": false
+    },
+    {
+      "id": "B38",
+      "name": "9",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "9",
+      "_present": true
+    },
+    {
+      "id": "B39",
+      "name": "Element f: Implementation Schedule",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Element f: Implementation Schedule",
+      "_present": true
+    },
+    {
+      "id": "B40",
+      "name": "In the event of a Section 319 NPS funding award from MDEQ to support implementation of this watershed-based plan for this HUC 12 sub-watershed, MDEQ, along with support from the",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "In the event of a Section 319 NPS funding award from MDEQ to support implementation of this watershed-based plan for this HUC 12 sub-watershed, MDEQ, along with support from the",
+      "_present": false
+    },
+    {
+      "id": "B41",
+      "name": "Watershed Implementation Team and Project Manager (where applicable), will:",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Watershed Implementation Team and Project Manager (where applicable), will:",
+      "_present": true
+    },
+    {
+      "id": "B42",
+      "name": "1. Work to develop, execute, and implement a Subgrant Agreement that specifies the roles, tasks, requirements, and milestones for project implementation. (Month 1)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": "implement",
+      "confidence": 0.15,
+      "source": "1. Work to develop, execute, and implement a Subgrant Agreement that specifies the roles, tasks, requirements, and milestones for project implementation. (Month 1)",
+      "_present": false
+    },
+    {
+      "id": "B43",
+      "name": "2. Facilitate, in coordination with MDEQ and other partners, meetings, media and social media promotion of the project, and coordinate activities to fully implement this plan.",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": "implement",
+      "confidence": 0.15,
+      "source": "2. Facilitate, in coordination with MDEQ and other partners, meetings, media and social media promotion of the project, and coordinate activities to fully implement this plan.",
+      "_present": false
+    },
+    {
+      "id": "B44",
+      "name": "(Months 1-36)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "(Months 1-36)",
+      "_present": true
+    },
+    {
+      "id": "B45",
+      "name": "3. Work with the Covington County SWCD, MACD, MSWCC, NRCS, and MDEQ to inform landowners and operators within the watershed about the project and work to secure commitments from priority area landowners and operators who are willing to",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "3. Work with the Covington County SWCD, MACD, MSWCC, NRCS, and MDEQ to inform landowners and operators within the watershed about the project and work to secure commitments from priority area landowners and operators who are willing to",
+      "_present": false
+    },
+    {
+      "id": "B46",
+      "name": "participate in the project.  (Months 1-6)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "participate in the project.  (Months 1-6)",
+      "_present": true
+    },
+    {
+      "id": "B47",
+      "name": "4. Work with the local SWCD, MACD, MSWCC, NRCS, and MDEQ to determine through",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "4. Work with the local SWCD, MACD, MSWCC, NRCS, and MDEQ to determine through",
+      "_present": true
+    },
+    {
+      "id": "B48",
+      "name": "GIS applications and intensive site surveys the priority areas within the sub-watershed that are contributing significant pollutant loads.  All BMPs shall be installed in accordance with the guidelines developed in the latest edition of the NRCS Technical",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "GIS applications and intensive site surveys the priority areas within the sub-watershed that are contributing significant pollutant loads.  All BMPs shall be installed in accordance with the guidelines developed in the latest edition of the NRCS Technical",
+      "_present": false
+    },
+    {
+      "id": "B49",
+      "name": "Field Manual, or other approved guidelines.  (Months 1-36)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Field Manual, or other approved guidelines.  (Months 1-36)",
+      "_present": true
+    },
+    {
+      "id": "B50",
+      "name": "5. Facilitate, in cooperation with MDEQ and other monitoring partners, the completion and implementation of an effective and efficient plan to monitor baseline water quality conditions in the watershed and track changes in water quality over time resulting from",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": "monitor",
+      "confidence": 0.15,
+      "source": "5. Facilitate, in cooperation with MDEQ and other monitoring partners, the completion and implementation of an effective and efficient plan to monitor baseline water quality conditions in the watershed and track changes in water quality over time resulting from",
+      "_present": false
+    },
+    {
+      "id": "B51",
+      "name": "the BMPs implemented through this project.  (Plan Completion:  Months 1-2);",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "the BMPs implemented through this project.  (Plan Completion:  Months 1-2);",
+      "_present": true
+    },
+    {
+      "id": "B52",
+      "name": "Implementation:  Months 3-36)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Implementation:  Months 3-36)",
+      "_present": true
+    },
+    {
+      "id": "B53",
+      "name": "6. Submit blank copies of standard maintenance agreements to MDEQ. (Months 13-42)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.05,
+      "source": "6. Submit blank copies of standard maintenance agreements to MDEQ. (Months 13-42)",
+      "_present": true
+    },
+    {
+      "id": "B54",
+      "name": "7. Conduct inspections of BMPs during construction (Months 3-36)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": "conduct",
+      "confidence": 0.15,
+      "source": "7. Conduct inspections of BMPs during construction (Months 3-36)",
+      "_present": true
+    },
+    {
+      "id": "B55",
+      "name": "8. Coordinate with and support the local SWCD, MACD, MSWCC and NRCS in the collection of relevant GPS coordinates of all installed BMPs and incorporate this information into a GIS format.  All geospatial data shall be collected in a manner",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "8. Coordinate with and support the local SWCD, MACD, MSWCC and NRCS in the collection of relevant GPS coordinates of all installed BMPs and incorporate this information into a GIS format.  All geospatial data shall be collected in a manner",
+      "_present": false
+    },
+    {
+      "id": "B56",
+      "name": "consistent with the Federal Geographic Data committee-endorsed standards.  (Months 3-",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "consistent with the Federal Geographic Data committee-endorsed standards.  (Months 3-",
+      "_present": true
+    },
+    {
+      "id": "B57",
+      "name": "36)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "36)",
+      "_present": true
+    },
+    {
+      "id": "B58",
+      "name": "9. Collect adequate photo documentation before, during, and after installation of the approved BMPs (Months 3-36)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "9. Collect adequate photo documentation before, during, and after installation of the approved BMPs (Months 3-36)",
+      "_present": false
+    },
+    {
+      "id": "B59",
+      "name": "10. Report measured, or estimated, nonpoint source pollutant load reduction, acreage affected, pre-and post- site conditions, and GIS data (1-36)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "10. Report measured, or estimated, nonpoint source pollutant load reduction, acreage affected, pre-and post- site conditions, and GIS data (1-36)",
+      "_present": false
+    },
+    {
+      "id": "B60",
+      "name": "Element g: Milestones and Outcomes",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Element g: Milestones and Outcomes",
+      "_present": true
+    },
+    {
+      "id": "B61",
+      "name": "Milestone Outcome Probable Completion",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Milestone Outcome Probable Completion",
+      "_present": true
+    },
+    {
+      "id": "B62",
+      "name": "Date",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Date",
+      "_present": true
+    },
+    {
+      "id": "B63",
+      "name": "Coordinate with the MDEQ, NRCS,",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Coordinate with the MDEQ, NRCS,",
+      "_present": true
+    },
+    {
+      "id": "B64",
+      "name": "MSWCC, USGS, MACD, and the",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "MSWCC, USGS, MACD, and the",
+      "_present": true
+    },
+    {
+      "id": "B65",
+      "name": "Covington Co. Soil and Water District to determine priority areas that are contributing significant pollutant loads to",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Covington Co. Soil and Water District to determine priority areas that are contributing significant pollutant loads to",
+      "_present": false
+    },
+    {
+      "id": "B66",
+      "name": "Dry Creek",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Dry Creek",
+      "_present": true
+    },
+    {
+      "id": "B67",
+      "name": "Target priority areas for BMPs",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Target priority areas for BMPs",
+      "_present": false
+    },
+    {
+      "id": "B68",
+      "name": "Months 1-2",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Months 1-2",
+      "_present": true
+    },
+    {
+      "id": "B69",
+      "name": "10",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "10",
+      "_present": true
+    },
+    {
+      "id": "B70",
+      "name": "Establish Watershed Implementation",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Establish Watershed Implementation",
+      "_present": true
+    },
+    {
+      "id": "B71",
+      "name": "Team to begin refinement of Watershed",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Team to begin refinement of Watershed",
+      "_present": true
+    },
+    {
+      "id": "B72",
+      "name": "Based Plan for Dry Creek watershed",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Based Plan for Dry Creek watershed",
+      "_present": true
+    },
+    {
+      "id": "B73",
+      "name": "Establish WIT",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Establish WIT",
+      "_present": true
+    },
+    {
+      "id": "B74",
+      "name": "Initiate watershed monitoring  Baseline condition",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Initiate watershed monitoring  Baseline condition",
+      "_present": true
+    }
+  ],
+  "bmpCostTable": {
+    "id": "narrative_cost_block",
+    "title": "Fencing 9,420 ft @ $2.75/ft $25,905  $10,362",
+    "table": {
+      "columns": [
+        "Item",
+        "Cost"
+      ],
+      "rows": [
+        {
+          "Item": "Fencing 9,420 ft @ $2.75/ft $25,905",
+          "Cost": "$10,362"
+        },
+        {
+          "Item": "Water Facilities 12ea @ $1,304.86 $15,658",
+          "Cost": "$8,000"
+        },
+        {
+          "Item": "Heavy Use Areas 12ea @ $1,571.28 $18,855",
+          "Cost": "$12,000"
+        },
+        {
+          "Item": "Stream Crossings 7 ea @ $4,197.42 $29,382",
+          "Cost": "$26,000"
+        },
+        {
+          "Item": "Ponds 7 es @ $8,585.72 $60,100",
+          "Cost": "$12,000"
+        },
+        {
+          "Item": "Sediment Basins 6 ea @ $5,845.34 $35,072",
+          "Cost": "$14,029"
+        },
+        {
+          "Item": "Nutrient Management 200 ac @ $425 $85,000",
+          "Cost": "$34,000"
+        },
+        {
+          "Item": "Critical Area Planting 9 ac @ $773.83 $6,964",
+          "Cost": "$2,786"
+        },
+        {
+          "Item": "Establishment of Permanent Vegetation 200 ac @ $425 $85,000",
+          "Cost": "$34,000"
+        },
+        {
+          "Item": "Forage and Biomass Planting 42.5 ac @ $422.34 $17,949",
+          "Cost": "$7,180"
+        },
+        {
+          "Item": "Education/Outreach",
+          "Cost": "$24,900"
+        },
+        {
+          "Item": "Monitoring",
+          "Cost": "$13,000"
+        }
+      ],
+      "total": null
+    },
+    "patternId": "narrative_cost_block",
+    "patternConfidence": 0.55
+  },
+  "bmpCostTableNormalized": {
+    "id": "narrative_cost_block",
+    "title": "Fencing 9,420 ft @ $2.75/ft $25,905  $10,362",
+    "rows": [
+      {
+        "name": "Fencing 9,420 ft @ $2.75/ft $25,905",
+        "totalCost": 10362,
+        "rawCost": "$10,362"
+      },
+      {
+        "name": "Water Facilities 12ea @ $1,304.86 $15,658",
+        "totalCost": 8000,
+        "rawCost": "$8,000"
+      },
+      {
+        "name": "Heavy Use Areas 12ea @ $1,571.28 $18,855",
+        "totalCost": 12000,
+        "rawCost": "$12,000"
+      },
+      {
+        "name": "Stream Crossings 7 ea @ $4,197.42 $29,382",
+        "totalCost": 26000,
+        "rawCost": "$26,000"
+      },
+      {
+        "name": "Ponds 7 es @ $8,585.72 $60,100",
+        "totalCost": 12000,
+        "rawCost": "$12,000"
+      },
+      {
+        "name": "Sediment Basins 6 ea @ $5,845.34 $35,072",
+        "totalCost": 14029,
+        "rawCost": "$14,029"
+      },
+      {
+        "name": "Nutrient Management 200 ac @ $425 $85,000",
+        "totalCost": 34000,
+        "rawCost": "$34,000"
+      },
+      {
+        "name": "Critical Area Planting 9 ac @ $773.83 $6,964",
+        "totalCost": 2786,
+        "rawCost": "$2,786"
+      },
+      {
+        "name": "Establishment of Permanent Vegetation 200 ac @ $425 $85,000",
+        "totalCost": 34000,
+        "rawCost": "$34,000"
+      },
+      {
+        "name": "Forage and Biomass Planting 42.5 ac @ $422.34 $17,949",
+        "totalCost": 7180,
+        "rawCost": "$7,180"
+      },
+      {
+        "name": "Education/Outreach",
+        "totalCost": 24900,
+        "rawCost": "$24,900"
+      },
+      {
+        "name": "Monitoring",
+        "totalCost": 13000,
+        "rawCost": "$13,000"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 198257,
+    "discrepancy": null,
+    "patternId": "narrative_cost_block",
+    "patternConfidence": 0.55
+  },
+  "bmpCostTables": [
+    {
+      "id": "narrative_cost_block",
+      "title": "Fencing 9,420 ft @ $2.75/ft $25,905  $10,362",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Fencing 9,420 ft @ $2.75/ft $25,905",
+            "Cost": "$10,362"
+          },
+          {
+            "Item": "Water Facilities 12ea @ $1,304.86 $15,658",
+            "Cost": "$8,000"
+          },
+          {
+            "Item": "Heavy Use Areas 12ea @ $1,571.28 $18,855",
+            "Cost": "$12,000"
+          },
+          {
+            "Item": "Stream Crossings 7 ea @ $4,197.42 $29,382",
+            "Cost": "$26,000"
+          },
+          {
+            "Item": "Ponds 7 es @ $8,585.72 $60,100",
+            "Cost": "$12,000"
+          },
+          {
+            "Item": "Sediment Basins 6 ea @ $5,845.34 $35,072",
+            "Cost": "$14,029"
+          },
+          {
+            "Item": "Nutrient Management 200 ac @ $425 $85,000",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Critical Area Planting 9 ac @ $773.83 $6,964",
+            "Cost": "$2,786"
+          },
+          {
+            "Item": "Establishment of Permanent Vegetation 200 ac @ $425 $85,000",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Forage and Biomass Planting 42.5 ac @ $422.34 $17,949",
+            "Cost": "$7,180"
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$24,900"
+          },
+          {
+            "Item": "Monitoring",
+            "Cost": "$13,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Water Facilities 12ea @ $1,304.86 $15,658  $8,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Water Facilities 12ea @ $1,304.86 $15,658",
+            "Cost": "$8,000"
+          },
+          {
+            "Item": "Heavy Use Areas 12ea @ $1,571.28 $18,855",
+            "Cost": "$12,000"
+          },
+          {
+            "Item": "Stream Crossings 7 ea @ $4,197.42 $29,382",
+            "Cost": "$26,000"
+          },
+          {
+            "Item": "Ponds 7 es @ $8,585.72 $60,100",
+            "Cost": "$12,000"
+          },
+          {
+            "Item": "Sediment Basins 6 ea @ $5,845.34 $35,072",
+            "Cost": "$14,029"
+          },
+          {
+            "Item": "Nutrient Management 200 ac @ $425 $85,000",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Critical Area Planting 9 ac @ $773.83 $6,964",
+            "Cost": "$2,786"
+          },
+          {
+            "Item": "Establishment of Permanent Vegetation 200 ac @ $425 $85,000",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Forage and Biomass Planting 42.5 ac @ $422.34 $17,949",
+            "Cost": "$7,180"
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$24,900"
+          },
+          {
+            "Item": "Monitoring",
+            "Cost": "$13,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Heavy Use Areas 12ea @ $1,571.28 $18,855  $12,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Heavy Use Areas 12ea @ $1,571.28 $18,855",
+            "Cost": "$12,000"
+          },
+          {
+            "Item": "Stream Crossings 7 ea @ $4,197.42 $29,382",
+            "Cost": "$26,000"
+          },
+          {
+            "Item": "Ponds 7 es @ $8,585.72 $60,100",
+            "Cost": "$12,000"
+          },
+          {
+            "Item": "Sediment Basins 6 ea @ $5,845.34 $35,072",
+            "Cost": "$14,029"
+          },
+          {
+            "Item": "Nutrient Management 200 ac @ $425 $85,000",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Critical Area Planting 9 ac @ $773.83 $6,964",
+            "Cost": "$2,786"
+          },
+          {
+            "Item": "Establishment of Permanent Vegetation 200 ac @ $425 $85,000",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Forage and Biomass Planting 42.5 ac @ $422.34 $17,949",
+            "Cost": "$7,180"
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$24,900"
+          },
+          {
+            "Item": "Monitoring",
+            "Cost": "$13,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Stream Crossings 7 ea @ $4,197.42 $29,382  $26,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Stream Crossings 7 ea @ $4,197.42 $29,382",
+            "Cost": "$26,000"
+          },
+          {
+            "Item": "Ponds 7 es @ $8,585.72 $60,100",
+            "Cost": "$12,000"
+          },
+          {
+            "Item": "Sediment Basins 6 ea @ $5,845.34 $35,072",
+            "Cost": "$14,029"
+          },
+          {
+            "Item": "Nutrient Management 200 ac @ $425 $85,000",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Critical Area Planting 9 ac @ $773.83 $6,964",
+            "Cost": "$2,786"
+          },
+          {
+            "Item": "Establishment of Permanent Vegetation 200 ac @ $425 $85,000",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Forage and Biomass Planting 42.5 ac @ $422.34 $17,949",
+            "Cost": "$7,180"
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$24,900"
+          },
+          {
+            "Item": "Monitoring",
+            "Cost": "$13,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Ponds 7 es @ $8,585.72 $60,100  $12,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Ponds 7 es @ $8,585.72 $60,100",
+            "Cost": "$12,000"
+          },
+          {
+            "Item": "Sediment Basins 6 ea @ $5,845.34 $35,072",
+            "Cost": "$14,029"
+          },
+          {
+            "Item": "Nutrient Management 200 ac @ $425 $85,000",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Critical Area Planting 9 ac @ $773.83 $6,964",
+            "Cost": "$2,786"
+          },
+          {
+            "Item": "Establishment of Permanent Vegetation 200 ac @ $425 $85,000",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Forage and Biomass Planting 42.5 ac @ $422.34 $17,949",
+            "Cost": "$7,180"
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$24,900"
+          },
+          {
+            "Item": "Monitoring",
+            "Cost": "$13,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Sediment Basins 6 ea @ $5,845.34 $35,072  $14,029",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Sediment Basins 6 ea @ $5,845.34 $35,072",
+            "Cost": "$14,029"
+          },
+          {
+            "Item": "Nutrient Management 200 ac @ $425 $85,000",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Critical Area Planting 9 ac @ $773.83 $6,964",
+            "Cost": "$2,786"
+          },
+          {
+            "Item": "Establishment of Permanent Vegetation 200 ac @ $425 $85,000",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Forage and Biomass Planting 42.5 ac @ $422.34 $17,949",
+            "Cost": "$7,180"
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$24,900"
+          },
+          {
+            "Item": "Monitoring",
+            "Cost": "$13,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Nutrient Management 200 ac @ $425 $85,000  $34,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Nutrient Management 200 ac @ $425 $85,000",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Critical Area Planting 9 ac @ $773.83 $6,964",
+            "Cost": "$2,786"
+          },
+          {
+            "Item": "Establishment of Permanent Vegetation 200 ac @ $425 $85,000",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Forage and Biomass Planting 42.5 ac @ $422.34 $17,949",
+            "Cost": "$7,180"
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$24,900"
+          },
+          {
+            "Item": "Monitoring",
+            "Cost": "$13,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Critical Area Planting 9 ac @ $773.83 $6,964  $2,786",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Critical Area Planting 9 ac @ $773.83 $6,964",
+            "Cost": "$2,786"
+          },
+          {
+            "Item": "Establishment of Permanent Vegetation 200 ac @ $425 $85,000",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Forage and Biomass Planting 42.5 ac @ $422.34 $17,949",
+            "Cost": "$7,180"
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$24,900"
+          },
+          {
+            "Item": "Monitoring",
+            "Cost": "$13,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Establishment of Permanent Vegetation 200 ac @ $425 $85,000  $34,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Establishment of Permanent Vegetation 200 ac @ $425 $85,000",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Forage and Biomass Planting 42.5 ac @ $422.34 $17,949",
+            "Cost": "$7,180"
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$24,900"
+          },
+          {
+            "Item": "Monitoring",
+            "Cost": "$13,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Forage and Biomass Planting 42.5 ac @ $422.34 $17,949  $7,180",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Forage and Biomass Planting 42.5 ac @ $422.34",
+            "Cost": "$17,949",
+            "Extra": "$7,180"
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$24,900",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring",
+            "Cost": "$13,000",
+            "Extra": null
+          },
+          {
+            "Item": "Coordination, Plan Revision",
+            "Cost": "$54,660",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$472,447",
+            "Extra": "$160,356"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Education/Outreach  $24,900",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$24,900",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring",
+            "Cost": "$13,000",
+            "Extra": null
+          },
+          {
+            "Item": "Coordination, Plan Revision",
+            "Cost": "$54,660",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$472,447",
+            "Extra": "$160,356"
+          },
+          {
+            "Item": "Total estimated cost:",
+            "Cost": "$472,447",
+            "Extra": null
+          },
+          {
+            "Item": "Total landowner match:",
+            "Cost": "$160,356",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Monitoring  $13,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Monitoring",
+            "Cost": "$13,000",
+            "Extra": null
+          },
+          {
+            "Item": "Coordination, Plan Revision",
+            "Cost": "$54,660",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$472,447",
+            "Extra": "$160,356"
+          },
+          {
+            "Item": "Total estimated cost:",
+            "Cost": "$472,447",
+            "Extra": null
+          },
+          {
+            "Item": "Total landowner match:",
+            "Cost": "$160,356",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Coordination, Plan Revision  $54,660",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Coordination, Plan Revision",
+            "Cost": "$54,660",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$472,447",
+            "Extra": "$160,356"
+          },
+          {
+            "Item": "Total estimated cost:",
+            "Cost": "$472,447",
+            "Extra": null
+          },
+          {
+            "Item": "Total landowner match:",
+            "Cost": "$160,356",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total Estimated Project Cost  $472,447  $160,356",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$472,447",
+            "Extra": "$160,356"
+          },
+          {
+            "Item": "Total estimated cost:",
+            "Cost": "$472,447",
+            "Extra": null
+          },
+          {
+            "Item": "Total landowner match:",
+            "Cost": "$160,356",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "activity_match",
+      "title": "Activity Size/Amount Estimated Cost Landowner Match",
+      "table": {
+        "columns": [
+          "Activity",
+          "Size/Amount",
+          "Estimated Cost",
+          "Landowner Match"
+        ],
+        "rows": [
+          {
+            "Activity": "Fencing",
+            "Size/Amount": "9,420 ft @ $2.75/ft",
+            "Estimated Cost": "$25,905",
+            "Landowner Match": "$10,362"
+          },
+          {
+            "Activity": "Water Facilities 12ea @ $",
+            "Size/Amount": "1,304.86",
+            "Estimated Cost": "$15,658",
+            "Landowner Match": "$8,000"
+          },
+          {
+            "Activity": "Heavy Use Areas 12ea @ $",
+            "Size/Amount": "1,571.28",
+            "Estimated Cost": "$18,855",
+            "Landowner Match": "$12,000"
+          },
+          {
+            "Activity": "Stream Crossings",
+            "Size/Amount": "7 ea @ $4,197.42",
+            "Estimated Cost": "$29,382",
+            "Landowner Match": "$26,000"
+          },
+          {
+            "Activity": "Ponds",
+            "Size/Amount": "7 es @ $8,585.72",
+            "Estimated Cost": "$60,100",
+            "Landowner Match": "$12,000"
+          },
+          {
+            "Activity": "Sediment Basins",
+            "Size/Amount": "6 ea @ $5,845.34",
+            "Estimated Cost": "$35,072",
+            "Landowner Match": "$14,029"
+          },
+          {
+            "Activity": "Nutrient Management",
+            "Size/Amount": "200 ac @ $425",
+            "Estimated Cost": "$85,000",
+            "Landowner Match": "$34,000"
+          },
+          {
+            "Activity": "Critical Area Planting",
+            "Size/Amount": "9 ac @ $773.83",
+            "Estimated Cost": "$6,964",
+            "Landowner Match": "$2,786"
+          },
+          {
+            "Activity": "Establishment of Permanent Vegetation",
+            "Size/Amount": "200 ac @ $425",
+            "Estimated Cost": "$85,000",
+            "Landowner Match": "$34,000"
+          },
+          {
+            "Activity": "Forage and Biomass Planting",
+            "Size/Amount": "42.5 ac @ $422.34",
+            "Estimated Cost": "$17,949",
+            "Landowner Match": "$7,180"
+          },
+          {
+            "Activity": "Education/Outreach",
+            "Size/Amount": "",
+            "Estimated Cost": "$24,900",
+            "Landowner Match": null
+          },
+          {
+            "Activity": "Monitoring",
+            "Size/Amount": "",
+            "Estimated Cost": "$13,000",
+            "Landowner Match": null
+          },
+          {
+            "Activity": "Coordination, Plan Revision",
+            "Size/Amount": "",
+            "Estimated Cost": "$54,660",
+            "Landowner Match": null
+          },
+          {
+            "Activity": "Total estimated cost",
+            "Size/Amount": "",
+            "Estimated Cost": "$472,447",
+            "Landowner Match": null
+          }
+        ],
+        "total": 472447,
+        "landownerMatchTotal": 160356
+      },
+      "patternId": "activity_match",
+      "patternConfidence": 0.85
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "narrative_cost_block",
+      "title": "Fencing 9,420 ft @ $2.75/ft $25,905  $10,362",
+      "rows": [
+        {
+          "name": "Fencing 9,420 ft @ $2.75/ft $25,905",
+          "totalCost": 10362,
+          "rawCost": "$10,362"
+        },
+        {
+          "name": "Water Facilities 12ea @ $1,304.86 $15,658",
+          "totalCost": 8000,
+          "rawCost": "$8,000"
+        },
+        {
+          "name": "Heavy Use Areas 12ea @ $1,571.28 $18,855",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Stream Crossings 7 ea @ $4,197.42 $29,382",
+          "totalCost": 26000,
+          "rawCost": "$26,000"
+        },
+        {
+          "name": "Ponds 7 es @ $8,585.72 $60,100",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Sediment Basins 6 ea @ $5,845.34 $35,072",
+          "totalCost": 14029,
+          "rawCost": "$14,029"
+        },
+        {
+          "name": "Nutrient Management 200 ac @ $425 $85,000",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Critical Area Planting 9 ac @ $773.83 $6,964",
+          "totalCost": 2786,
+          "rawCost": "$2,786"
+        },
+        {
+          "name": "Establishment of Permanent Vegetation 200 ac @ $425 $85,000",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Forage and Biomass Planting 42.5 ac @ $422.34 $17,949",
+          "totalCost": 7180,
+          "rawCost": "$7,180"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Monitoring",
+          "totalCost": 13000,
+          "rawCost": "$13,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 198257,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Water Facilities 12ea @ $1,304.86 $15,658  $8,000",
+      "rows": [
+        {
+          "name": "Water Facilities 12ea @ $1,304.86 $15,658",
+          "totalCost": 8000,
+          "rawCost": "$8,000"
+        },
+        {
+          "name": "Heavy Use Areas 12ea @ $1,571.28 $18,855",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Stream Crossings 7 ea @ $4,197.42 $29,382",
+          "totalCost": 26000,
+          "rawCost": "$26,000"
+        },
+        {
+          "name": "Ponds 7 es @ $8,585.72 $60,100",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Sediment Basins 6 ea @ $5,845.34 $35,072",
+          "totalCost": 14029,
+          "rawCost": "$14,029"
+        },
+        {
+          "name": "Nutrient Management 200 ac @ $425 $85,000",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Critical Area Planting 9 ac @ $773.83 $6,964",
+          "totalCost": 2786,
+          "rawCost": "$2,786"
+        },
+        {
+          "name": "Establishment of Permanent Vegetation 200 ac @ $425 $85,000",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Forage and Biomass Planting 42.5 ac @ $422.34 $17,949",
+          "totalCost": 7180,
+          "rawCost": "$7,180"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Monitoring",
+          "totalCost": 13000,
+          "rawCost": "$13,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 187895,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Heavy Use Areas 12ea @ $1,571.28 $18,855  $12,000",
+      "rows": [
+        {
+          "name": "Heavy Use Areas 12ea @ $1,571.28 $18,855",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Stream Crossings 7 ea @ $4,197.42 $29,382",
+          "totalCost": 26000,
+          "rawCost": "$26,000"
+        },
+        {
+          "name": "Ponds 7 es @ $8,585.72 $60,100",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Sediment Basins 6 ea @ $5,845.34 $35,072",
+          "totalCost": 14029,
+          "rawCost": "$14,029"
+        },
+        {
+          "name": "Nutrient Management 200 ac @ $425 $85,000",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Critical Area Planting 9 ac @ $773.83 $6,964",
+          "totalCost": 2786,
+          "rawCost": "$2,786"
+        },
+        {
+          "name": "Establishment of Permanent Vegetation 200 ac @ $425 $85,000",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Forage and Biomass Planting 42.5 ac @ $422.34 $17,949",
+          "totalCost": 7180,
+          "rawCost": "$7,180"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Monitoring",
+          "totalCost": 13000,
+          "rawCost": "$13,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 179895,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Stream Crossings 7 ea @ $4,197.42 $29,382  $26,000",
+      "rows": [
+        {
+          "name": "Stream Crossings 7 ea @ $4,197.42 $29,382",
+          "totalCost": 26000,
+          "rawCost": "$26,000"
+        },
+        {
+          "name": "Ponds 7 es @ $8,585.72 $60,100",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Sediment Basins 6 ea @ $5,845.34 $35,072",
+          "totalCost": 14029,
+          "rawCost": "$14,029"
+        },
+        {
+          "name": "Nutrient Management 200 ac @ $425 $85,000",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Critical Area Planting 9 ac @ $773.83 $6,964",
+          "totalCost": 2786,
+          "rawCost": "$2,786"
+        },
+        {
+          "name": "Establishment of Permanent Vegetation 200 ac @ $425 $85,000",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Forage and Biomass Planting 42.5 ac @ $422.34 $17,949",
+          "totalCost": 7180,
+          "rawCost": "$7,180"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Monitoring",
+          "totalCost": 13000,
+          "rawCost": "$13,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 167895,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Ponds 7 es @ $8,585.72 $60,100  $12,000",
+      "rows": [
+        {
+          "name": "Ponds 7 es @ $8,585.72 $60,100",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Sediment Basins 6 ea @ $5,845.34 $35,072",
+          "totalCost": 14029,
+          "rawCost": "$14,029"
+        },
+        {
+          "name": "Nutrient Management 200 ac @ $425 $85,000",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Critical Area Planting 9 ac @ $773.83 $6,964",
+          "totalCost": 2786,
+          "rawCost": "$2,786"
+        },
+        {
+          "name": "Establishment of Permanent Vegetation 200 ac @ $425 $85,000",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Forage and Biomass Planting 42.5 ac @ $422.34 $17,949",
+          "totalCost": 7180,
+          "rawCost": "$7,180"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Monitoring",
+          "totalCost": 13000,
+          "rawCost": "$13,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 141895,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Sediment Basins 6 ea @ $5,845.34 $35,072  $14,029",
+      "rows": [
+        {
+          "name": "Sediment Basins 6 ea @ $5,845.34 $35,072",
+          "totalCost": 14029,
+          "rawCost": "$14,029"
+        },
+        {
+          "name": "Nutrient Management 200 ac @ $425 $85,000",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Critical Area Planting 9 ac @ $773.83 $6,964",
+          "totalCost": 2786,
+          "rawCost": "$2,786"
+        },
+        {
+          "name": "Establishment of Permanent Vegetation 200 ac @ $425 $85,000",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Forage and Biomass Planting 42.5 ac @ $422.34 $17,949",
+          "totalCost": 7180,
+          "rawCost": "$7,180"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Monitoring",
+          "totalCost": 13000,
+          "rawCost": "$13,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 129895,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Nutrient Management 200 ac @ $425 $85,000  $34,000",
+      "rows": [
+        {
+          "name": "Nutrient Management 200 ac @ $425 $85,000",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Critical Area Planting 9 ac @ $773.83 $6,964",
+          "totalCost": 2786,
+          "rawCost": "$2,786"
+        },
+        {
+          "name": "Establishment of Permanent Vegetation 200 ac @ $425 $85,000",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Forage and Biomass Planting 42.5 ac @ $422.34 $17,949",
+          "totalCost": 7180,
+          "rawCost": "$7,180"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Monitoring",
+          "totalCost": 13000,
+          "rawCost": "$13,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 115866,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Critical Area Planting 9 ac @ $773.83 $6,964  $2,786",
+      "rows": [
+        {
+          "name": "Critical Area Planting 9 ac @ $773.83 $6,964",
+          "totalCost": 2786,
+          "rawCost": "$2,786"
+        },
+        {
+          "name": "Establishment of Permanent Vegetation 200 ac @ $425 $85,000",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Forage and Biomass Planting 42.5 ac @ $422.34 $17,949",
+          "totalCost": 7180,
+          "rawCost": "$7,180"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Monitoring",
+          "totalCost": 13000,
+          "rawCost": "$13,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 81866,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Establishment of Permanent Vegetation 200 ac @ $425 $85,000  $34,000",
+      "rows": [
+        {
+          "name": "Establishment of Permanent Vegetation 200 ac @ $425 $85,000",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Forage and Biomass Planting 42.5 ac @ $422.34 $17,949",
+          "totalCost": 7180,
+          "rawCost": "$7,180"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Monitoring",
+          "totalCost": 13000,
+          "rawCost": "$13,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 79080,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Forage and Biomass Planting 42.5 ac @ $422.34 $17,949  $7,180",
+      "rows": [
+        {
+          "name": "Forage and Biomass Planting 42.5 ac @ $422.34",
+          "totalCost": 17949,
+          "rawCost": "$17,949"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Monitoring",
+          "totalCost": 13000,
+          "rawCost": "$13,000"
+        },
+        {
+          "name": "Coordination, Plan Revision",
+          "totalCost": 54660,
+          "rawCost": "$54,660"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 472447,
+          "rawCost": "$472,447"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 582956,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Education/Outreach  $24,900",
+      "rows": [
+        {
+          "name": "Education/Outreach",
+          "totalCost": 24900,
+          "rawCost": "$24,900"
+        },
+        {
+          "name": "Monitoring",
+          "totalCost": 13000,
+          "rawCost": "$13,000"
+        },
+        {
+          "name": "Coordination, Plan Revision",
+          "totalCost": 54660,
+          "rawCost": "$54,660"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 472447,
+          "rawCost": "$472,447"
+        },
+        {
+          "name": "Total estimated cost:",
+          "totalCost": 472447,
+          "rawCost": "$472,447"
+        },
+        {
+          "name": "Total landowner match:",
+          "totalCost": 160356,
+          "rawCost": "$160,356"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1197810,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Monitoring  $13,000",
+      "rows": [
+        {
+          "name": "Monitoring",
+          "totalCost": 13000,
+          "rawCost": "$13,000"
+        },
+        {
+          "name": "Coordination, Plan Revision",
+          "totalCost": 54660,
+          "rawCost": "$54,660"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 472447,
+          "rawCost": "$472,447"
+        },
+        {
+          "name": "Total estimated cost:",
+          "totalCost": 472447,
+          "rawCost": "$472,447"
+        },
+        {
+          "name": "Total landowner match:",
+          "totalCost": 160356,
+          "rawCost": "$160,356"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1172910,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Coordination, Plan Revision  $54,660",
+      "rows": [
+        {
+          "name": "Coordination, Plan Revision",
+          "totalCost": 54660,
+          "rawCost": "$54,660"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 472447,
+          "rawCost": "$472,447"
+        },
+        {
+          "name": "Total estimated cost:",
+          "totalCost": 472447,
+          "rawCost": "$472,447"
+        },
+        {
+          "name": "Total landowner match:",
+          "totalCost": 160356,
+          "rawCost": "$160,356"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1159910,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total Estimated Project Cost  $472,447  $160,356",
+      "rows": [
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 472447,
+          "rawCost": "$472,447"
+        },
+        {
+          "name": "Total estimated cost:",
+          "totalCost": 472447,
+          "rawCost": "$472,447"
+        },
+        {
+          "name": "Total landowner match:",
+          "totalCost": 160356,
+          "rawCost": "$160,356"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1105250,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "activity_match",
+      "title": "Activity Size/Amount Estimated Cost Landowner Match",
+      "rows": [
+        {
+          "name": "Fencing",
+          "rawSize": "9,420 ft @ $2.75/ft",
+          "rawCost": "$25,905",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 25905,
+          "landownerMatch": 10362
+        },
+        {
+          "name": "Water Facilities 12ea @ $",
+          "rawSize": "1,304.86",
+          "rawCost": "$15,658",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 15658,
+          "landownerMatch": 8000
+        },
+        {
+          "name": "Heavy Use Areas 12ea @ $",
+          "rawSize": "1,571.28",
+          "rawCost": "$18,855",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 18855,
+          "landownerMatch": 12000
+        },
+        {
+          "name": "Stream Crossings",
+          "rawSize": "7 ea @ $4,197.42",
+          "rawCost": "$29,382",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 29382,
+          "landownerMatch": 26000
+        },
+        {
+          "name": "Ponds",
+          "rawSize": "7 es @ $8,585.72",
+          "rawCost": "$60,100",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 60100,
+          "landownerMatch": 12000
+        },
+        {
+          "name": "Sediment Basins",
+          "rawSize": "6 ea @ $5,845.34",
+          "rawCost": "$35,072",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 35072,
+          "landownerMatch": 14029
+        },
+        {
+          "name": "Nutrient Management",
+          "rawSize": "200 ac @ $425",
+          "rawCost": "$85,000",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 85000,
+          "landownerMatch": 34000
+        },
+        {
+          "name": "Critical Area Planting",
+          "rawSize": "9 ac @ $773.83",
+          "rawCost": "$6,964",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 6964,
+          "landownerMatch": 2786
+        },
+        {
+          "name": "Establishment of Permanent Vegetation",
+          "rawSize": "200 ac @ $425",
+          "rawCost": "$85,000",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 85000,
+          "landownerMatch": 34000
+        },
+        {
+          "name": "Forage and Biomass Planting",
+          "rawSize": "42.5 ac @ $422.34",
+          "rawCost": "$17,949",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 17949,
+          "landownerMatch": 7180
+        },
+        {
+          "name": "Education/Outreach",
+          "rawSize": "",
+          "rawCost": "$24,900",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 24900,
+          "landownerMatch": null
+        },
+        {
+          "name": "Monitoring",
+          "rawSize": "",
+          "rawCost": "$13,000",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 13000,
+          "landownerMatch": null
+        },
+        {
+          "name": "Coordination, Plan Revision",
+          "rawSize": "",
+          "rawCost": "$54,660",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 54660,
+          "landownerMatch": null
+        },
+        {
+          "name": "Total estimated cost",
+          "rawSize": "",
+          "rawCost": "$472,447",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 472447,
+          "landownerMatch": null
+        }
+      ],
+      "totalReported": 472447,
+      "totalComputed": 944892,
+      "landownerMatchReported": 160356,
+      "landownerMatchComputed": 160357,
+      "discrepancy": -472445,
+      "matchDiscrepancy": -1,
+      "patternId": "activity_match",
+      "patternConfidence": 0.85
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [
+    {
+      "id": "M1",
+      "metric": "Completed using historical",
+      "value": null,
+      "unit": null,
+      "source": "Completed using historical",
+      "_present": true
+    },
+    {
+      "id": "M2",
+      "metric": "data",
+      "value": null,
+      "unit": null,
+      "source": "data",
+      "_present": true
+    },
+    {
+      "id": "M3",
+      "metric": "Meet with landowners and cooperators to",
+      "value": null,
+      "unit": null,
+      "source": "Meet with landowners and cooperators to",
+      "_present": true
+    },
+    {
+      "id": "M4",
+      "metric": "secure commitments to install BMPs in",
+      "value": null,
+      "unit": null,
+      "source": "secure commitments to install BMPs in",
+      "_present": true
+    },
+    {
+      "id": "M5",
+      "metric": "priority areas",
+      "value": null,
+      "unit": null,
+      "source": "priority areas",
+      "_present": true
+    },
+    {
+      "id": "M6",
+      "metric": "Landowner",
+      "value": null,
+      "unit": null,
+      "source": "Landowner",
+      "_present": true
+    },
+    {
+      "id": "M7",
+      "metric": "Commitment",
+      "value": null,
+      "unit": null,
+      "source": "Commitment",
+      "_present": true
+    },
+    {
+      "id": "M8",
+      "metric": "Months 1-6",
+      "value": null,
+      "unit": null,
+      "source": "Months 1-6",
+      "_present": true
+    },
+    {
+      "id": "M9",
+      "metric": "Establish routine meeting schedule for",
+      "value": null,
+      "unit": null,
+      "source": "Establish routine meeting schedule for",
+      "_present": true
+    },
+    {
+      "id": "M10",
+      "metric": "WIT to support WBP revision",
+      "value": null,
+      "unit": null,
+      "source": "WIT to support WBP revision",
+      "_present": true
+    },
+    {
+      "id": "M11",
+      "metric": "WIT meetings Months 1-36",
+      "value": null,
+      "unit": null,
+      "source": "WIT meetings Months 1-36",
+      "_present": true
+    },
+    {
+      "id": "M12",
+      "metric": "Implement BMPs BMP installation Months 6-36",
+      "value": null,
+      "unit": null,
+      "source": "Implement BMPs BMP installation Months 6-36",
+      "_present": true
+    },
+    {
+      "id": "M13",
+      "metric": "Coordinate with Landowners to inspect",
+      "value": null,
+      "unit": null,
+      "source": "Coordinate with Landowners to inspect",
+      "_present": true
+    },
+    {
+      "id": "M14",
+      "metric": "BMPs that were installed using Section",
+      "value": null,
+      "unit": null,
+      "source": "BMPs that were installed using Section",
+      "_present": true
+    },
+    {
+      "id": "M15",
+      "metric": "319 funds",
+      "value": null,
+      "unit": null,
+      "source": "319 funds",
+      "_present": true
+    },
+    {
+      "id": "M16",
+      "metric": "BMP Inspection Months 3-36",
+      "value": null,
+      "unit": null,
+      "source": "BMP Inspection Months 3-36",
+      "_present": true
+    },
+    {
+      "id": "M17",
+      "metric": "Begin monitoring to collect data on post-",
+      "value": null,
+      "unit": null,
+      "source": "Begin monitoring to collect data on post-",
+      "_present": true
+    },
+    {
+      "id": "M18",
+      "metric": "BMP water quality",
+      "value": null,
+      "unit": null,
+      "source": "BMP water quality",
+      "_present": true
+    },
+    {
+      "id": "M19",
+      "metric": "Post-BMP",
+      "value": null,
+      "unit": null,
+      "source": "Post-BMP",
+      "_present": true
+    },
+    {
+      "id": "M20",
+      "metric": "Months 42-48",
+      "value": null,
+      "unit": null,
+      "source": "Months 42-48",
+      "_present": true
+    },
+    {
+      "id": "M21",
+      "metric": "Finalize education and outreach plan Education/Outreach",
+      "value": null,
+      "unit": null,
+      "source": "Finalize education and outreach plan Education/Outreach",
+      "_present": true
+    },
+    {
+      "id": "M22",
+      "metric": "events scheduled",
+      "value": null,
+      "unit": null,
+      "source": "events scheduled",
+      "_present": true
+    },
+    {
+      "id": "M23",
+      "metric": "Months 8-36",
+      "value": null,
+      "unit": null,
+      "source": "Months 8-36",
+      "_present": true
+    },
+    {
+      "id": "M24",
+      "metric": "Finalize revised WBP Final Revised WBP Months 30-36",
+      "value": null,
+      "unit": null,
+      "source": "Finalize revised WBP Final Revised WBP Months 30-36",
+      "_present": true
+    },
+    {
+      "id": "M25",
+      "metric": "Element h: Load Reduction Evaluation",
+      "value": null,
+      "unit": null,
+      "source": "Element h: Load Reduction Evaluation",
+      "_present": true
+    },
+    {
+      "id": "M26",
+      "metric": "The State of Mississippi Water Quality Criteria for Intrastate, Interstate, and Coastal Waters do",
+      "value": null,
+      "unit": null,
+      "source": "The State of Mississippi Water Quality Criteria for Intrastate, Interstate, and Coastal Waters do",
+      "_present": true
+    },
+    {
+      "id": "M27",
+      "metric": "not include a water quality standard applicable to aquatic life protection due to sediment.",
+      "value": null,
+      "unit": null,
+      "source": "not include a water quality standard applicable to aquatic life protection due to sediment.",
+      "_present": true
+    },
+    {
+      "id": "M28",
+      "metric": "However, a narrative standard for the protection of aquatic life was interpreted to determine an",
+      "value": null,
+      "unit": null,
+      "source": "However, a narrative standard for the protection of aquatic life was interpreted to determine an",
+      "_present": true
+    },
+    {
+      "id": "M29",
+      "metric": "applicable target for the Dry Creek TMDL. The narrative standard is that waters shall be free",
+      "value": null,
+      "unit": null,
+      "source": "applicable target for the Dry Creek TMDL. The narrative standard is that waters shall be free",
+      "_present": true
+    },
+    {
+      "id": "M30",
+      "metric": "from materials attributable to municipal, industrial, agricultural, or other dischargers producing",
+      "value": null,
+      "unit": null,
+      "source": "from materials attributable to municipal, industrial, agricultural, or other dischargers producing",
+      "_present": true
+    },
+    {
+      "id": "M31",
+      "metric": "color, odor, taste, total suspended solids, or other conditions in such degree as to create a",
+      "value": null,
+      "unit": null,
+      "source": "color, odor, taste, total suspended solids, or other conditions in such degree as to create a",
+      "_present": true
+    },
+    {
+      "id": "M32",
+      "metric": "nuisance, render the waters injurious to public health, recreation, or to aquatic life and wildlife,",
+      "value": null,
+      "unit": null,
+      "source": "nuisance, render the waters injurious to public health, recreation, or to aquatic life and wildlife,",
+      "_present": true
+    },
+    {
+      "id": "M33",
+      "metric": "or adversely affect the palatability of fish, aesthetic quality, or impair the waters for any",
+      "value": null,
+      "unit": null,
+      "source": "or adversely affect the palatability of fish, aesthetic quality, or impair the waters for any",
+      "_present": true
+    },
+    {
+      "id": "M34",
+      "metric": "designated uses.  In lieu of numeric criteria for sediment, the monitoring will be conducted to",
+      "value": null,
+      "unit": null,
+      "source": "designated uses.  In lieu of numeric criteria for sediment, the monitoring will be conducted to",
+      "_present": true
+    },
+    {
+      "id": "M35",
+      "metric": "collect data on parameters that are considered surrogates for sediment concentrations and may",
+      "value": null,
+      "unit": null,
+      "source": "collect data on parameters that are considered surrogates for sediment concentrations and may",
+      "_present": true
+    },
+    {
+      "id": "M36",
+      "metric": "include measurements for Total Suspend Solids, Total Suspended Sediment, and turbidity along",
+      "value": null,
+      "unit": null,
+      "source": "include measurements for Total Suspend Solids, Total Suspended Sediment, and turbidity along",
+      "_present": true
+    },
+    {
+      "id": "M37",
+      "metric": "with conventional parameters generally measured to determine aquatic health (e.g. Dissolved",
+      "value": null,
+      "unit": null,
+      "source": "with conventional parameters generally measured to determine aquatic health (e.g. Dissolved",
+      "_present": true
+    },
+    {
+      "id": "M38",
+      "metric": "Oxygen, pH, Temperature, Conductivity).  The following thresholds will be used to measure",
+      "value": null,
+      "unit": null,
+      "source": "Oxygen, pH, Temperature, Conductivity).  The following thresholds will be used to measure",
+      "_present": true
+    },
+    {
+      "id": "M39",
+      "metric": "compliance with water quality criteria:",
+      "value": null,
+      "unit": null,
+      "source": "compliance with water quality criteria:",
+      "_present": true
+    },
+    {
+      "id": "M40",
+      "metric": "Parameter Threshold",
+      "value": null,
+      "unit": null,
+      "source": "Parameter Threshold",
+      "_present": true
+    },
+    {
+      "id": "M41",
+      "metric": "Dissolved Oxygen Daily Average of 5.0 mg/L; Instantaneous threshold of 4.0 mg/L",
+      "value": null,
+      "unit": null,
+      "source": "Dissolved Oxygen Daily Average of 5.0 mg/L; Instantaneous threshold of 4.0 mg/L",
+      "_present": true
+    },
+    {
+      "id": "M42",
+      "metric": "pH 6.0-9.0",
+      "value": null,
+      "unit": null,
+      "source": "pH 6.0-9.0",
+      "_present": true
+    },
+    {
+      "id": "M43",
+      "metric": "Temperature Not to exceed 90°F",
+      "value": null,
+      "unit": null,
+      "source": "Temperature Not to exceed 90°F",
+      "_present": true
+    },
+    {
+      "id": "M44",
+      "metric": "Specific Conductance Less Than 1000 micromhos/cm",
+      "value": null,
+      "unit": null,
+      "source": "Specific Conductance Less Than 1000 micromhos/cm",
+      "_present": true
+    },
+    {
+      "id": "M45",
+      "metric": "Dissolved Solids",
+      "value": null,
+      "unit": null,
+      "source": "Dissolved Solids",
+      "_present": true
+    },
+    {
+      "id": "M46",
+      "metric": "Monthly average less than 750 mg/L; instantaneous threshold less than 1500",
+      "value": null,
+      "unit": null,
+      "source": "Monthly average less than 750 mg/L; instantaneous threshold less than 1500",
+      "_present": true
+    },
+    {
+      "id": "M47",
+      "metric": "mg/L",
+      "value": null,
+      "unit": null,
+      "source": "mg/L",
+      "_present": true
+    },
+    {
+      "id": "M48",
+      "metric": "Dry Creek Watershed Plan GY 2016",
+      "value": null,
+      "unit": null,
+      "source": "Dry Creek Watershed Plan GY 2016",
+      "_present": true
+    },
+    {
+      "id": "M49",
+      "metric": "11",
+      "value": null,
+      "unit": null,
+      "source": "11",
+      "_present": true
+    },
+    {
+      "id": "M50",
+      "metric": "In addition to chemical data, biological community data and in stream habitat surveys will be",
+      "value": null,
+      "unit": null,
+      "source": "In addition to chemical data, biological community data and in stream habitat surveys will be",
+      "_present": true
+    },
+    {
+      "id": "M51",
+      "metric": "collected over the course of the project to determine attainment of the Aquatic Life Designated",
+      "value": null,
+      "unit": null,
+      "source": "collected over the course of the project to determine attainment of the Aquatic Life Designated",
+      "_present": true
+    },
+    {
+      "id": "M52",
+      "metric": "Use.  These data are extremely helpful in identifying positive trends in water quality and should",
+      "value": null,
+      "unit": null,
+      "source": "Use.  These data are extremely helpful in identifying positive trends in water quality and should",
+      "_present": true
+    },
+    {
+      "id": "M53",
+      "metric": "provide information to help determine if the implementation activities are resulting in water",
+      "value": null,
+      "unit": null,
+      "source": "provide information to help determine if the implementation activities are resulting in water",
+      "_present": true
+    },
+    {
+      "id": "M54",
+      "metric": "quality improvements.  Mississippi use a calibrated and verified index of biotic integrity to make",
+      "value": null,
+      "unit": null,
+      "source": "quality improvements.  Mississippi use a calibrated and verified index of biotic integrity to make",
+      "_present": true
+    },
+    {
+      "id": "M55",
+      "metric": "water quality assessment decisions.  This index, the Mississippi Benthic Index of Stream Quality",
+      "value": null,
+      "unit": null,
+      "source": "water quality assessment decisions.  This index, the Mississippi Benthic Index of Stream Quality",
+      "_present": true
+    },
+    {
+      "id": "M56",
+      "metric": "(M-BISQ) was originally developed in 2000 and has undergone three recalibration efforts to",
+      "value": null,
+      "unit": null,
+      "source": "(M-BISQ) was originally developed in 2000 and has undergone three recalibration efforts to",
+      "_present": true
+    },
+    {
+      "id": "M57",
+      "metric": "refine the sensitivity of the index.  As part of the index development process, the state was",
+      "value": null,
+      "unit": null,
+      "source": "refine the sensitivity of the index.  As part of the index development process, the state was",
+      "_present": true
+    },
+    {
+      "id": "M58",
+      "metric": "divided into unique bioregions.  Within each bioregion, the index has a defined attainment",
+      "value": null,
+      "unit": null,
+      "source": "divided into unique bioregions.  Within each bioregion, the index has a defined attainment",
+      "_present": true
+    },
+    {
+      "id": "M59",
+      "metric": "threshold that is used to determine if the biological community measures collected at a site are",
+      "value": null,
+      "unit": null,
+      "source": "threshold that is used to determine if the biological community measures collected at a site are",
+      "_present": true
+    },
+    {
+      "id": "M60",
+      "metric": "representative of good water quality that can support a balanced benthic macroinvertebrate",
+      "value": null,
+      "unit": null,
+      "source": "representative of good water quality that can support a balanced benthic macroinvertebrate",
+      "_present": true
+    },
+    {
+      "id": "M61",
+      "metric": "community.  If the score is above the attainment threshold for the bioregion, the site is assessed",
+      "value": null,
+      "unit": null,
+      "source": "community.  If the score is above the attainment threshold for the bioregion, the site is assessed",
+      "_present": true
+    },
+    {
+      "id": "M62",
+      "metric": "as attaining the aquatic life use designation.  Dry Creek is in the East bioregion and the",
+      "value": null,
+      "unit": null,
+      "source": "as attaining the aquatic life use designation.  Dry Creek is in the East bioregion and the",
+      "_present": true
+    },
+    {
+      "id": "M63",
+      "metric": "attainment threshold is 71.6.  Along with overall MBISQ scores, the in-stream habitat surveys",
+      "value": null,
+      "unit": null,
+      "source": "attainment threshold is 71.6.  Along with overall MBISQ scores, the in-stream habitat surveys",
+      "_present": true
+    },
+    {
+      "id": "M64",
+      "metric": "will also be used to determine change over time.",
+      "value": null,
+      "unit": null,
+      "source": "will also be used to determine change over time.",
+      "_present": true
+    },
+    {
+      "id": "M65",
+      "metric": "It should be noted that recovery time of a stream is variable and may extend beyond the",
+      "value": null,
+      "unit": null,
+      "source": "It should be noted that recovery time of a stream is variable and may extend beyond the",
+      "_present": true
+    },
+    {
+      "id": "M66",
+      "metric": "timeframe identified in the workplan.  At the end of the project, data will be analyzed to",
+      "value": null,
+      "unit": null,
+      "source": "timeframe identified in the workplan.  At the end of the project, data will be analyzed to",
+      "_present": true
+    },
+    {
+      "id": "M67",
+      "metric": "determine if the data indicate improvements to water quality in Dry Creek.  In the event data",
+      "value": null,
+      "unit": null,
+      "source": "determine if the data indicate improvements to water quality in Dry Creek.  In the event data",
+      "_present": true
+    },
+    {
+      "id": "M68",
+      "metric": "indicate little or no positive change, a Stressor Analysis will be conducted to determine if any",
+      "value": null,
+      "unit": null,
+      "source": "indicate little or no positive change, a Stressor Analysis will be conducted to determine if any",
+      "_present": true
+    },
+    {
+      "id": "M69",
+      "metric": "new or additional stressors are preventing improvements to water quality.  If any new stressors",
+      "value": null,
+      "unit": null,
+      "source": "new or additional stressors are preventing improvements to water quality.  If any new stressors",
+      "_present": true
+    },
+    {
+      "id": "M70",
+      "metric": "are identified, the Watershed Implementation Team will identify future actions/activities to",
+      "value": null,
+      "unit": null,
+      "source": "are identified, the Watershed Implementation Team will identify future actions/activities to",
+      "_present": true
+    },
+    {
+      "id": "M71",
+      "metric": "address those stressors.",
+      "value": null,
+      "unit": null,
+      "source": "address those stressors.",
+      "_present": true
+    },
+    {
+      "id": "M72",
+      "metric": "Element i: Monitoring",
+      "value": null,
+      "unit": null,
+      "source": "Element i: Monitoring",
+      "_present": true
+    },
+    {
+      "id": "M73",
+      "metric": "Prior to BMP installation, water quality chemical and biological monitoring was conducted and",
+      "value": null,
+      "unit": null,
+      "source": "Prior to BMP installation, water quality chemical and biological monitoring was conducted and",
+      "_present": true
+    },
+    {
+      "id": "M74",
+      "metric": "will serve as baseline data for the project along with any historical data available on Dry Creek.",
+      "value": null,
+      "unit": null,
+      "source": "will serve as baseline data for the project along with any historical data available on Dry Creek.",
+      "_present": true
+    },
+    {
+      "id": "M75",
+      "metric": "Historical monitoring stations are shown in Figure 4. Post-BMP monitoring locations will be",
+      "value": null,
+      "unit": null,
+      "source": "Historical monitoring stations are shown in Figure 4. Post-BMP monitoring locations will be",
+      "_present": true
+    },
+    {
+      "id": "M76",
+      "metric": "selected using best professional judgement and will be targeted to reflect water quality",
+      "value": null,
+      "unit": null,
+      "source": "selected using best professional judgement and will be targeted to reflect water quality",
+      "_present": true
+    },
+    {
+      "id": "M77",
+      "metric": "downstream of BMP activity.  Once BMP installation is complete, and there has been sufficient",
+      "value": null,
+      "unit": null,
+      "source": "downstream of BMP activity.  Once BMP installation is complete, and there has been sufficient",
+      "_present": true
+    },
+    {
+      "id": "M78",
+      "metric": "time for the stream to stabilize, post BMP monitoring will be initiated.  Post BMP monitoring",
+      "value": null,
+      "unit": null,
+      "source": "time for the stream to stabilize, post BMP monitoring will be initiated.  Post BMP monitoring",
+      "_present": true
+    },
+    {
+      "id": "M79",
+      "metric": "will be conducted in a way that allows for comparison with the pre-implementation data.",
+      "value": null,
+      "unit": null,
+      "source": "will be conducted in a way that allows for comparison with the pre-implementation data.",
+      "_present": true
+    },
+    {
+      "id": "M80",
+      "metric": "Because recovery periods of streams can be dependent on type and amount of BMPs installed,",
+      "value": null,
+      "unit": null,
+      "source": "Because recovery periods of streams can be dependent on type and amount of BMPs installed,",
+      "_present": true
+    },
+    {
+      "id": "M81",
+      "metric": "more than 1 year of post BMP data may be needed to observe a change in water quality.  In some",
+      "value": null,
+      "unit": null,
+      "source": "more than 1 year of post BMP data may be needed to observe a change in water quality.  In some",
+      "_present": true
+    },
+    {
+      "id": "M82",
+      "metric": "cases, it may take 5 or more years to see full benefits of BMPs. All data collection efforts will be",
+      "value": null,
+      "unit": null,
+      "source": "cases, it may take 5 or more years to see full benefits of BMPs. All data collection efforts will be",
+      "_present": true
+    },
+    {
+      "id": "M83",
+      "metric": "conducted using trained personnel following established Standard Operating Procedures and",
+      "value": null,
+      "unit": null,
+      "source": "conducted using trained personnel following established Standard Operating Procedures and",
+      "_present": true
+    },
+    {
+      "id": "M84",
+      "metric": "adhering to agency Quality Assurance protocols.",
+      "value": null,
+      "unit": null,
+      "source": "adhering to agency Quality Assurance protocols.",
+      "_present": true
+    },
+    {
+      "id": "M85",
+      "metric": "Dry Creek Watershed Plan GY 2016",
+      "value": null,
+      "unit": null,
+      "source": "Dry Creek Watershed Plan GY 2016",
+      "_present": true
+    },
+    {
+      "id": "M86",
+      "metric": "12",
+      "value": null,
+      "unit": null,
+      "source": "12",
+      "_present": true
+    },
+    {
+      "id": "M87",
+      "metric": "-",
+      "value": null,
+      "unit": null,
+      "source": "-",
+      "_present": true
+    },
+    {
+      "id": "M88",
+      "metric": "Figure 4: Dry Creek Watershed Historical Monitoring Stations",
+      "value": null,
+      "unit": null,
+      "source": "Figure 4: Dry Creek Watershed Historical Monitoring Stations",
+      "_present": true
+    }
+  ],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-03T23:17:37.132Z",
+  "metadata": {
+    "sourceId": "dry-creek-9-key-element-plan-2017-4",
+    "sourceFile": "dry-creek-9-key-element-plan-2017-4.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "narrative_cost_block",
+        "title": "Fencing 9,420 ft @ $2.75/ft $25,905  $10,362",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 198257
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Water Facilities 12ea @ $1,304.86 $15,658  $8,000",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 187895
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Heavy Use Areas 12ea @ $1,571.28 $18,855  $12,000",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 179895
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Stream Crossings 7 ea @ $4,197.42 $29,382  $26,000",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 167895
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Ponds 7 es @ $8,585.72 $60,100  $12,000",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 141895
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Sediment Basins 6 ea @ $5,845.34 $35,072  $14,029",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 129895
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Nutrient Management 200 ac @ $425 $85,000  $34,000",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 115866
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Critical Area Planting 9 ac @ $773.83 $6,964  $2,786",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 81866
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Establishment of Permanent Vegetation 200 ac @ $425 $85,000  $34,000",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 79080
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Forage and Biomass Planting 42.5 ac @ $422.34 $17,949  $7,180",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 582956
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Education/Outreach  $24,900",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1197810
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Monitoring  $13,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1172910
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Coordination, Plan Revision  $54,660",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1159910
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Total Estimated Project Cost  $472,447  $160,356",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1105250
+      },
+      {
+        "id": "activity_match",
+        "title": "Activity Size/Amount Estimated Cost Landowner Match",
+        "confidence": 0.85,
+        "totalReported": 472447,
+        "totalComputed": 944892
+      }
+    ],
+    "originalName": "Dry_Creek_9_Key_Element_Plan_2017.pdf",
+    "presence": {
+      "goals": 0,
+      "bmps": 49,
+      "implementation": 0,
+      "monitoring": 88,
+      "outreach": 0
+    }
+  }
+}

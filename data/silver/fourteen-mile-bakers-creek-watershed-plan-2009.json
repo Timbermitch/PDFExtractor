@@ -1,0 +1,4868 @@
+{
+  "id": "fourteen-mile-bakers-creek-watershed-plan-2009",
+  "summary": {
+    "totalGoals": 1,
+    "totalBMPs": 31,
+    "totalActivities": 0,
+    "primaryGoals": 1,
+    "completionRate": 0,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 1,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "General": 29,
+      "Livestock Exclusion": 1,
+      "Filter Strip": 1
+    },
+    "avgGoalConfidence": 0.4,
+    "strongGoals": 0
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "The goal and objective is to reduce the sediment and nutrient loading coming from containing 96 activities written in the form of lesson plans.",
+      "status": "planned",
+      "pollutant": "sediment",
+      "parameter": "sediment",
+      "reductionPercent": null,
+      "source": "The goal and objective is to reduce the sediment and nutrient loading coming from containing 96 activities written in the form of lesson plans.",
+      "confidence": 0.4,
+      "isPrimary": true,
+      "primaryReason": "canonical_phrase",
+      "description": "The goal and objective is to reduce the sediment and nutrient loading coming from containing 96 activities written in the form of lesson plans.",
+      "originalSentence": "The goal and objective is to reduce the sediment and nutrient loading coming from containing 96 activities written in the form of lesson plans.",
+      "shortTitle": "The goal and objective is to reduce the sediment and nutrient loading coming from…"
+    }
+  ],
+  "mainGoals": [
+    {
+      "id": "G1",
+      "title": "The goal and objective is to reduce the sediment and nutrient loading coming from containing 96 activities written in the form of lesson plans.",
+      "status": "planned",
+      "pollutant": "sediment",
+      "parameter": "sediment",
+      "reductionPercent": null,
+      "source": "The goal and objective is to reduce the sediment and nutrient loading coming from containing 96 activities written in the form of lesson plans.",
+      "confidence": 0.4,
+      "isPrimary": true,
+      "primaryReason": "canonical_phrase",
+      "description": "The goal and objective is to reduce the sediment and nutrient loading coming from containing 96 activities written in the form of lesson plans.",
+      "originalSentence": "The goal and objective is to reduce the sediment and nutrient loading coming from containing 96 activities written in the form of lesson plans.",
+      "shortTitle": "The goal and objective is to reduce the sediment and nutrient loading coming from…"
+    }
+  ],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "WHIP.  Under these three programs, there has been",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "WHIP.  Under these three programs, there has been $658,900 spent over the last three years with another $540,000 projected to be spent over the next three years.|name_cost_tail_trim",
+      "originalName": "WHIP.  Under these three programs, there has been $658,900 spent over the last three years with another $540,000 projected to be spent over the next three years."
+    },
+    {
+      "id": "B2",
+      "name": "Practice Area Affected    BMP Cost    BMP Total",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Practice Area Affected    BMP Cost    BMP Total"
+    },
+    {
+      "id": "B3",
+      "name": "Critical Area Planting",
+      "category": "General",
+      "keyword": null,
+      "quantity": 180,
+      "unit": "acres",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "Critical Area Planting 180 acres $200/ac $36,000|name_cost_tail_trim",
+      "originalName": "Critical Area Planting 180 acres $200/ac $36,000"
+    },
+    {
+      "id": "B4",
+      "name": "Grade Stabilization Structure    103 structures",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Grade Stabilization Structure    103 structures $3,500 each   $360,500|name_cost_tail_trim",
+      "originalName": "Grade Stabilization Structure    103 structures $3,500 each   $360,500"
+    },
+    {
+      "id": "B5",
+      "name": "Pasture Planting",
+      "category": "General",
+      "keyword": null,
+      "quantity": 200,
+      "unit": "acres",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "Pasture Planting 200 acres $100/ac $20,000|name_cost_tail_trim",
+      "originalName": "Pasture Planting 200 acres $100/ac $20,000"
+    },
+    {
+      "id": "B6",
+      "name": "Fencing",
+      "category": "Livestock Exclusion",
+      "keyword": "Fencing",
+      "quantity": 12000,
+      "unit": "feet",
+      "verb": null,
+      "confidence": 0.65,
+      "source": "Fencing 12,000 feet $1.10/foot $13,200|name_cost_tail_trim",
+      "originalName": "Fencing 12,000 feet $1.10/foot $13,200"
+    },
+    {
+      "id": "B7",
+      "name": "Filter Strips",
+      "category": "Filter Strip",
+      "keyword": "Filter Strip",
+      "quantity": 60,
+      "unit": "acres",
+      "verb": null,
+      "confidence": 0.65,
+      "source": "Filter Strips 60 acres $190/acre $11,400|name_cost_tail_trim",
+      "originalName": "Filter Strips 60 acres $190/acre $11,400"
+    },
+    {
+      "id": "B8",
+      "name": "Diversions",
+      "category": "General",
+      "keyword": null,
+      "quantity": 9490,
+      "unit": "feet",
+      "verb": null,
+      "confidence": 0.3,
+      "source": "Diversions 6,9490 feet $1.02/foot $7,087|name_cost_tail_trim",
+      "originalName": "Diversions 6,9490 feet $1.02/foot $7,087"
+    },
+    {
+      "id": "B9",
+      "name": "Terraces",
+      "category": "General",
+      "keyword": null,
+      "quantity": 19000,
+      "unit": "feet",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "Terraces 19,000 feet $.65/foot $13,350|name_cost_tail_trim",
+      "originalName": "Terraces 19,000 feet $.65/foot $13,350"
+    },
+    {
+      "id": "B10",
+      "name": "Total",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Total   $460,537|name_cost_tail_trim",
+      "originalName": "Total   $460,537"
+    },
+    {
+      "id": "B11",
+      "name": "Technical Assistance",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Technical Assistance $35,000|name_cost_tail_trim",
+      "originalName": "Technical Assistance $35,000"
+    },
+    {
+      "id": "B12",
+      "name": "Item Unit Cost Total Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Item Unit Cost Total Cost"
+    },
+    {
+      "id": "B13",
+      "name": "Signs 20",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Signs 20 $100.00 $2,000.00|name_cost_tail_trim",
+      "originalName": "Signs 20 $100.00 $2,000.00"
+    },
+    {
+      "id": "B14",
+      "name": "Item Units Cost Total Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Item Units Cost Total Cost"
+    },
+    {
+      "id": "B15",
+      "name": "Event Flyers 200 .60/each",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Event Flyers 200 .60/each $120.00|name_cost_tail_trim",
+      "originalName": "Event Flyers 200 .60/each $120.00"
+    },
+    {
+      "id": "B16",
+      "name": "Mailing/Delivery 200 .41/each",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Mailing/Delivery 200 .41/each $82.00|name_cost_tail_trim",
+      "originalName": "Mailing/Delivery 200 .41/each $82.00"
+    },
+    {
+      "id": "B17",
+      "name": "2 $5,399/each $10,798.00",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "2 $5,399/each $10,798.00"
+    },
+    {
+      "id": "B18",
+      "name": "Printing 1,000 1.00/each",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Printing 1,000 1.00/each $1,000.00|name_cost_tail_trim",
+      "originalName": "Printing 1,000 1.00/each $1,000.00"
+    },
+    {
+      "id": "B19",
+      "name": "Item Unit Cost Total",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Item Unit Cost Total"
+    },
+    {
+      "id": "B20",
+      "name": "$1,000.00",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$1,000.00 $1,000.00|name_cost_tail_trim",
+      "originalName": "$1,000.00 $1,000.00"
+    },
+    {
+      "id": "B21",
+      "name": "PLT Workshop 1 workshop",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "PLT Workshop 1 workshop $1,350.00 $1,350.00|name_cost_tail_trim",
+      "originalName": "PLT Workshop 1 workshop $1,350.00 $1,350.00"
+    },
+    {
+      "id": "B22",
+      "name": "Signage",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Signage   $2,000.00|name_cost_tail_trim",
+      "originalName": "Signage   $2,000.00"
+    },
+    {
+      "id": "B23",
+      "name": "Field Days",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Field Days   $11,000.00|name_cost_tail_trim",
+      "originalName": "Field Days   $11,000.00"
+    },
+    {
+      "id": "B24",
+      "name": "Fact Sheets",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Fact Sheets   $1,000.00|name_cost_tail_trim",
+      "originalName": "Fact Sheets   $1,000.00"
+    },
+    {
+      "id": "B25",
+      "name": "Adopt-A-Stream",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Adopt-A-Stream   $1,000.00|name_cost_tail_trim",
+      "originalName": "Adopt-A-Stream   $1,000.00"
+    },
+    {
+      "id": "B26",
+      "name": "Project Learning Tree",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Project Learning Tree   $1,350.00|name_cost_tail_trim",
+      "originalName": "Project Learning Tree   $1,350.00"
+    },
+    {
+      "id": "B27",
+      "name": "Watershed Harmony Puppet Show",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Watershed Harmony Puppet Show      $1,000.00|name_cost_tail_trim",
+      "originalName": "Watershed Harmony Puppet Show      $1,000.00"
+    },
+    {
+      "id": "B28",
+      "name": "BMPs",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "BMPs $460,537|name_cost_tail_trim",
+      "originalName": "BMPs $460,537"
+    },
+    {
+      "id": "B29",
+      "name": "Education/Outreach",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Education/Outreach $17,350|name_cost_tail_trim",
+      "originalName": "Education/Outreach $17,350"
+    },
+    {
+      "id": "B30",
+      "name": "The project cost is",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "The project cost is $509,537.  Of this amount, $305,723 in 319 funds are requested with the balance of|name_cost_tail_trim",
+      "originalName": "The project cost is $509,537.  Of this amount, $305,723 in 319 funds are requested with the balance of"
+    },
+    {
+      "id": "B31",
+      "name": "$203,814 to be supplied as match.",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$203,814 to be supplied as match."
+    }
+  ],
+  "bmpCostTable": {
+    "id": "adaptive_generic_costs",
+    "title": "WHIP.  Under these three programs, there has been $658,900 spent over the last three years",
+    "table": {
+      "columns": [
+        "Item",
+        "Cost",
+        "Extra?"
+      ],
+      "rows": [
+        {
+          "Item": "WHIP.  Under these three programs, there has been",
+          "Cost": "$658,900",
+          "Extra": null
+        },
+        {
+          "Item": "with another",
+          "Cost": "$540,000",
+          "Extra": null
+        },
+        {
+          "Item": "Critical Area Planting 180 acres $200/ac",
+          "Cost": "$36,000",
+          "Extra": null
+        },
+        {
+          "Item": "Grade Stabilization Structure    103 structures $3,500 each",
+          "Cost": "$360,500",
+          "Extra": null
+        },
+        {
+          "Item": "Pasture Planting 200 acres $100/ac",
+          "Cost": "$20,000",
+          "Extra": null
+        },
+        {
+          "Item": "Fencing 12,000 feet $1.10/foot",
+          "Cost": "$13,200",
+          "Extra": null
+        },
+        {
+          "Item": "Filter Strips 60 acres $190/acre",
+          "Cost": "$11,400",
+          "Extra": null
+        },
+        {
+          "Item": "Diversions 6,9490 feet $1.02/foot",
+          "Cost": "$7,087",
+          "Extra": null
+        },
+        {
+          "Item": "Terraces 19,000 feet $.65/foot",
+          "Cost": "$13,350",
+          "Extra": null
+        },
+        {
+          "Item": "Total",
+          "Cost": "$460,537",
+          "Extra": null
+        },
+        {
+          "Item": "Technical Assistance",
+          "Cost": "$35,000",
+          "Extra": null
+        },
+        {
+          "Item": "Total",
+          "Cost": "$35,000",
+          "Extra": null
+        }
+      ],
+      "total": null
+    },
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTableNormalized": {
+    "id": "adaptive_generic_costs",
+    "title": "WHIP.  Under these three programs, there has been $658,900 spent over the last three years",
+    "rows": [
+      {
+        "name": "WHIP.  Under these three programs, there has been",
+        "totalCost": 658900,
+        "rawCost": "$658,900"
+      },
+      {
+        "name": "with another",
+        "totalCost": 540000,
+        "rawCost": "$540,000"
+      },
+      {
+        "name": "Critical Area Planting 180 acres $200/ac",
+        "totalCost": 36000,
+        "rawCost": "$36,000"
+      },
+      {
+        "name": "Grade Stabilization Structure    103 structures $3,500 each",
+        "totalCost": 360500,
+        "rawCost": "$360,500"
+      },
+      {
+        "name": "Pasture Planting 200 acres $100/ac",
+        "totalCost": 20000,
+        "rawCost": "$20,000"
+      },
+      {
+        "name": "Fencing 12,000 feet $1.10/foot",
+        "totalCost": 13200,
+        "rawCost": "$13,200"
+      },
+      {
+        "name": "Filter Strips 60 acres $190/acre",
+        "totalCost": 11400,
+        "rawCost": "$11,400"
+      },
+      {
+        "name": "Diversions 6,9490 feet $1.02/foot",
+        "totalCost": 7087,
+        "rawCost": "$7,087"
+      },
+      {
+        "name": "Terraces 19,000 feet $.65/foot",
+        "totalCost": 13350,
+        "rawCost": "$13,350"
+      },
+      {
+        "name": "Total",
+        "totalCost": 460537,
+        "rawCost": "$460,537"
+      },
+      {
+        "name": "Technical Assistance",
+        "totalCost": 35000,
+        "rawCost": "$35,000"
+      },
+      {
+        "name": "Total",
+        "totalCost": 35000,
+        "rawCost": "$35,000"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 2190974,
+    "discrepancy": null,
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTables": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "WHIP.  Under these three programs, there has been $658,900 spent over the last three years",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "WHIP.  Under these three programs, there has been",
+            "Cost": "$658,900",
+            "Extra": null
+          },
+          {
+            "Item": "with another",
+            "Cost": "$540,000",
+            "Extra": null
+          },
+          {
+            "Item": "Critical Area Planting 180 acres $200/ac",
+            "Cost": "$36,000",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure    103 structures $3,500 each",
+            "Cost": "$360,500",
+            "Extra": null
+          },
+          {
+            "Item": "Pasture Planting 200 acres $100/ac",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "Fencing 12,000 feet $1.10/foot",
+            "Cost": "$13,200",
+            "Extra": null
+          },
+          {
+            "Item": "Filter Strips 60 acres $190/acre",
+            "Cost": "$11,400",
+            "Extra": null
+          },
+          {
+            "Item": "Diversions 6,9490 feet $1.02/foot",
+            "Cost": "$7,087",
+            "Extra": null
+          },
+          {
+            "Item": "Terraces 19,000 feet $.65/foot",
+            "Cost": "$13,350",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$460,537",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$35,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "with another $540,000 projected to be spent over the next three years.",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "with another",
+            "Cost": "$540,000",
+            "Extra": null
+          },
+          {
+            "Item": "Critical Area Planting 180 acres $200/ac",
+            "Cost": "$36,000",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure    103 structures $3,500 each",
+            "Cost": "$360,500",
+            "Extra": null
+          },
+          {
+            "Item": "Pasture Planting 200 acres $100/ac",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "Fencing 12,000 feet $1.10/foot",
+            "Cost": "$13,200",
+            "Extra": null
+          },
+          {
+            "Item": "Filter Strips 60 acres $190/acre",
+            "Cost": "$11,400",
+            "Extra": null
+          },
+          {
+            "Item": "Diversions 6,9490 feet $1.02/foot",
+            "Cost": "$7,087",
+            "Extra": null
+          },
+          {
+            "Item": "Terraces 19,000 feet $.65/foot",
+            "Cost": "$13,350",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$460,537",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$35,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "bell_creek_bmps",
+      "title": "Practice Area Affected    BMP Cost    BMP Total",
+      "table": {
+        "columns": [
+          "Practice",
+          "Area Affected",
+          "BMP Cost",
+          "BMP Total"
+        ],
+        "rows": [
+          {
+            "Practice": "Critical Area Planting",
+            "Area Affected": "180 acres",
+            "BMP Cost": "$200/ac",
+            "BMP Total": "$36,000"
+          },
+          {
+            "Practice": "Pasture Planting",
+            "Area Affected": "200 acres",
+            "BMP Cost": "$100/ac",
+            "BMP Total": "$20,000"
+          },
+          {
+            "Practice": "Fencing",
+            "Area Affected": "12,000 feet",
+            "BMP Cost": "$1.10/ft",
+            "BMP Total": "$13,200"
+          },
+          {
+            "Practice": "Filter Strips",
+            "Area Affected": "60 acres",
+            "BMP Cost": "$190/ac",
+            "BMP Total": "$11,400"
+          },
+          {
+            "Practice": "Diversions",
+            "Area Affected": "6,9490 feet",
+            "BMP Cost": "$1.02/ft",
+            "BMP Total": "$7,087"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "bell_creek_bmps",
+      "patternConfidence": 0.9
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Critical Area Planting 180 acres $200/ac $36,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Critical Area Planting 180 acres $200/ac",
+            "Cost": "$36,000",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure    103 structures $3,500 each",
+            "Cost": "$360,500",
+            "Extra": null
+          },
+          {
+            "Item": "Pasture Planting 200 acres $100/ac",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "Fencing 12,000 feet $1.10/foot",
+            "Cost": "$13,200",
+            "Extra": null
+          },
+          {
+            "Item": "Filter Strips 60 acres $190/acre",
+            "Cost": "$11,400",
+            "Extra": null
+          },
+          {
+            "Item": "Diversions 6,9490 feet $1.02/foot",
+            "Cost": "$7,087",
+            "Extra": null
+          },
+          {
+            "Item": "Terraces 19,000 feet $.65/foot",
+            "Cost": "$13,350",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$460,537",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$35,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Grade Stabilization Structure    103 structures $3,500 each   $360,500",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Grade Stabilization Structure    103 structures $3,500 each",
+            "Cost": "$360,500",
+            "Extra": null
+          },
+          {
+            "Item": "Pasture Planting 200 acres $100/ac",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "Fencing 12,000 feet $1.10/foot",
+            "Cost": "$13,200",
+            "Extra": null
+          },
+          {
+            "Item": "Filter Strips 60 acres $190/acre",
+            "Cost": "$11,400",
+            "Extra": null
+          },
+          {
+            "Item": "Diversions 6,9490 feet $1.02/foot",
+            "Cost": "$7,087",
+            "Extra": null
+          },
+          {
+            "Item": "Terraces 19,000 feet $.65/foot",
+            "Cost": "$13,350",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$460,537",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$35,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Pasture Planting 200 acres $100/ac $20,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Pasture Planting 200 acres $100/ac",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "Fencing 12,000 feet $1.10/foot",
+            "Cost": "$13,200",
+            "Extra": null
+          },
+          {
+            "Item": "Filter Strips 60 acres $190/acre",
+            "Cost": "$11,400",
+            "Extra": null
+          },
+          {
+            "Item": "Diversions 6,9490 feet $1.02/foot",
+            "Cost": "$7,087",
+            "Extra": null
+          },
+          {
+            "Item": "Terraces 19,000 feet $.65/foot",
+            "Cost": "$13,350",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$460,537",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$35,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Fencing 12,000 feet $1.10/foot $13,200",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Fencing 12,000 feet $1.10/foot",
+            "Cost": "$13,200",
+            "Extra": null
+          },
+          {
+            "Item": "Filter Strips 60 acres $190/acre",
+            "Cost": "$11,400",
+            "Extra": null
+          },
+          {
+            "Item": "Diversions 6,9490 feet $1.02/foot",
+            "Cost": "$7,087",
+            "Extra": null
+          },
+          {
+            "Item": "Terraces 19,000 feet $.65/foot",
+            "Cost": "$13,350",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$460,537",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$35,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Filter Strips 60 acres $190/acre $11,400",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Filter Strips 60 acres $190/acre",
+            "Cost": "$11,400",
+            "Extra": null
+          },
+          {
+            "Item": "Diversions 6,9490 feet $1.02/foot",
+            "Cost": "$7,087",
+            "Extra": null
+          },
+          {
+            "Item": "Terraces 19,000 feet $.65/foot",
+            "Cost": "$13,350",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$460,537",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$35,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Diversions 6,9490 feet $1.02/foot $7,087",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Diversions 6,9490 feet $1.02/foot",
+            "Cost": "$7,087",
+            "Extra": null
+          },
+          {
+            "Item": "Terraces 19,000 feet $.65/foot",
+            "Cost": "$13,350",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$460,537",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$35,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Terraces 19,000 feet $.65/foot $13,350",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Terraces 19,000 feet $.65/foot",
+            "Cost": "$13,350",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$460,537",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Signs 20",
+            "Cost": "$100.00",
+            "Extra": "$2,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$2,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $460,537",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$460,537",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Signs 20",
+            "Cost": "$100.00",
+            "Extra": "$2,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$2,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Technical Assistance $35,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Signs 20",
+            "Cost": "$100.00",
+            "Extra": "$2,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$2,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Event Flyers 200 .60/each",
+            "Cost": "$120.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mailing/Delivery 200 .41/each",
+            "Cost": "$82.00",
+            "Extra": null
+          },
+          {
+            "Item": "2 $5,399/each",
+            "Cost": "$10,798.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$11,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total $35,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Signs 20",
+            "Cost": "$100.00",
+            "Extra": "$2,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$2,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Event Flyers 200 .60/each",
+            "Cost": "$120.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mailing/Delivery 200 .41/each",
+            "Cost": "$82.00",
+            "Extra": null
+          },
+          {
+            "Item": "2 $5,399/each",
+            "Cost": "$10,798.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$11,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Signs 20 $100.00 $2,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Signs 20",
+            "Cost": "$100.00",
+            "Extra": "$2,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$2,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Event Flyers 200 .60/each",
+            "Cost": "$120.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mailing/Delivery 200 .41/each",
+            "Cost": "$82.00",
+            "Extra": null
+          },
+          {
+            "Item": "2 $5,399/each",
+            "Cost": "$10,798.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$11,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $2,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$2,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Event Flyers 200 .60/each",
+            "Cost": "$120.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mailing/Delivery 200 .41/each",
+            "Cost": "$82.00",
+            "Extra": null
+          },
+          {
+            "Item": "2 $5,399/each",
+            "Cost": "$10,798.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$11,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Event Flyers 200 .60/each $120.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Event Flyers 200 .60/each",
+            "Cost": "$120.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mailing/Delivery 200 .41/each",
+            "Cost": "$82.00",
+            "Extra": null
+          },
+          {
+            "Item": "2 $5,399/each",
+            "Cost": "$10,798.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$11,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Printing 1,000 1.00/each",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Mailing/Delivery 200 .41/each $82.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Mailing/Delivery 200 .41/each",
+            "Cost": "$82.00",
+            "Extra": null
+          },
+          {
+            "Item": "2 $5,399/each",
+            "Cost": "$10,798.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$11,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Printing 1,000 1.00/each",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "2 $5,399/each $10,798.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "2 $5,399/each",
+            "Cost": "$10,798.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$11,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Printing 1,000 1.00/each",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "$1,000.00",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $11,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$11,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Printing 1,000 1.00/each",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "$1,000.00",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Printing 1,000 1.00/each $1,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Printing 1,000 1.00/each",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "$1,000.00",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "PLT Workshop 1 workshop",
+            "Cost": "$1,350.00",
+            "Extra": "$1,350.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,350.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $1,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "$1,000.00",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "PLT Workshop 1 workshop",
+            "Cost": "$1,350.00",
+            "Extra": "$1,350.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,350.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$1,000.00 $1,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "$1,000.00",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "PLT Workshop 1 workshop",
+            "Cost": "$1,350.00",
+            "Extra": "$1,350.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "$1,000.00",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "tal",
+            "Cost": "$1,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $1,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "PLT Workshop 1 workshop",
+            "Cost": "$1,350.00",
+            "Extra": "$1,350.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "$1,000.00",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "tal",
+            "Cost": "$1,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "PLT Workshop 1 workshop $1,350.00 $1,350.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "PLT Workshop 1 workshop",
+            "Cost": "$1,350.00",
+            "Extra": "$1,350.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "$1,000.00",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "tal",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Signage",
+            "Cost": "$2,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field Days",
+            "Cost": "$11,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fact Sheets",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Adopt-A-Stream",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$17,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$460,537",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$17,350",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$512,887",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$509,537",
+            "Extra": "$305,723"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $1,350.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$1,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "$1,000.00",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "tal",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Signage",
+            "Cost": "$2,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field Days",
+            "Cost": "$11,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fact Sheets",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Adopt-A-Stream",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$17,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$460,537",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$17,350",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$512,887",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$509,537",
+            "Extra": "$305,723"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$1,000.00 $1,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "$1,000.00",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "tal",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Signage",
+            "Cost": "$2,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field Days",
+            "Cost": "$11,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fact Sheets",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Adopt-A-Stream",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$17,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$460,537",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$17,350",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$512,887",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$509,537",
+            "Extra": "$305,723"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "tal   $1,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "tal",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Signage",
+            "Cost": "$2,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field Days",
+            "Cost": "$11,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fact Sheets",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Adopt-A-Stream",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$17,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$460,537",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$17,350",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$512,887",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$509,537",
+            "Extra": "$305,723"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Signage   $2,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Signage",
+            "Cost": "$2,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field Days",
+            "Cost": "$11,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fact Sheets",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Adopt-A-Stream",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$17,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$460,537",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$17,350",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$512,887",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$509,537",
+            "Extra": "$305,723"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Field Days   $11,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Field Days",
+            "Cost": "$11,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fact Sheets",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Adopt-A-Stream",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$17,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$460,537",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$17,350",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$512,887",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$509,537",
+            "Extra": "$305,723"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Fact Sheets   $1,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Fact Sheets",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Adopt-A-Stream",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$17,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$460,537",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$17,350",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$512,887",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$509,537",
+            "Extra": "$305,723"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Adopt-A-Stream   $1,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Adopt-A-Stream",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$17,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$460,537",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$17,350",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$512,887",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$509,537",
+            "Extra": "$305,723"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Project Learning Tree   $1,350.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$17,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$460,537",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$17,350",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$512,887",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$509,537",
+            "Extra": "$305,723"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Watershed Harmony Puppet Show      $1,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$17,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$460,537",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$17,350",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$512,887",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$509,537",
+            "Extra": "$305,723"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $17,350.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$17,350.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$460,537",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$17,350",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$512,887",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$509,537",
+            "Extra": "$305,723"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "BMPs $460,537",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "BMPs",
+            "Cost": "$460,537",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$17,350",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$512,887",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$509,537",
+            "Extra": "$305,723"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Technical Assistance $35,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$35,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$17,350",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$512,887",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$509,537",
+            "Extra": "$305,723"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Education/Outreach $17,350",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Education/Outreach",
+            "Cost": "$17,350",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$512,887",
+            "Extra": null
+          },
+          {
+            "Item": "The project cost is",
+            "Cost": "$509,537",
+            "Extra": "$305,723"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "cost_table",
+      "title": "Bell Creek BMP Budget",
+      "table": {
+        "columns": [
+          "Practice",
+          "Area Affected",
+          "BMP Cost",
+          "BMP Total"
+        ],
+        "rows": [
+          {
+            "Practice": "Critical Area Planting",
+            "Area Affected": "180 acres",
+            "BMP Cost": "$200/ac",
+            "BMP Total": "$36000"
+          },
+          {
+            "Practice": "Pasture Planting",
+            "Area Affected": "200 acres",
+            "BMP Cost": "$100/ac",
+            "BMP Total": "$20000"
+          },
+          {
+            "Practice": "Fencing",
+            "Area Affected": "12000 feet",
+            "BMP Cost": "$1.10/ft",
+            "BMP Total": "$13200"
+          },
+          {
+            "Practice": "Filter Strips",
+            "Area Affected": "60 acres",
+            "BMP Cost": "$190/ac",
+            "BMP Total": "$11400"
+          },
+          {
+            "Practice": "Diversions",
+            "Area Affected": "69490 feet",
+            "BMP Cost": "$1.02/ft",
+            "BMP Total": "$7087"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "bell_creek_format",
+      "patternConfidence": 0.85
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "WHIP.  Under these three programs, there has been $658,900 spent over the last three years",
+      "rows": [
+        {
+          "name": "WHIP.  Under these three programs, there has been",
+          "totalCost": 658900,
+          "rawCost": "$658,900"
+        },
+        {
+          "name": "with another",
+          "totalCost": 540000,
+          "rawCost": "$540,000"
+        },
+        {
+          "name": "Critical Area Planting 180 acres $200/ac",
+          "totalCost": 36000,
+          "rawCost": "$36,000"
+        },
+        {
+          "name": "Grade Stabilization Structure    103 structures $3,500 each",
+          "totalCost": 360500,
+          "rawCost": "$360,500"
+        },
+        {
+          "name": "Pasture Planting 200 acres $100/ac",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Fencing 12,000 feet $1.10/foot",
+          "totalCost": 13200,
+          "rawCost": "$13,200"
+        },
+        {
+          "name": "Filter Strips 60 acres $190/acre",
+          "totalCost": 11400,
+          "rawCost": "$11,400"
+        },
+        {
+          "name": "Diversions 6,9490 feet $1.02/foot",
+          "totalCost": 7087,
+          "rawCost": "$7,087"
+        },
+        {
+          "name": "Terraces 19,000 feet $.65/foot",
+          "totalCost": 13350,
+          "rawCost": "$13,350"
+        },
+        {
+          "name": "Total",
+          "totalCost": 460537,
+          "rawCost": "$460,537"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2190974,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "with another $540,000 projected to be spent over the next three years.",
+      "rows": [
+        {
+          "name": "with another",
+          "totalCost": 540000,
+          "rawCost": "$540,000"
+        },
+        {
+          "name": "Critical Area Planting 180 acres $200/ac",
+          "totalCost": 36000,
+          "rawCost": "$36,000"
+        },
+        {
+          "name": "Grade Stabilization Structure    103 structures $3,500 each",
+          "totalCost": 360500,
+          "rawCost": "$360,500"
+        },
+        {
+          "name": "Pasture Planting 200 acres $100/ac",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Fencing 12,000 feet $1.10/foot",
+          "totalCost": 13200,
+          "rawCost": "$13,200"
+        },
+        {
+          "name": "Filter Strips 60 acres $190/acre",
+          "totalCost": 11400,
+          "rawCost": "$11,400"
+        },
+        {
+          "name": "Diversions 6,9490 feet $1.02/foot",
+          "totalCost": 7087,
+          "rawCost": "$7,087"
+        },
+        {
+          "name": "Terraces 19,000 feet $.65/foot",
+          "totalCost": 13350,
+          "rawCost": "$13,350"
+        },
+        {
+          "name": "Total",
+          "totalCost": 460537,
+          "rawCost": "$460,537"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1532074,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "bell_creek_bmps",
+      "title": "Practice Area Affected    BMP Cost    BMP Total",
+      "rows": [
+        {
+          "name": "Critical Area Planting",
+          "quantity": 180,
+          "unit": "ac",
+          "unitRaw": "ac",
+          "unitCost": 200,
+          "totalCost": 36000,
+          "rawSize": "180 acres",
+          "rawCost": "$36,000"
+        },
+        {
+          "name": "Pasture Planting",
+          "quantity": 200,
+          "unit": "ac",
+          "unitRaw": "ac",
+          "unitCost": 100,
+          "totalCost": 20000,
+          "rawSize": "200 acres",
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Fencing",
+          "quantity": 12000,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 1.1,
+          "totalCost": 13200,
+          "rawSize": "12,000 feet",
+          "rawCost": "$13,200"
+        },
+        {
+          "name": "Filter Strips",
+          "quantity": 60,
+          "unit": "ac",
+          "unitRaw": "ac",
+          "unitCost": 190,
+          "totalCost": 11400,
+          "rawSize": "60 acres",
+          "rawCost": "$11,400"
+        },
+        {
+          "name": "Diversions",
+          "quantity": 69490,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 1.02,
+          "totalCost": 7087,
+          "rawSize": "6,9490 feet",
+          "rawCost": "$7,087"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 87687,
+      "discrepancy": null,
+      "patternId": "bell_creek_bmps",
+      "patternConfidence": 0.9
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Critical Area Planting 180 acres $200/ac $36,000",
+      "rows": [
+        {
+          "name": "Critical Area Planting 180 acres $200/ac",
+          "totalCost": 36000,
+          "rawCost": "$36,000"
+        },
+        {
+          "name": "Grade Stabilization Structure    103 structures $3,500 each",
+          "totalCost": 360500,
+          "rawCost": "$360,500"
+        },
+        {
+          "name": "Pasture Planting 200 acres $100/ac",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Fencing 12,000 feet $1.10/foot",
+          "totalCost": 13200,
+          "rawCost": "$13,200"
+        },
+        {
+          "name": "Filter Strips 60 acres $190/acre",
+          "totalCost": 11400,
+          "rawCost": "$11,400"
+        },
+        {
+          "name": "Diversions 6,9490 feet $1.02/foot",
+          "totalCost": 7087,
+          "rawCost": "$7,087"
+        },
+        {
+          "name": "Terraces 19,000 feet $.65/foot",
+          "totalCost": 13350,
+          "rawCost": "$13,350"
+        },
+        {
+          "name": "Total",
+          "totalCost": 460537,
+          "rawCost": "$460,537"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 992074,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Grade Stabilization Structure    103 structures $3,500 each   $360,500",
+      "rows": [
+        {
+          "name": "Grade Stabilization Structure    103 structures $3,500 each",
+          "totalCost": 360500,
+          "rawCost": "$360,500"
+        },
+        {
+          "name": "Pasture Planting 200 acres $100/ac",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Fencing 12,000 feet $1.10/foot",
+          "totalCost": 13200,
+          "rawCost": "$13,200"
+        },
+        {
+          "name": "Filter Strips 60 acres $190/acre",
+          "totalCost": 11400,
+          "rawCost": "$11,400"
+        },
+        {
+          "name": "Diversions 6,9490 feet $1.02/foot",
+          "totalCost": 7087,
+          "rawCost": "$7,087"
+        },
+        {
+          "name": "Terraces 19,000 feet $.65/foot",
+          "totalCost": 13350,
+          "rawCost": "$13,350"
+        },
+        {
+          "name": "Total",
+          "totalCost": 460537,
+          "rawCost": "$460,537"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 956074,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Pasture Planting 200 acres $100/ac $20,000",
+      "rows": [
+        {
+          "name": "Pasture Planting 200 acres $100/ac",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Fencing 12,000 feet $1.10/foot",
+          "totalCost": 13200,
+          "rawCost": "$13,200"
+        },
+        {
+          "name": "Filter Strips 60 acres $190/acre",
+          "totalCost": 11400,
+          "rawCost": "$11,400"
+        },
+        {
+          "name": "Diversions 6,9490 feet $1.02/foot",
+          "totalCost": 7087,
+          "rawCost": "$7,087"
+        },
+        {
+          "name": "Terraces 19,000 feet $.65/foot",
+          "totalCost": 13350,
+          "rawCost": "$13,350"
+        },
+        {
+          "name": "Total",
+          "totalCost": 460537,
+          "rawCost": "$460,537"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 595574,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Fencing 12,000 feet $1.10/foot $13,200",
+      "rows": [
+        {
+          "name": "Fencing 12,000 feet $1.10/foot",
+          "totalCost": 13200,
+          "rawCost": "$13,200"
+        },
+        {
+          "name": "Filter Strips 60 acres $190/acre",
+          "totalCost": 11400,
+          "rawCost": "$11,400"
+        },
+        {
+          "name": "Diversions 6,9490 feet $1.02/foot",
+          "totalCost": 7087,
+          "rawCost": "$7,087"
+        },
+        {
+          "name": "Terraces 19,000 feet $.65/foot",
+          "totalCost": 13350,
+          "rawCost": "$13,350"
+        },
+        {
+          "name": "Total",
+          "totalCost": 460537,
+          "rawCost": "$460,537"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 575574,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Filter Strips 60 acres $190/acre $11,400",
+      "rows": [
+        {
+          "name": "Filter Strips 60 acres $190/acre",
+          "totalCost": 11400,
+          "rawCost": "$11,400"
+        },
+        {
+          "name": "Diversions 6,9490 feet $1.02/foot",
+          "totalCost": 7087,
+          "rawCost": "$7,087"
+        },
+        {
+          "name": "Terraces 19,000 feet $.65/foot",
+          "totalCost": 13350,
+          "rawCost": "$13,350"
+        },
+        {
+          "name": "Total",
+          "totalCost": 460537,
+          "rawCost": "$460,537"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 562374,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Diversions 6,9490 feet $1.02/foot $7,087",
+      "rows": [
+        {
+          "name": "Diversions 6,9490 feet $1.02/foot",
+          "totalCost": 7087,
+          "rawCost": "$7,087"
+        },
+        {
+          "name": "Terraces 19,000 feet $.65/foot",
+          "totalCost": 13350,
+          "rawCost": "$13,350"
+        },
+        {
+          "name": "Total",
+          "totalCost": 460537,
+          "rawCost": "$460,537"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 550974,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Terraces 19,000 feet $.65/foot $13,350",
+      "rows": [
+        {
+          "name": "Terraces 19,000 feet $.65/foot",
+          "totalCost": 13350,
+          "rawCost": "$13,350"
+        },
+        {
+          "name": "Total",
+          "totalCost": 460537,
+          "rawCost": "$460,537"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Signs 20",
+          "totalCost": 100,
+          "rawCost": "$100.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 545987,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $460,537",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 460537,
+          "rawCost": "$460,537"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Signs 20",
+          "totalCost": 100,
+          "rawCost": "$100.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 532637,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Technical Assistance $35,000",
+      "rows": [
+        {
+          "name": "Technical Assistance",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Signs 20",
+          "totalCost": 100,
+          "rawCost": "$100.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Event Flyers 200 .60/each",
+          "totalCost": 120,
+          "rawCost": "$120.00"
+        },
+        {
+          "name": "Mailing/Delivery 200 .41/each",
+          "totalCost": 82,
+          "rawCost": "$82.00"
+        },
+        {
+          "name": "2 $5,399/each",
+          "totalCost": 10798,
+          "rawCost": "$10,798.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 11000,
+          "rawCost": "$11,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 94100,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total $35,000",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Signs 20",
+          "totalCost": 100,
+          "rawCost": "$100.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Event Flyers 200 .60/each",
+          "totalCost": 120,
+          "rawCost": "$120.00"
+        },
+        {
+          "name": "Mailing/Delivery 200 .41/each",
+          "totalCost": 82,
+          "rawCost": "$82.00"
+        },
+        {
+          "name": "2 $5,399/each",
+          "totalCost": 10798,
+          "rawCost": "$10,798.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 11000,
+          "rawCost": "$11,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 59100,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Signs 20 $100.00 $2,000.00",
+      "rows": [
+        {
+          "name": "Signs 20",
+          "totalCost": 100,
+          "rawCost": "$100.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Event Flyers 200 .60/each",
+          "totalCost": 120,
+          "rawCost": "$120.00"
+        },
+        {
+          "name": "Mailing/Delivery 200 .41/each",
+          "totalCost": 82,
+          "rawCost": "$82.00"
+        },
+        {
+          "name": "2 $5,399/each",
+          "totalCost": 10798,
+          "rawCost": "$10,798.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 11000,
+          "rawCost": "$11,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 24100,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $2,000.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Event Flyers 200 .60/each",
+          "totalCost": 120,
+          "rawCost": "$120.00"
+        },
+        {
+          "name": "Mailing/Delivery 200 .41/each",
+          "totalCost": 82,
+          "rawCost": "$82.00"
+        },
+        {
+          "name": "2 $5,399/each",
+          "totalCost": 10798,
+          "rawCost": "$10,798.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 11000,
+          "rawCost": "$11,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 24000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Event Flyers 200 .60/each $120.00",
+      "rows": [
+        {
+          "name": "Event Flyers 200 .60/each",
+          "totalCost": 120,
+          "rawCost": "$120.00"
+        },
+        {
+          "name": "Mailing/Delivery 200 .41/each",
+          "totalCost": 82,
+          "rawCost": "$82.00"
+        },
+        {
+          "name": "2 $5,399/each",
+          "totalCost": 10798,
+          "rawCost": "$10,798.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 11000,
+          "rawCost": "$11,000.00"
+        },
+        {
+          "name": "Printing 1,000 1.00/each",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 24000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Mailing/Delivery 200 .41/each $82.00",
+      "rows": [
+        {
+          "name": "Mailing/Delivery 200 .41/each",
+          "totalCost": 82,
+          "rawCost": "$82.00"
+        },
+        {
+          "name": "2 $5,399/each",
+          "totalCost": 10798,
+          "rawCost": "$10,798.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 11000,
+          "rawCost": "$11,000.00"
+        },
+        {
+          "name": "Printing 1,000 1.00/each",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 23880,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "2 $5,399/each $10,798.00",
+      "rows": [
+        {
+          "name": "2 $5,399/each",
+          "totalCost": 10798,
+          "rawCost": "$10,798.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 11000,
+          "rawCost": "$11,000.00"
+        },
+        {
+          "name": "Printing 1,000 1.00/each",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "$1,000.00",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 25798,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $11,000.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 11000,
+          "rawCost": "$11,000.00"
+        },
+        {
+          "name": "Printing 1,000 1.00/each",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "$1,000.00",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 15000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Printing 1,000 1.00/each $1,000.00",
+      "rows": [
+        {
+          "name": "Printing 1,000 1.00/each",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "$1,000.00",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "PLT Workshop 1 workshop",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 6700,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $1,000.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "$1,000.00",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "PLT Workshop 1 workshop",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 5700,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$1,000.00 $1,000.00",
+      "rows": [
+        {
+          "name": "$1,000.00",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "PLT Workshop 1 workshop",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "$1,000.00",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "tal",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 6700,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $1,000.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "PLT Workshop 1 workshop",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "$1,000.00",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "tal",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 5700,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "PLT Workshop 1 workshop $1,350.00 $1,350.00",
+      "rows": [
+        {
+          "name": "PLT Workshop 1 workshop",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "$1,000.00",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "tal",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Signage",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Field Days",
+          "totalCost": 11000,
+          "rawCost": "$11,000.00"
+        },
+        {
+          "name": "Fact Sheets",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Adopt-A-Stream",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 17350,
+          "rawCost": "$17,350.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 460537,
+          "rawCost": "$460,537"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 17350,
+          "rawCost": "$17,350"
+        },
+        {
+          "name": "Total",
+          "totalCost": 512887,
+          "rawCost": "$512,887"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 509537,
+          "rawCost": "$509,537"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1574711,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $1,350.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "$1,000.00",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "tal",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Signage",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Field Days",
+          "totalCost": 11000,
+          "rawCost": "$11,000.00"
+        },
+        {
+          "name": "Fact Sheets",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Adopt-A-Stream",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 17350,
+          "rawCost": "$17,350.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 460537,
+          "rawCost": "$460,537"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 17350,
+          "rawCost": "$17,350"
+        },
+        {
+          "name": "Total",
+          "totalCost": 512887,
+          "rawCost": "$512,887"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 509537,
+          "rawCost": "$509,537"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1573361,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$1,000.00 $1,000.00",
+      "rows": [
+        {
+          "name": "$1,000.00",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "tal",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Signage",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Field Days",
+          "totalCost": 11000,
+          "rawCost": "$11,000.00"
+        },
+        {
+          "name": "Fact Sheets",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Adopt-A-Stream",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 17350,
+          "rawCost": "$17,350.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 460537,
+          "rawCost": "$460,537"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 17350,
+          "rawCost": "$17,350"
+        },
+        {
+          "name": "Total",
+          "totalCost": 512887,
+          "rawCost": "$512,887"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 509537,
+          "rawCost": "$509,537"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1572011,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "tal   $1,000.00",
+      "rows": [
+        {
+          "name": "tal",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Signage",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Field Days",
+          "totalCost": 11000,
+          "rawCost": "$11,000.00"
+        },
+        {
+          "name": "Fact Sheets",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Adopt-A-Stream",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 17350,
+          "rawCost": "$17,350.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 460537,
+          "rawCost": "$460,537"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 17350,
+          "rawCost": "$17,350"
+        },
+        {
+          "name": "Total",
+          "totalCost": 512887,
+          "rawCost": "$512,887"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 509537,
+          "rawCost": "$509,537"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1571011,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Signage   $2,000.00",
+      "rows": [
+        {
+          "name": "Signage",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Field Days",
+          "totalCost": 11000,
+          "rawCost": "$11,000.00"
+        },
+        {
+          "name": "Fact Sheets",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Adopt-A-Stream",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 17350,
+          "rawCost": "$17,350.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 460537,
+          "rawCost": "$460,537"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 17350,
+          "rawCost": "$17,350"
+        },
+        {
+          "name": "Total",
+          "totalCost": 512887,
+          "rawCost": "$512,887"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 509537,
+          "rawCost": "$509,537"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1570011,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Field Days   $11,000.00",
+      "rows": [
+        {
+          "name": "Field Days",
+          "totalCost": 11000,
+          "rawCost": "$11,000.00"
+        },
+        {
+          "name": "Fact Sheets",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Adopt-A-Stream",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 17350,
+          "rawCost": "$17,350.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 460537,
+          "rawCost": "$460,537"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 17350,
+          "rawCost": "$17,350"
+        },
+        {
+          "name": "Total",
+          "totalCost": 512887,
+          "rawCost": "$512,887"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 509537,
+          "rawCost": "$509,537"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1568011,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Fact Sheets   $1,000.00",
+      "rows": [
+        {
+          "name": "Fact Sheets",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Adopt-A-Stream",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 17350,
+          "rawCost": "$17,350.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 460537,
+          "rawCost": "$460,537"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 17350,
+          "rawCost": "$17,350"
+        },
+        {
+          "name": "Total",
+          "totalCost": 512887,
+          "rawCost": "$512,887"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 509537,
+          "rawCost": "$509,537"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1557011,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Adopt-A-Stream   $1,000.00",
+      "rows": [
+        {
+          "name": "Adopt-A-Stream",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 17350,
+          "rawCost": "$17,350.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 460537,
+          "rawCost": "$460,537"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 17350,
+          "rawCost": "$17,350"
+        },
+        {
+          "name": "Total",
+          "totalCost": 512887,
+          "rawCost": "$512,887"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 509537,
+          "rawCost": "$509,537"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1556011,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Project Learning Tree   $1,350.00",
+      "rows": [
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 17350,
+          "rawCost": "$17,350.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 460537,
+          "rawCost": "$460,537"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 17350,
+          "rawCost": "$17,350"
+        },
+        {
+          "name": "Total",
+          "totalCost": 512887,
+          "rawCost": "$512,887"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 509537,
+          "rawCost": "$509,537"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1555011,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Watershed Harmony Puppet Show      $1,000.00",
+      "rows": [
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 17350,
+          "rawCost": "$17,350.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 460537,
+          "rawCost": "$460,537"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 17350,
+          "rawCost": "$17,350"
+        },
+        {
+          "name": "Total",
+          "totalCost": 512887,
+          "rawCost": "$512,887"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 509537,
+          "rawCost": "$509,537"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1553661,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total   $17,350.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 17350,
+          "rawCost": "$17,350.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 460537,
+          "rawCost": "$460,537"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 17350,
+          "rawCost": "$17,350"
+        },
+        {
+          "name": "Total",
+          "totalCost": 512887,
+          "rawCost": "$512,887"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 509537,
+          "rawCost": "$509,537"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1552661,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "BMPs $460,537",
+      "rows": [
+        {
+          "name": "BMPs",
+          "totalCost": 460537,
+          "rawCost": "$460,537"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 17350,
+          "rawCost": "$17,350"
+        },
+        {
+          "name": "Total",
+          "totalCost": 512887,
+          "rawCost": "$512,887"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 509537,
+          "rawCost": "$509,537"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1535311,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Technical Assistance $35,000",
+      "rows": [
+        {
+          "name": "Technical Assistance",
+          "totalCost": 35000,
+          "rawCost": "$35,000"
+        },
+        {
+          "name": "Education/Outreach",
+          "totalCost": 17350,
+          "rawCost": "$17,350"
+        },
+        {
+          "name": "Total",
+          "totalCost": 512887,
+          "rawCost": "$512,887"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 509537,
+          "rawCost": "$509,537"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1074774,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Education/Outreach $17,350",
+      "rows": [
+        {
+          "name": "Education/Outreach",
+          "totalCost": 17350,
+          "rawCost": "$17,350"
+        },
+        {
+          "name": "Total",
+          "totalCost": 512887,
+          "rawCost": "$512,887"
+        },
+        {
+          "name": "The project cost is",
+          "totalCost": 509537,
+          "rawCost": "$509,537"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1039774,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "cost_table",
+      "title": "Bell Creek BMP Budget",
+      "patternId": "bell_creek_format",
+      "patternConfidence": 0.85,
+      "rows": [
+        {
+          "name": "Critical Area Planting",
+          "quantity": 180,
+          "unit": "ac",
+          "unitRaw": "ac",
+          "unitCost": 200,
+          "totalCost": 36000,
+          "rawSize": "180 acres",
+          "rawCost": "$36000"
+        },
+        {
+          "name": "Pasture Planting",
+          "quantity": 200,
+          "unit": "ac",
+          "unitRaw": "ac",
+          "unitCost": 100,
+          "totalCost": 20000,
+          "rawSize": "200 acres",
+          "rawCost": "$20000"
+        },
+        {
+          "name": "Fencing",
+          "quantity": 12000,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 1.1,
+          "totalCost": 13200,
+          "rawSize": "12000 feet",
+          "rawCost": "$13200"
+        },
+        {
+          "name": "Filter Strips",
+          "quantity": 60,
+          "unit": "ac",
+          "unitRaw": "ac",
+          "unitCost": 190,
+          "totalCost": 11400,
+          "rawSize": "60 acres",
+          "rawCost": "$11400"
+        },
+        {
+          "name": "Diversions",
+          "quantity": 69490,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 1.02,
+          "totalCost": 7087,
+          "rawSize": "69490 feet",
+          "rawCost": "$7087"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 87687,
+      "discrepancy": null
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-02T13:23:25.344Z",
+  "metadata": {
+    "sourceId": "fourteen-mile-bakers-creek-watershed-plan-2009",
+    "sourceFile": "fourteen-mile-bakers-creek-watershed-plan-2009.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "adaptive_generic_costs",
+        "title": "WHIP.  Under these three programs, there has been $658,900 spent over the last three years",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2190974
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "with another $540,000 projected to be spent over the next three years.",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1532074
+      },
+      {
+        "id": "bell_creek_bmps",
+        "title": "Practice Area Affected    BMP Cost    BMP Total",
+        "confidence": 0.9,
+        "totalReported": null,
+        "totalComputed": 87687
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Critical Area Planting 180 acres $200/ac $36,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 992074
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Grade Stabilization Structure    103 structures $3,500 each   $360,500",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 956074
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Pasture Planting 200 acres $100/ac $20,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 595574
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Fencing 12,000 feet $1.10/foot $13,200",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 575574
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Filter Strips 60 acres $190/acre $11,400",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 562374
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Diversions 6,9490 feet $1.02/foot $7,087",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 550974
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Terraces 19,000 feet $.65/foot $13,350",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 545987
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Total   $460,537",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 532637
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Technical Assistance $35,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 94100
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Total $35,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 59100
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Signs 20 $100.00 $2,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 24100
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Total   $2,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 24000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Event Flyers 200 .60/each $120.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 24000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Mailing/Delivery 200 .41/each $82.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 23880
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "2 $5,399/each $10,798.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 25798
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Total   $11,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 15000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Printing 1,000 1.00/each $1,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 6700
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Total   $1,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 5700
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$1,000.00 $1,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 6700
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Total   $1,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 5700
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "PLT Workshop 1 workshop $1,350.00 $1,350.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1574711
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Total   $1,350.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1573361
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$1,000.00 $1,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1572011
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "tal   $1,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1571011
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Signage   $2,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1570011
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Field Days   $11,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1568011
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Fact Sheets   $1,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1557011
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Adopt-A-Stream   $1,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1556011
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Project Learning Tree   $1,350.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1555011
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Watershed Harmony Puppet Show      $1,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1553661
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Total   $17,350.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1552661
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "BMPs $460,537",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1535311
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Technical Assistance $35,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1074774
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Education/Outreach $17,350",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1039774
+      },
+      {
+        "id": "bell_creek_format",
+        "title": "Bell Creek BMP Budget",
+        "confidence": 0.85,
+        "totalReported": null,
+        "totalComputed": 87687
+      }
+    ]
+  }
+}

@@ -1,0 +1,2015 @@
+{
+  "id": "overcup-slough-watershed-plan-2013",
+  "summary": {
+    "totalGoals": 1,
+    "totalBMPs": 19,
+    "totalActivities": 0,
+    "primaryGoals": 1,
+    "completionRate": 0,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 1,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "General": 19
+    },
+    "avgGoalConfidence": 0,
+    "strongGoals": 0
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "the goal of the Delta Nutrient Reduction Strategy; which is answering the following questions:",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "the goal of the Delta Nutrient Reduction Strategy; which is answering the following questions:",
+      "confidence": 0,
+      "isPrimary": true,
+      "primaryReason": "fallback_top_confidence",
+      "description": "the goal of the Delta Nutrient Reduction Strategy; which is answering the following questions:",
+      "originalSentence": "the goal of the Delta Nutrient Reduction Strategy; which is answering the following questions:",
+      "shortTitle": "the goal of the Delta Nutrient Reduction Strategy; which is answering the following questions:"
+    }
+  ],
+  "mainGoals": [
+    {
+      "id": "G1",
+      "title": "the goal of the Delta Nutrient Reduction Strategy; which is answering the following questions:",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "the goal of the Delta Nutrient Reduction Strategy; which is answering the following questions:",
+      "confidence": 0,
+      "isPrimary": true,
+      "primaryReason": "fallback_top_confidence",
+      "description": "the goal of the Delta Nutrient Reduction Strategy; which is answering the following questions:",
+      "originalSentence": "the goal of the Delta Nutrient Reduction Strategy; which is answering the following questions:",
+      "shortTitle": "the goal of the Delta Nutrient Reduction Strategy; which is answering the following questions:"
+    }
+  ],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "economically depressed. The estimated 2008 median household income for Coahoma County ($28,320) was below the state median household income ($37,818), and were in the lowest 11% of the state.2",
+      "category": "General",
+      "keyword": null,
+      "quantity": 11,
+      "unit": "%",
+      "verb": null,
+      "confidence": 0.3,
+      "source": "economically depressed. The estimated 2008 median household income for Coahoma County ($28,320) was below the state median household income ($37,818), and were in the lowest 11% of the state.2"
+    },
+    {
+      "id": "B2",
+      "name": "(1995) estimated that each ton of soil lost to erosion was worth about",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.05,
+      "source": "(1995) estimated that each ton of soil lost to erosion was worth about $6.75 per year to the farmer ($5.00 per ton for lost nutrients, and $1.75 per ton for lost soil and water capacity). The estimate of dollars lost from the watershed is about $297,000 per year (44,000 x $6.75).|name_cost_tail_trim",
+      "originalName": "(1995) estimated that each ton of soil lost to erosion was worth about $6.75 per year to the farmer ($5.00 per ton for lost nutrients, and $1.75 per ton for lost soil and water capacity). The estimate of dollars lost from the watershed is about $297,000 per year (44,000 x $6.75)."
+    },
+    {
+      "id": "B3",
+      "name": "discussed above. The total estimated budget for these activities is approximately",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "discussed above. The total estimated budget for these activities is approximately $1.6 million.|name_cost_tail_trim",
+      "originalName": "discussed above. The total estimated budget for these activities is approximately $1.6 million."
+    },
+    {
+      "id": "B4",
+      "name": "$616,250",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$616,250"
+    },
+    {
+      "id": "B5",
+      "name": "$252,960",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$252,960"
+    },
+    {
+      "id": "B6",
+      "name": "$2,363,485",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$2,363,485"
+    },
+    {
+      "id": "B7",
+      "name": "$2,964,390",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$2,964,390"
+    },
+    {
+      "id": "B8",
+      "name": "$75,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$75,000"
+    },
+    {
+      "id": "B9",
+      "name": "$480,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$480,000"
+    },
+    {
+      "id": "B10",
+      "name": "$4,992,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$4,992,000"
+    },
+    {
+      "id": "B11",
+      "name": "Restore Wetlands",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": "restore",
+      "confidence": 0.15,
+      "source": "Restore Wetlands $800,000 NRCS/Producer|name_cost_tail_trim",
+      "originalName": "Restore Wetlands $800,000 NRCS/Producer"
+    },
+    {
+      "id": "B12",
+      "name": "$168,000 NRCS/EPA/Producer",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$168,000 NRCS/EPA/Producer"
+    },
+    {
+      "id": "B13",
+      "name": "$263,250 NRCS/EPA/Producer",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$263,250 NRCS/EPA/Producer"
+    },
+    {
+      "id": "B14",
+      "name": "$942,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$942,000"
+    },
+    {
+      "id": "B15",
+      "name": "$27,000 total budget for these activities is",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$27,000 total budget for these activities is $105,000.00.|name_cost_tail_trim",
+      "originalName": "$27,000 total budget for these activities is $105,000.00."
+    },
+    {
+      "id": "B16",
+      "name": "BMP outreach",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "BMP outreach $60,000 EPA/NRCS|name_cost_tail_trim",
+      "originalName": "BMP outreach $60,000 EPA/NRCS"
+    },
+    {
+      "id": "B17",
+      "name": "PHAUCET outreach",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "PHAUCET outreach $15,000 YMD/MSU/Delta F.A.R.M.|name_cost_tail_trim",
+      "originalName": "PHAUCET outreach $15,000 YMD/MSU/Delta F.A.R.M."
+    },
+    {
+      "id": "B18",
+      "name": "$30,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$30,000"
+    },
+    {
+      "id": "B19",
+      "name": "$180,000 (3 years)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$180,000 (3 years)"
+    }
+  ],
+  "bmpCostTable": {
+    "id": "adaptive_generic_costs",
+    "title": "economically depressed. The estimated 2008 median household income for Coahoma County ($28,320)",
+    "table": {
+      "columns": [
+        "Item",
+        "Cost",
+        "Extra?"
+      ],
+      "rows": [
+        {
+          "Item": "economically depressed. The estimated 2008 median household income for Coahoma County (",
+          "Cost": "$28,320",
+          "Extra": null
+        },
+        {
+          "Item": "was below the state median household income (",
+          "Cost": "$37,818",
+          "Extra": null
+        },
+        {
+          "Item": "(1995) estimated that each ton of soil lost to erosion was worth about",
+          "Cost": "$6.75",
+          "Extra": null
+        },
+        {
+          "Item": "farmer (",
+          "Cost": "$5.00",
+          "Extra": "$1.75"
+        },
+        {
+          "Item": "estimate of dollars lost from the watershed is about",
+          "Cost": "$297,000",
+          "Extra": "$6.75"
+        },
+        {
+          "Item": "discussed above. The total estimated budget for these activities is approximately",
+          "Cost": "$1",
+          "Extra": null
+        },
+        {
+          "Item": "Restore Wetlands",
+          "Cost": "$800,000",
+          "Extra": null
+        },
+        {
+          "Item": "total budget for these activities is",
+          "Cost": "$105,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "BMP outreach",
+          "Cost": "$60,000",
+          "Extra": null
+        },
+        {
+          "Item": "PHAUCET outreach",
+          "Cost": "$15,000",
+          "Extra": null
+        }
+      ],
+      "total": null
+    },
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTableNormalized": {
+    "id": "adaptive_generic_costs",
+    "title": "economically depressed. The estimated 2008 median household income for Coahoma County ($28,320)",
+    "rows": [
+      {
+        "name": "economically depressed. The estimated 2008 median household income for Coahoma County (",
+        "totalCost": 28320,
+        "rawCost": "$28,320"
+      },
+      {
+        "name": "was below the state median household income (",
+        "totalCost": 37818,
+        "rawCost": "$37,818"
+      },
+      {
+        "name": "(1995) estimated that each ton of soil lost to erosion was worth about",
+        "totalCost": 6.75,
+        "rawCost": "$6.75"
+      },
+      {
+        "name": "farmer (",
+        "totalCost": 5,
+        "rawCost": "$5.00"
+      },
+      {
+        "name": "estimate of dollars lost from the watershed is about",
+        "totalCost": 297000,
+        "rawCost": "$297,000"
+      },
+      {
+        "name": "discussed above. The total estimated budget for these activities is approximately",
+        "totalCost": 1,
+        "rawCost": "$1"
+      },
+      {
+        "name": "Restore Wetlands",
+        "totalCost": 800000,
+        "rawCost": "$800,000"
+      },
+      {
+        "name": "total budget for these activities is",
+        "totalCost": 105000,
+        "rawCost": "$105,000.00"
+      },
+      {
+        "name": "BMP outreach",
+        "totalCost": 60000,
+        "rawCost": "$60,000"
+      },
+      {
+        "name": "PHAUCET outreach",
+        "totalCost": 15000,
+        "rawCost": "$15,000"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 1343150.75,
+    "discrepancy": null,
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTables": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "economically depressed. The estimated 2008 median household income for Coahoma County ($28,320)",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "economically depressed. The estimated 2008 median household income for Coahoma County (",
+            "Cost": "$28,320",
+            "Extra": null
+          },
+          {
+            "Item": "was below the state median household income (",
+            "Cost": "$37,818",
+            "Extra": null
+          },
+          {
+            "Item": "(1995) estimated that each ton of soil lost to erosion was worth about",
+            "Cost": "$6.75",
+            "Extra": null
+          },
+          {
+            "Item": "farmer (",
+            "Cost": "$5.00",
+            "Extra": "$1.75"
+          },
+          {
+            "Item": "estimate of dollars lost from the watershed is about",
+            "Cost": "$297,000",
+            "Extra": "$6.75"
+          },
+          {
+            "Item": "discussed above. The total estimated budget for these activities is approximately",
+            "Cost": "$1",
+            "Extra": null
+          },
+          {
+            "Item": "Restore Wetlands",
+            "Cost": "$800,000",
+            "Extra": null
+          },
+          {
+            "Item": "total budget for these activities is",
+            "Cost": "$105,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMP outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "was below the state median household income ($37,818), and were in the lowest 11% of the state.2",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "was below the state median household income (",
+            "Cost": "$37,818",
+            "Extra": null
+          },
+          {
+            "Item": "(1995) estimated that each ton of soil lost to erosion was worth about",
+            "Cost": "$6.75",
+            "Extra": null
+          },
+          {
+            "Item": "farmer (",
+            "Cost": "$5.00",
+            "Extra": "$1.75"
+          },
+          {
+            "Item": "estimate of dollars lost from the watershed is about",
+            "Cost": "$297,000",
+            "Extra": "$6.75"
+          },
+          {
+            "Item": "discussed above. The total estimated budget for these activities is approximately",
+            "Cost": "$1",
+            "Extra": null
+          },
+          {
+            "Item": "Restore Wetlands",
+            "Cost": "$800,000",
+            "Extra": null
+          },
+          {
+            "Item": "total budget for these activities is",
+            "Cost": "$105,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMP outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "(1995) estimated that each ton of soil lost to erosion was worth about $6.75 per year to the",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "(1995) estimated that each ton of soil lost to erosion was worth about",
+            "Cost": "$6.75",
+            "Extra": null
+          },
+          {
+            "Item": "farmer (",
+            "Cost": "$5.00",
+            "Extra": "$1.75"
+          },
+          {
+            "Item": "estimate of dollars lost from the watershed is about",
+            "Cost": "$297,000",
+            "Extra": "$6.75"
+          },
+          {
+            "Item": "discussed above. The total estimated budget for these activities is approximately",
+            "Cost": "$1",
+            "Extra": null
+          },
+          {
+            "Item": "Restore Wetlands",
+            "Cost": "$800,000",
+            "Extra": null
+          },
+          {
+            "Item": "total budget for these activities is",
+            "Cost": "$105,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMP outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "farmer ($5.00 per ton for lost nutrients, and $1.75 per ton for lost soil and water capacity). The",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "farmer (",
+            "Cost": "$5.00",
+            "Extra": "$1.75"
+          },
+          {
+            "Item": "estimate of dollars lost from the watershed is about",
+            "Cost": "$297,000",
+            "Extra": "$6.75"
+          },
+          {
+            "Item": "discussed above. The total estimated budget for these activities is approximately",
+            "Cost": "$1",
+            "Extra": null
+          },
+          {
+            "Item": "Restore Wetlands",
+            "Cost": "$800,000",
+            "Extra": null
+          },
+          {
+            "Item": "total budget for these activities is",
+            "Cost": "$105,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMP outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "estimate of dollars lost from the watershed is about $297,000 per year (44,000 x $6.75).",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "estimate of dollars lost from the watershed is about",
+            "Cost": "$297,000",
+            "Extra": "$6.75"
+          },
+          {
+            "Item": "discussed above. The total estimated budget for these activities is approximately",
+            "Cost": "$1",
+            "Extra": null
+          },
+          {
+            "Item": "Restore Wetlands",
+            "Cost": "$800,000",
+            "Extra": null
+          },
+          {
+            "Item": "total budget for these activities is",
+            "Cost": "$105,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMP outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "discussed above. The total estimated budget for these activities is approximately $1.6 million.",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "discussed above. The total estimated budget for these activities is approximately",
+            "Cost": "$1",
+            "Extra": null
+          },
+          {
+            "Item": "Restore Wetlands",
+            "Cost": "$800,000",
+            "Extra": null
+          },
+          {
+            "Item": "total budget for these activities is",
+            "Cost": "$105,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMP outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$616,250",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Restore Wetlands",
+            "Cost": "$800,000",
+            "Extra": null
+          },
+          {
+            "Item": "total budget for these activities is",
+            "Cost": "$105,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMP outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$252,960",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Restore Wetlands",
+            "Cost": "$800,000",
+            "Extra": null
+          },
+          {
+            "Item": "total budget for these activities is",
+            "Cost": "$105,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMP outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$2,363,485",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Restore Wetlands",
+            "Cost": "$800,000",
+            "Extra": null
+          },
+          {
+            "Item": "total budget for these activities is",
+            "Cost": "$105,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMP outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$2,964,390",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Restore Wetlands",
+            "Cost": "$800,000",
+            "Extra": null
+          },
+          {
+            "Item": "total budget for these activities is",
+            "Cost": "$105,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMP outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$75,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Restore Wetlands",
+            "Cost": "$800,000",
+            "Extra": null
+          },
+          {
+            "Item": "total budget for these activities is",
+            "Cost": "$105,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMP outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$480,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Restore Wetlands",
+            "Cost": "$800,000",
+            "Extra": null
+          },
+          {
+            "Item": "total budget for these activities is",
+            "Cost": "$105,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMP outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$4,992,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Restore Wetlands",
+            "Cost": "$800,000",
+            "Extra": null
+          },
+          {
+            "Item": "total budget for these activities is",
+            "Cost": "$105,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMP outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Restore Wetlands $800,000 NRCS/Producer",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Restore Wetlands",
+            "Cost": "$800,000",
+            "Extra": null
+          },
+          {
+            "Item": "total budget for these activities is",
+            "Cost": "$105,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMP outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$168,000 NRCS/EPA/Producer",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "total budget for these activities is",
+            "Cost": "$105,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMP outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$263,250 NRCS/EPA/Producer",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "total budget for these activities is",
+            "Cost": "$105,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMP outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$942,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "total budget for these activities is",
+            "Cost": "$105,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMP outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$27,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "total budget for these activities is",
+            "Cost": "$105,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMP outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "total budget for these activities is $105,000.00.",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "total budget for these activities is",
+            "Cost": "$105,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "BMP outreach",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "PHAUCET outreach",
+            "Cost": "$15,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "economically depressed. The estimated 2008 median household income for Coahoma County ($28,320)",
+      "rows": [
+        {
+          "name": "economically depressed. The estimated 2008 median household income for Coahoma County (",
+          "totalCost": 28320,
+          "rawCost": "$28,320"
+        },
+        {
+          "name": "was below the state median household income (",
+          "totalCost": 37818,
+          "rawCost": "$37,818"
+        },
+        {
+          "name": "(1995) estimated that each ton of soil lost to erosion was worth about",
+          "totalCost": 6.75,
+          "rawCost": "$6.75"
+        },
+        {
+          "name": "farmer (",
+          "totalCost": 5,
+          "rawCost": "$5.00"
+        },
+        {
+          "name": "estimate of dollars lost from the watershed is about",
+          "totalCost": 297000,
+          "rawCost": "$297,000"
+        },
+        {
+          "name": "discussed above. The total estimated budget for these activities is approximately",
+          "totalCost": 1,
+          "rawCost": "$1"
+        },
+        {
+          "name": "Restore Wetlands",
+          "totalCost": 800000,
+          "rawCost": "$800,000"
+        },
+        {
+          "name": "total budget for these activities is",
+          "totalCost": 105000,
+          "rawCost": "$105,000.00"
+        },
+        {
+          "name": "BMP outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1343150.75,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "was below the state median household income ($37,818), and were in the lowest 11% of the state.2",
+      "rows": [
+        {
+          "name": "was below the state median household income (",
+          "totalCost": 37818,
+          "rawCost": "$37,818"
+        },
+        {
+          "name": "(1995) estimated that each ton of soil lost to erosion was worth about",
+          "totalCost": 6.75,
+          "rawCost": "$6.75"
+        },
+        {
+          "name": "farmer (",
+          "totalCost": 5,
+          "rawCost": "$5.00"
+        },
+        {
+          "name": "estimate of dollars lost from the watershed is about",
+          "totalCost": 297000,
+          "rawCost": "$297,000"
+        },
+        {
+          "name": "discussed above. The total estimated budget for these activities is approximately",
+          "totalCost": 1,
+          "rawCost": "$1"
+        },
+        {
+          "name": "Restore Wetlands",
+          "totalCost": 800000,
+          "rawCost": "$800,000"
+        },
+        {
+          "name": "total budget for these activities is",
+          "totalCost": 105000,
+          "rawCost": "$105,000.00"
+        },
+        {
+          "name": "BMP outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1314830.75,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "(1995) estimated that each ton of soil lost to erosion was worth about $6.75 per year to the",
+      "rows": [
+        {
+          "name": "(1995) estimated that each ton of soil lost to erosion was worth about",
+          "totalCost": 6.75,
+          "rawCost": "$6.75"
+        },
+        {
+          "name": "farmer (",
+          "totalCost": 5,
+          "rawCost": "$5.00"
+        },
+        {
+          "name": "estimate of dollars lost from the watershed is about",
+          "totalCost": 297000,
+          "rawCost": "$297,000"
+        },
+        {
+          "name": "discussed above. The total estimated budget for these activities is approximately",
+          "totalCost": 1,
+          "rawCost": "$1"
+        },
+        {
+          "name": "Restore Wetlands",
+          "totalCost": 800000,
+          "rawCost": "$800,000"
+        },
+        {
+          "name": "total budget for these activities is",
+          "totalCost": 105000,
+          "rawCost": "$105,000.00"
+        },
+        {
+          "name": "BMP outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1277012.75,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "farmer ($5.00 per ton for lost nutrients, and $1.75 per ton for lost soil and water capacity). The",
+      "rows": [
+        {
+          "name": "farmer (",
+          "totalCost": 5,
+          "rawCost": "$5.00"
+        },
+        {
+          "name": "estimate of dollars lost from the watershed is about",
+          "totalCost": 297000,
+          "rawCost": "$297,000"
+        },
+        {
+          "name": "discussed above. The total estimated budget for these activities is approximately",
+          "totalCost": 1,
+          "rawCost": "$1"
+        },
+        {
+          "name": "Restore Wetlands",
+          "totalCost": 800000,
+          "rawCost": "$800,000"
+        },
+        {
+          "name": "total budget for these activities is",
+          "totalCost": 105000,
+          "rawCost": "$105,000.00"
+        },
+        {
+          "name": "BMP outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1277006,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "estimate of dollars lost from the watershed is about $297,000 per year (44,000 x $6.75).",
+      "rows": [
+        {
+          "name": "estimate of dollars lost from the watershed is about",
+          "totalCost": 297000,
+          "rawCost": "$297,000"
+        },
+        {
+          "name": "discussed above. The total estimated budget for these activities is approximately",
+          "totalCost": 1,
+          "rawCost": "$1"
+        },
+        {
+          "name": "Restore Wetlands",
+          "totalCost": 800000,
+          "rawCost": "$800,000"
+        },
+        {
+          "name": "total budget for these activities is",
+          "totalCost": 105000,
+          "rawCost": "$105,000.00"
+        },
+        {
+          "name": "BMP outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1277001,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "discussed above. The total estimated budget for these activities is approximately $1.6 million.",
+      "rows": [
+        {
+          "name": "discussed above. The total estimated budget for these activities is approximately",
+          "totalCost": 1,
+          "rawCost": "$1"
+        },
+        {
+          "name": "Restore Wetlands",
+          "totalCost": 800000,
+          "rawCost": "$800,000"
+        },
+        {
+          "name": "total budget for these activities is",
+          "totalCost": 105000,
+          "rawCost": "$105,000.00"
+        },
+        {
+          "name": "BMP outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 980001,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$616,250",
+      "rows": [
+        {
+          "name": "Restore Wetlands",
+          "totalCost": 800000,
+          "rawCost": "$800,000"
+        },
+        {
+          "name": "total budget for these activities is",
+          "totalCost": 105000,
+          "rawCost": "$105,000.00"
+        },
+        {
+          "name": "BMP outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 980000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$252,960",
+      "rows": [
+        {
+          "name": "Restore Wetlands",
+          "totalCost": 800000,
+          "rawCost": "$800,000"
+        },
+        {
+          "name": "total budget for these activities is",
+          "totalCost": 105000,
+          "rawCost": "$105,000.00"
+        },
+        {
+          "name": "BMP outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 980000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$2,363,485",
+      "rows": [
+        {
+          "name": "Restore Wetlands",
+          "totalCost": 800000,
+          "rawCost": "$800,000"
+        },
+        {
+          "name": "total budget for these activities is",
+          "totalCost": 105000,
+          "rawCost": "$105,000.00"
+        },
+        {
+          "name": "BMP outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 980000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$2,964,390",
+      "rows": [
+        {
+          "name": "Restore Wetlands",
+          "totalCost": 800000,
+          "rawCost": "$800,000"
+        },
+        {
+          "name": "total budget for these activities is",
+          "totalCost": 105000,
+          "rawCost": "$105,000.00"
+        },
+        {
+          "name": "BMP outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 980000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$75,000",
+      "rows": [
+        {
+          "name": "Restore Wetlands",
+          "totalCost": 800000,
+          "rawCost": "$800,000"
+        },
+        {
+          "name": "total budget for these activities is",
+          "totalCost": 105000,
+          "rawCost": "$105,000.00"
+        },
+        {
+          "name": "BMP outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 980000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$480,000",
+      "rows": [
+        {
+          "name": "Restore Wetlands",
+          "totalCost": 800000,
+          "rawCost": "$800,000"
+        },
+        {
+          "name": "total budget for these activities is",
+          "totalCost": 105000,
+          "rawCost": "$105,000.00"
+        },
+        {
+          "name": "BMP outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 980000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$4,992,000",
+      "rows": [
+        {
+          "name": "Restore Wetlands",
+          "totalCost": 800000,
+          "rawCost": "$800,000"
+        },
+        {
+          "name": "total budget for these activities is",
+          "totalCost": 105000,
+          "rawCost": "$105,000.00"
+        },
+        {
+          "name": "BMP outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 980000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Restore Wetlands $800,000 NRCS/Producer",
+      "rows": [
+        {
+          "name": "Restore Wetlands",
+          "totalCost": 800000,
+          "rawCost": "$800,000"
+        },
+        {
+          "name": "total budget for these activities is",
+          "totalCost": 105000,
+          "rawCost": "$105,000.00"
+        },
+        {
+          "name": "BMP outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 980000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$168,000 NRCS/EPA/Producer",
+      "rows": [
+        {
+          "name": "total budget for these activities is",
+          "totalCost": 105000,
+          "rawCost": "$105,000.00"
+        },
+        {
+          "name": "BMP outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 180000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$263,250 NRCS/EPA/Producer",
+      "rows": [
+        {
+          "name": "total budget for these activities is",
+          "totalCost": 105000,
+          "rawCost": "$105,000.00"
+        },
+        {
+          "name": "BMP outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 180000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$942,000",
+      "rows": [
+        {
+          "name": "total budget for these activities is",
+          "totalCost": 105000,
+          "rawCost": "$105,000.00"
+        },
+        {
+          "name": "BMP outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 180000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$27,000",
+      "rows": [
+        {
+          "name": "total budget for these activities is",
+          "totalCost": 105000,
+          "rawCost": "$105,000.00"
+        },
+        {
+          "name": "BMP outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 180000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "total budget for these activities is $105,000.00.",
+      "rows": [
+        {
+          "name": "total budget for these activities is",
+          "totalCost": 105000,
+          "rawCost": "$105,000.00"
+        },
+        {
+          "name": "BMP outreach",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "PHAUCET outreach",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 180000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-02T13:23:25.559Z",
+  "metadata": {
+    "sourceId": "overcup-slough-watershed-plan-2013",
+    "sourceFile": "overcup-slough-watershed-plan-2013.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "adaptive_generic_costs",
+        "title": "economically depressed. The estimated 2008 median household income for Coahoma County ($28,320)",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1343150.75
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "was below the state median household income ($37,818), and were in the lowest 11% of the state.2",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1314830.75
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "(1995) estimated that each ton of soil lost to erosion was worth about $6.75 per year to the",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1277012.75
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "farmer ($5.00 per ton for lost nutrients, and $1.75 per ton for lost soil and water capacity). The",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1277006
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "estimate of dollars lost from the watershed is about $297,000 per year (44,000 x $6.75).",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1277001
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "discussed above. The total estimated budget for these activities is approximately $1.6 million.",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 980001
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$616,250",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 980000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$252,960",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 980000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$2,363,485",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 980000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$2,964,390",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 980000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$75,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 980000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$480,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 980000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$4,992,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 980000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Restore Wetlands $800,000 NRCS/Producer",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 980000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$168,000 NRCS/EPA/Producer",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 180000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$263,250 NRCS/EPA/Producer",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 180000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$942,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 180000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$27,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 180000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "total budget for these activities is $105,000.00.",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 180000
+      }
+    ]
+  }
+}

@@ -1,0 +1,2626 @@
+{
+  "id": "platner-bayou-tippo-bayou-9-key-element-plan-2021",
+  "summary": {
+    "totalGoals": 1,
+    "totalBMPs": 3,
+    "totalActivities": 0,
+    "primaryGoals": 1,
+    "completionRate": 0,
+    "totalMetrics": 128,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 1,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "General": 3
+    },
+    "avgGoalConfidence": 0.95,
+    "strongGoals": 1
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "confidence": 0.95,
+      "isPrimary": true,
+      "primaryReason": "bronze_direct_slice",
+      "description": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "originalSentence": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "shortTitle": "The ultimate goal is to bring about behavior changes and the use of \"best…",
+      "_present": false
+    }
+  ],
+  "mainGoals": [
+    {
+      "id": "G1",
+      "title": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "confidence": 0.95,
+      "isPrimary": true,
+      "primaryReason": "bronze_direct_slice",
+      "description": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "originalSentence": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "shortTitle": "The ultimate goal is to bring about behavior changes and the use of \"best…",
+      "_present": false
+    }
+  ],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "Technical Assistance N/A",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.25,
+      "source": "summary_line:Technical Assistance N/A $15,000",
+      "_present": true
+    },
+    {
+      "id": "B2",
+      "name": "Education and Outreach N/A",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.25,
+      "source": "summary_line:Education and Outreach N/A $14,000",
+      "_present": true
+    },
+    {
+      "id": "B3",
+      "name": "Monitoring  N/A",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.25,
+      "source": "summary_line:Monitoring  N/A $12,880",
+      "_present": true
+    }
+  ],
+  "bmpCostTable": {
+    "id": "full_project_implementation",
+    "title": "Cost Estimate: Full Project Implementation",
+    "table": {
+      "columns": [
+        "BMP",
+        "Size/Amount",
+        "Estimated Cost"
+      ],
+      "rows": [
+        {
+          "BMP": "Technical Assistance",
+          "Size/Amount": "N/A",
+          "Estimated Cost": "$45,000"
+        },
+        {
+          "BMP": "Education and Outreach",
+          "Size/Amount": "N/A",
+          "Estimated Cost": "$28,000"
+        },
+        {
+          "BMP": "Monitoring",
+          "Size/Amount": "N/A",
+          "Estimated Cost": "$25,760"
+        }
+      ],
+      "total": null
+    },
+    "patternId": "full_project_estimate",
+    "patternConfidence": 0.65
+  },
+  "bmpCostTableNormalized": {
+    "id": "full_project_implementation",
+    "title": "Cost Estimate: Full Project Implementation",
+    "patternId": "full_project_estimate",
+    "patternConfidence": 0.65,
+    "rows": [
+      {
+        "name": "Technical Assistance",
+        "rawSize": "N/A",
+        "rawCost": "$45,000",
+        "quantity": null,
+        "unit": null,
+        "unitRaw": null,
+        "unitCost": null,
+        "totalCost": 45000
+      },
+      {
+        "name": "Education and Outreach",
+        "rawSize": "N/A",
+        "rawCost": "$28,000",
+        "quantity": null,
+        "unit": null,
+        "unitRaw": null,
+        "unitCost": null,
+        "totalCost": 28000
+      },
+      {
+        "name": "Monitoring",
+        "rawSize": "N/A",
+        "rawCost": "$25,760",
+        "quantity": null,
+        "unit": null,
+        "unitRaw": null,
+        "unitCost": null,
+        "totalCost": 25760
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 98760,
+    "discrepancy": null
+  },
+  "bmpCostTables": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "85 each @ $8,000 $680,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "85 each @",
+            "Cost": "$8,000",
+            "Extra": "$680,000"
+          },
+          {
+            "Item": "10,000 sq.ft. @",
+            "Cost": "$3.93",
+            "Extra": "$39,300"
+          },
+          {
+            "Item": "10 each @",
+            "Cost": "$6,000",
+            "Extra": "$60,000"
+          },
+          {
+            "Item": "5,000 ac @",
+            "Cost": "$73",
+            "Extra": "$365,000"
+          },
+          {
+            "Item": "1,040 ft. @",
+            "Cost": "$4.50",
+            "Extra": "$4,680"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "10,000 sq.ft. @ $3.93 $39,300",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "10,000 sq.ft. @",
+            "Cost": "$3.93",
+            "Extra": "$39,300"
+          },
+          {
+            "Item": "10 each @",
+            "Cost": "$6,000",
+            "Extra": "$60,000"
+          },
+          {
+            "Item": "5,000 ac @",
+            "Cost": "$73",
+            "Extra": "$365,000"
+          },
+          {
+            "Item": "1,040 ft. @",
+            "Cost": "$4.50",
+            "Extra": "$4,680"
+          },
+          {
+            "Item": "136,000 ft. @",
+            "Cost": "$1.90",
+            "Extra": "$258,400"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "10 each @ $6,000 $60,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "10 each @",
+            "Cost": "$6,000",
+            "Extra": "$60,000"
+          },
+          {
+            "Item": "5,000 ac @",
+            "Cost": "$73",
+            "Extra": "$365,000"
+          },
+          {
+            "Item": "1,040 ft. @",
+            "Cost": "$4.50",
+            "Extra": "$4,680"
+          },
+          {
+            "Item": "136,000 ft. @",
+            "Cost": "$1.90",
+            "Extra": "$258,400"
+          },
+          {
+            "Item": "5 @",
+            "Cost": "$6,250",
+            "Extra": "$31,250"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "5,000 ac @ $73 $365,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "5,000 ac @",
+            "Cost": "$73",
+            "Extra": "$365,000"
+          },
+          {
+            "Item": "1,040 ft. @",
+            "Cost": "$4.50",
+            "Extra": "$4,680"
+          },
+          {
+            "Item": "136,000 ft. @",
+            "Cost": "$1.90",
+            "Extra": "$258,400"
+          },
+          {
+            "Item": "5 @",
+            "Cost": "$6,250",
+            "Extra": "$31,250"
+          },
+          {
+            "Item": "20,000 ft. @",
+            "Cost": "$4.50",
+            "Extra": "$90,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "1,040 ft. @ $4.50 $4,680",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "1,040 ft. @",
+            "Cost": "$4.50",
+            "Extra": "$4,680"
+          },
+          {
+            "Item": "136,000 ft. @",
+            "Cost": "$1.90",
+            "Extra": "$258,400"
+          },
+          {
+            "Item": "5 @",
+            "Cost": "$6,250",
+            "Extra": "$31,250"
+          },
+          {
+            "Item": "20,000 ft. @",
+            "Cost": "$4.50",
+            "Extra": "$90,000"
+          },
+          {
+            "Item": "15 each @",
+            "Cost": "$5,000",
+            "Extra": "$75,000"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "136,000 ft. @ $1.90 $258,400",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "136,000 ft. @",
+            "Cost": "$1.90",
+            "Extra": "$258,400"
+          },
+          {
+            "Item": "5 @",
+            "Cost": "$6,250",
+            "Extra": "$31,250"
+          },
+          {
+            "Item": "20,000 ft. @",
+            "Cost": "$4.50",
+            "Extra": "$90,000"
+          },
+          {
+            "Item": "15 each @",
+            "Cost": "$5,000",
+            "Extra": "$75,000"
+          },
+          {
+            "Item": "300 ac. @",
+            "Cost": "$211",
+            "Extra": "$63,300"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "5 @ $6,250 $31,250",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "5 @",
+            "Cost": "$6,250",
+            "Extra": "$31,250"
+          },
+          {
+            "Item": "20,000 ft. @",
+            "Cost": "$4.50",
+            "Extra": "$90,000"
+          },
+          {
+            "Item": "15 each @",
+            "Cost": "$5,000",
+            "Extra": "$75,000"
+          },
+          {
+            "Item": "300 ac. @",
+            "Cost": "$211",
+            "Extra": "$63,300"
+          },
+          {
+            "Item": "2,500 ft. @",
+            "Cost": "$166.87",
+            "Extra": "$417,175"
+          },
+          {
+            "Item": "Technical Assistance* N/A",
+            "Cost": "$45,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach* N/A",
+            "Cost": "$28,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring*  N/A",
+            "Cost": "$25,760",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "20,000 ft. @ $4.50 $90,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "20,000 ft. @",
+            "Cost": "$4.50",
+            "Extra": "$90,000"
+          },
+          {
+            "Item": "15 each @",
+            "Cost": "$5,000",
+            "Extra": "$75,000"
+          },
+          {
+            "Item": "300 ac. @",
+            "Cost": "$211",
+            "Extra": "$63,300"
+          },
+          {
+            "Item": "2,500 ft. @",
+            "Cost": "$166.87",
+            "Extra": "$417,175"
+          },
+          {
+            "Item": "Technical Assistance* N/A",
+            "Cost": "$45,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach* N/A",
+            "Cost": "$28,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring*  N/A",
+            "Cost": "$25,760",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "15 each @ $5,000 $75,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "15 each @",
+            "Cost": "$5,000",
+            "Extra": "$75,000"
+          },
+          {
+            "Item": "300 ac. @",
+            "Cost": "$211",
+            "Extra": "$63,300"
+          },
+          {
+            "Item": "2,500 ft. @",
+            "Cost": "$166.87",
+            "Extra": "$417,175"
+          },
+          {
+            "Item": "Technical Assistance* N/A",
+            "Cost": "$45,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach* N/A",
+            "Cost": "$28,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring*  N/A",
+            "Cost": "$25,760",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "300 ac. @ $211 $63,300",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "300 ac. @",
+            "Cost": "$211",
+            "Extra": "$63,300"
+          },
+          {
+            "Item": "2,500 ft. @",
+            "Cost": "$166.87",
+            "Extra": "$417,175"
+          },
+          {
+            "Item": "Technical Assistance* N/A",
+            "Cost": "$45,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach* N/A",
+            "Cost": "$28,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring*  N/A",
+            "Cost": "$25,760",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "2,500 ft. @ $166.87 $417,175",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "2,500 ft. @ $166.87",
+            "Cost": "$417,175"
+          },
+          {
+            "Item": "Technical Assistance* N/A",
+            "Cost": "$45,000"
+          },
+          {
+            "Item": "Education and Outreach* N/A",
+            "Cost": "$28,000"
+          },
+          {
+            "Item": "Monitoring*  N/A",
+            "Cost": "$25,760"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Technical Assistance* N/A $45,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Technical Assistance* N/A",
+            "Cost": "$45,000"
+          },
+          {
+            "Item": "Education and Outreach* N/A",
+            "Cost": "$28,000"
+          },
+          {
+            "Item": "Monitoring*  N/A",
+            "Cost": "$25,760"
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000"
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$14,000"
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$12,880"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Education and Outreach* N/A $28,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Education and Outreach* N/A",
+            "Cost": "$28,000"
+          },
+          {
+            "Item": "Monitoring*  N/A",
+            "Cost": "$25,760"
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000"
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$14,000"
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$12,880"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "$166.87 $166,870",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "$166.87",
+            "Cost": "$166,870"
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000"
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$14,000"
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$12,880"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "full_project_implementation",
+      "title": "Cost Estimate: Full Project Implementation",
+      "table": {
+        "columns": [
+          "BMP",
+          "Size/Amount",
+          "Estimated Cost"
+        ],
+        "rows": [
+          {
+            "BMP": "Technical Assistance",
+            "Size/Amount": "N/A",
+            "Estimated Cost": "$45,000"
+          },
+          {
+            "BMP": "Education and Outreach",
+            "Size/Amount": "N/A",
+            "Estimated Cost": "$28,000"
+          },
+          {
+            "BMP": "Monitoring",
+            "Size/Amount": "N/A",
+            "Estimated Cost": "$25,760"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "full_project_estimate",
+      "patternConfidence": 0.65
+    },
+    {
+      "id": "phase1_implementation",
+      "title": "Cost Estimate: Phase 1 Implementation",
+      "table": {
+        "columns": [
+          "BMP",
+          "Size/Amount",
+          "Estimated Cost"
+        ],
+        "rows": [
+          {
+            "BMP": "$",
+            "Size/Amount": "3.93",
+            "Estimated Cost": "$19,650"
+          },
+          {
+            "BMP": "Technical Assistance",
+            "Size/Amount": "N/A",
+            "Estimated Cost": "$15,000"
+          },
+          {
+            "BMP": "Education and Outreach",
+            "Size/Amount": "N/A",
+            "Estimated Cost": "$14,000"
+          },
+          {
+            "BMP": "Monitoring",
+            "Size/Amount": "N/A",
+            "Estimated Cost": "$12,880"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "phase1_estimate",
+      "patternConfidence": 0.65
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "85 each @ $8,000 $680,000",
+      "rows": [
+        {
+          "name": "85 each @",
+          "totalCost": 8000,
+          "rawCost": "$8,000"
+        },
+        {
+          "name": "10,000 sq.ft. @",
+          "totalCost": 3.93,
+          "rawCost": "$3.93"
+        },
+        {
+          "name": "10 each @",
+          "totalCost": 6000,
+          "rawCost": "$6,000"
+        },
+        {
+          "name": "5,000 ac @",
+          "totalCost": 73,
+          "rawCost": "$73"
+        },
+        {
+          "name": "1,040 ft. @",
+          "totalCost": 4.5,
+          "rawCost": "$4.50"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 14081.43,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "10,000 sq.ft. @ $3.93 $39,300",
+      "rows": [
+        {
+          "name": "10,000 sq.ft. @",
+          "totalCost": 3.93,
+          "rawCost": "$3.93"
+        },
+        {
+          "name": "10 each @",
+          "totalCost": 6000,
+          "rawCost": "$6,000"
+        },
+        {
+          "name": "5,000 ac @",
+          "totalCost": 73,
+          "rawCost": "$73"
+        },
+        {
+          "name": "1,040 ft. @",
+          "totalCost": 4.5,
+          "rawCost": "$4.50"
+        },
+        {
+          "name": "136,000 ft. @",
+          "totalCost": 1.9,
+          "rawCost": "$1.90"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 6083.33,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "10 each @ $6,000 $60,000",
+      "rows": [
+        {
+          "name": "10 each @",
+          "totalCost": 6000,
+          "rawCost": "$6,000"
+        },
+        {
+          "name": "5,000 ac @",
+          "totalCost": 73,
+          "rawCost": "$73"
+        },
+        {
+          "name": "1,040 ft. @",
+          "totalCost": 4.5,
+          "rawCost": "$4.50"
+        },
+        {
+          "name": "136,000 ft. @",
+          "totalCost": 1.9,
+          "rawCost": "$1.90"
+        },
+        {
+          "name": "5 @",
+          "totalCost": 6250,
+          "rawCost": "$6,250"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 12329.4,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "5,000 ac @ $73 $365,000",
+      "rows": [
+        {
+          "name": "5,000 ac @",
+          "totalCost": 73,
+          "rawCost": "$73"
+        },
+        {
+          "name": "1,040 ft. @",
+          "totalCost": 4.5,
+          "rawCost": "$4.50"
+        },
+        {
+          "name": "136,000 ft. @",
+          "totalCost": 1.9,
+          "rawCost": "$1.90"
+        },
+        {
+          "name": "5 @",
+          "totalCost": 6250,
+          "rawCost": "$6,250"
+        },
+        {
+          "name": "20,000 ft. @",
+          "totalCost": 4.5,
+          "rawCost": "$4.50"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 6333.9,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "1,040 ft. @ $4.50 $4,680",
+      "rows": [
+        {
+          "name": "1,040 ft. @",
+          "totalCost": 4.5,
+          "rawCost": "$4.50"
+        },
+        {
+          "name": "136,000 ft. @",
+          "totalCost": 1.9,
+          "rawCost": "$1.90"
+        },
+        {
+          "name": "5 @",
+          "totalCost": 6250,
+          "rawCost": "$6,250"
+        },
+        {
+          "name": "20,000 ft. @",
+          "totalCost": 4.5,
+          "rawCost": "$4.50"
+        },
+        {
+          "name": "15 each @",
+          "totalCost": 5000,
+          "rawCost": "$5,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 11260.9,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "136,000 ft. @ $1.90 $258,400",
+      "rows": [
+        {
+          "name": "136,000 ft. @",
+          "totalCost": 1.9,
+          "rawCost": "$1.90"
+        },
+        {
+          "name": "5 @",
+          "totalCost": 6250,
+          "rawCost": "$6,250"
+        },
+        {
+          "name": "20,000 ft. @",
+          "totalCost": 4.5,
+          "rawCost": "$4.50"
+        },
+        {
+          "name": "15 each @",
+          "totalCost": 5000,
+          "rawCost": "$5,000"
+        },
+        {
+          "name": "300 ac. @",
+          "totalCost": 211,
+          "rawCost": "$211"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 11467.4,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "5 @ $6,250 $31,250",
+      "rows": [
+        {
+          "name": "5 @",
+          "totalCost": 6250,
+          "rawCost": "$6,250"
+        },
+        {
+          "name": "20,000 ft. @",
+          "totalCost": 4.5,
+          "rawCost": "$4.50"
+        },
+        {
+          "name": "15 each @",
+          "totalCost": 5000,
+          "rawCost": "$5,000"
+        },
+        {
+          "name": "300 ac. @",
+          "totalCost": 211,
+          "rawCost": "$211"
+        },
+        {
+          "name": "2,500 ft. @",
+          "totalCost": 166.87,
+          "rawCost": "$166.87"
+        },
+        {
+          "name": "Technical Assistance* N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "Education and Outreach* N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "Monitoring*  N/A",
+          "totalCost": 25760,
+          "rawCost": "$25,760"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 110392.37,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "20,000 ft. @ $4.50 $90,000",
+      "rows": [
+        {
+          "name": "20,000 ft. @",
+          "totalCost": 4.5,
+          "rawCost": "$4.50"
+        },
+        {
+          "name": "15 each @",
+          "totalCost": 5000,
+          "rawCost": "$5,000"
+        },
+        {
+          "name": "300 ac. @",
+          "totalCost": 211,
+          "rawCost": "$211"
+        },
+        {
+          "name": "2,500 ft. @",
+          "totalCost": 166.87,
+          "rawCost": "$166.87"
+        },
+        {
+          "name": "Technical Assistance* N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "Education and Outreach* N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "Monitoring*  N/A",
+          "totalCost": 25760,
+          "rawCost": "$25,760"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 104142.37,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "15 each @ $5,000 $75,000",
+      "rows": [
+        {
+          "name": "15 each @",
+          "totalCost": 5000,
+          "rawCost": "$5,000"
+        },
+        {
+          "name": "300 ac. @",
+          "totalCost": 211,
+          "rawCost": "$211"
+        },
+        {
+          "name": "2,500 ft. @",
+          "totalCost": 166.87,
+          "rawCost": "$166.87"
+        },
+        {
+          "name": "Technical Assistance* N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "Education and Outreach* N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "Monitoring*  N/A",
+          "totalCost": 25760,
+          "rawCost": "$25,760"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 104137.87,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "300 ac. @ $211 $63,300",
+      "rows": [
+        {
+          "name": "300 ac. @",
+          "totalCost": 211,
+          "rawCost": "$211"
+        },
+        {
+          "name": "2,500 ft. @",
+          "totalCost": 166.87,
+          "rawCost": "$166.87"
+        },
+        {
+          "name": "Technical Assistance* N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "Education and Outreach* N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "Monitoring*  N/A",
+          "totalCost": 25760,
+          "rawCost": "$25,760"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 99137.87,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "2,500 ft. @ $166.87 $417,175",
+      "rows": [
+        {
+          "name": "2,500 ft. @ $166.87",
+          "totalCost": 417175,
+          "rawCost": "$417,175"
+        },
+        {
+          "name": "Technical Assistance* N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "Education and Outreach* N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "Monitoring*  N/A",
+          "totalCost": 25760,
+          "rawCost": "$25,760"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 515935,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Technical Assistance* N/A $45,000",
+      "rows": [
+        {
+          "name": "Technical Assistance* N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "Education and Outreach* N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "Monitoring*  N/A",
+          "totalCost": 25760,
+          "rawCost": "$25,760"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 14000,
+          "rawCost": "$14,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 12880,
+          "rawCost": "$12,880"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 140640,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Education and Outreach* N/A $28,000",
+      "rows": [
+        {
+          "name": "Education and Outreach* N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "Monitoring*  N/A",
+          "totalCost": 25760,
+          "rawCost": "$25,760"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 14000,
+          "rawCost": "$14,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 12880,
+          "rawCost": "$12,880"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 95640,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "$166.87 $166,870",
+      "rows": [
+        {
+          "name": "$166.87",
+          "totalCost": 166870,
+          "rawCost": "$166,870"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 14000,
+          "rawCost": "$14,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 12880,
+          "rawCost": "$12,880"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 208750,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "full_project_implementation",
+      "title": "Cost Estimate: Full Project Implementation",
+      "patternId": "full_project_estimate",
+      "patternConfidence": 0.65,
+      "rows": [
+        {
+          "name": "Technical Assistance",
+          "rawSize": "N/A",
+          "rawCost": "$45,000",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 45000
+        },
+        {
+          "name": "Education and Outreach",
+          "rawSize": "N/A",
+          "rawCost": "$28,000",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 28000
+        },
+        {
+          "name": "Monitoring",
+          "rawSize": "N/A",
+          "rawCost": "$25,760",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 25760
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 98760,
+      "discrepancy": null
+    },
+    {
+      "id": "phase1_implementation",
+      "title": "Cost Estimate: Phase 1 Implementation",
+      "patternId": "phase1_estimate",
+      "patternConfidence": 0.65,
+      "rows": [
+        {
+          "name": "$",
+          "rawSize": "3.93",
+          "rawCost": "$19,650",
+          "quantity": 3.93,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 19650
+        },
+        {
+          "name": "Technical Assistance",
+          "rawSize": "N/A",
+          "rawCost": "$15,000",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 15000
+        },
+        {
+          "name": "Education and Outreach",
+          "rawSize": "N/A",
+          "rawCost": "$14,000",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 14000
+        },
+        {
+          "name": "Monitoring",
+          "rawSize": "N/A",
+          "rawCost": "$12,880",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 12880
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 61530,
+      "discrepancy": null
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [
+    {
+      "id": "M1",
+      "metric": "Completed using historical",
+      "value": null,
+      "unit": null,
+      "source": "Completed using historical",
+      "_present": true
+    },
+    {
+      "id": "M2",
+      "metric": "data",
+      "value": null,
+      "unit": null,
+      "source": "data",
+      "_present": true
+    },
+    {
+      "id": "M3",
+      "metric": "Meet with landowners and cooperators to",
+      "value": null,
+      "unit": null,
+      "source": "Meet with landowners and cooperators to",
+      "_present": true
+    },
+    {
+      "id": "M4",
+      "metric": "continue securing commitments to install",
+      "value": null,
+      "unit": null,
+      "source": "continue securing commitments to install",
+      "_present": true
+    },
+    {
+      "id": "M5",
+      "metric": "BMPs in priority areas",
+      "value": null,
+      "unit": null,
+      "source": "BMPs in priority areas",
+      "_present": true
+    },
+    {
+      "id": "M6",
+      "metric": "Landowner",
+      "value": null,
+      "unit": null,
+      "source": "Landowner",
+      "_present": true
+    },
+    {
+      "id": "M7",
+      "metric": "Commitment",
+      "value": null,
+      "unit": null,
+      "source": "Commitment",
+      "_present": true
+    },
+    {
+      "id": "M8",
+      "metric": "Months 1-36",
+      "value": null,
+      "unit": null,
+      "source": "Months 1-36",
+      "_present": true
+    },
+    {
+      "id": "M9",
+      "metric": "Establish routine meeting schedule for",
+      "value": null,
+      "unit": null,
+      "source": "Establish routine meeting schedule for",
+      "_present": true
+    },
+    {
+      "id": "M10",
+      "metric": "WIT to support WBP revision",
+      "value": null,
+      "unit": null,
+      "source": "WIT to support WBP revision",
+      "_present": true
+    },
+    {
+      "id": "M11",
+      "metric": "WIT meetings Months 1-36",
+      "value": null,
+      "unit": null,
+      "source": "WIT meetings Months 1-36",
+      "_present": true
+    },
+    {
+      "id": "M12",
+      "metric": "Implement BMPs BMP installation Months 1-36",
+      "value": null,
+      "unit": null,
+      "source": "Implement BMPs BMP installation Months 1-36",
+      "_present": true
+    },
+    {
+      "id": "M13",
+      "metric": "Coordinate with Landowners to inspect",
+      "value": null,
+      "unit": null,
+      "source": "Coordinate with Landowners to inspect",
+      "_present": true
+    },
+    {
+      "id": "M14",
+      "metric": "BMPs that were installed using Section",
+      "value": null,
+      "unit": null,
+      "source": "BMPs that were installed using Section",
+      "_present": true
+    },
+    {
+      "id": "M15",
+      "metric": "319 funds",
+      "value": null,
+      "unit": null,
+      "source": "319 funds",
+      "_present": true
+    },
+    {
+      "id": "M16",
+      "metric": "BMP Inspection Months 1-36",
+      "value": null,
+      "unit": null,
+      "source": "BMP Inspection Months 1-36",
+      "_present": true
+    },
+    {
+      "id": "M17",
+      "metric": "Begin monitoring to collect data on post-",
+      "value": null,
+      "unit": null,
+      "source": "Begin monitoring to collect data on post-",
+      "_present": true
+    },
+    {
+      "id": "M18",
+      "metric": "BMP water quality",
+      "value": null,
+      "unit": null,
+      "source": "BMP water quality",
+      "_present": true
+    },
+    {
+      "id": "M19",
+      "metric": "Post-BMP",
+      "value": null,
+      "unit": null,
+      "source": "Post-BMP",
+      "_present": true
+    },
+    {
+      "id": "M20",
+      "metric": "Months 42-48",
+      "value": null,
+      "unit": null,
+      "source": "Months 42-48",
+      "_present": true
+    },
+    {
+      "id": "M21",
+      "metric": "Implement the developed education and",
+      "value": null,
+      "unit": null,
+      "source": "Implement the developed education and",
+      "_present": true
+    },
+    {
+      "id": "M22",
+      "metric": "outreach plan",
+      "value": null,
+      "unit": null,
+      "source": "outreach plan",
+      "_present": true
+    },
+    {
+      "id": "M23",
+      "metric": "Education/Outreach",
+      "value": null,
+      "unit": null,
+      "source": "Education/Outreach",
+      "_present": true
+    },
+    {
+      "id": "M24",
+      "metric": "events scheduled",
+      "value": null,
+      "unit": null,
+      "source": "events scheduled",
+      "_present": true
+    },
+    {
+      "id": "M25",
+      "metric": "Months 1-36",
+      "value": null,
+      "unit": null,
+      "source": "Months 1-36",
+      "_present": true
+    },
+    {
+      "id": "M26",
+      "metric": "Finalize revised WBP Final Revised WBP Months 30-36",
+      "value": null,
+      "unit": null,
+      "source": "Finalize revised WBP Final Revised WBP Months 30-36",
+      "_present": true
+    },
+    {
+      "id": "M27",
+      "metric": "Element h: Load Reduction Evaluation",
+      "value": null,
+      "unit": null,
+      "source": "Element h: Load Reduction Evaluation",
+      "_present": true
+    },
+    {
+      "id": "M28",
+      "metric": "The State of Mississippi Water Quality Criteria for Intrastate, Interstate, and Coastal Waters",
+      "value": null,
+      "unit": null,
+      "source": "The State of Mississippi Water Quality Criteria for Intrastate, Interstate, and Coastal Waters",
+      "_present": true
+    },
+    {
+      "id": "M29",
+      "metric": "does not include a water quality standard applicable to aquatic life protection due to sediment or",
+      "value": null,
+      "unit": null,
+      "source": "does not include a water quality standard applicable to aquatic life protection due to sediment or",
+      "_present": true
+    },
+    {
+      "id": "M30",
+      "metric": "nutrients. However, a narrative standard for the protection of aquatic life was interpreted to",
+      "value": null,
+      "unit": null,
+      "source": "nutrients. However, a narrative standard for the protection of aquatic life was interpreted to",
+      "_present": true
+    },
+    {
+      "id": "M31",
+      "metric": "determine an applicable target for the Yazoo River Basin Delta Region TMDL. The narrative",
+      "value": null,
+      "unit": null,
+      "source": "determine an applicable target for the Yazoo River Basin Delta Region TMDL. The narrative",
+      "_present": true
+    },
+    {
+      "id": "M32",
+      "metric": "standard states that waters shall be free from materials attributable to municipal, industrial,",
+      "value": null,
+      "unit": null,
+      "source": "standard states that waters shall be free from materials attributable to municipal, industrial,",
+      "_present": true
+    },
+    {
+      "id": "M33",
+      "metric": "agricultural, or other dischargers producing color, odor, taste, total suspended solids, or other",
+      "value": null,
+      "unit": null,
+      "source": "agricultural, or other dischargers producing color, odor, taste, total suspended solids, or other",
+      "_present": true
+    },
+    {
+      "id": "M34",
+      "metric": "conditions in such degree as to create a nuisance, render the waters injurious to public health,",
+      "value": null,
+      "unit": null,
+      "source": "conditions in such degree as to create a nuisance, render the waters injurious to public health,",
+      "_present": true
+    },
+    {
+      "id": "M35",
+      "metric": "recreation, or to aquatic life and wildlife, or adversely affect the palatability of fish, aesthetic",
+      "value": null,
+      "unit": null,
+      "source": "recreation, or to aquatic life and wildlife, or adversely affect the palatability of fish, aesthetic",
+      "_present": true
+    },
+    {
+      "id": "M36",
+      "metric": "quality, or impair the waters for any designated uses.  In lieu of numeric criteria for sediment and",
+      "value": null,
+      "unit": null,
+      "source": "quality, or impair the waters for any designated uses.  In lieu of numeric criteria for sediment and",
+      "_present": true
+    },
+    {
+      "id": "M37",
+      "metric": "nutrients, the monitoring will be conducted to collect data on parameters that are considered",
+      "value": null,
+      "unit": null,
+      "source": "nutrients, the monitoring will be conducted to collect data on parameters that are considered",
+      "_present": true
+    },
+    {
+      "id": "M38",
+      "metric": "surrogates for sediment (Total Suspended Solids, Total Suspended Sediment, turbidity) and",
+      "value": null,
+      "unit": null,
+      "source": "surrogates for sediment (Total Suspended Solids, Total Suspended Sediment, turbidity) and",
+      "_present": true
+    },
+    {
+      "id": "M39",
+      "metric": "nutrients along with conventional in-situ parameters generally measured to determine aquatic",
+      "value": null,
+      "unit": null,
+      "source": "nutrients along with conventional in-situ parameters generally measured to determine aquatic",
+      "_present": true
+    },
+    {
+      "id": "M40",
+      "metric": "health (e.g. Dissolved Oxygen, pH, Temperature, Conductivity, Dissolved Solids) will also be",
+      "value": null,
+      "unit": null,
+      "source": "health (e.g. Dissolved Oxygen, pH, Temperature, Conductivity, Dissolved Solids) will also be",
+      "_present": true
+    },
+    {
+      "id": "M41",
+      "metric": "obtained.  The following thresholds will be used to measure compliance applicable with water",
+      "value": null,
+      "unit": null,
+      "source": "obtained.  The following thresholds will be used to measure compliance applicable with water",
+      "_present": true
+    },
+    {
+      "id": "M42",
+      "metric": "quality criteria and/or target thresholds:",
+      "value": null,
+      "unit": null,
+      "source": "quality criteria and/or target thresholds:",
+      "_present": true
+    },
+    {
+      "id": "M43",
+      "metric": "Platner Bayou-Tippo Bayou Watershed GY 2021",
+      "value": null,
+      "unit": null,
+      "source": "Platner Bayou-Tippo Bayou Watershed GY 2021",
+      "_present": true
+    },
+    {
+      "id": "M44",
+      "metric": "12",
+      "value": null,
+      "unit": null,
+      "source": "12",
+      "_present": true
+    },
+    {
+      "id": "M45",
+      "metric": "Parameter Threshold",
+      "value": null,
+      "unit": null,
+      "source": "Parameter Threshold",
+      "_present": true
+    },
+    {
+      "id": "M46",
+      "metric": "Dissolved Oxygen Daily Average of 5.0 mg/L; Instantaneous threshold of 4.0 mg/L",
+      "value": null,
+      "unit": null,
+      "source": "Dissolved Oxygen Daily Average of 5.0 mg/L; Instantaneous threshold of 4.0 mg/L",
+      "_present": true
+    },
+    {
+      "id": "M47",
+      "metric": "Dissolved Oxygen %",
+      "value": null,
+      "unit": null,
+      "source": "Dissolved Oxygen %",
+      "_present": true
+    },
+    {
+      "id": "M48",
+      "metric": "Sat ≥ 70% - ≤ 125%",
+      "value": null,
+      "unit": null,
+      "source": "Sat ≥ 70% - ≤ 125%",
+      "_present": true
+    },
+    {
+      "id": "M49",
+      "metric": "pH 6.0-9.0",
+      "value": null,
+      "unit": null,
+      "source": "pH 6.0-9.0",
+      "_present": true
+    },
+    {
+      "id": "M50",
+      "metric": "Temperature Not to exceed 90°F",
+      "value": null,
+      "unit": null,
+      "source": "Temperature Not to exceed 90°F",
+      "_present": true
+    },
+    {
+      "id": "M51",
+      "metric": "Specific Conductance Less Than 1000 micromhos/cm",
+      "value": null,
+      "unit": null,
+      "source": "Specific Conductance Less Than 1000 micromhos/cm",
+      "_present": true
+    },
+    {
+      "id": "M52",
+      "metric": "Dissolved Solids",
+      "value": null,
+      "unit": null,
+      "source": "Dissolved Solids",
+      "_present": true
+    },
+    {
+      "id": "M53",
+      "metric": "Monthly average less than 750 mg/L; instantaneous threshold less",
+      "value": null,
+      "unit": null,
+      "source": "Monthly average less than 750 mg/L; instantaneous threshold less",
+      "_present": true
+    },
+    {
+      "id": "M54",
+      "metric": "than 1500 mg/L",
+      "value": null,
+      "unit": null,
+      "source": "than 1500 mg/L",
+      "_present": true
+    },
+    {
+      "id": "M55",
+      "metric": "Chemical Oxygen",
+      "value": null,
+      "unit": null,
+      "source": "Chemical Oxygen",
+      "_present": true
+    },
+    {
+      "id": "M56",
+      "metric": "Demand 35 mg/L",
+      "value": null,
+      "unit": null,
+      "source": "Demand 35 mg/L",
+      "_present": true
+    },
+    {
+      "id": "M57",
+      "metric": "Total Suspended",
+      "value": null,
+      "unit": null,
+      "source": "Total Suspended",
+      "_present": true
+    },
+    {
+      "id": "M58",
+      "metric": "Solids 65 mg/L",
+      "value": null,
+      "unit": null,
+      "source": "Solids 65 mg/L",
+      "_present": true
+    },
+    {
+      "id": "M59",
+      "metric": "Turbidity 75 NTU",
+      "value": null,
+      "unit": null,
+      "source": "Turbidity 75 NTU",
+      "_present": true
+    },
+    {
+      "id": "M60",
+      "metric": "Total Nitrogen",
+      "value": null,
+      "unit": null,
+      "source": "Total Nitrogen",
+      "_present": true
+    },
+    {
+      "id": "M61",
+      "metric": "0.58 mg/L annual concentration (numeric threshold established by",
+      "value": null,
+      "unit": null,
+      "source": "0.58 mg/L annual concentration (numeric threshold established by",
+      "_present": true
+    },
+    {
+      "id": "M62",
+      "metric": "TMDLs for Patterson Bayou and Tippo Bayou)",
+      "value": null,
+      "unit": null,
+      "source": "TMDLs for Patterson Bayou and Tippo Bayou)",
+      "_present": true
+    },
+    {
+      "id": "M63",
+      "metric": "Total Phosphorus",
+      "value": null,
+      "unit": null,
+      "source": "Total Phosphorus",
+      "_present": true
+    },
+    {
+      "id": "M64",
+      "metric": "0.09 mg/L annual concentration (numeric threshold established by",
+      "value": null,
+      "unit": null,
+      "source": "0.09 mg/L annual concentration (numeric threshold established by",
+      "_present": true
+    },
+    {
+      "id": "M65",
+      "metric": "TMDLs for Patterson Bayou and Tippo Bayou)",
+      "value": null,
+      "unit": null,
+      "source": "TMDLs for Patterson Bayou and Tippo Bayou)",
+      "_present": true
+    },
+    {
+      "id": "M66",
+      "metric": "In addition to chemical data, biological community data and in stream habitat surveys will be",
+      "value": null,
+      "unit": null,
+      "source": "In addition to chemical data, biological community data and in stream habitat surveys will be",
+      "_present": true
+    },
+    {
+      "id": "M67",
+      "metric": "collected over the course of the project to determine attainment of the Aquatic Life Designated",
+      "value": null,
+      "unit": null,
+      "source": "collected over the course of the project to determine attainment of the Aquatic Life Designated",
+      "_present": true
+    },
+    {
+      "id": "M68",
+      "metric": "Use.  These data are extremely helpful in identifying trends in water quality and should provide",
+      "value": null,
+      "unit": null,
+      "source": "Use.  These data are extremely helpful in identifying trends in water quality and should provide",
+      "_present": true
+    },
+    {
+      "id": "M69",
+      "metric": "information to help determine if the implementation activities are resulting in water quality",
+      "value": null,
+      "unit": null,
+      "source": "information to help determine if the implementation activities are resulting in water quality",
+      "_present": true
+    },
+    {
+      "id": "M70",
+      "metric": "improvements.",
+      "value": null,
+      "unit": null,
+      "source": "improvements.",
+      "_present": true
+    },
+    {
+      "id": "M71",
+      "metric": "It should be noted that recovery time of a stream is variable and may extend beyond the",
+      "value": null,
+      "unit": null,
+      "source": "It should be noted that recovery time of a stream is variable and may extend beyond the",
+      "_present": true
+    },
+    {
+      "id": "M72",
+      "metric": "timeframe identified in the workplan.  At the end of the project, data will be analyzed to",
+      "value": null,
+      "unit": null,
+      "source": "timeframe identified in the workplan.  At the end of the project, data will be analyzed to",
+      "_present": true
+    },
+    {
+      "id": "M73",
+      "metric": "determine if the data indicate improvements to water quality in the Sherman Creek-Panola",
+      "value": null,
+      "unit": null,
+      "source": "determine if the data indicate improvements to water quality in the Sherman Creek-Panola",
+      "_present": true
+    },
+    {
+      "id": "M74",
+      "metric": "Quitman Floodway watershed.  In the event data indicate little or no positive change, a Stressor",
+      "value": null,
+      "unit": null,
+      "source": "Quitman Floodway watershed.  In the event data indicate little or no positive change, a Stressor",
+      "_present": true
+    },
+    {
+      "id": "M75",
+      "metric": "Analysis will be conducted to determine if any new or additional stressors are preventing",
+      "value": null,
+      "unit": null,
+      "source": "Analysis will be conducted to determine if any new or additional stressors are preventing",
+      "_present": true
+    },
+    {
+      "id": "M76",
+      "metric": "improvements to water quality.  If any new stressors are identified, the Watershed",
+      "value": null,
+      "unit": null,
+      "source": "improvements to water quality.  If any new stressors are identified, the Watershed",
+      "_present": true
+    },
+    {
+      "id": "M77",
+      "metric": "Implementation Team will identify future actions/activities to address those stressors.",
+      "value": null,
+      "unit": null,
+      "source": "Implementation Team will identify future actions/activities to address those stressors.",
+      "_present": true
+    },
+    {
+      "id": "M78",
+      "metric": "Element i: Monitoring",
+      "value": null,
+      "unit": null,
+      "source": "Element i: Monitoring",
+      "_present": true
+    },
+    {
+      "id": "M79",
+      "metric": "Prior to BMP installation, pre-implementation water quality chemical and biological monitoring",
+      "value": null,
+      "unit": null,
+      "source": "Prior to BMP installation, pre-implementation water quality chemical and biological monitoring",
+      "_present": true
+    },
+    {
+      "id": "M80",
+      "metric": "will be collected to serve as baseline data for the project along with any historical data available",
+      "value": null,
+      "unit": null,
+      "source": "will be collected to serve as baseline data for the project along with any historical data available",
+      "_present": true
+    },
+    {
+      "id": "M81",
+      "metric": "on Tippo Bayou, Patterson Bayou, and Hubbard Creek. Water quality monitoring will include",
+      "value": null,
+      "unit": null,
+      "source": "on Tippo Bayou, Patterson Bayou, and Hubbard Creek. Water quality monitoring will include",
+      "_present": true
+    },
+    {
+      "id": "M82",
+      "metric": "water chemistry data (nutrients, suspended solids, oxygen demand, chlorides, etc.), in-situ field",
+      "value": null,
+      "unit": null,
+      "source": "water chemistry data (nutrients, suspended solids, oxygen demand, chlorides, etc.), in-situ field",
+      "_present": true
+    },
+    {
+      "id": "M83",
+      "metric": "measurements for such parameters as dissolved oxygen, pH, temperature, specific conductance,",
+      "value": null,
+      "unit": null,
+      "source": "measurements for such parameters as dissolved oxygen, pH, temperature, specific conductance,",
+      "_present": true
+    },
+    {
+      "id": "M84",
+      "metric": "and turbidity, datalogger (sonde) deployment for continuous in-situ field measurement data as",
+      "value": null,
+      "unit": null,
+      "source": "and turbidity, datalogger (sonde) deployment for continuous in-situ field measurement data as",
+      "_present": true
+    },
+    {
+      "id": "M85",
+      "metric": "well as biological community monitoring for benthic macroinvertebrates and algal/periphyton",
+      "value": null,
+      "unit": null,
+      "source": "well as biological community monitoring for benthic macroinvertebrates and algal/periphyton",
+      "_present": true
+    },
+    {
+      "id": "M86",
+      "metric": "chlorophyll-a in support of Delta nutrient criteria development. A list of this historical water",
+      "value": null,
+      "unit": null,
+      "source": "chlorophyll-a in support of Delta nutrient criteria development. A list of this historical water",
+      "_present": true
+    },
+    {
+      "id": "M87",
+      "metric": "Platner Bayou-Tippo Bayou Watershed GY 2021",
+      "value": null,
+      "unit": null,
+      "source": "Platner Bayou-Tippo Bayou Watershed GY 2021",
+      "_present": true
+    },
+    {
+      "id": "M88",
+      "metric": "13",
+      "value": null,
+      "unit": null,
+      "source": "13",
+      "_present": true
+    },
+    {
+      "id": "M89",
+      "metric": "quality monitoring in the Platner Bayou-Tippo Bayou watershed is provided in the table below",
+      "value": null,
+      "unit": null,
+      "source": "quality monitoring in the Platner Bayou-Tippo Bayou watershed is provided in the table below",
+      "_present": true
+    },
+    {
+      "id": "M90",
+      "metric": "and their sample locations are shown in Figures 1 and 2.",
+      "value": null,
+      "unit": null,
+      "source": "and their sample locations are shown in Figures 1 and 2.",
+      "_present": true
+    },
+    {
+      "id": "M91",
+      "metric": "Station",
+      "value": null,
+      "unit": null,
+      "source": "Station",
+      "_present": true
+    },
+    {
+      "id": "M92",
+      "metric": "ID",
+      "value": null,
+      "unit": null,
+      "source": "ID",
+      "_present": true
+    },
+    {
+      "id": "M93",
+      "metric": "Water",
+      "value": null,
+      "unit": null,
+      "source": "Water",
+      "_present": true
+    },
+    {
+      "id": "M94",
+      "metric": "Body",
+      "value": null,
+      "unit": null,
+      "source": "Body",
+      "_present": true
+    },
+    {
+      "id": "M95",
+      "metric": "Sample",
+      "value": null,
+      "unit": null,
+      "source": "Sample",
+      "_present": true
+    },
+    {
+      "id": "M96",
+      "metric": "Year(s)",
+      "value": null,
+      "unit": null,
+      "source": "Year(s)",
+      "_present": true
+    },
+    {
+      "id": "M97",
+      "metric": "Collecting",
+      "value": null,
+      "unit": null,
+      "source": "Collecting",
+      "_present": true
+    },
+    {
+      "id": "M98",
+      "metric": "Agency",
+      "value": null,
+      "unit": null,
+      "source": "Agency",
+      "_present": true
+    },
+    {
+      "id": "M99",
+      "metric": "Project Water",
+      "value": null,
+      "unit": null,
+      "source": "Project Water",
+      "_present": true
+    },
+    {
+      "id": "M100",
+      "metric": "Chem",
+      "value": null,
+      "unit": null,
+      "source": "Chem",
+      "_present": true
+    },
+    {
+      "id": "M101",
+      "metric": "In-",
+      "value": null,
+      "unit": null,
+      "source": "In-",
+      "_present": true
+    },
+    {
+      "id": "M102",
+      "metric": "Situ",
+      "value": null,
+      "unit": null,
+      "source": "Situ",
+      "_present": true
+    },
+    {
+      "id": "M103",
+      "metric": "Sonde Benthics",
+      "value": null,
+      "unit": null,
+      "source": "Sonde Benthics",
+      "_present": true
+    },
+    {
+      "id": "M104",
+      "metric": "and/or",
+      "value": null,
+      "unit": null,
+      "source": "and/or",
+      "_present": true
+    },
+    {
+      "id": "M105",
+      "metric": "Algal",
+      "value": null,
+      "unit": null,
+      "source": "Algal",
+      "_present": true
+    },
+    {
+      "id": "M106",
+      "metric": "YZ406 Hubbard",
+      "value": null,
+      "unit": null,
+      "source": "YZ406 Hubbard",
+      "_present": true
+    },
+    {
+      "id": "M107",
+      "metric": "Creek",
+      "value": null,
+      "unit": null,
+      "source": "Creek",
+      "_present": true
+    },
+    {
+      "id": "M108",
+      "metric": "2004,",
+      "value": null,
+      "unit": null,
+      "source": "2004,",
+      "_present": true
+    },
+    {
+      "id": "M109",
+      "metric": "2014",
+      "value": null,
+      "unit": null,
+      "source": "2014",
+      "_present": true
+    },
+    {
+      "id": "M110",
+      "metric": "USGS,",
+      "value": null,
+      "unit": null,
+      "source": "USGS,",
+      "_present": true
+    },
+    {
+      "id": "M111",
+      "metric": "MDEQ",
+      "value": null,
+      "unit": null,
+      "source": "MDEQ",
+      "_present": true
+    },
+    {
+      "id": "M112",
+      "metric": "Delta",
+      "value": null,
+      "unit": null,
+      "source": "Delta",
+      "_present": true
+    },
+    {
+      "id": "M113",
+      "metric": "Nutrient,",
+      "value": null,
+      "unit": null,
+      "source": "Nutrient,",
+      "_present": true
+    },
+    {
+      "id": "M114",
+      "metric": "Delta",
+      "value": null,
+      "unit": null,
+      "source": "Delta",
+      "_present": true
+    },
+    {
+      "id": "M115",
+      "metric": "Bluff",
+      "value": null,
+      "unit": null,
+      "source": "Bluff",
+      "_present": true
+    },
+    {
+      "id": "M116",
+      "metric": "Hills",
+      "value": null,
+      "unit": null,
+      "source": "Hills",
+      "_present": true
+    },
+    {
+      "id": "M117",
+      "metric": "Nutrient",
+      "value": null,
+      "unit": null,
+      "source": "Nutrient",
+      "_present": true
+    },
+    {
+      "id": "M118",
+      "metric": "X X",
+      "value": null,
+      "unit": null,
+      "source": "X X",
+      "_present": true
+    },
+    {
+      "id": "M119",
+      "metric": "X",
+      "value": null,
+      "unit": null,
+      "source": "X",
+      "_present": true
+    },
+    {
+      "id": "M120",
+      "metric": "Post-BMP monitoring locations will be selected using best professional judgement and will be",
+      "value": null,
+      "unit": null,
+      "source": "Post-BMP monitoring locations will be selected using best professional judgement and will be",
+      "_present": true
+    },
+    {
+      "id": "M121",
+      "metric": "targeted to reflect water quality downstream of BMP activity.  Once BMP installation is",
+      "value": null,
+      "unit": null,
+      "source": "targeted to reflect water quality downstream of BMP activity.  Once BMP installation is",
+      "_present": true
+    },
+    {
+      "id": "M122",
+      "metric": "complete, and there has been sufficient time for the stream to stabilize, post BMP monitoring",
+      "value": null,
+      "unit": null,
+      "source": "complete, and there has been sufficient time for the stream to stabilize, post BMP monitoring",
+      "_present": true
+    },
+    {
+      "id": "M123",
+      "metric": "will be initiated.  Post BMP monitoring will be conducted in a way that allows for comparison",
+      "value": null,
+      "unit": null,
+      "source": "will be initiated.  Post BMP monitoring will be conducted in a way that allows for comparison",
+      "_present": true
+    },
+    {
+      "id": "M124",
+      "metric": "with the pre-implementation data.  Because recovery periods of streams can be dependent on",
+      "value": null,
+      "unit": null,
+      "source": "with the pre-implementation data.  Because recovery periods of streams can be dependent on",
+      "_present": true
+    },
+    {
+      "id": "M125",
+      "metric": "type and amount of BMPs installed, more than 1 year of post BMP data may be needed to",
+      "value": null,
+      "unit": null,
+      "source": "type and amount of BMPs installed, more than 1 year of post BMP data may be needed to",
+      "_present": true
+    },
+    {
+      "id": "M126",
+      "metric": "observe a change in water quality.  In some cases, it may take 5 or more years to see full benefits",
+      "value": null,
+      "unit": null,
+      "source": "observe a change in water quality.  In some cases, it may take 5 or more years to see full benefits",
+      "_present": true
+    },
+    {
+      "id": "M127",
+      "metric": "of BMPs. All data collection efforts will be conducted using trained personnel following",
+      "value": null,
+      "unit": null,
+      "source": "of BMPs. All data collection efforts will be conducted using trained personnel following",
+      "_present": true
+    },
+    {
+      "id": "M128",
+      "metric": "established Standard Operating Procedures and adhering to agency Quality Assurance protocols.",
+      "value": null,
+      "unit": null,
+      "source": "established Standard Operating Procedures and adhering to agency Quality Assurance protocols.",
+      "_present": true
+    }
+  ],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-06T01:30:48.694Z",
+  "metadata": {
+    "sourceId": "platner-bayou-tippo-bayou-9-key-element-plan-2021",
+    "sourceFile": "platner-bayou-tippo-bayou-9-key-element-plan-2021.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "adaptive_generic_costs",
+        "title": "85 each @ $8,000 $680,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 14081.43
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "10,000 sq.ft. @ $3.93 $39,300",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 6083.33
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "10 each @ $6,000 $60,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 12329.4
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "5,000 ac @ $73 $365,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 6333.9
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "1,040 ft. @ $4.50 $4,680",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 11260.9
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "136,000 ft. @ $1.90 $258,400",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 11467.4
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "5 @ $6,250 $31,250",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 110392.37
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "20,000 ft. @ $4.50 $90,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 104142.37
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "15 each @ $5,000 $75,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 104137.87
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "300 ac. @ $211 $63,300",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 99137.87
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "2,500 ft. @ $166.87 $417,175",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 515935
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Technical Assistance* N/A $45,000",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 140640
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Education and Outreach* N/A $28,000",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 95640
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "$166.87 $166,870",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 208750
+      },
+      {
+        "id": "full_project_estimate",
+        "title": "Cost Estimate: Full Project Implementation",
+        "confidence": 0.65,
+        "totalReported": null,
+        "totalComputed": 98760
+      },
+      {
+        "id": "phase1_estimate",
+        "title": "Cost Estimate: Phase 1 Implementation",
+        "confidence": 0.65,
+        "totalReported": null,
+        "totalComputed": 61530
+      }
+    ],
+    "originalName": "Platner_Bayou_Tippo_Bayou_9_Key_Element_Plan_2021.pdf",
+    "presence": {
+      "goals": 0,
+      "bmps": 3,
+      "implementation": 0,
+      "monitoring": 128,
+      "outreach": 0
+    }
+  }
+}

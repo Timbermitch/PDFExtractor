@@ -1,0 +1,3243 @@
+{
+  "id": "deer-creek-watershed-plan-2008",
+  "summary": {
+    "totalGoals": 1,
+    "totalBMPs": 22,
+    "totalActivities": 0,
+    "primaryGoals": 0,
+    "completionRate": 0,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 1,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "General": 22
+    },
+    "avgGoalConfidence": 0,
+    "strongGoals": 0
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "and interest. The goal of community education along the Deer Creek corridor is to develop an",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "and interest. The goal of community education along the Deer Creek corridor is to develop an",
+      "confidence": 0,
+      "description": "and interest. The goal of community education along the Deer Creek corridor is to develop an",
+      "originalSentence": "and interest. The goal of community education along the Deer Creek corridor is to develop an",
+      "shortTitle": "and interest. The goal of community education along the Deer Creek corridor is to develop an"
+    }
+  ],
+  "mainGoals": [],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "was worth about",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "was worth about $6.75 per year to the farmer ($5.00 per ton for lost nutrients, and $1.75 per ton year in the Delta. For a 1,000-acre farm, this results in an economic loss of $9,450 to $16,200 per|name_cost_tail_trim",
+      "originalName": "was worth about $6.75 per year to the farmer ($5.00 per ton for lost nutrients, and $1.75 per ton year in the Delta. For a 1,000-acre farm, this results in an economic loss of $9,450 to $16,200 per"
+    },
+    {
+      "id": "B2",
+      "name": "$10,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$10,000"
+    },
+    {
+      "id": "B3",
+      "name": "$5,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$5,000"
+    },
+    {
+      "id": "B4",
+      "name": "$15,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$15,000"
+    },
+    {
+      "id": "B5",
+      "name": "$12,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$12,000"
+    },
+    {
+      "id": "B6",
+      "name": "$8,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$8,000"
+    },
+    {
+      "id": "B7",
+      "name": "$750,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$750,000"
+    },
+    {
+      "id": "B8",
+      "name": "$30,000 per",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$30,000 per"
+    },
+    {
+      "id": "B9",
+      "name": "$800,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$800,000"
+    },
+    {
+      "id": "B10",
+      "name": "$7,500",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$7,500"
+    },
+    {
+      "id": "B11",
+      "name": "$3,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$3,000"
+    },
+    {
+      "id": "B12",
+      "name": "$4,000/year",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$4,000/year"
+    },
+    {
+      "id": "B13",
+      "name": "$20,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$20,000"
+    },
+    {
+      "id": "B14",
+      "name": "$25,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$25,000"
+    },
+    {
+      "id": "B15",
+      "name": "$400 in revenue per month associated with walking trails",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$400 in revenue per month associated with walking trails"
+    },
+    {
+      "id": "B16",
+      "name": "$500 in revenue per month associated with boat ramp use",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$500 in revenue per month associated with boat ramp use"
+    },
+    {
+      "id": "B17",
+      "name": "$500 in revenue per month associated with self-guided tours prize of a",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.05,
+      "source": "$500 in revenue per month associated with self-guided tours prize of a $500 scholarship. The essay subject was “Why is Deer Creek Important?” This contest community schools with a prize of $500 to the winning school. The 2007 float theme was|name_cost_tail_trim",
+      "originalName": "$500 in revenue per month associated with self-guided tours prize of a $500 scholarship. The essay subject was “Why is Deer Creek Important?” This contest community schools with a prize of $500 to the winning school. The 2007 float theme was"
+    },
+    {
+      "id": "B18",
+      "name": "$200 to help with the purchase of float construction materials. The floats were floated on Deer",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$200 to help with the purchase of float construction materials. The floats were floated on Deer"
+    },
+    {
+      "id": "B19",
+      "name": "$12,020.00",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$12,020.00"
+    },
+    {
+      "id": "B20",
+      "name": "$0",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$0"
+    },
+    {
+      "id": "B21",
+      "name": "Done",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Done                      $0|name_cost_tail_trim",
+      "originalName": "Done                      $0"
+    },
+    {
+      "id": "B22",
+      "name": "$18,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$18,000"
+    }
+  ],
+  "bmpCostTable": {
+    "id": "adaptive_generic_costs",
+    "title": "was worth about $6.75 per year to the farmer ($5.00 per ton for lost nutrients, and $1.75 per ton",
+    "table": {
+      "columns": [
+        "Item",
+        "Cost",
+        "Extra?"
+      ],
+      "rows": [
+        {
+          "Item": "was worth about",
+          "Cost": "$6.75",
+          "Extra": "$5.00"
+        },
+        {
+          "Item": "year in the Delta. For a 1,000-acre farm, this results in an economic loss of",
+          "Cost": "$9,450",
+          "Extra": "$16,200"
+        },
+        {
+          "Item": "prize of a",
+          "Cost": "$500",
+          "Extra": null
+        },
+        {
+          "Item": "community schools with a prize of",
+          "Cost": "$500",
+          "Extra": null
+        },
+        {
+          "Item": "Done",
+          "Cost": "$0",
+          "Extra": null
+        }
+      ],
+      "total": null
+    },
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTableNormalized": {
+    "id": "adaptive_generic_costs",
+    "title": "was worth about $6.75 per year to the farmer ($5.00 per ton for lost nutrients, and $1.75 per ton",
+    "rows": [
+      {
+        "name": "was worth about",
+        "totalCost": 6.75,
+        "rawCost": "$6.75"
+      },
+      {
+        "name": "year in the Delta. For a 1,000-acre farm, this results in an economic loss of",
+        "totalCost": 9450,
+        "rawCost": "$9,450"
+      },
+      {
+        "name": "prize of a",
+        "totalCost": 500,
+        "rawCost": "$500"
+      },
+      {
+        "name": "community schools with a prize of",
+        "totalCost": 500,
+        "rawCost": "$500"
+      },
+      {
+        "name": "Done",
+        "totalCost": 0,
+        "rawCost": "$0"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 10456.75,
+    "discrepancy": null,
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTables": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "was worth about $6.75 per year to the farmer ($5.00 per ton for lost nutrients, and $1.75 per ton",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "was worth about",
+            "Cost": "$6.75",
+            "Extra": "$5.00"
+          },
+          {
+            "Item": "year in the Delta. For a 1,000-acre farm, this results in an economic loss of",
+            "Cost": "$9,450",
+            "Extra": "$16,200"
+          },
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "year in the Delta. For a 1,000-acre farm, this results in an economic loss of $9,450 to $16,200 per",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "year in the Delta. For a 1,000-acre farm, this results in an economic loss of",
+            "Cost": "$9,450",
+            "Extra": "$16,200"
+          },
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$10,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$10,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$5,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$15,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$12,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$10,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$15,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$5,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$10,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$15,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$8,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$750,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$30,000 per",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$10,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$800,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$7,500",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$3,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$12,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$5,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$7,500",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$12,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$4,000/year",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$10,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$10,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$15,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$800,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$10,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$15,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$12,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$20,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$15,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$20,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$20,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$25,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$10,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$400 in revenue per month associated with walking trails",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$10,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$15,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$10,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$500 in revenue per month associated with boat ramp use",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$500 in revenue per month associated with self-guided tours",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "prize of a $500 scholarship. The essay subject was “Why is Deer Creek Important?” This contest",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "prize of a",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "community schools with a prize of",
+            "Cost": "$500",
+            "Extra": null
+          },
+          {
+            "Item": "Done",
+            "Cost": "$0",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "was worth about $6.75 per year to the farmer ($5.00 per ton for lost nutrients, and $1.75 per ton",
+      "rows": [
+        {
+          "name": "was worth about",
+          "totalCost": 6.75,
+          "rawCost": "$6.75"
+        },
+        {
+          "name": "year in the Delta. For a 1,000-acre farm, this results in an economic loss of",
+          "totalCost": 9450,
+          "rawCost": "$9,450"
+        },
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 10456.75,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "year in the Delta. For a 1,000-acre farm, this results in an economic loss of $9,450 to $16,200 per",
+      "rows": [
+        {
+          "name": "year in the Delta. For a 1,000-acre farm, this results in an economic loss of",
+          "totalCost": 9450,
+          "rawCost": "$9,450"
+        },
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 10450,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$10,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$10,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$5,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$15,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$12,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$10,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$15,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$5,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$10,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$15,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$8,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$750,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$30,000 per",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$10,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$800,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$7,500",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$3,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$12,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$5,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$7,500",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$12,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$4,000/year",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$10,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$10,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$15,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$800,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$10,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$15,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$12,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$20,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$15,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$20,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$20,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$25,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$10,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$400 in revenue per month associated with walking trails",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$10,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$15,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$10,000",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$500 in revenue per month associated with boat ramp use",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$500 in revenue per month associated with self-guided tours",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "prize of a $500 scholarship. The essay subject was “Why is Deer Creek Important?” This contest",
+      "rows": [
+        {
+          "name": "prize of a",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "community schools with a prize of",
+          "totalCost": 500,
+          "rawCost": "$500"
+        },
+        {
+          "name": "Done",
+          "totalCost": 0,
+          "rawCost": "$0"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-02T13:23:25.242Z",
+  "metadata": {
+    "sourceId": "deer-creek-watershed-plan-2008",
+    "sourceFile": "deer-creek-watershed-plan-2008.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "adaptive_generic_costs",
+        "title": "was worth about $6.75 per year to the farmer ($5.00 per ton for lost nutrients, and $1.75 per ton",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 10456.75
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "year in the Delta. For a 1,000-acre farm, this results in an economic loss of $9,450 to $16,200 per",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 10450
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$10,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$10,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$5,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$15,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$12,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$10,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$15,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$5,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$10,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$15,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$8,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$750,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$30,000 per",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$10,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$800,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$7,500",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$3,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$12,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$5,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$7,500",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$12,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$4,000/year",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$10,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$10,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$15,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$800,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$10,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$15,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$12,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$20,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$15,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$20,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$20,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$25,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$10,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$400 in revenue per month associated with walking trails",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$10,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$15,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$10,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$500 in revenue per month associated with boat ramp use",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$500 in revenue per month associated with self-guided tours",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "prize of a $500 scholarship. The essay subject was “Why is Deer Creek Important?” This contest",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1000
+      }
+    ]
+  }
+}

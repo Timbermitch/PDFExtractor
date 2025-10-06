@@ -1,0 +1,16 @@
+{
+  "name": "pdf-extractor-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "powershell -Command \"Start-Process powershell -ArgumentList '-NoExit','-Command','cd backend; node server.js'; Start-Sleep -Seconds 2; Start-Process powershell -ArgumentList '-NoExit','-Command','cd frontend; npm start'\"",
+    "start": "cross-env KEEP_ALIVE=1 node backend/server.js",
+    "start:win": "set KEEP_ALIVE=1&& node backend/server.js",
+  "start:auto": "node backend/scripts/startWithBrowser.js",
+  "start:ui": "cross-env UI_PATH=/ node backend/scripts/startWithBrowser.js",
+    "health": "node -e \"fetch('http://localhost:5200/health').then(r=>r.text()).then(t=>console.log(t)).catch(e=>console.error(e))\""
+  },
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "open": "^9.1.0"
+  }
+}

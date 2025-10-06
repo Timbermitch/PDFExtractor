@@ -1,0 +1,4709 @@
+{
+  "id": "carmichael-creek-town-creek-9-key-element-plan-2019",
+  "summary": {
+    "totalGoals": 1,
+    "totalBMPs": 37,
+    "totalActivities": 0,
+    "primaryGoals": 1,
+    "completionRate": 0,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 1,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "General": 33,
+      "Vegetative": 1,
+      "Structural": 2,
+      "Livestock Exclusion": 1
+    },
+    "avgGoalConfidence": 0.95,
+    "strongGoals": 1
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "confidence": 0.95,
+      "isPrimary": true,
+      "primaryReason": "bronze_direct_slice",
+      "description": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "originalSentence": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "shortTitle": "The ultimate goal is to bring about behavior changes and the use of \"best…"
+    }
+  ],
+  "mainGoals": [
+    {
+      "id": "G1",
+      "title": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "confidence": 0.95,
+      "isPrimary": true,
+      "primaryReason": "bronze_direct_slice",
+      "description": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "originalSentence": "The ultimate goal is to bring about behavior changes and the use of \"best management practices\" that will improve water quality and the overall quality of life in the watershed.",
+      "shortTitle": "The ultimate goal is to bring about behavior changes and the use of \"best…"
+    }
+  ],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "BMP installation.  Provided below is summary of estimated costs for potential BMPs and overall",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "BMP installation.  Provided below is summary of estimated costs for potential BMPs and overall"
+    },
+    {
+      "id": "B2",
+      "name": "Unit Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Unit Cost"
+    },
+    {
+      "id": "B3",
+      "name": "Herbaceous Weed Management ac 325",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Herbaceous Weed Management ac 325 $64.80 $21,060.00|name_cost_tail_trim",
+      "originalName": "Herbaceous Weed Management ac 325 $64.80 $21,060.00"
+    },
+    {
+      "id": "B4",
+      "name": "Cover Crop ac 1000",
+      "category": "Vegetative",
+      "keyword": "Cover Crop",
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.45,
+      "source": "Cover Crop ac 1000 $55.86 $55,860.00|name_cost_tail_trim",
+      "originalName": "Cover Crop ac 1000 $55.86 $55,860.00"
+    },
+    {
+      "id": "B5",
+      "name": "Critical Area Planting ac 55",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Critical Area Planting ac 55 $483.84 $26,611.20|name_cost_tail_trim",
+      "originalName": "Critical Area Planting ac 55 $483.84 $26,611.20"
+    },
+    {
+      "id": "B6",
+      "name": "Sediment Basin cu yd 4250",
+      "category": "Structural",
+      "keyword": "Sediment Basin",
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.45,
+      "source": "Sediment Basin cu yd 4250 $3.34 $14,195.00|name_cost_tail_trim",
+      "originalName": "Sediment Basin cu yd 4250 $3.34 $14,195.00"
+    },
+    {
+      "id": "B7",
+      "name": "Diversion cu yd 9750",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.05,
+      "source": "Diversion cu yd 9750 $2.40 $23,400.00|name_cost_tail_trim",
+      "originalName": "Diversion cu yd 9750 $2.40 $23,400.00"
+    },
+    {
+      "id": "B8",
+      "name": "Fence ft 20000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": "fence",
+      "confidence": 0.2,
+      "source": "Fence ft 20000 $2.22 $44,400.00|name_cost_tail_trim",
+      "originalName": "Fence ft 20000 $2.22 $44,400.00"
+    },
+    {
+      "id": "B9",
+      "name": "Field Border ac 10",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Field Border ac 10 $631.20 $6,312.00|name_cost_tail_trim",
+      "originalName": "Field Border ac 10 $631.20 $6,312.00"
+    },
+    {
+      "id": "B10",
+      "name": "Grade Stabilization Structure ea 45",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Grade Stabilization Structure ea 45 $15,000.00 $675,000.00|name_cost_tail_trim",
+      "originalName": "Grade Stabilization Structure ea 45 $15,000.00 $675,000.00"
+    },
+    {
+      "id": "B11",
+      "name": "Land Clearing ac 20",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Land Clearing ac 20 $530.65 $10,613.00|name_cost_tail_trim",
+      "originalName": "Land Clearing ac 20 $530.65 $10,613.00"
+    },
+    {
+      "id": "B12",
+      "name": "Forage and Biomass Planting ac 325",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Forage and Biomass Planting ac 325 $109.48 $35,581.00|name_cost_tail_trim",
+      "originalName": "Forage and Biomass Planting ac 325 $109.48 $35,581.00"
+    },
+    {
+      "id": "B13",
+      "name": "Livestock Pipeline ft 10000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.05,
+      "source": "Livestock Pipeline ft 10000 $1.91 $19,100.00|name_cost_tail_trim",
+      "originalName": "Livestock Pipeline ft 10000 $1.91 $19,100.00"
+    },
+    {
+      "id": "B14",
+      "name": "Prescribed Grazing ac 500",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Prescribed Grazing ac 500 $57.13 $28,565.00|name_cost_tail_trim",
+      "originalName": "Prescribed Grazing ac 500 $57.13 $28,565.00"
+    },
+    {
+      "id": "B15",
+      "name": "Heavy Use Area Protection ft 15000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.05,
+      "source": "Heavy Use Area Protection ft 15000 $3.23 $48,450.00|name_cost_tail_trim",
+      "originalName": "Heavy Use Area Protection ft 15000 $3.23 $48,450.00"
+    },
+    {
+      "id": "B16",
+      "name": "Stream Crossing ft 3750",
+      "category": "General",
+      "keyword": null,
+      "quantity": 41512.5,
+      "unit": "ft",
+      "verb": null,
+      "confidence": 0.3,
+      "source": "Stream Crossing ft 3750 $11.07 $41,512.50 ft 6000 $198.60 $1,191,600.00|name_cost_tail_trim",
+      "originalName": "Stream Crossing ft 3750 $11.07 $41,512.50 ft 6000 $198.60 $1,191,600.00"
+    },
+    {
+      "id": "B17",
+      "name": "Watering Facility gal 5325",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.05,
+      "source": "Watering Facility gal 5325 $2.81 $14,963.25|name_cost_tail_trim",
+      "originalName": "Watering Facility gal 5325 $2.81 $14,963.25"
+    },
+    {
+      "id": "B18",
+      "name": "Underground Outlet ft 5000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.05,
+      "source": "Underground Outlet ft 5000 $5.39 $26,950.00|name_cost_tail_trim",
+      "originalName": "Underground Outlet ft 5000 $5.39 $26,950.00"
+    },
+    {
+      "id": "B19",
+      "name": "$140,328.00",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$140,328.00"
+    },
+    {
+      "id": "B20",
+      "name": "$100,000.00",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$100,000.00"
+    },
+    {
+      "id": "B21",
+      "name": "$69,500.00",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$69,500.00"
+    },
+    {
+      "id": "B22",
+      "name": "$150,000.00",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$150,000.00"
+    },
+    {
+      "id": "B23",
+      "name": "$2,744,001",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$2,744,001"
+    },
+    {
+      "id": "B24",
+      "name": "Critical Area Planting ac 15",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Critical Area Planting ac 15 $483.84 $7,257.60|name_cost_tail_trim",
+      "originalName": "Critical Area Planting ac 15 $483.84 $7,257.60"
+    },
+    {
+      "id": "B25",
+      "name": "Sediment Basin cu yd 2550",
+      "category": "Structural",
+      "keyword": "Sediment Basin",
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.45,
+      "source": "Sediment Basin cu yd 2550 $3.34 $8,517.00|name_cost_tail_trim",
+      "originalName": "Sediment Basin cu yd 2550 $3.34 $8,517.00"
+    },
+    {
+      "id": "B26",
+      "name": "Diversion cu yd 4445",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.05,
+      "source": "Diversion cu yd 4445 $2.40 $10,668.00|name_cost_tail_trim",
+      "originalName": "Diversion cu yd 4445 $2.40 $10,668.00"
+    },
+    {
+      "id": "B27",
+      "name": "Fencing ft 3700",
+      "category": "Livestock Exclusion",
+      "keyword": "Fencing",
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.45,
+      "source": "Fencing ft 3700 $2.22 $8,214.00|name_cost_tail_trim",
+      "originalName": "Fencing ft 3700 $2.22 $8,214.00"
+    },
+    {
+      "id": "B28",
+      "name": "Grade Stabilization Structure ea 10",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Grade Stabilization Structure ea 10 $15,000.00 $150,000.00|name_cost_tail_trim",
+      "originalName": "Grade Stabilization Structure ea 10 $15,000.00 $150,000.00"
+    },
+    {
+      "id": "B29",
+      "name": "Forage and Biomass Planting ac 100",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Forage and Biomass Planting ac 100 $109.48 $10,948.00|name_cost_tail_trim",
+      "originalName": "Forage and Biomass Planting ac 100 $109.48 $10,948.00"
+    },
+    {
+      "id": "B30",
+      "name": "Stream Crossing ft 1500",
+      "category": "General",
+      "keyword": null,
+      "quantity": 16605,
+      "unit": "ft",
+      "verb": null,
+      "confidence": 0.3,
+      "source": "Stream Crossing ft 1500 $11.07 $16,605.00 ft 100 $198.60 $19,860.00|name_cost_tail_trim",
+      "originalName": "Stream Crossing ft 1500 $11.07 $16,605.00 ft 100 $198.60 $19,860.00"
+    },
+    {
+      "id": "B31",
+      "name": "Tank/Trough ea 3",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Tank/Trough ea 3 $2,500.00 $7,500.00|name_cost_tail_trim",
+      "originalName": "Tank/Trough ea 3 $2,500.00 $7,500.00"
+    },
+    {
+      "id": "B32",
+      "name": "Underground Outlet ft 1000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.05,
+      "source": "Underground Outlet ft 1000 $5.39 $5,390.00|name_cost_tail_trim",
+      "originalName": "Underground Outlet ft 1000 $5.39 $5,390.00"
+    },
+    {
+      "id": "B33",
+      "name": "$74,328.00",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$74,328.00"
+    },
+    {
+      "id": "B34",
+      "name": "$20,000.00",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$20,000.00"
+    },
+    {
+      "id": "B35",
+      "name": "$13,900.00",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$13,900.00"
+    },
+    {
+      "id": "B36",
+      "name": "$30,000.00",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$30,000.00"
+    },
+    {
+      "id": "B37",
+      "name": "$383,187.60",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$383,187.60"
+    }
+  ],
+  "bmpCostTable": {
+    "id": "adaptive_generic_costs",
+    "title": "Herbaceous Weed Management ac 325 $64.80 $21,060.00",
+    "table": {
+      "columns": [
+        "Item",
+        "Cost",
+        "Extra?"
+      ],
+      "rows": [
+        {
+          "Item": "Herbaceous Weed Management ac 325",
+          "Cost": "$64.80",
+          "Extra": "$21,060.00"
+        },
+        {
+          "Item": "Cover Crop ac 1000",
+          "Cost": "$55.86",
+          "Extra": "$55,860.00"
+        },
+        {
+          "Item": "Critical Area Planting ac 55",
+          "Cost": "$483.84",
+          "Extra": "$26,611.20"
+        },
+        {
+          "Item": "Sediment Basin cu yd 4250",
+          "Cost": "$3.34",
+          "Extra": "$14,195.00"
+        },
+        {
+          "Item": "Diversion cu yd 9750",
+          "Cost": "$2.40",
+          "Extra": "$23,400.00"
+        },
+        {
+          "Item": "Fence ft 20000",
+          "Cost": "$2.22",
+          "Extra": "$44,400.00"
+        },
+        {
+          "Item": "Field Border ac 10",
+          "Cost": "$631.20",
+          "Extra": "$6,312.00"
+        },
+        {
+          "Item": "Grade Stabilization Structure ea 45",
+          "Cost": "$15,000.00",
+          "Extra": "$675,000.00"
+        },
+        {
+          "Item": "Land Clearing ac 20",
+          "Cost": "$530.65",
+          "Extra": "$10,613.00"
+        },
+        {
+          "Item": "Forage and Biomass Planting ac 325",
+          "Cost": "$109.48",
+          "Extra": "$35,581.00"
+        },
+        {
+          "Item": "Livestock Pipeline ft 10000",
+          "Cost": "$1.91",
+          "Extra": "$19,100.00"
+        },
+        {
+          "Item": "Prescribed Grazing ac 500",
+          "Cost": "$57.13",
+          "Extra": "$28,565.00"
+        },
+        {
+          "Item": "Heavy Use Area Protection ft 15000",
+          "Cost": "$3.23",
+          "Extra": "$48,450.00"
+        },
+        {
+          "Item": "Stream Crossing ft 3750",
+          "Cost": "$11.07",
+          "Extra": "$41,512.50"
+        },
+        {
+          "Item": "ft 6000",
+          "Cost": "$198.60",
+          "Extra": "$1,191,600.00"
+        },
+        {
+          "Item": "Watering Facility gal 5325",
+          "Cost": "$2.81",
+          "Extra": "$14,963.25"
+        },
+        {
+          "Item": "Underground Outlet ft 5000",
+          "Cost": "$5.39",
+          "Extra": "$26,950.00"
+        }
+      ],
+      "total": null
+    },
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTableNormalized": {
+    "id": "adaptive_generic_costs",
+    "title": "Herbaceous Weed Management ac 325 $64.80 $21,060.00",
+    "rows": [
+      {
+        "name": "Herbaceous Weed Management ac 325",
+        "totalCost": 64.8,
+        "rawCost": "$64.80"
+      },
+      {
+        "name": "Cover Crop ac 1000",
+        "totalCost": 55.86,
+        "rawCost": "$55.86"
+      },
+      {
+        "name": "Critical Area Planting ac 55",
+        "totalCost": 483.84,
+        "rawCost": "$483.84"
+      },
+      {
+        "name": "Sediment Basin cu yd 4250",
+        "totalCost": 3.34,
+        "rawCost": "$3.34"
+      },
+      {
+        "name": "Diversion cu yd 9750",
+        "totalCost": 2.4,
+        "rawCost": "$2.40"
+      },
+      {
+        "name": "Fence ft 20000",
+        "totalCost": 2.22,
+        "rawCost": "$2.22"
+      },
+      {
+        "name": "Field Border ac 10",
+        "totalCost": 631.2,
+        "rawCost": "$631.20"
+      },
+      {
+        "name": "Grade Stabilization Structure ea 45",
+        "totalCost": 15000,
+        "rawCost": "$15,000.00"
+      },
+      {
+        "name": "Land Clearing ac 20",
+        "totalCost": 530.65,
+        "rawCost": "$530.65"
+      },
+      {
+        "name": "Forage and Biomass Planting ac 325",
+        "totalCost": 109.48,
+        "rawCost": "$109.48"
+      },
+      {
+        "name": "Livestock Pipeline ft 10000",
+        "totalCost": 1.91,
+        "rawCost": "$1.91"
+      },
+      {
+        "name": "Prescribed Grazing ac 500",
+        "totalCost": 57.13,
+        "rawCost": "$57.13"
+      },
+      {
+        "name": "Heavy Use Area Protection ft 15000",
+        "totalCost": 3.23,
+        "rawCost": "$3.23"
+      },
+      {
+        "name": "Stream Crossing ft 3750",
+        "totalCost": 11.07,
+        "rawCost": "$11.07"
+      },
+      {
+        "name": "ft 6000",
+        "totalCost": 198.6,
+        "rawCost": "$198.60"
+      },
+      {
+        "name": "Watering Facility gal 5325",
+        "totalCost": 2.81,
+        "rawCost": "$2.81"
+      },
+      {
+        "name": "Underground Outlet ft 5000",
+        "totalCost": 5.39,
+        "rawCost": "$5.39"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 17163.93,
+    "discrepancy": null,
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTables": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Herbaceous Weed Management ac 325 $64.80 $21,060.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Herbaceous Weed Management ac 325",
+            "Cost": "$64.80",
+            "Extra": "$21,060.00"
+          },
+          {
+            "Item": "Cover Crop ac 1000",
+            "Cost": "$55.86",
+            "Extra": "$55,860.00"
+          },
+          {
+            "Item": "Critical Area Planting ac 55",
+            "Cost": "$483.84",
+            "Extra": "$26,611.20"
+          },
+          {
+            "Item": "Sediment Basin cu yd 4250",
+            "Cost": "$3.34",
+            "Extra": "$14,195.00"
+          },
+          {
+            "Item": "Diversion cu yd 9750",
+            "Cost": "$2.40",
+            "Extra": "$23,400.00"
+          },
+          {
+            "Item": "Fence ft 20000",
+            "Cost": "$2.22",
+            "Extra": "$44,400.00"
+          },
+          {
+            "Item": "Field Border ac 10",
+            "Cost": "$631.20",
+            "Extra": "$6,312.00"
+          },
+          {
+            "Item": "Grade Stabilization Structure ea 45",
+            "Cost": "$15,000.00",
+            "Extra": "$675,000.00"
+          },
+          {
+            "Item": "Land Clearing ac 20",
+            "Cost": "$530.65",
+            "Extra": "$10,613.00"
+          },
+          {
+            "Item": "Forage and Biomass Planting ac 325",
+            "Cost": "$109.48",
+            "Extra": "$35,581.00"
+          },
+          {
+            "Item": "Livestock Pipeline ft 10000",
+            "Cost": "$1.91",
+            "Extra": "$19,100.00"
+          },
+          {
+            "Item": "Prescribed Grazing ac 500",
+            "Cost": "$57.13",
+            "Extra": "$28,565.00"
+          },
+          {
+            "Item": "Heavy Use Area Protection ft 15000",
+            "Cost": "$3.23",
+            "Extra": "$48,450.00"
+          },
+          {
+            "Item": "Stream Crossing ft 3750",
+            "Cost": "$11.07",
+            "Extra": "$41,512.50"
+          },
+          {
+            "Item": "ft 6000",
+            "Cost": "$198.60",
+            "Extra": "$1,191,600.00"
+          },
+          {
+            "Item": "Watering Facility gal 5325",
+            "Cost": "$2.81",
+            "Extra": "$14,963.25"
+          },
+          {
+            "Item": "Underground Outlet ft 5000",
+            "Cost": "$5.39",
+            "Extra": "$26,950.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Cover Crop ac 1000 $55.86 $55,860.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Cover Crop ac 1000",
+            "Cost": "$55.86",
+            "Extra": "$55,860.00"
+          },
+          {
+            "Item": "Critical Area Planting ac 55",
+            "Cost": "$483.84",
+            "Extra": "$26,611.20"
+          },
+          {
+            "Item": "Sediment Basin cu yd 4250",
+            "Cost": "$3.34",
+            "Extra": "$14,195.00"
+          },
+          {
+            "Item": "Diversion cu yd 9750",
+            "Cost": "$2.40",
+            "Extra": "$23,400.00"
+          },
+          {
+            "Item": "Fence ft 20000",
+            "Cost": "$2.22",
+            "Extra": "$44,400.00"
+          },
+          {
+            "Item": "Field Border ac 10",
+            "Cost": "$631.20",
+            "Extra": "$6,312.00"
+          },
+          {
+            "Item": "Grade Stabilization Structure ea 45",
+            "Cost": "$15,000.00",
+            "Extra": "$675,000.00"
+          },
+          {
+            "Item": "Land Clearing ac 20",
+            "Cost": "$530.65",
+            "Extra": "$10,613.00"
+          },
+          {
+            "Item": "Forage and Biomass Planting ac 325",
+            "Cost": "$109.48",
+            "Extra": "$35,581.00"
+          },
+          {
+            "Item": "Livestock Pipeline ft 10000",
+            "Cost": "$1.91",
+            "Extra": "$19,100.00"
+          },
+          {
+            "Item": "Prescribed Grazing ac 500",
+            "Cost": "$57.13",
+            "Extra": "$28,565.00"
+          },
+          {
+            "Item": "Heavy Use Area Protection ft 15000",
+            "Cost": "$3.23",
+            "Extra": "$48,450.00"
+          },
+          {
+            "Item": "Stream Crossing ft 3750",
+            "Cost": "$11.07",
+            "Extra": "$41,512.50"
+          },
+          {
+            "Item": "ft 6000",
+            "Cost": "$198.60",
+            "Extra": "$1,191,600.00"
+          },
+          {
+            "Item": "Watering Facility gal 5325",
+            "Cost": "$2.81",
+            "Extra": "$14,963.25"
+          },
+          {
+            "Item": "Underground Outlet ft 5000",
+            "Cost": "$5.39",
+            "Extra": "$26,950.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Critical Area Planting ac 55 $483.84 $26,611.20",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Critical Area Planting ac 55",
+            "Cost": "$483.84",
+            "Extra": "$26,611.20"
+          },
+          {
+            "Item": "Sediment Basin cu yd 4250",
+            "Cost": "$3.34",
+            "Extra": "$14,195.00"
+          },
+          {
+            "Item": "Diversion cu yd 9750",
+            "Cost": "$2.40",
+            "Extra": "$23,400.00"
+          },
+          {
+            "Item": "Fence ft 20000",
+            "Cost": "$2.22",
+            "Extra": "$44,400.00"
+          },
+          {
+            "Item": "Field Border ac 10",
+            "Cost": "$631.20",
+            "Extra": "$6,312.00"
+          },
+          {
+            "Item": "Grade Stabilization Structure ea 45",
+            "Cost": "$15,000.00",
+            "Extra": "$675,000.00"
+          },
+          {
+            "Item": "Land Clearing ac 20",
+            "Cost": "$530.65",
+            "Extra": "$10,613.00"
+          },
+          {
+            "Item": "Forage and Biomass Planting ac 325",
+            "Cost": "$109.48",
+            "Extra": "$35,581.00"
+          },
+          {
+            "Item": "Livestock Pipeline ft 10000",
+            "Cost": "$1.91",
+            "Extra": "$19,100.00"
+          },
+          {
+            "Item": "Prescribed Grazing ac 500",
+            "Cost": "$57.13",
+            "Extra": "$28,565.00"
+          },
+          {
+            "Item": "Heavy Use Area Protection ft 15000",
+            "Cost": "$3.23",
+            "Extra": "$48,450.00"
+          },
+          {
+            "Item": "Stream Crossing ft 3750",
+            "Cost": "$11.07",
+            "Extra": "$41,512.50"
+          },
+          {
+            "Item": "ft 6000",
+            "Cost": "$198.60",
+            "Extra": "$1,191,600.00"
+          },
+          {
+            "Item": "Watering Facility gal 5325",
+            "Cost": "$2.81",
+            "Extra": "$14,963.25"
+          },
+          {
+            "Item": "Underground Outlet ft 5000",
+            "Cost": "$5.39",
+            "Extra": "$26,950.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Sediment Basin cu yd 4250 $3.34 $14,195.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Sediment Basin cu yd 4250",
+            "Cost": "$3.34",
+            "Extra": "$14,195.00"
+          },
+          {
+            "Item": "Diversion cu yd 9750",
+            "Cost": "$2.40",
+            "Extra": "$23,400.00"
+          },
+          {
+            "Item": "Fence ft 20000",
+            "Cost": "$2.22",
+            "Extra": "$44,400.00"
+          },
+          {
+            "Item": "Field Border ac 10",
+            "Cost": "$631.20",
+            "Extra": "$6,312.00"
+          },
+          {
+            "Item": "Grade Stabilization Structure ea 45",
+            "Cost": "$15,000.00",
+            "Extra": "$675,000.00"
+          },
+          {
+            "Item": "Land Clearing ac 20",
+            "Cost": "$530.65",
+            "Extra": "$10,613.00"
+          },
+          {
+            "Item": "Forage and Biomass Planting ac 325",
+            "Cost": "$109.48",
+            "Extra": "$35,581.00"
+          },
+          {
+            "Item": "Livestock Pipeline ft 10000",
+            "Cost": "$1.91",
+            "Extra": "$19,100.00"
+          },
+          {
+            "Item": "Prescribed Grazing ac 500",
+            "Cost": "$57.13",
+            "Extra": "$28,565.00"
+          },
+          {
+            "Item": "Heavy Use Area Protection ft 15000",
+            "Cost": "$3.23",
+            "Extra": "$48,450.00"
+          },
+          {
+            "Item": "Stream Crossing ft 3750",
+            "Cost": "$11.07",
+            "Extra": "$41,512.50"
+          },
+          {
+            "Item": "ft 6000",
+            "Cost": "$198.60",
+            "Extra": "$1,191,600.00"
+          },
+          {
+            "Item": "Watering Facility gal 5325",
+            "Cost": "$2.81",
+            "Extra": "$14,963.25"
+          },
+          {
+            "Item": "Underground Outlet ft 5000",
+            "Cost": "$5.39",
+            "Extra": "$26,950.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Diversion cu yd 9750 $2.40 $23,400.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Diversion cu yd 9750",
+            "Cost": "$2.40",
+            "Extra": "$23,400.00"
+          },
+          {
+            "Item": "Fence ft 20000",
+            "Cost": "$2.22",
+            "Extra": "$44,400.00"
+          },
+          {
+            "Item": "Field Border ac 10",
+            "Cost": "$631.20",
+            "Extra": "$6,312.00"
+          },
+          {
+            "Item": "Grade Stabilization Structure ea 45",
+            "Cost": "$15,000.00",
+            "Extra": "$675,000.00"
+          },
+          {
+            "Item": "Land Clearing ac 20",
+            "Cost": "$530.65",
+            "Extra": "$10,613.00"
+          },
+          {
+            "Item": "Forage and Biomass Planting ac 325",
+            "Cost": "$109.48",
+            "Extra": "$35,581.00"
+          },
+          {
+            "Item": "Livestock Pipeline ft 10000",
+            "Cost": "$1.91",
+            "Extra": "$19,100.00"
+          },
+          {
+            "Item": "Prescribed Grazing ac 500",
+            "Cost": "$57.13",
+            "Extra": "$28,565.00"
+          },
+          {
+            "Item": "Heavy Use Area Protection ft 15000",
+            "Cost": "$3.23",
+            "Extra": "$48,450.00"
+          },
+          {
+            "Item": "Stream Crossing ft 3750",
+            "Cost": "$11.07",
+            "Extra": "$41,512.50"
+          },
+          {
+            "Item": "ft 6000",
+            "Cost": "$198.60",
+            "Extra": "$1,191,600.00"
+          },
+          {
+            "Item": "Watering Facility gal 5325",
+            "Cost": "$2.81",
+            "Extra": "$14,963.25"
+          },
+          {
+            "Item": "Underground Outlet ft 5000",
+            "Cost": "$5.39",
+            "Extra": "$26,950.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Fence ft 20000 $2.22 $44,400.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Fence ft 20000",
+            "Cost": "$2.22",
+            "Extra": "$44,400.00"
+          },
+          {
+            "Item": "Field Border ac 10",
+            "Cost": "$631.20",
+            "Extra": "$6,312.00"
+          },
+          {
+            "Item": "Grade Stabilization Structure ea 45",
+            "Cost": "$15,000.00",
+            "Extra": "$675,000.00"
+          },
+          {
+            "Item": "Land Clearing ac 20",
+            "Cost": "$530.65",
+            "Extra": "$10,613.00"
+          },
+          {
+            "Item": "Forage and Biomass Planting ac 325",
+            "Cost": "$109.48",
+            "Extra": "$35,581.00"
+          },
+          {
+            "Item": "Livestock Pipeline ft 10000",
+            "Cost": "$1.91",
+            "Extra": "$19,100.00"
+          },
+          {
+            "Item": "Prescribed Grazing ac 500",
+            "Cost": "$57.13",
+            "Extra": "$28,565.00"
+          },
+          {
+            "Item": "Heavy Use Area Protection ft 15000",
+            "Cost": "$3.23",
+            "Extra": "$48,450.00"
+          },
+          {
+            "Item": "Stream Crossing ft 3750",
+            "Cost": "$11.07",
+            "Extra": "$41,512.50"
+          },
+          {
+            "Item": "ft 6000",
+            "Cost": "$198.60",
+            "Extra": "$1,191,600.00"
+          },
+          {
+            "Item": "Watering Facility gal 5325",
+            "Cost": "$2.81",
+            "Extra": "$14,963.25"
+          },
+          {
+            "Item": "Underground Outlet ft 5000",
+            "Cost": "$5.39",
+            "Extra": "$26,950.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Field Border ac 10 $631.20 $6,312.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Field Border ac 10",
+            "Cost": "$631.20",
+            "Extra": "$6,312.00"
+          },
+          {
+            "Item": "Grade Stabilization Structure ea 45",
+            "Cost": "$15,000.00",
+            "Extra": "$675,000.00"
+          },
+          {
+            "Item": "Land Clearing ac 20",
+            "Cost": "$530.65",
+            "Extra": "$10,613.00"
+          },
+          {
+            "Item": "Forage and Biomass Planting ac 325",
+            "Cost": "$109.48",
+            "Extra": "$35,581.00"
+          },
+          {
+            "Item": "Livestock Pipeline ft 10000",
+            "Cost": "$1.91",
+            "Extra": "$19,100.00"
+          },
+          {
+            "Item": "Prescribed Grazing ac 500",
+            "Cost": "$57.13",
+            "Extra": "$28,565.00"
+          },
+          {
+            "Item": "Heavy Use Area Protection ft 15000",
+            "Cost": "$3.23",
+            "Extra": "$48,450.00"
+          },
+          {
+            "Item": "Stream Crossing ft 3750",
+            "Cost": "$11.07",
+            "Extra": "$41,512.50"
+          },
+          {
+            "Item": "ft 6000",
+            "Cost": "$198.60",
+            "Extra": "$1,191,600.00"
+          },
+          {
+            "Item": "Watering Facility gal 5325",
+            "Cost": "$2.81",
+            "Extra": "$14,963.25"
+          },
+          {
+            "Item": "Underground Outlet ft 5000",
+            "Cost": "$5.39",
+            "Extra": "$26,950.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Grade Stabilization Structure ea 45 $15,000.00 $675,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Grade Stabilization Structure ea 45",
+            "Cost": "$15,000.00",
+            "Extra": "$675,000.00"
+          },
+          {
+            "Item": "Land Clearing ac 20",
+            "Cost": "$530.65",
+            "Extra": "$10,613.00"
+          },
+          {
+            "Item": "Forage and Biomass Planting ac 325",
+            "Cost": "$109.48",
+            "Extra": "$35,581.00"
+          },
+          {
+            "Item": "Livestock Pipeline ft 10000",
+            "Cost": "$1.91",
+            "Extra": "$19,100.00"
+          },
+          {
+            "Item": "Prescribed Grazing ac 500",
+            "Cost": "$57.13",
+            "Extra": "$28,565.00"
+          },
+          {
+            "Item": "Heavy Use Area Protection ft 15000",
+            "Cost": "$3.23",
+            "Extra": "$48,450.00"
+          },
+          {
+            "Item": "Stream Crossing ft 3750",
+            "Cost": "$11.07",
+            "Extra": "$41,512.50"
+          },
+          {
+            "Item": "ft 6000",
+            "Cost": "$198.60",
+            "Extra": "$1,191,600.00"
+          },
+          {
+            "Item": "Watering Facility gal 5325",
+            "Cost": "$2.81",
+            "Extra": "$14,963.25"
+          },
+          {
+            "Item": "Underground Outlet ft 5000",
+            "Cost": "$5.39",
+            "Extra": "$26,950.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Land Clearing ac 20 $530.65 $10,613.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Land Clearing ac 20",
+            "Cost": "$530.65",
+            "Extra": "$10,613.00"
+          },
+          {
+            "Item": "Forage and Biomass Planting ac 325",
+            "Cost": "$109.48",
+            "Extra": "$35,581.00"
+          },
+          {
+            "Item": "Livestock Pipeline ft 10000",
+            "Cost": "$1.91",
+            "Extra": "$19,100.00"
+          },
+          {
+            "Item": "Prescribed Grazing ac 500",
+            "Cost": "$57.13",
+            "Extra": "$28,565.00"
+          },
+          {
+            "Item": "Heavy Use Area Protection ft 15000",
+            "Cost": "$3.23",
+            "Extra": "$48,450.00"
+          },
+          {
+            "Item": "Stream Crossing ft 3750",
+            "Cost": "$11.07",
+            "Extra": "$41,512.50"
+          },
+          {
+            "Item": "ft 6000",
+            "Cost": "$198.60",
+            "Extra": "$1,191,600.00"
+          },
+          {
+            "Item": "Watering Facility gal 5325",
+            "Cost": "$2.81",
+            "Extra": "$14,963.25"
+          },
+          {
+            "Item": "Underground Outlet ft 5000",
+            "Cost": "$5.39",
+            "Extra": "$26,950.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Forage and Biomass Planting ac 325 $109.48 $35,581.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Forage and Biomass Planting ac 325",
+            "Cost": "$109.48",
+            "Extra": "$35,581.00"
+          },
+          {
+            "Item": "Livestock Pipeline ft 10000",
+            "Cost": "$1.91",
+            "Extra": "$19,100.00"
+          },
+          {
+            "Item": "Prescribed Grazing ac 500",
+            "Cost": "$57.13",
+            "Extra": "$28,565.00"
+          },
+          {
+            "Item": "Heavy Use Area Protection ft 15000",
+            "Cost": "$3.23",
+            "Extra": "$48,450.00"
+          },
+          {
+            "Item": "Stream Crossing ft 3750",
+            "Cost": "$11.07",
+            "Extra": "$41,512.50"
+          },
+          {
+            "Item": "ft 6000",
+            "Cost": "$198.60",
+            "Extra": "$1,191,600.00"
+          },
+          {
+            "Item": "Watering Facility gal 5325",
+            "Cost": "$2.81",
+            "Extra": "$14,963.25"
+          },
+          {
+            "Item": "Underground Outlet ft 5000",
+            "Cost": "$5.39",
+            "Extra": "$26,950.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Livestock Pipeline ft 10000 $1.91 $19,100.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Livestock Pipeline ft 10000",
+            "Cost": "$1.91",
+            "Extra": "$19,100.00"
+          },
+          {
+            "Item": "Prescribed Grazing ac 500",
+            "Cost": "$57.13",
+            "Extra": "$28,565.00"
+          },
+          {
+            "Item": "Heavy Use Area Protection ft 15000",
+            "Cost": "$3.23",
+            "Extra": "$48,450.00"
+          },
+          {
+            "Item": "Stream Crossing ft 3750",
+            "Cost": "$11.07",
+            "Extra": "$41,512.50"
+          },
+          {
+            "Item": "ft 6000",
+            "Cost": "$198.60",
+            "Extra": "$1,191,600.00"
+          },
+          {
+            "Item": "Watering Facility gal 5325",
+            "Cost": "$2.81",
+            "Extra": "$14,963.25"
+          },
+          {
+            "Item": "Underground Outlet ft 5000",
+            "Cost": "$5.39",
+            "Extra": "$26,950.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Prescribed Grazing ac 500 $57.13 $28,565.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Prescribed Grazing ac 500",
+            "Cost": "$57.13",
+            "Extra": "$28,565.00"
+          },
+          {
+            "Item": "Heavy Use Area Protection ft 15000",
+            "Cost": "$3.23",
+            "Extra": "$48,450.00"
+          },
+          {
+            "Item": "Stream Crossing ft 3750",
+            "Cost": "$11.07",
+            "Extra": "$41,512.50"
+          },
+          {
+            "Item": "ft 6000",
+            "Cost": "$198.60",
+            "Extra": "$1,191,600.00"
+          },
+          {
+            "Item": "Watering Facility gal 5325",
+            "Cost": "$2.81",
+            "Extra": "$14,963.25"
+          },
+          {
+            "Item": "Underground Outlet ft 5000",
+            "Cost": "$5.39",
+            "Extra": "$26,950.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Heavy Use Area Protection ft 15000 $3.23 $48,450.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Heavy Use Area Protection ft 15000",
+            "Cost": "$3.23",
+            "Extra": "$48,450.00"
+          },
+          {
+            "Item": "Stream Crossing ft 3750",
+            "Cost": "$11.07",
+            "Extra": "$41,512.50"
+          },
+          {
+            "Item": "ft 6000",
+            "Cost": "$198.60",
+            "Extra": "$1,191,600.00"
+          },
+          {
+            "Item": "Watering Facility gal 5325",
+            "Cost": "$2.81",
+            "Extra": "$14,963.25"
+          },
+          {
+            "Item": "Underground Outlet ft 5000",
+            "Cost": "$5.39",
+            "Extra": "$26,950.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Stream Crossing ft 3750 $11.07 $41,512.50",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Stream Crossing ft 3750",
+            "Cost": "$11.07",
+            "Extra": "$41,512.50"
+          },
+          {
+            "Item": "ft 6000",
+            "Cost": "$198.60",
+            "Extra": "$1,191,600.00"
+          },
+          {
+            "Item": "Watering Facility gal 5325",
+            "Cost": "$2.81",
+            "Extra": "$14,963.25"
+          },
+          {
+            "Item": "Underground Outlet ft 5000",
+            "Cost": "$5.39",
+            "Extra": "$26,950.00"
+          },
+          {
+            "Item": "Critical Area Planting ac 15",
+            "Cost": "$483.84",
+            "Extra": "$7,257.60"
+          },
+          {
+            "Item": "Sediment Basin cu yd 2550",
+            "Cost": "$3.34",
+            "Extra": "$8,517.00"
+          },
+          {
+            "Item": "Diversion cu yd 4445",
+            "Cost": "$2.40",
+            "Extra": "$10,668.00"
+          },
+          {
+            "Item": "Fencing ft 3700",
+            "Cost": "$2.22",
+            "Extra": "$8,214.00"
+          },
+          {
+            "Item": "Grade Stabilization Structure ea 10",
+            "Cost": "$15,000.00",
+            "Extra": "$150,000.00"
+          },
+          {
+            "Item": "Forage and Biomass Planting ac 100",
+            "Cost": "$109.48",
+            "Extra": "$10,948.00"
+          },
+          {
+            "Item": "Stream Crossing ft 1500",
+            "Cost": "$11.07",
+            "Extra": "$16,605.00"
+          },
+          {
+            "Item": "ft 100",
+            "Cost": "$198.60",
+            "Extra": "$19,860.00"
+          },
+          {
+            "Item": "Tank/Trough ea 3",
+            "Cost": "$2,500.00",
+            "Extra": "$7,500.00"
+          },
+          {
+            "Item": "Underground Outlet ft 1000",
+            "Cost": "$5.39",
+            "Extra": "$5,390.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "ft 6000 $198.60 $1,191,600.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "ft 6000",
+            "Cost": "$198.60",
+            "Extra": "$1,191,600.00"
+          },
+          {
+            "Item": "Watering Facility gal 5325",
+            "Cost": "$2.81",
+            "Extra": "$14,963.25"
+          },
+          {
+            "Item": "Underground Outlet ft 5000",
+            "Cost": "$5.39",
+            "Extra": "$26,950.00"
+          },
+          {
+            "Item": "Critical Area Planting ac 15",
+            "Cost": "$483.84",
+            "Extra": "$7,257.60"
+          },
+          {
+            "Item": "Sediment Basin cu yd 2550",
+            "Cost": "$3.34",
+            "Extra": "$8,517.00"
+          },
+          {
+            "Item": "Diversion cu yd 4445",
+            "Cost": "$2.40",
+            "Extra": "$10,668.00"
+          },
+          {
+            "Item": "Fencing ft 3700",
+            "Cost": "$2.22",
+            "Extra": "$8,214.00"
+          },
+          {
+            "Item": "Grade Stabilization Structure ea 10",
+            "Cost": "$15,000.00",
+            "Extra": "$150,000.00"
+          },
+          {
+            "Item": "Forage and Biomass Planting ac 100",
+            "Cost": "$109.48",
+            "Extra": "$10,948.00"
+          },
+          {
+            "Item": "Stream Crossing ft 1500",
+            "Cost": "$11.07",
+            "Extra": "$16,605.00"
+          },
+          {
+            "Item": "ft 100",
+            "Cost": "$198.60",
+            "Extra": "$19,860.00"
+          },
+          {
+            "Item": "Tank/Trough ea 3",
+            "Cost": "$2,500.00",
+            "Extra": "$7,500.00"
+          },
+          {
+            "Item": "Underground Outlet ft 1000",
+            "Cost": "$5.39",
+            "Extra": "$5,390.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Watering Facility gal 5325 $2.81 $14,963.25",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Watering Facility gal 5325",
+            "Cost": "$2.81",
+            "Extra": "$14,963.25"
+          },
+          {
+            "Item": "Underground Outlet ft 5000",
+            "Cost": "$5.39",
+            "Extra": "$26,950.00"
+          },
+          {
+            "Item": "Critical Area Planting ac 15",
+            "Cost": "$483.84",
+            "Extra": "$7,257.60"
+          },
+          {
+            "Item": "Sediment Basin cu yd 2550",
+            "Cost": "$3.34",
+            "Extra": "$8,517.00"
+          },
+          {
+            "Item": "Diversion cu yd 4445",
+            "Cost": "$2.40",
+            "Extra": "$10,668.00"
+          },
+          {
+            "Item": "Fencing ft 3700",
+            "Cost": "$2.22",
+            "Extra": "$8,214.00"
+          },
+          {
+            "Item": "Grade Stabilization Structure ea 10",
+            "Cost": "$15,000.00",
+            "Extra": "$150,000.00"
+          },
+          {
+            "Item": "Forage and Biomass Planting ac 100",
+            "Cost": "$109.48",
+            "Extra": "$10,948.00"
+          },
+          {
+            "Item": "Stream Crossing ft 1500",
+            "Cost": "$11.07",
+            "Extra": "$16,605.00"
+          },
+          {
+            "Item": "ft 100",
+            "Cost": "$198.60",
+            "Extra": "$19,860.00"
+          },
+          {
+            "Item": "Tank/Trough ea 3",
+            "Cost": "$2,500.00",
+            "Extra": "$7,500.00"
+          },
+          {
+            "Item": "Underground Outlet ft 1000",
+            "Cost": "$5.39",
+            "Extra": "$5,390.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Underground Outlet ft 5000 $5.39 $26,950.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Underground Outlet ft 5000",
+            "Cost": "$5.39",
+            "Extra": "$26,950.00"
+          },
+          {
+            "Item": "Critical Area Planting ac 15",
+            "Cost": "$483.84",
+            "Extra": "$7,257.60"
+          },
+          {
+            "Item": "Sediment Basin cu yd 2550",
+            "Cost": "$3.34",
+            "Extra": "$8,517.00"
+          },
+          {
+            "Item": "Diversion cu yd 4445",
+            "Cost": "$2.40",
+            "Extra": "$10,668.00"
+          },
+          {
+            "Item": "Fencing ft 3700",
+            "Cost": "$2.22",
+            "Extra": "$8,214.00"
+          },
+          {
+            "Item": "Grade Stabilization Structure ea 10",
+            "Cost": "$15,000.00",
+            "Extra": "$150,000.00"
+          },
+          {
+            "Item": "Forage and Biomass Planting ac 100",
+            "Cost": "$109.48",
+            "Extra": "$10,948.00"
+          },
+          {
+            "Item": "Stream Crossing ft 1500",
+            "Cost": "$11.07",
+            "Extra": "$16,605.00"
+          },
+          {
+            "Item": "ft 100",
+            "Cost": "$198.60",
+            "Extra": "$19,860.00"
+          },
+          {
+            "Item": "Tank/Trough ea 3",
+            "Cost": "$2,500.00",
+            "Extra": "$7,500.00"
+          },
+          {
+            "Item": "Underground Outlet ft 1000",
+            "Cost": "$5.39",
+            "Extra": "$5,390.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$140,328.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Critical Area Planting ac 15",
+            "Cost": "$483.84",
+            "Extra": "$7,257.60"
+          },
+          {
+            "Item": "Sediment Basin cu yd 2550",
+            "Cost": "$3.34",
+            "Extra": "$8,517.00"
+          },
+          {
+            "Item": "Diversion cu yd 4445",
+            "Cost": "$2.40",
+            "Extra": "$10,668.00"
+          },
+          {
+            "Item": "Fencing ft 3700",
+            "Cost": "$2.22",
+            "Extra": "$8,214.00"
+          },
+          {
+            "Item": "Grade Stabilization Structure ea 10",
+            "Cost": "$15,000.00",
+            "Extra": "$150,000.00"
+          },
+          {
+            "Item": "Forage and Biomass Planting ac 100",
+            "Cost": "$109.48",
+            "Extra": "$10,948.00"
+          },
+          {
+            "Item": "Stream Crossing ft 1500",
+            "Cost": "$11.07",
+            "Extra": "$16,605.00"
+          },
+          {
+            "Item": "ft 100",
+            "Cost": "$198.60",
+            "Extra": "$19,860.00"
+          },
+          {
+            "Item": "Tank/Trough ea 3",
+            "Cost": "$2,500.00",
+            "Extra": "$7,500.00"
+          },
+          {
+            "Item": "Underground Outlet ft 1000",
+            "Cost": "$5.39",
+            "Extra": "$5,390.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$100,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Critical Area Planting ac 15",
+            "Cost": "$483.84",
+            "Extra": "$7,257.60"
+          },
+          {
+            "Item": "Sediment Basin cu yd 2550",
+            "Cost": "$3.34",
+            "Extra": "$8,517.00"
+          },
+          {
+            "Item": "Diversion cu yd 4445",
+            "Cost": "$2.40",
+            "Extra": "$10,668.00"
+          },
+          {
+            "Item": "Fencing ft 3700",
+            "Cost": "$2.22",
+            "Extra": "$8,214.00"
+          },
+          {
+            "Item": "Grade Stabilization Structure ea 10",
+            "Cost": "$15,000.00",
+            "Extra": "$150,000.00"
+          },
+          {
+            "Item": "Forage and Biomass Planting ac 100",
+            "Cost": "$109.48",
+            "Extra": "$10,948.00"
+          },
+          {
+            "Item": "Stream Crossing ft 1500",
+            "Cost": "$11.07",
+            "Extra": "$16,605.00"
+          },
+          {
+            "Item": "ft 100",
+            "Cost": "$198.60",
+            "Extra": "$19,860.00"
+          },
+          {
+            "Item": "Tank/Trough ea 3",
+            "Cost": "$2,500.00",
+            "Extra": "$7,500.00"
+          },
+          {
+            "Item": "Underground Outlet ft 1000",
+            "Cost": "$5.39",
+            "Extra": "$5,390.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$69,500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Critical Area Planting ac 15",
+            "Cost": "$483.84",
+            "Extra": "$7,257.60"
+          },
+          {
+            "Item": "Sediment Basin cu yd 2550",
+            "Cost": "$3.34",
+            "Extra": "$8,517.00"
+          },
+          {
+            "Item": "Diversion cu yd 4445",
+            "Cost": "$2.40",
+            "Extra": "$10,668.00"
+          },
+          {
+            "Item": "Fencing ft 3700",
+            "Cost": "$2.22",
+            "Extra": "$8,214.00"
+          },
+          {
+            "Item": "Grade Stabilization Structure ea 10",
+            "Cost": "$15,000.00",
+            "Extra": "$150,000.00"
+          },
+          {
+            "Item": "Forage and Biomass Planting ac 100",
+            "Cost": "$109.48",
+            "Extra": "$10,948.00"
+          },
+          {
+            "Item": "Stream Crossing ft 1500",
+            "Cost": "$11.07",
+            "Extra": "$16,605.00"
+          },
+          {
+            "Item": "ft 100",
+            "Cost": "$198.60",
+            "Extra": "$19,860.00"
+          },
+          {
+            "Item": "Tank/Trough ea 3",
+            "Cost": "$2,500.00",
+            "Extra": "$7,500.00"
+          },
+          {
+            "Item": "Underground Outlet ft 1000",
+            "Cost": "$5.39",
+            "Extra": "$5,390.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$150,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Critical Area Planting ac 15",
+            "Cost": "$483.84",
+            "Extra": "$7,257.60"
+          },
+          {
+            "Item": "Sediment Basin cu yd 2550",
+            "Cost": "$3.34",
+            "Extra": "$8,517.00"
+          },
+          {
+            "Item": "Diversion cu yd 4445",
+            "Cost": "$2.40",
+            "Extra": "$10,668.00"
+          },
+          {
+            "Item": "Fencing ft 3700",
+            "Cost": "$2.22",
+            "Extra": "$8,214.00"
+          },
+          {
+            "Item": "Grade Stabilization Structure ea 10",
+            "Cost": "$15,000.00",
+            "Extra": "$150,000.00"
+          },
+          {
+            "Item": "Forage and Biomass Planting ac 100",
+            "Cost": "$109.48",
+            "Extra": "$10,948.00"
+          },
+          {
+            "Item": "Stream Crossing ft 1500",
+            "Cost": "$11.07",
+            "Extra": "$16,605.00"
+          },
+          {
+            "Item": "ft 100",
+            "Cost": "$198.60",
+            "Extra": "$19,860.00"
+          },
+          {
+            "Item": "Tank/Trough ea 3",
+            "Cost": "$2,500.00",
+            "Extra": "$7,500.00"
+          },
+          {
+            "Item": "Underground Outlet ft 1000",
+            "Cost": "$5.39",
+            "Extra": "$5,390.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$2,744,001",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Critical Area Planting ac 15",
+            "Cost": "$483.84",
+            "Extra": "$7,257.60"
+          },
+          {
+            "Item": "Sediment Basin cu yd 2550",
+            "Cost": "$3.34",
+            "Extra": "$8,517.00"
+          },
+          {
+            "Item": "Diversion cu yd 4445",
+            "Cost": "$2.40",
+            "Extra": "$10,668.00"
+          },
+          {
+            "Item": "Fencing ft 3700",
+            "Cost": "$2.22",
+            "Extra": "$8,214.00"
+          },
+          {
+            "Item": "Grade Stabilization Structure ea 10",
+            "Cost": "$15,000.00",
+            "Extra": "$150,000.00"
+          },
+          {
+            "Item": "Forage and Biomass Planting ac 100",
+            "Cost": "$109.48",
+            "Extra": "$10,948.00"
+          },
+          {
+            "Item": "Stream Crossing ft 1500",
+            "Cost": "$11.07",
+            "Extra": "$16,605.00"
+          },
+          {
+            "Item": "ft 100",
+            "Cost": "$198.60",
+            "Extra": "$19,860.00"
+          },
+          {
+            "Item": "Tank/Trough ea 3",
+            "Cost": "$2,500.00",
+            "Extra": "$7,500.00"
+          },
+          {
+            "Item": "Underground Outlet ft 1000",
+            "Cost": "$5.39",
+            "Extra": "$5,390.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Critical Area Planting ac 15 $483.84 $7,257.60",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Critical Area Planting ac 15",
+            "Cost": "$483.84",
+            "Extra": "$7,257.60"
+          },
+          {
+            "Item": "Sediment Basin cu yd 2550",
+            "Cost": "$3.34",
+            "Extra": "$8,517.00"
+          },
+          {
+            "Item": "Diversion cu yd 4445",
+            "Cost": "$2.40",
+            "Extra": "$10,668.00"
+          },
+          {
+            "Item": "Fencing ft 3700",
+            "Cost": "$2.22",
+            "Extra": "$8,214.00"
+          },
+          {
+            "Item": "Grade Stabilization Structure ea 10",
+            "Cost": "$15,000.00",
+            "Extra": "$150,000.00"
+          },
+          {
+            "Item": "Forage and Biomass Planting ac 100",
+            "Cost": "$109.48",
+            "Extra": "$10,948.00"
+          },
+          {
+            "Item": "Stream Crossing ft 1500",
+            "Cost": "$11.07",
+            "Extra": "$16,605.00"
+          },
+          {
+            "Item": "ft 100",
+            "Cost": "$198.60",
+            "Extra": "$19,860.00"
+          },
+          {
+            "Item": "Tank/Trough ea 3",
+            "Cost": "$2,500.00",
+            "Extra": "$7,500.00"
+          },
+          {
+            "Item": "Underground Outlet ft 1000",
+            "Cost": "$5.39",
+            "Extra": "$5,390.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Sediment Basin cu yd 2550 $3.34 $8,517.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Sediment Basin cu yd 2550",
+            "Cost": "$3.34",
+            "Extra": "$8,517.00"
+          },
+          {
+            "Item": "Diversion cu yd 4445",
+            "Cost": "$2.40",
+            "Extra": "$10,668.00"
+          },
+          {
+            "Item": "Fencing ft 3700",
+            "Cost": "$2.22",
+            "Extra": "$8,214.00"
+          },
+          {
+            "Item": "Grade Stabilization Structure ea 10",
+            "Cost": "$15,000.00",
+            "Extra": "$150,000.00"
+          },
+          {
+            "Item": "Forage and Biomass Planting ac 100",
+            "Cost": "$109.48",
+            "Extra": "$10,948.00"
+          },
+          {
+            "Item": "Stream Crossing ft 1500",
+            "Cost": "$11.07",
+            "Extra": "$16,605.00"
+          },
+          {
+            "Item": "ft 100",
+            "Cost": "$198.60",
+            "Extra": "$19,860.00"
+          },
+          {
+            "Item": "Tank/Trough ea 3",
+            "Cost": "$2,500.00",
+            "Extra": "$7,500.00"
+          },
+          {
+            "Item": "Underground Outlet ft 1000",
+            "Cost": "$5.39",
+            "Extra": "$5,390.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Diversion cu yd 4445 $2.40 $10,668.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Diversion cu yd 4445",
+            "Cost": "$2.40",
+            "Extra": "$10,668.00"
+          },
+          {
+            "Item": "Fencing ft 3700",
+            "Cost": "$2.22",
+            "Extra": "$8,214.00"
+          },
+          {
+            "Item": "Grade Stabilization Structure ea 10",
+            "Cost": "$15,000.00",
+            "Extra": "$150,000.00"
+          },
+          {
+            "Item": "Forage and Biomass Planting ac 100",
+            "Cost": "$109.48",
+            "Extra": "$10,948.00"
+          },
+          {
+            "Item": "Stream Crossing ft 1500",
+            "Cost": "$11.07",
+            "Extra": "$16,605.00"
+          },
+          {
+            "Item": "ft 100",
+            "Cost": "$198.60",
+            "Extra": "$19,860.00"
+          },
+          {
+            "Item": "Tank/Trough ea 3",
+            "Cost": "$2,500.00",
+            "Extra": "$7,500.00"
+          },
+          {
+            "Item": "Underground Outlet ft 1000",
+            "Cost": "$5.39",
+            "Extra": "$5,390.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Fencing ft 3700 $2.22 $8,214.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Fencing ft 3700",
+            "Cost": "$2.22",
+            "Extra": "$8,214.00"
+          },
+          {
+            "Item": "Grade Stabilization Structure ea 10",
+            "Cost": "$15,000.00",
+            "Extra": "$150,000.00"
+          },
+          {
+            "Item": "Forage and Biomass Planting ac 100",
+            "Cost": "$109.48",
+            "Extra": "$10,948.00"
+          },
+          {
+            "Item": "Stream Crossing ft 1500",
+            "Cost": "$11.07",
+            "Extra": "$16,605.00"
+          },
+          {
+            "Item": "ft 100",
+            "Cost": "$198.60",
+            "Extra": "$19,860.00"
+          },
+          {
+            "Item": "Tank/Trough ea 3",
+            "Cost": "$2,500.00",
+            "Extra": "$7,500.00"
+          },
+          {
+            "Item": "Underground Outlet ft 1000",
+            "Cost": "$5.39",
+            "Extra": "$5,390.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Grade Stabilization Structure ea 10 $15,000.00 $150,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Grade Stabilization Structure ea 10",
+            "Cost": "$15,000.00",
+            "Extra": "$150,000.00"
+          },
+          {
+            "Item": "Forage and Biomass Planting ac 100",
+            "Cost": "$109.48",
+            "Extra": "$10,948.00"
+          },
+          {
+            "Item": "Stream Crossing ft 1500",
+            "Cost": "$11.07",
+            "Extra": "$16,605.00"
+          },
+          {
+            "Item": "ft 100",
+            "Cost": "$198.60",
+            "Extra": "$19,860.00"
+          },
+          {
+            "Item": "Tank/Trough ea 3",
+            "Cost": "$2,500.00",
+            "Extra": "$7,500.00"
+          },
+          {
+            "Item": "Underground Outlet ft 1000",
+            "Cost": "$5.39",
+            "Extra": "$5,390.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Forage and Biomass Planting ac 100 $109.48 $10,948.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Forage and Biomass Planting ac 100",
+            "Cost": "$109.48",
+            "Extra": "$10,948.00"
+          },
+          {
+            "Item": "Stream Crossing ft 1500",
+            "Cost": "$11.07",
+            "Extra": "$16,605.00"
+          },
+          {
+            "Item": "ft 100",
+            "Cost": "$198.60",
+            "Extra": "$19,860.00"
+          },
+          {
+            "Item": "Tank/Trough ea 3",
+            "Cost": "$2,500.00",
+            "Extra": "$7,500.00"
+          },
+          {
+            "Item": "Underground Outlet ft 1000",
+            "Cost": "$5.39",
+            "Extra": "$5,390.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Stream Crossing ft 1500 $11.07 $16,605.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Stream Crossing ft 1500",
+            "Cost": "$11.07",
+            "Extra": "$16,605.00"
+          },
+          {
+            "Item": "ft 100",
+            "Cost": "$198.60",
+            "Extra": "$19,860.00"
+          },
+          {
+            "Item": "Tank/Trough ea 3",
+            "Cost": "$2,500.00",
+            "Extra": "$7,500.00"
+          },
+          {
+            "Item": "Underground Outlet ft 1000",
+            "Cost": "$5.39",
+            "Extra": "$5,390.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "ft 100 $198.60 $19,860.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "ft 100",
+            "Cost": "$198.60",
+            "Extra": "$19,860.00"
+          },
+          {
+            "Item": "Tank/Trough ea 3",
+            "Cost": "$2,500.00",
+            "Extra": "$7,500.00"
+          },
+          {
+            "Item": "Underground Outlet ft 1000",
+            "Cost": "$5.39",
+            "Extra": "$5,390.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Herbaceous Weed Management ac 325 $64.80 $21,060.00",
+      "rows": [
+        {
+          "name": "Herbaceous Weed Management ac 325",
+          "totalCost": 64.8,
+          "rawCost": "$64.80"
+        },
+        {
+          "name": "Cover Crop ac 1000",
+          "totalCost": 55.86,
+          "rawCost": "$55.86"
+        },
+        {
+          "name": "Critical Area Planting ac 55",
+          "totalCost": 483.84,
+          "rawCost": "$483.84"
+        },
+        {
+          "name": "Sediment Basin cu yd 4250",
+          "totalCost": 3.34,
+          "rawCost": "$3.34"
+        },
+        {
+          "name": "Diversion cu yd 9750",
+          "totalCost": 2.4,
+          "rawCost": "$2.40"
+        },
+        {
+          "name": "Fence ft 20000",
+          "totalCost": 2.22,
+          "rawCost": "$2.22"
+        },
+        {
+          "name": "Field Border ac 10",
+          "totalCost": 631.2,
+          "rawCost": "$631.20"
+        },
+        {
+          "name": "Grade Stabilization Structure ea 45",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "Land Clearing ac 20",
+          "totalCost": 530.65,
+          "rawCost": "$530.65"
+        },
+        {
+          "name": "Forage and Biomass Planting ac 325",
+          "totalCost": 109.48,
+          "rawCost": "$109.48"
+        },
+        {
+          "name": "Livestock Pipeline ft 10000",
+          "totalCost": 1.91,
+          "rawCost": "$1.91"
+        },
+        {
+          "name": "Prescribed Grazing ac 500",
+          "totalCost": 57.13,
+          "rawCost": "$57.13"
+        },
+        {
+          "name": "Heavy Use Area Protection ft 15000",
+          "totalCost": 3.23,
+          "rawCost": "$3.23"
+        },
+        {
+          "name": "Stream Crossing ft 3750",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 6000",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Watering Facility gal 5325",
+          "totalCost": 2.81,
+          "rawCost": "$2.81"
+        },
+        {
+          "name": "Underground Outlet ft 5000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 17163.93,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Cover Crop ac 1000 $55.86 $55,860.00",
+      "rows": [
+        {
+          "name": "Cover Crop ac 1000",
+          "totalCost": 55.86,
+          "rawCost": "$55.86"
+        },
+        {
+          "name": "Critical Area Planting ac 55",
+          "totalCost": 483.84,
+          "rawCost": "$483.84"
+        },
+        {
+          "name": "Sediment Basin cu yd 4250",
+          "totalCost": 3.34,
+          "rawCost": "$3.34"
+        },
+        {
+          "name": "Diversion cu yd 9750",
+          "totalCost": 2.4,
+          "rawCost": "$2.40"
+        },
+        {
+          "name": "Fence ft 20000",
+          "totalCost": 2.22,
+          "rawCost": "$2.22"
+        },
+        {
+          "name": "Field Border ac 10",
+          "totalCost": 631.2,
+          "rawCost": "$631.20"
+        },
+        {
+          "name": "Grade Stabilization Structure ea 45",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "Land Clearing ac 20",
+          "totalCost": 530.65,
+          "rawCost": "$530.65"
+        },
+        {
+          "name": "Forage and Biomass Planting ac 325",
+          "totalCost": 109.48,
+          "rawCost": "$109.48"
+        },
+        {
+          "name": "Livestock Pipeline ft 10000",
+          "totalCost": 1.91,
+          "rawCost": "$1.91"
+        },
+        {
+          "name": "Prescribed Grazing ac 500",
+          "totalCost": 57.13,
+          "rawCost": "$57.13"
+        },
+        {
+          "name": "Heavy Use Area Protection ft 15000",
+          "totalCost": 3.23,
+          "rawCost": "$3.23"
+        },
+        {
+          "name": "Stream Crossing ft 3750",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 6000",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Watering Facility gal 5325",
+          "totalCost": 2.81,
+          "rawCost": "$2.81"
+        },
+        {
+          "name": "Underground Outlet ft 5000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 17099.13,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Critical Area Planting ac 55 $483.84 $26,611.20",
+      "rows": [
+        {
+          "name": "Critical Area Planting ac 55",
+          "totalCost": 483.84,
+          "rawCost": "$483.84"
+        },
+        {
+          "name": "Sediment Basin cu yd 4250",
+          "totalCost": 3.34,
+          "rawCost": "$3.34"
+        },
+        {
+          "name": "Diversion cu yd 9750",
+          "totalCost": 2.4,
+          "rawCost": "$2.40"
+        },
+        {
+          "name": "Fence ft 20000",
+          "totalCost": 2.22,
+          "rawCost": "$2.22"
+        },
+        {
+          "name": "Field Border ac 10",
+          "totalCost": 631.2,
+          "rawCost": "$631.20"
+        },
+        {
+          "name": "Grade Stabilization Structure ea 45",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "Land Clearing ac 20",
+          "totalCost": 530.65,
+          "rawCost": "$530.65"
+        },
+        {
+          "name": "Forage and Biomass Planting ac 325",
+          "totalCost": 109.48,
+          "rawCost": "$109.48"
+        },
+        {
+          "name": "Livestock Pipeline ft 10000",
+          "totalCost": 1.91,
+          "rawCost": "$1.91"
+        },
+        {
+          "name": "Prescribed Grazing ac 500",
+          "totalCost": 57.13,
+          "rawCost": "$57.13"
+        },
+        {
+          "name": "Heavy Use Area Protection ft 15000",
+          "totalCost": 3.23,
+          "rawCost": "$3.23"
+        },
+        {
+          "name": "Stream Crossing ft 3750",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 6000",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Watering Facility gal 5325",
+          "totalCost": 2.81,
+          "rawCost": "$2.81"
+        },
+        {
+          "name": "Underground Outlet ft 5000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 17043.27,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Sediment Basin cu yd 4250 $3.34 $14,195.00",
+      "rows": [
+        {
+          "name": "Sediment Basin cu yd 4250",
+          "totalCost": 3.34,
+          "rawCost": "$3.34"
+        },
+        {
+          "name": "Diversion cu yd 9750",
+          "totalCost": 2.4,
+          "rawCost": "$2.40"
+        },
+        {
+          "name": "Fence ft 20000",
+          "totalCost": 2.22,
+          "rawCost": "$2.22"
+        },
+        {
+          "name": "Field Border ac 10",
+          "totalCost": 631.2,
+          "rawCost": "$631.20"
+        },
+        {
+          "name": "Grade Stabilization Structure ea 45",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "Land Clearing ac 20",
+          "totalCost": 530.65,
+          "rawCost": "$530.65"
+        },
+        {
+          "name": "Forage and Biomass Planting ac 325",
+          "totalCost": 109.48,
+          "rawCost": "$109.48"
+        },
+        {
+          "name": "Livestock Pipeline ft 10000",
+          "totalCost": 1.91,
+          "rawCost": "$1.91"
+        },
+        {
+          "name": "Prescribed Grazing ac 500",
+          "totalCost": 57.13,
+          "rawCost": "$57.13"
+        },
+        {
+          "name": "Heavy Use Area Protection ft 15000",
+          "totalCost": 3.23,
+          "rawCost": "$3.23"
+        },
+        {
+          "name": "Stream Crossing ft 3750",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 6000",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Watering Facility gal 5325",
+          "totalCost": 2.81,
+          "rawCost": "$2.81"
+        },
+        {
+          "name": "Underground Outlet ft 5000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 16559.429999999997,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Diversion cu yd 9750 $2.40 $23,400.00",
+      "rows": [
+        {
+          "name": "Diversion cu yd 9750",
+          "totalCost": 2.4,
+          "rawCost": "$2.40"
+        },
+        {
+          "name": "Fence ft 20000",
+          "totalCost": 2.22,
+          "rawCost": "$2.22"
+        },
+        {
+          "name": "Field Border ac 10",
+          "totalCost": 631.2,
+          "rawCost": "$631.20"
+        },
+        {
+          "name": "Grade Stabilization Structure ea 45",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "Land Clearing ac 20",
+          "totalCost": 530.65,
+          "rawCost": "$530.65"
+        },
+        {
+          "name": "Forage and Biomass Planting ac 325",
+          "totalCost": 109.48,
+          "rawCost": "$109.48"
+        },
+        {
+          "name": "Livestock Pipeline ft 10000",
+          "totalCost": 1.91,
+          "rawCost": "$1.91"
+        },
+        {
+          "name": "Prescribed Grazing ac 500",
+          "totalCost": 57.13,
+          "rawCost": "$57.13"
+        },
+        {
+          "name": "Heavy Use Area Protection ft 15000",
+          "totalCost": 3.23,
+          "rawCost": "$3.23"
+        },
+        {
+          "name": "Stream Crossing ft 3750",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 6000",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Watering Facility gal 5325",
+          "totalCost": 2.81,
+          "rawCost": "$2.81"
+        },
+        {
+          "name": "Underground Outlet ft 5000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 16556.089999999997,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Fence ft 20000 $2.22 $44,400.00",
+      "rows": [
+        {
+          "name": "Fence ft 20000",
+          "totalCost": 2.22,
+          "rawCost": "$2.22"
+        },
+        {
+          "name": "Field Border ac 10",
+          "totalCost": 631.2,
+          "rawCost": "$631.20"
+        },
+        {
+          "name": "Grade Stabilization Structure ea 45",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "Land Clearing ac 20",
+          "totalCost": 530.65,
+          "rawCost": "$530.65"
+        },
+        {
+          "name": "Forage and Biomass Planting ac 325",
+          "totalCost": 109.48,
+          "rawCost": "$109.48"
+        },
+        {
+          "name": "Livestock Pipeline ft 10000",
+          "totalCost": 1.91,
+          "rawCost": "$1.91"
+        },
+        {
+          "name": "Prescribed Grazing ac 500",
+          "totalCost": 57.13,
+          "rawCost": "$57.13"
+        },
+        {
+          "name": "Heavy Use Area Protection ft 15000",
+          "totalCost": 3.23,
+          "rawCost": "$3.23"
+        },
+        {
+          "name": "Stream Crossing ft 3750",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 6000",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Watering Facility gal 5325",
+          "totalCost": 2.81,
+          "rawCost": "$2.81"
+        },
+        {
+          "name": "Underground Outlet ft 5000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 16553.69,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Field Border ac 10 $631.20 $6,312.00",
+      "rows": [
+        {
+          "name": "Field Border ac 10",
+          "totalCost": 631.2,
+          "rawCost": "$631.20"
+        },
+        {
+          "name": "Grade Stabilization Structure ea 45",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "Land Clearing ac 20",
+          "totalCost": 530.65,
+          "rawCost": "$530.65"
+        },
+        {
+          "name": "Forage and Biomass Planting ac 325",
+          "totalCost": 109.48,
+          "rawCost": "$109.48"
+        },
+        {
+          "name": "Livestock Pipeline ft 10000",
+          "totalCost": 1.91,
+          "rawCost": "$1.91"
+        },
+        {
+          "name": "Prescribed Grazing ac 500",
+          "totalCost": 57.13,
+          "rawCost": "$57.13"
+        },
+        {
+          "name": "Heavy Use Area Protection ft 15000",
+          "totalCost": 3.23,
+          "rawCost": "$3.23"
+        },
+        {
+          "name": "Stream Crossing ft 3750",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 6000",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Watering Facility gal 5325",
+          "totalCost": 2.81,
+          "rawCost": "$2.81"
+        },
+        {
+          "name": "Underground Outlet ft 5000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 16551.469999999998,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Grade Stabilization Structure ea 45 $15,000.00 $675,000.00",
+      "rows": [
+        {
+          "name": "Grade Stabilization Structure ea 45",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "Land Clearing ac 20",
+          "totalCost": 530.65,
+          "rawCost": "$530.65"
+        },
+        {
+          "name": "Forage and Biomass Planting ac 325",
+          "totalCost": 109.48,
+          "rawCost": "$109.48"
+        },
+        {
+          "name": "Livestock Pipeline ft 10000",
+          "totalCost": 1.91,
+          "rawCost": "$1.91"
+        },
+        {
+          "name": "Prescribed Grazing ac 500",
+          "totalCost": 57.13,
+          "rawCost": "$57.13"
+        },
+        {
+          "name": "Heavy Use Area Protection ft 15000",
+          "totalCost": 3.23,
+          "rawCost": "$3.23"
+        },
+        {
+          "name": "Stream Crossing ft 3750",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 6000",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Watering Facility gal 5325",
+          "totalCost": 2.81,
+          "rawCost": "$2.81"
+        },
+        {
+          "name": "Underground Outlet ft 5000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 15920.269999999997,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Land Clearing ac 20 $530.65 $10,613.00",
+      "rows": [
+        {
+          "name": "Land Clearing ac 20",
+          "totalCost": 530.65,
+          "rawCost": "$530.65"
+        },
+        {
+          "name": "Forage and Biomass Planting ac 325",
+          "totalCost": 109.48,
+          "rawCost": "$109.48"
+        },
+        {
+          "name": "Livestock Pipeline ft 10000",
+          "totalCost": 1.91,
+          "rawCost": "$1.91"
+        },
+        {
+          "name": "Prescribed Grazing ac 500",
+          "totalCost": 57.13,
+          "rawCost": "$57.13"
+        },
+        {
+          "name": "Heavy Use Area Protection ft 15000",
+          "totalCost": 3.23,
+          "rawCost": "$3.23"
+        },
+        {
+          "name": "Stream Crossing ft 3750",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 6000",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Watering Facility gal 5325",
+          "totalCost": 2.81,
+          "rawCost": "$2.81"
+        },
+        {
+          "name": "Underground Outlet ft 5000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 920.27,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Forage and Biomass Planting ac 325 $109.48 $35,581.00",
+      "rows": [
+        {
+          "name": "Forage and Biomass Planting ac 325",
+          "totalCost": 109.48,
+          "rawCost": "$109.48"
+        },
+        {
+          "name": "Livestock Pipeline ft 10000",
+          "totalCost": 1.91,
+          "rawCost": "$1.91"
+        },
+        {
+          "name": "Prescribed Grazing ac 500",
+          "totalCost": 57.13,
+          "rawCost": "$57.13"
+        },
+        {
+          "name": "Heavy Use Area Protection ft 15000",
+          "totalCost": 3.23,
+          "rawCost": "$3.23"
+        },
+        {
+          "name": "Stream Crossing ft 3750",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 6000",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Watering Facility gal 5325",
+          "totalCost": 2.81,
+          "rawCost": "$2.81"
+        },
+        {
+          "name": "Underground Outlet ft 5000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 389.61999999999995,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Livestock Pipeline ft 10000 $1.91 $19,100.00",
+      "rows": [
+        {
+          "name": "Livestock Pipeline ft 10000",
+          "totalCost": 1.91,
+          "rawCost": "$1.91"
+        },
+        {
+          "name": "Prescribed Grazing ac 500",
+          "totalCost": 57.13,
+          "rawCost": "$57.13"
+        },
+        {
+          "name": "Heavy Use Area Protection ft 15000",
+          "totalCost": 3.23,
+          "rawCost": "$3.23"
+        },
+        {
+          "name": "Stream Crossing ft 3750",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 6000",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Watering Facility gal 5325",
+          "totalCost": 2.81,
+          "rawCost": "$2.81"
+        },
+        {
+          "name": "Underground Outlet ft 5000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 280.14,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Prescribed Grazing ac 500 $57.13 $28,565.00",
+      "rows": [
+        {
+          "name": "Prescribed Grazing ac 500",
+          "totalCost": 57.13,
+          "rawCost": "$57.13"
+        },
+        {
+          "name": "Heavy Use Area Protection ft 15000",
+          "totalCost": 3.23,
+          "rawCost": "$3.23"
+        },
+        {
+          "name": "Stream Crossing ft 3750",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 6000",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Watering Facility gal 5325",
+          "totalCost": 2.81,
+          "rawCost": "$2.81"
+        },
+        {
+          "name": "Underground Outlet ft 5000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 278.22999999999996,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Heavy Use Area Protection ft 15000 $3.23 $48,450.00",
+      "rows": [
+        {
+          "name": "Heavy Use Area Protection ft 15000",
+          "totalCost": 3.23,
+          "rawCost": "$3.23"
+        },
+        {
+          "name": "Stream Crossing ft 3750",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 6000",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Watering Facility gal 5325",
+          "totalCost": 2.81,
+          "rawCost": "$2.81"
+        },
+        {
+          "name": "Underground Outlet ft 5000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 221.1,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Stream Crossing ft 3750 $11.07 $41,512.50",
+      "rows": [
+        {
+          "name": "Stream Crossing ft 3750",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 6000",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Watering Facility gal 5325",
+          "totalCost": 2.81,
+          "rawCost": "$2.81"
+        },
+        {
+          "name": "Underground Outlet ft 5000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        },
+        {
+          "name": "Critical Area Planting ac 15",
+          "totalCost": 483.84,
+          "rawCost": "$483.84"
+        },
+        {
+          "name": "Sediment Basin cu yd 2550",
+          "totalCost": 3.34,
+          "rawCost": "$3.34"
+        },
+        {
+          "name": "Diversion cu yd 4445",
+          "totalCost": 2.4,
+          "rawCost": "$2.40"
+        },
+        {
+          "name": "Fencing ft 3700",
+          "totalCost": 2.22,
+          "rawCost": "$2.22"
+        },
+        {
+          "name": "Grade Stabilization Structure ea 10",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "Forage and Biomass Planting ac 100",
+          "totalCost": 109.48,
+          "rawCost": "$109.48"
+        },
+        {
+          "name": "Stream Crossing ft 1500",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 100",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Tank/Trough ea 3",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "Underground Outlet ft 1000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 18534.21,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "ft 6000 $198.60 $1,191,600.00",
+      "rows": [
+        {
+          "name": "ft 6000",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Watering Facility gal 5325",
+          "totalCost": 2.81,
+          "rawCost": "$2.81"
+        },
+        {
+          "name": "Underground Outlet ft 5000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        },
+        {
+          "name": "Critical Area Planting ac 15",
+          "totalCost": 483.84,
+          "rawCost": "$483.84"
+        },
+        {
+          "name": "Sediment Basin cu yd 2550",
+          "totalCost": 3.34,
+          "rawCost": "$3.34"
+        },
+        {
+          "name": "Diversion cu yd 4445",
+          "totalCost": 2.4,
+          "rawCost": "$2.40"
+        },
+        {
+          "name": "Fencing ft 3700",
+          "totalCost": 2.22,
+          "rawCost": "$2.22"
+        },
+        {
+          "name": "Grade Stabilization Structure ea 10",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "Forage and Biomass Planting ac 100",
+          "totalCost": 109.48,
+          "rawCost": "$109.48"
+        },
+        {
+          "name": "Stream Crossing ft 1500",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 100",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Tank/Trough ea 3",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "Underground Outlet ft 1000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 18523.14,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Watering Facility gal 5325 $2.81 $14,963.25",
+      "rows": [
+        {
+          "name": "Watering Facility gal 5325",
+          "totalCost": 2.81,
+          "rawCost": "$2.81"
+        },
+        {
+          "name": "Underground Outlet ft 5000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        },
+        {
+          "name": "Critical Area Planting ac 15",
+          "totalCost": 483.84,
+          "rawCost": "$483.84"
+        },
+        {
+          "name": "Sediment Basin cu yd 2550",
+          "totalCost": 3.34,
+          "rawCost": "$3.34"
+        },
+        {
+          "name": "Diversion cu yd 4445",
+          "totalCost": 2.4,
+          "rawCost": "$2.40"
+        },
+        {
+          "name": "Fencing ft 3700",
+          "totalCost": 2.22,
+          "rawCost": "$2.22"
+        },
+        {
+          "name": "Grade Stabilization Structure ea 10",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "Forage and Biomass Planting ac 100",
+          "totalCost": 109.48,
+          "rawCost": "$109.48"
+        },
+        {
+          "name": "Stream Crossing ft 1500",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 100",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Tank/Trough ea 3",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "Underground Outlet ft 1000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 18324.54,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Underground Outlet ft 5000 $5.39 $26,950.00",
+      "rows": [
+        {
+          "name": "Underground Outlet ft 5000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        },
+        {
+          "name": "Critical Area Planting ac 15",
+          "totalCost": 483.84,
+          "rawCost": "$483.84"
+        },
+        {
+          "name": "Sediment Basin cu yd 2550",
+          "totalCost": 3.34,
+          "rawCost": "$3.34"
+        },
+        {
+          "name": "Diversion cu yd 4445",
+          "totalCost": 2.4,
+          "rawCost": "$2.40"
+        },
+        {
+          "name": "Fencing ft 3700",
+          "totalCost": 2.22,
+          "rawCost": "$2.22"
+        },
+        {
+          "name": "Grade Stabilization Structure ea 10",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "Forage and Biomass Planting ac 100",
+          "totalCost": 109.48,
+          "rawCost": "$109.48"
+        },
+        {
+          "name": "Stream Crossing ft 1500",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 100",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Tank/Trough ea 3",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "Underground Outlet ft 1000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 18321.73,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$140,328.00",
+      "rows": [
+        {
+          "name": "Critical Area Planting ac 15",
+          "totalCost": 483.84,
+          "rawCost": "$483.84"
+        },
+        {
+          "name": "Sediment Basin cu yd 2550",
+          "totalCost": 3.34,
+          "rawCost": "$3.34"
+        },
+        {
+          "name": "Diversion cu yd 4445",
+          "totalCost": 2.4,
+          "rawCost": "$2.40"
+        },
+        {
+          "name": "Fencing ft 3700",
+          "totalCost": 2.22,
+          "rawCost": "$2.22"
+        },
+        {
+          "name": "Grade Stabilization Structure ea 10",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "Forage and Biomass Planting ac 100",
+          "totalCost": 109.48,
+          "rawCost": "$109.48"
+        },
+        {
+          "name": "Stream Crossing ft 1500",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 100",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Tank/Trough ea 3",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "Underground Outlet ft 1000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 18316.339999999997,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$100,000.00",
+      "rows": [
+        {
+          "name": "Critical Area Planting ac 15",
+          "totalCost": 483.84,
+          "rawCost": "$483.84"
+        },
+        {
+          "name": "Sediment Basin cu yd 2550",
+          "totalCost": 3.34,
+          "rawCost": "$3.34"
+        },
+        {
+          "name": "Diversion cu yd 4445",
+          "totalCost": 2.4,
+          "rawCost": "$2.40"
+        },
+        {
+          "name": "Fencing ft 3700",
+          "totalCost": 2.22,
+          "rawCost": "$2.22"
+        },
+        {
+          "name": "Grade Stabilization Structure ea 10",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "Forage and Biomass Planting ac 100",
+          "totalCost": 109.48,
+          "rawCost": "$109.48"
+        },
+        {
+          "name": "Stream Crossing ft 1500",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 100",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Tank/Trough ea 3",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "Underground Outlet ft 1000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 18316.339999999997,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$69,500.00",
+      "rows": [
+        {
+          "name": "Critical Area Planting ac 15",
+          "totalCost": 483.84,
+          "rawCost": "$483.84"
+        },
+        {
+          "name": "Sediment Basin cu yd 2550",
+          "totalCost": 3.34,
+          "rawCost": "$3.34"
+        },
+        {
+          "name": "Diversion cu yd 4445",
+          "totalCost": 2.4,
+          "rawCost": "$2.40"
+        },
+        {
+          "name": "Fencing ft 3700",
+          "totalCost": 2.22,
+          "rawCost": "$2.22"
+        },
+        {
+          "name": "Grade Stabilization Structure ea 10",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "Forage and Biomass Planting ac 100",
+          "totalCost": 109.48,
+          "rawCost": "$109.48"
+        },
+        {
+          "name": "Stream Crossing ft 1500",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 100",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Tank/Trough ea 3",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "Underground Outlet ft 1000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 18316.339999999997,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$150,000.00",
+      "rows": [
+        {
+          "name": "Critical Area Planting ac 15",
+          "totalCost": 483.84,
+          "rawCost": "$483.84"
+        },
+        {
+          "name": "Sediment Basin cu yd 2550",
+          "totalCost": 3.34,
+          "rawCost": "$3.34"
+        },
+        {
+          "name": "Diversion cu yd 4445",
+          "totalCost": 2.4,
+          "rawCost": "$2.40"
+        },
+        {
+          "name": "Fencing ft 3700",
+          "totalCost": 2.22,
+          "rawCost": "$2.22"
+        },
+        {
+          "name": "Grade Stabilization Structure ea 10",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "Forage and Biomass Planting ac 100",
+          "totalCost": 109.48,
+          "rawCost": "$109.48"
+        },
+        {
+          "name": "Stream Crossing ft 1500",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 100",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Tank/Trough ea 3",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "Underground Outlet ft 1000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 18316.339999999997,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$2,744,001",
+      "rows": [
+        {
+          "name": "Critical Area Planting ac 15",
+          "totalCost": 483.84,
+          "rawCost": "$483.84"
+        },
+        {
+          "name": "Sediment Basin cu yd 2550",
+          "totalCost": 3.34,
+          "rawCost": "$3.34"
+        },
+        {
+          "name": "Diversion cu yd 4445",
+          "totalCost": 2.4,
+          "rawCost": "$2.40"
+        },
+        {
+          "name": "Fencing ft 3700",
+          "totalCost": 2.22,
+          "rawCost": "$2.22"
+        },
+        {
+          "name": "Grade Stabilization Structure ea 10",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "Forage and Biomass Planting ac 100",
+          "totalCost": 109.48,
+          "rawCost": "$109.48"
+        },
+        {
+          "name": "Stream Crossing ft 1500",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 100",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Tank/Trough ea 3",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "Underground Outlet ft 1000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 18316.339999999997,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Critical Area Planting ac 15 $483.84 $7,257.60",
+      "rows": [
+        {
+          "name": "Critical Area Planting ac 15",
+          "totalCost": 483.84,
+          "rawCost": "$483.84"
+        },
+        {
+          "name": "Sediment Basin cu yd 2550",
+          "totalCost": 3.34,
+          "rawCost": "$3.34"
+        },
+        {
+          "name": "Diversion cu yd 4445",
+          "totalCost": 2.4,
+          "rawCost": "$2.40"
+        },
+        {
+          "name": "Fencing ft 3700",
+          "totalCost": 2.22,
+          "rawCost": "$2.22"
+        },
+        {
+          "name": "Grade Stabilization Structure ea 10",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "Forage and Biomass Planting ac 100",
+          "totalCost": 109.48,
+          "rawCost": "$109.48"
+        },
+        {
+          "name": "Stream Crossing ft 1500",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 100",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Tank/Trough ea 3",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "Underground Outlet ft 1000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 18316.339999999997,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Sediment Basin cu yd 2550 $3.34 $8,517.00",
+      "rows": [
+        {
+          "name": "Sediment Basin cu yd 2550",
+          "totalCost": 3.34,
+          "rawCost": "$3.34"
+        },
+        {
+          "name": "Diversion cu yd 4445",
+          "totalCost": 2.4,
+          "rawCost": "$2.40"
+        },
+        {
+          "name": "Fencing ft 3700",
+          "totalCost": 2.22,
+          "rawCost": "$2.22"
+        },
+        {
+          "name": "Grade Stabilization Structure ea 10",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "Forage and Biomass Planting ac 100",
+          "totalCost": 109.48,
+          "rawCost": "$109.48"
+        },
+        {
+          "name": "Stream Crossing ft 1500",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 100",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Tank/Trough ea 3",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "Underground Outlet ft 1000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 17832.5,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Diversion cu yd 4445 $2.40 $10,668.00",
+      "rows": [
+        {
+          "name": "Diversion cu yd 4445",
+          "totalCost": 2.4,
+          "rawCost": "$2.40"
+        },
+        {
+          "name": "Fencing ft 3700",
+          "totalCost": 2.22,
+          "rawCost": "$2.22"
+        },
+        {
+          "name": "Grade Stabilization Structure ea 10",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "Forage and Biomass Planting ac 100",
+          "totalCost": 109.48,
+          "rawCost": "$109.48"
+        },
+        {
+          "name": "Stream Crossing ft 1500",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 100",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Tank/Trough ea 3",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "Underground Outlet ft 1000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 17829.16,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Fencing ft 3700 $2.22 $8,214.00",
+      "rows": [
+        {
+          "name": "Fencing ft 3700",
+          "totalCost": 2.22,
+          "rawCost": "$2.22"
+        },
+        {
+          "name": "Grade Stabilization Structure ea 10",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "Forage and Biomass Planting ac 100",
+          "totalCost": 109.48,
+          "rawCost": "$109.48"
+        },
+        {
+          "name": "Stream Crossing ft 1500",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 100",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Tank/Trough ea 3",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "Underground Outlet ft 1000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 17826.76,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Grade Stabilization Structure ea 10 $15,000.00 $150,000.00",
+      "rows": [
+        {
+          "name": "Grade Stabilization Structure ea 10",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "Forage and Biomass Planting ac 100",
+          "totalCost": 109.48,
+          "rawCost": "$109.48"
+        },
+        {
+          "name": "Stream Crossing ft 1500",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 100",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Tank/Trough ea 3",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "Underground Outlet ft 1000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 17824.54,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Forage and Biomass Planting ac 100 $109.48 $10,948.00",
+      "rows": [
+        {
+          "name": "Forage and Biomass Planting ac 100",
+          "totalCost": 109.48,
+          "rawCost": "$109.48"
+        },
+        {
+          "name": "Stream Crossing ft 1500",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 100",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Tank/Trough ea 3",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "Underground Outlet ft 1000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2824.54,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Stream Crossing ft 1500 $11.07 $16,605.00",
+      "rows": [
+        {
+          "name": "Stream Crossing ft 1500",
+          "totalCost": 11.07,
+          "rawCost": "$11.07"
+        },
+        {
+          "name": "ft 100",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Tank/Trough ea 3",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "Underground Outlet ft 1000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2715.06,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "ft 100 $198.60 $19,860.00",
+      "rows": [
+        {
+          "name": "ft 100",
+          "totalCost": 198.6,
+          "rawCost": "$198.60"
+        },
+        {
+          "name": "Tank/Trough ea 3",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "Underground Outlet ft 1000",
+          "totalCost": 5.39,
+          "rawCost": "$5.39"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2703.99,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-02T13:23:25.126Z",
+  "metadata": {
+    "sourceId": "carmichael-creek-town-creek-9-key-element-plan-2019",
+    "sourceFile": "carmichael-creek-town-creek-9-key-element-plan-2019.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Herbaceous Weed Management ac 325 $64.80 $21,060.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 17163.93
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Cover Crop ac 1000 $55.86 $55,860.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 17099.13
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Critical Area Planting ac 55 $483.84 $26,611.20",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 17043.27
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Sediment Basin cu yd 4250 $3.34 $14,195.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 16559.429999999997
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Diversion cu yd 9750 $2.40 $23,400.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 16556.089999999997
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Fence ft 20000 $2.22 $44,400.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 16553.69
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Field Border ac 10 $631.20 $6,312.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 16551.469999999998
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Grade Stabilization Structure ea 45 $15,000.00 $675,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 15920.269999999997
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Land Clearing ac 20 $530.65 $10,613.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 920.27
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Forage and Biomass Planting ac 325 $109.48 $35,581.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 389.61999999999995
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Livestock Pipeline ft 10000 $1.91 $19,100.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 280.14
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Prescribed Grazing ac 500 $57.13 $28,565.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 278.22999999999996
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Heavy Use Area Protection ft 15000 $3.23 $48,450.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 221.1
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Stream Crossing ft 3750 $11.07 $41,512.50",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 18534.21
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "ft 6000 $198.60 $1,191,600.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 18523.14
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Watering Facility gal 5325 $2.81 $14,963.25",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 18324.54
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Underground Outlet ft 5000 $5.39 $26,950.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 18321.73
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$140,328.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 18316.339999999997
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$100,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 18316.339999999997
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$69,500.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 18316.339999999997
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$150,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 18316.339999999997
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$2,744,001",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 18316.339999999997
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Critical Area Planting ac 15 $483.84 $7,257.60",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 18316.339999999997
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Sediment Basin cu yd 2550 $3.34 $8,517.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 17832.5
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Diversion cu yd 4445 $2.40 $10,668.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 17829.16
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Fencing ft 3700 $2.22 $8,214.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 17826.76
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Grade Stabilization Structure ea 10 $15,000.00 $150,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 17824.54
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Forage and Biomass Planting ac 100 $109.48 $10,948.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2824.54
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Stream Crossing ft 1500 $11.07 $16,605.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2715.06
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "ft 100 $198.60 $19,860.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2703.99
+      }
+    ]
+  }
+}

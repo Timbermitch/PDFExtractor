@@ -1,0 +1,307 @@
+import React from 'react';
+import type { ExtractedReport } from '../../types';
+                            <tfoot>
+                    <tr>
+                      <td colSpan={4} style={{textAlign:'right', fontWeight:600}}>Computed Total</td>
+                      <td style={{fontWeight:600}}>{table.totalComputed!=null? '$'+table.totalComputed.toLocaleString(): ''}</td>
+                      {table.rows.some(r => r.landownerMatch != null) && (
+                        <td style={{fontWeight:600}}>{table.landownerMatchComputed!=null? '$'+table.landownerMatchComputed.toLocaleString(): ''}</td>
+                      )}
+                      <td />
+                    </tr>
+                    <tr>
+                      <td colSpan={4} style={{textAlign:'right', fontWeight:600}}>Reported Total</td>
+                      <td style={{fontWeight:600}}>{table.totalReported!=null? '$'+table.totalReported.toLocaleString(): ''}</td>
+                      {table.rows.some(r => r.landownerMatch != null) && (
+                        <td style={{fontWeight:600}}>{table.landownerMatchReported!=null? '$'+table.landownerMatchReported.toLocaleString(): ''}</td>
+                      )}
+                      <td />
+                    </tr>
+                    {table.discrepancy!=null && Math.abs(table.discrepancy) > 1 && (
+                      <tr style={{background:'#fff4e6'}}>
+                        <td colSpan={4} style={{textAlign:'right', fontWeight:600}}>Discrepancy</td>
+                        <td style={{fontWeight:600, color:'#b45309'}}>{(table.discrepancy>0? '+':'')+ table.discrepancy.toLocaleString()}</td>
+                        {table.rows.some(r => r.landownerMatch != null) && (
+                          <td style={{fontWeight:600, color:'#b45309'}}>{table.matchDiscrepancy!=null? ((table.matchDiscrepancy>0? '+':'')+ table.matchDiscrepancy.toLocaleString()): ''}</td>
+                        )}
+                        <td />
+                      </tr>
+                    )}
+                  </tfoot><tfoot>
+                    <tr>
+                      <td colSpan={4} style={{textAlign:'right', fontWeight:600}}>Computed Total</td>
+                      <td style={{fontWeight:600}}>{table.totalComputed!=null? '$'+table.totalComputed.toLocaleString(): ''}</td>
+                      {table.rows.some(r => r.landownerMatch != null) && (
+                        <td style={{fontWeight:600}}>{table.landownerMatchComputed!=null? '$'+table.landownerMatchComputed.toLocaleString(): ''}</td>
+                      )}
+                      <td />
+                    </tr>
+                    <tr>
+                      <td colSpan={4} style={{textAlign:'right', fontWeight:600}}>Reported Total</td>
+                      <td style={{fontWeight:600}}>{table.totalReported!=null? '$'+table.totalReported.toLocaleString(): ''}</td>
+                      {table.rows.some(r => r.landownerMatch != null) && (
+                        <td style={{fontWeight:600}}>{table.landownerMatchReported!=null? '$'+table.landownerMatchReported.toLocaleString(): ''}</td>
+                      )}
+                      <td />
+                    </tr>
+                    {table.discrepancy!=null && Math.abs(table.discrepancy) > 1 && (
+                      <tr style={{background:'#fff4e6'}}>
+                        <td colSpan={4} style={{textAlign:'right', fontWeight:600}}>Discrepancy</td>
+                        <td style={{fontWeight:600, color:'#b45309'}}>{(table.discrepancy>0? '+':'')+ table.discrepancy.toLocaleString()}</td>
+                        {table.rows.some(r => r.landownerMatch != null) && (
+                          <td style={{fontWeight:600, color:'#b45309'}}>{table.matchDiscrepancy!=null? ((table.matchDiscrepancy>0? '+':'')+ table.matchDiscrepancy.toLocaleString()): ''}</td>
+                        )}
+                        <td />
+                      </tr>
+                    )}
+                  </tfoot>
+
+export const BMPTab: React.FC<{report: ExtractedReport}> = ({ report }) => {
+  const categories = Object.entries(report.bmps.reduce<Record<string, number>>((acc,b)=>{acc[b.category]=(acc[b.category]||0)+1;return acc;},{}));
+  const colorMap: Record<string,string> = {
+    'Cover Crops':'#2563eb',
+    'Erosion Control':'#059669',
+    'Structural Erosion':'#047857',
+    'Stormwater':'#0ea5e9',
+    'Streambank Stabilization':'#7c3aed',
+    'Livestock Management':'#d97706',
+    'Fencing':'#6b7280',
+    'Forage & Biomass':'#16a34a',
+    'Aquatic Habitat':'#0891b2',
+    'Invasive Species':'#dc2626',
+    'Agriculture':'#b45309',
+    'General':'#475569'
+  };
+  const badgeStyle = (cat:string):React.CSSProperties => ({
+    backgroundColor: colorMap[cat] || '#64748b',
+    color:'#fff',
+    padding:'0 6px',
+    borderRadius:'10px',
+    fontSize:'.55rem',
+    lineHeight:'16px',
+    display:'inline-block',
+    whiteSpace:'nowrap'
+  });
+  return (
+    <div className="card" style={{overflow:'hidden'}}>
+      <div className="card-header">BMPs</div>
+      {/* Cost Tables Section */}
+      {(report.bmpCostTablesNormalized?.length || report.bmpCostTableNormalized) && (
+        <div style={{padding:'0.75rem', paddingTop:'0.25rem'}}>
+          <div style={{fontSize:'0.65rem', fontWeight:600, marginBottom:'0.35rem'}}>Cost Estimate</div>
+          {report.bmpCostTablesNormalized?.map((table) => (
+            <div key={table.id} style={{marginBottom: '1rem'}}>
+              <div style={{fontSize:'0.6rem', fontWeight:500, marginBottom:'0.25rem', color:'#475569'}}>{table.title}</div>
+              <div style={{maxHeight:'200px', overflow:'auto', border:'1px solid #e2e8f0', borderRadius:'4px'}}>
+                <table className="table" style={{fontSize:'.55rem', margin:0}}>
+                  <thead>
+                    <tr>
+                      <th>BMP</th><th>Qty</th><th>Unit</th><th>Unit Cost</th><th>Total Cost</th>
+                      {table.rows.some(r => r.landownerMatch != null) && <th>Landowner Match</th>}
+                      <th>Raw Size</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {table.rows.map((r,i)=>(
+                      <tr key={i}>
+                        <td>{r.name}</td>
+                        <td>{r.quantity!=null? r.quantity.toLocaleString(): ''}</td>
+                        <td title={r.unitRaw && r.unitRaw !== r.unit ? `Original: ${r.unitRaw}`: undefined}>{r.unit||''}{r.unitRaw && r.unitRaw !== r.unit ? '*' : ''}</td>
+                        <td>{r.unitCost!=null? '$'+r.unitCost.toLocaleString(undefined,{minimumFractionDigits:2,maximumFractionDigits:2}):''}</td>
+                        <td>{r.totalCost!=null? '$'+r.totalCost.toLocaleString():''}</td>
+                        {table.rows.some(row => row.landownerMatch != null) && (
+                          <td>{r.landownerMatch!=null? '$'+r.landownerMatch.toLocaleString(): ''}</td>
+                        )}
+                        <td style={{opacity:.7}}>{r.rawSize}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                  {table.table?.total != null && (
+                    <tfoot>
+                      <tr>
+                        <td colSpan={(table.table?.columns.length||1)-1} style={{textAlign:'right', fontWeight:600}}>Total</td>
+                        <td style={{fontWeight:600}}>${'{'}table.table?.total?.toLocaleString(){'}'}</td>
+                      </tr>
+                    </tfoot>
+                  )}
+                </table>
+              </div>
+            </div>
+          )) || (report.bmpCostTable && (
+            <div style={{maxHeight:'200px', overflow:'auto', border:'1px solid #e2e8f0', borderRadius:'4px'}}>
+              <table className="table" style={{fontSize:'.55rem', margin:0}}>
+                <thead>
+                  <tr>
+                    {report.bmpCostTable?.columns.map(c => <th key={c}>{c}</th>)}
+                  </tr>
+                </thead>
+                <tbody>
+                  {report.bmpCostTable?.rows.map((r,i) => (
+                    <tr key={i}>
+                      {report.bmpCostTable?.columns.map(col => <td key={col}>{r[col]}</td>)}
+                    </tr>
+                  ))}
+                </tbody>
+                {report.bmpCostTable?.total != null && (
+                  <tfoot>
+                    <tr>
+                      <td colSpan={(report.bmpCostTable?.columns.length||1)-1} style={{textAlign:'right', fontWeight:600}}>Total</td>
+                      <td style={{fontWeight:600}}>${'{'}report.bmpCostTable?.total?.toLocaleString(){'}'}</td>
+                    </tr>
+                  </tfoot>
+                )}
+              </table>
+            </div>
+          ))}
+        </div>
+      )}
+      {(report.bmpCostTablesNormalized?.length || report.bmpCostTableNormalized) && (
+        <div style={{padding:'0.75rem', paddingTop:'0.25rem'}}>
+          <div style={{fontSize:'0.65rem', fontWeight:600, marginBottom:'0.35rem'}}>Cost Estimate</div>
+          {report.bmpCostTablesNormalized?.map((table) => (
+            <div key={table.id} style={{marginBottom: '1rem'}}>
+              <div style={{fontSize:'0.6rem', fontWeight:500, marginBottom:'0.25rem', color:'#475569'}}>{table.title}</div>
+              <div style={{maxHeight:'220px', overflow:'auto', border:'1px solid #e2e8f0', borderRadius:'4px'}}>
+                <table className="table" style={{fontSize:'.55rem', margin:0}}>
+                  <thead>
+                    <tr>
+                      <th>BMP</th><th>Qty</th><th>Unit</th><th>Unit Cost</th><th>Total Cost</th>
+                      {table.rows.some(r => r.landownerMatch != null) && <th>Landowner Match</th>}
+                      <th>Raw Size</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {table.rows.map((r,i)=>(
+                      <tr key={i}>
+                        <td>{r.name}</td>
+                        <td>{r.quantity!=null? r.quantity.toLocaleString(): ''}</td>
+                        <td title={r.unitRaw && r.unitRaw !== r.unit ? `Original: ${r.unitRaw}`: undefined}>{r.unit||''}{r.unitRaw && r.unitRaw !== r.unit ? '*' : ''}</td>
+                        <td>{r.unitCost!=null? '$'+r.unitCost.toLocaleString(undefined,{minimumFractionDigits:2,maximumFractionDigits:2}):''}</td>
+                        <td>{r.totalCost!=null? '$'+r.totalCost.toLocaleString():''}</td>
+                        {table.rows.some(row => row.landownerMatch != null) && (
+                          <td>{r.landownerMatch!=null? '$'+r.landownerMatch.toLocaleString(): ''}</td>
+                        )}
+                        <td style={{opacity:.7}}>{r.rawSize}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                  <tfoot>
+                    <tr>
+                      <td colSpan={4} style={{textAlign:'right', fontWeight:600}}>Computed Total</td>
+                      <td style={{fontWeight:600}}>{table.totalComputed!=null? '$'+table.totalComputed.toLocaleString(): ''}</td>
+                      {table.rows.some(r => r.landownerMatch != null) && (
+                        <td style={{fontWeight:600}}>{table.landownerMatchComputed!=null? '$'+table.landownerMatchComputed.toLocaleString(): ''}</td>
+                      )}
+                      <td />
+                    </tr>
+                    <tr>
+                      <td colSpan={4} style={{textAlign:'right', fontWeight:600}}>Reported Total</td>
+                      <td style={{fontWeight:600}}>{table.totalReported!=null? '$'+table.totalReported.toLocaleString(): ''}</td>
+                      {table.rows.some(r => r.landownerMatch != null) && (
+                        <td style={{fontWeight:600}}>{table.landownerMatchReported!=null? '$'+table.landownerMatchReported.toLocaleString(): ''}</td>
+                      )}
+                      <td />
+                    </tr>
+                    {table.discrepancy!=null && Math.abs(table.discrepancy) > 1 && (
+                      <tr style={{background:'#fff4e6'}}>
+                        <td colSpan={4} style={{textAlign:'right', fontWeight:600}}>Discrepancy</td>
+                        <td style={{fontWeight:600, color:'#b45309'}}>{(table.discrepancy>0? '+':'')+ table.discrepancy.toLocaleString()}</td>
+                        {table.rows.some(r => r.landownerMatch != null) && (
+                          <td style={{fontWeight:600, color:'#b45309'}}>{table.matchDiscrepancy!=null? ((table.matchDiscrepancy>0? '+':'')+ table.matchDiscrepancy.toLocaleString()): ''}</td>
+                        )}
+                        <td />
+                      </tr>
+                    )}
+                  </tfoot>
+                </table>
+              </div>
+            </div>
+          )) || (report.bmpCostTableNormalized && (
+            <div style={{maxHeight:'220px', overflow:'auto', border:'1px solid #e2e8f0', borderRadius:'4px'}}>
+              <table className="table" style={{fontSize:'.55rem', margin:0}}>
+                <thead>
+                  <tr>
+                    <th>BMP</th><th>Qty</th><th>Unit</th><th>Unit Cost</th><th>Total Cost</th><th>Raw Size</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {report.bmpCostTableNormalized.rows.map((r,i)=>(
+                    <tr key={i}>
+                      <td>{r.name}</td>
+                      <td>{r.quantity!=null? r.quantity.toLocaleString(): ''}</td>
+                      <td title={r.unitRaw && r.unitRaw !== r.unit ? `Original: ${r.unitRaw}`: undefined}>{r.unit||''}{r.unitRaw && r.unitRaw !== r.unit ? '*' : ''}</td>
+                      <td>{r.unitCost!=null? '$'+r.unitCost.toLocaleString(undefined,{minimumFractionDigits:2,maximumFractionDigits:2}):''}</td>
+                      <td>{r.totalCost!=null? '$'+r.totalCost.toLocaleString():''}</td>
+                      <td style={{opacity:.7}}>{r.rawSize}</td>
+                    </tr>
+                  ))}
+                </tbody>
+                {(report.bmpCostTableNormalized.totalReported!=null || report.bmpCostTableNormalized.totalComputed!=null) && (
+                  <tfoot>
+                    <tr>
+                      <td colSpan={4} style={{textAlign:'right', fontWeight:600}}>Computed Total</td>
+                      <td style={{fontWeight:600}}>{report.bmpCostTableNormalized.totalComputed!=null? '$'+report.bmpCostTableNormalized.totalComputed.toLocaleString(): ''}</td>
+                      <td />
+                    </tr>
+                    <tr>
+                      <td colSpan={4} style={{textAlign:'right', fontWeight:600}}>Reported Total</td>
+                      <td style={{fontWeight:600}}>{report.bmpCostTableNormalized.totalReported!=null? '$'+report.bmpCostTableNormalized.totalReported.toLocaleString(): ''}</td>
+                      <td />
+                    </tr>
+                    {report.bmpCostTableNormalized.discrepancy!=null && Math.abs(report.bmpCostTableNormalized.discrepancy) > 1 && (
+                      <tr style={{background:'#fff4e6'}}>
+                        <td colSpan={4} style={{textAlign:'right', fontWeight:600}}>Discrepancy</td>
+                        <td style={{fontWeight:600, color:'#b45309'}}>{(report.bmpCostTableNormalized.discrepancy>0? '+':'')+ report.bmpCostTableNormalized.discrepancy.toLocaleString()}</td>
+                        <td />
+                      </tr>
+                    )}
+                  </tfoot>
+                )}
+              </table>
+            </div>
+          ))}
+          <div style={{fontSize:'0.55rem',marginTop:4,color:'#555'}}>* original unit differed; hover Unit cell to view raw token.</div>
+        </div>
+      )}
+      <div style={{display:'grid', gridTemplateColumns:'1fr 1fr', gap:'0.5rem', padding:'0.75rem'}}>
+        <div style={{maxHeight:'320px', overflow:'auto'}}>
+          <table className="table" style={{fontSize:'.63rem'}}>
+            <thead><tr><th style={{width:'68%'}}>Name</th><th>Category</th></tr></thead>
+            <tbody>
+              {report.bmps.map(b => {
+                const cleanBMPName = (name:string) => {
+                  if(!name) return name;
+                  if(!(/[\$@]/.test(name) || /\d/.test(name))) return name; // already simple
+                  const m = name.match(/^(.*?)(?:\s+\d[\d,]*(?:\.[0-9]+)?\s*(?:ac|acre|acres|ft|feet|ea|es|lf|yd|yds|cy|cuyd|sq\.?ft\.?|ac\.|ft\.|ea\.)\b.*|\s+@\s*\$|\s+\$[0-9])/i);
+                  if(m && m[1]){
+                    const cleaned = m[1].trim().replace(/[,:;]+$/,'').trim();
+                    if(cleaned && cleaned.length>=2) return cleaned;
+                  }
+                  return name;
+                };
+                const displayName = cleanBMPName(b.name);
+                return (
+                  <tr key={b.id}>
+                    <td title={displayName !== b.name ? b.name : undefined}>{displayName}</td>
+                    <td><span style={badgeStyle(b.category)} title={b.category}>{b.category}</span></td>
+                  </tr>
+                );
+              })}
+              {!report.bmps.length && <tr><td colSpan={2} style={{textAlign:'center', fontStyle:'italic'}}>No BMPs.</td></tr>}
+            </tbody>
+          </table>
+        </div>
+        <div className="card" style={{boxShadow:'none', background:'var(--panel-alt)'}}>
+          <div className="card-header" style={{fontSize:'11px',display:'flex',justifyContent:'space-between',alignItems:'center'}}>
+            <span>Category Counts</span>
+          </div>
+          <table className="table" style={{fontSize:'.58rem'}}>
+            <thead><tr><th>Category</th><th>Count</th></tr></thead>
+            <tbody>{categories.map(([c,count]) => <tr key={c}><td><span style={badgeStyle(c)}>{c}</span></td><td>{count}</td></tr>)}</tbody>
+          </table>
+          <div style={{padding:'0.25rem 0.5rem 0.5rem', fontSize:'.5rem', color:'#475569'}}>Legend reflects refined categories; colors stable across reports.</div>
+        </div>
+      </div>
+    </div>
+  );
+};

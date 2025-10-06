@@ -1,0 +1,2829 @@
+{
+  "id": "muddy-bayou-opossum-bayou-9-key-element-plan-2022",
+  "summary": {
+    "totalGoals": 7,
+    "totalBMPs": 20,
+    "totalActivities": 0,
+    "primaryGoals": 3,
+    "completionRate": 0,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 7,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "General": 20
+    },
+    "avgGoalConfidence": 0.2714285714285714,
+    "strongGoals": 0
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "The ultimate goal is to bring about behavior changes and the use of  \"Waste Pesticide Disposal Event\" - The primary goal of this program is to help Goal: Reduce sediment and nutrient loads entering waters in the Muddy Creek Watershed that could amounts used to estimate costs for BMP installation.",
+      "status": "planned",
+      "pollutant": "sediment",
+      "parameter": "sediment",
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The ultimate goal is to bring about behavior changes and the use of  \"Waste Pesticide Disposal Event\" - The primary goal of this program is to help Goal: Reduce sediment and nutrient loads entering waters in the Muddy Creek Watershed that could amounts used to estimate costs for BMP installation.",
+      "confidence": 0.25,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "fullParagraph": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of  “Waste Pesticide Disposal Event” - The primary goal of this program is to help Goal: Reduce sediment and nutrient loads entering waters in the Muddy Creek Watershed that could amounts used to estimate costs for BMP installation. Below is summary of estimated costs for 15 each $52,329 20 each $263,123 10 each $205,373 10 each $330,332 1,132 acres $79,705 130,000 CuYd $544,700 24,216 Inft $91,536 1,135 ft $730,385 N/A $45,000",
+      "description": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of  “Waste Pesticide Disposal Event” - The primary goal of this program is to help Goal: Reduce sediment and nutrient loads entering waters in the Muddy Creek Watershed that could amounts used to estimate costs for BMP installation. Below is summary of estimated costs for 15 each $52,329 20 each $263,123 10 each $205,373 10 each $330,332 1,132 acres $79,705 130,000 CuYd $544,700 24,216 Inft $91,536 1,135 ft $730,385 N/A $45,000",
+      "originalSentence": "The ultimate goal is to bring about behavior changes and the use of  \"Waste Pesticide Disposal Event\" - The primary goal of this program is to help Goal: Reduce sediment and nutrient loads entering waters in the Muddy Creek Watershed that could amounts used to estimate costs for BMP installation.",
+      "shortTitle": "The ultimate goal is to bring about behavior changes and the use of …"
+    },
+    {
+      "id": "G2",
+      "title": "Total Nitrogen and Total Phosphorus TMDL for Opossum Bayou (MS269E) recommended an 84.7% reduction in Total Phosphorus (TP) with a target annual concentration of 0.16 mg/L.",
+      "status": "planned",
+      "pollutant": "nitrogen",
+      "parameter": "nitrogen",
+      "reductionPercent": 84.7,
+      "reductionSrc": "inline",
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": 84.7,
+      "targetUnit": "%",
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "Total Nitrogen and Total Phosphorus TMDL for Opossum Bayou (MS269E) recommended an 84.7% reduction in Total Phosphorus (TP) with a target annual concentration of 0.16 mg/L.",
+      "confidence": 0.45,
+      "fullParagraph": "Total Nitrogen and Total Phosphorus TMDL for Opossum Bayou (MS269E) recommended an 84.7% reduction in Total Phosphorus (TP) with a target annual concentration of 0.16 mg/L. The TMDL also recommended a 94.4% reduction in Total Nitrogen (TN) with an annual target concentration of 1.06 mg/L. sediment and nutrient concerns in the Muddy Bayou Watershed. The United States Department of Agriculture (USDA) Natural Resource Conservation Service (NRCS) has a list of approved BMPs to address water quality concerns. Conservation practices that address sediment often provide an additional benefit in the reduction of nutrients as they attach to sediment particles in run-off. Practices approved by NRCS will be used to identify candidate BMPs in the Muddy Bayou watershed. Element c: Proposed Management Measures Coordinating partners with MDEQ include the Mississippi Soil and Water Conservation Commission (MSWCC), the Natural Resource Conservation Service (NRCS), and the local Soil",
+      "description": "Total Nitrogen and Total Phosphorus TMDL for Opossum Bayou (MS269E) recommended an 84.7% reduction in Total Phosphorus (TP) with a target annual concentration of 0.16 mg/L. The TMDL also recommended a 94.4% reduction in Total Nitrogen (TN) with an annual target concentration of 1.06 mg/L. sediment and nutrient concerns in the Muddy Bayou Watershed. The United States Department of Agriculture (USDA) Natural Resource Conservation Service (NRCS) has a list of approved BMPs to address water quality concerns. Conservation practices that address sediment often provide an additional benefit in the reduction of nutrients as they attach to sediment particles in run-off. Practices approved by NRCS will be used to identify candidate BMPs in the Muddy Bayou watershed. Element c: Proposed Management Measures Coordinating partners with MDEQ include the Mississippi Soil and Water Conservation Commission (MSWCC), the Natural Resource Conservation Service (NRCS), and the local Soil",
+      "originalSentence": "Total Nitrogen and Total Phosphorus TMDL for Opossum Bayou (MS269E) recommended an 84.7% reduction in Total Phosphorus (TP) with a target annual concentration of 0.16 mg/L.",
+      "shortTitle": "Total Nitrogen and Total Phosphorus TMDL for Opossum Bayou (MS269E) recommended an 84.7% reduction…"
+    },
+    {
+      "id": "G3",
+      "title": "also recommended a 94.4% reduction in Total Nitrogen (TN) with an annual target concentration of 1.06 mg/L.",
+      "status": "planned",
+      "pollutant": "nitrogen",
+      "parameter": "nitrogen",
+      "reductionPercent": 94.4,
+      "reductionSrc": "inline",
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": 94.4,
+      "targetUnit": "%",
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "also recommended a 94.4% reduction in Total Nitrogen (TN) with an annual target concentration of 1.06 mg/L.",
+      "confidence": 0.45,
+      "description": "also recommended a 94.4% reduction in Total Nitrogen (TN) with an annual target concentration of 1.06 mg/L.",
+      "originalSentence": "also recommended a 94.4% reduction in Total Nitrogen (TN) with an annual target concentration of 1.06 mg/L.",
+      "shortTitle": "also recommended a 94.4% reduction in Total Nitrogen (TN) with an annual target concentration of 1.06 mg/L."
+    },
+    {
+      "id": "G4",
+      "title": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "solutions to its problems.  The ultimate goal is to bring about behavior changes and the use of",
+      "confidence": 0.05,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "description": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of",
+      "originalSentence": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of",
+      "shortTitle": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of"
+    },
+    {
+      "id": "G5",
+      "title": "concluded that sediment yields would need to be reduced by 80 to 84% in the watershed.",
+      "status": "planned",
+      "pollutant": "sediment",
+      "parameter": "sediment",
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": 84,
+      "targetUnit": "%",
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "concluded that sediment yields would need to be reduced by 80 to 84% in the watershed.",
+      "confidence": 0.2,
+      "fullParagraph": "concluded that sediment yields would need to be reduced by 80 to 84% in the watershed. All sediment yield reductions were developed from suspended sediment concentration data measured at stable streams in the same ecoregion(s). The targets were developed to reflect stable stream conditions using reference sediment yields. These reference conditions were established by the USDA’s Channel and Watershed Processes Research Unit (CWPRU) at the National Sedimentation Laboratory (NSL). MDEQ does not have numeric nutrient criteria. To develop the TN and TP targets included in the Opossum Bayou TMDL, a percentile approach was used following EPA recommendations. The Total Nitrogen and Total Phosphorus TMDL for Opossum Bayou (MS269E) recommended an 84.7% reduction in Total Phosphorus (TP) with a target annual concentration of 0.16 mg/L. The TMDL also recommended a 94.4% reduction in Total Nitrogen (TN) with an annual target concentration of 1.06 mg/L.",
+      "description": "concluded that sediment yields would need to be reduced by 80 to 84% in the watershed. All sediment yield reductions were developed from suspended sediment concentration data measured at stable streams in the same ecoregion(s). The targets were developed to reflect stable stream conditions using reference sediment yields. These reference conditions were established by the USDA’s Channel and Watershed Processes Research Unit (CWPRU) at the National Sedimentation Laboratory (NSL). MDEQ does not have numeric nutrient criteria. To develop the TN and TP targets included in the Opossum Bayou TMDL, a percentile approach was used following EPA recommendations. The Total Nitrogen and Total Phosphorus TMDL for Opossum Bayou (MS269E) recommended an 84.7% reduction in Total Phosphorus (TP) with a target annual concentration of 0.16 mg/L. The TMDL also recommended a 94.4% reduction in Total Nitrogen (TN) with an annual target concentration of 1.06 mg/L.",
+      "originalSentence": "concluded that sediment yields would need to be reduced by 80 to 84% in the watershed.",
+      "shortTitle": "concluded that sediment yields would need to be reduced by 80 to 84% in the watershed."
+    },
+    {
+      "id": "G6",
+      "title": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help",
+      "confidence": 0.05,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "fullParagraph": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help Goal: Reduce sediment and nutrient loads entering waters in the Muddy Creek Watershed that could amounts used to estimate costs for BMP installation. Below is summary of estimated costs for 15 each $52,329 20 each $263,123 10 each $205,373 10 each $330,332 1,132 acres $79,705 130,000 CuYd $544,700 24,216 Inft $91,536 1,135 ft $730,385 N/A $45,000 N/A $28,000",
+      "description": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help Goal: Reduce sediment and nutrient loads entering waters in the Muddy Creek Watershed that could amounts used to estimate costs for BMP installation. Below is summary of estimated costs for 15 each $52,329 20 each $263,123 10 each $205,373 10 each $330,332 1,132 acres $79,705 130,000 CuYd $544,700 24,216 Inft $91,536 1,135 ft $730,385 N/A $45,000 N/A $28,000",
+      "originalSentence": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help",
+      "shortTitle": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help"
+    },
+    {
+      "id": "G7",
+      "title": "The TMDL calls for an 80-84% reduction in sediment.",
+      "status": "planned",
+      "pollutant": "sediment",
+      "parameter": "sediment",
+      "reductionPercent": 84,
+      "reductionSrc": "inline",
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": 84,
+      "targetUnit": "%",
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The TMDL calls for an 80-84% reduction in sediment.",
+      "confidence": 0.45,
+      "description": "The TMDL calls for an 80-84% reduction in sediment.",
+      "originalSentence": "The TMDL calls for an 80-84% reduction in sediment.",
+      "shortTitle": "The TMDL calls for an 80-84% reduction in sediment."
+    }
+  ],
+  "mainGoals": [
+    {
+      "id": "G1",
+      "title": "The ultimate goal is to bring about behavior changes and the use of  \"Waste Pesticide Disposal Event\" - The primary goal of this program is to help Goal: Reduce sediment and nutrient loads entering waters in the Muddy Creek Watershed that could amounts used to estimate costs for BMP installation.",
+      "status": "planned",
+      "pollutant": "sediment",
+      "parameter": "sediment",
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The ultimate goal is to bring about behavior changes and the use of  \"Waste Pesticide Disposal Event\" - The primary goal of this program is to help Goal: Reduce sediment and nutrient loads entering waters in the Muddy Creek Watershed that could amounts used to estimate costs for BMP installation.",
+      "confidence": 0.25,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "fullParagraph": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of  “Waste Pesticide Disposal Event” - The primary goal of this program is to help Goal: Reduce sediment and nutrient loads entering waters in the Muddy Creek Watershed that could amounts used to estimate costs for BMP installation. Below is summary of estimated costs for 15 each $52,329 20 each $263,123 10 each $205,373 10 each $330,332 1,132 acres $79,705 130,000 CuYd $544,700 24,216 Inft $91,536 1,135 ft $730,385 N/A $45,000",
+      "description": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of  “Waste Pesticide Disposal Event” - The primary goal of this program is to help Goal: Reduce sediment and nutrient loads entering waters in the Muddy Creek Watershed that could amounts used to estimate costs for BMP installation. Below is summary of estimated costs for 15 each $52,329 20 each $263,123 10 each $205,373 10 each $330,332 1,132 acres $79,705 130,000 CuYd $544,700 24,216 Inft $91,536 1,135 ft $730,385 N/A $45,000",
+      "originalSentence": "The ultimate goal is to bring about behavior changes and the use of  \"Waste Pesticide Disposal Event\" - The primary goal of this program is to help Goal: Reduce sediment and nutrient loads entering waters in the Muddy Creek Watershed that could amounts used to estimate costs for BMP installation.",
+      "shortTitle": "The ultimate goal is to bring about behavior changes and the use of …"
+    },
+    {
+      "id": "G4",
+      "title": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "solutions to its problems.  The ultimate goal is to bring about behavior changes and the use of",
+      "confidence": 0.05,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "description": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of",
+      "originalSentence": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of",
+      "shortTitle": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of"
+    },
+    {
+      "id": "G6",
+      "title": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help",
+      "confidence": 0.05,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "fullParagraph": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help Goal: Reduce sediment and nutrient loads entering waters in the Muddy Creek Watershed that could amounts used to estimate costs for BMP installation. Below is summary of estimated costs for 15 each $52,329 20 each $263,123 10 each $205,373 10 each $330,332 1,132 acres $79,705 130,000 CuYd $544,700 24,216 Inft $91,536 1,135 ft $730,385 N/A $45,000 N/A $28,000",
+      "description": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help Goal: Reduce sediment and nutrient loads entering waters in the Muddy Creek Watershed that could amounts used to estimate costs for BMP installation. Below is summary of estimated costs for 15 each $52,329 20 each $263,123 10 each $205,373 10 each $330,332 1,132 acres $79,705 130,000 CuYd $544,700 24,216 Inft $91,536 1,135 ft $730,385 N/A $45,000 N/A $28,000",
+      "originalSentence": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help",
+      "shortTitle": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help"
+    }
+  ],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "amounts used to estimate costs for BMP installation.  Below is summary of estimated costs for 15 each",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "amounts used to estimate costs for BMP installation.  Below is summary of estimated costs for 15 each $52,329|name_cost_tail_trim",
+      "originalName": "amounts used to estimate costs for BMP installation.  Below is summary of estimated costs for 15 each $52,329"
+    },
+    {
+      "id": "B2",
+      "name": "20 each",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "20 each $263,123|name_cost_tail_trim",
+      "originalName": "20 each $263,123"
+    },
+    {
+      "id": "B3",
+      "name": "10 each",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "10 each $205,373|name_cost_tail_trim",
+      "originalName": "10 each $205,373"
+    },
+    {
+      "id": "B4",
+      "name": "1,132 acres",
+      "category": "General",
+      "keyword": null,
+      "quantity": 1132,
+      "unit": "acres",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "1,132 acres $79,705|name_cost_tail_trim",
+      "originalName": "1,132 acres $79,705"
+    },
+    {
+      "id": "B5",
+      "name": "130,000 CuYd",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "130,000 CuYd $544,700|name_cost_tail_trim",
+      "originalName": "130,000 CuYd $544,700"
+    },
+    {
+      "id": "B6",
+      "name": "24,216 Inft",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "24,216 Inft $91,536|name_cost_tail_trim",
+      "originalName": "24,216 Inft $91,536"
+    },
+    {
+      "id": "B7",
+      "name": "1,135 ft",
+      "category": "General",
+      "keyword": null,
+      "quantity": 1135,
+      "unit": "ft",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "1,135 ft $730,385|name_cost_tail_trim",
+      "originalName": "1,135 ft $730,385"
+    },
+    {
+      "id": "B8",
+      "name": "N/A",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "N/A $45,000|name_cost_tail_trim",
+      "originalName": "N/A $45,000"
+    },
+    {
+      "id": "B9",
+      "name": "$135,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$135,000"
+    },
+    {
+      "id": "B10",
+      "name": "Total Estimated Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Total Estimated Cost"
+    },
+    {
+      "id": "B11",
+      "name": "$2,530,483 flow)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$2,530,483 flow)  15 ea  $52,329|name_cost_tail_trim",
+      "originalName": "$2,530,483 flow)  15 ea  $52,329"
+    },
+    {
+      "id": "B12",
+      "name": "30,000 cy",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "30,000 cy $125,700|name_cost_tail_trim",
+      "originalName": "30,000 cy $125,700"
+    },
+    {
+      "id": "B13",
+      "name": "4,216 Inft",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "4,216 Inft $15,935|name_cost_tail_trim",
+      "originalName": "4,216 Inft $15,935"
+    },
+    {
+      "id": "B14",
+      "name": "107 ac",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "107 ac $8,195|name_cost_tail_trim",
+      "originalName": "107 ac $8,195"
+    },
+    {
+      "id": "B15",
+      "name": "135 ft.",
+      "category": "General",
+      "keyword": null,
+      "quantity": 135,
+      "unit": "ft",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "135 ft. $95,477|name_cost_tail_trim",
+      "originalName": "135 ft. $95,477"
+    },
+    {
+      "id": "B16",
+      "name": "Technical Assistance N/A",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Technical Assistance N/A $15,000|name_cost_tail_trim",
+      "originalName": "Technical Assistance N/A $15,000"
+    },
+    {
+      "id": "B17",
+      "name": "Education and Outreach N/A",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Education and Outreach N/A $12,000|name_cost_tail_trim",
+      "originalName": "Education and Outreach N/A $12,000"
+    },
+    {
+      "id": "B18",
+      "name": "Monitoring  N/A",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Monitoring  N/A $16,000|name_cost_tail_trim",
+      "originalName": "Monitoring  N/A $16,000"
+    },
+    {
+      "id": "B19",
+      "name": "$55,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$55,000"
+    },
+    {
+      "id": "B20",
+      "name": "$395,636",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$395,636"
+    }
+  ],
+  "bmpCostTable": {
+    "id": "adaptive_generic_costs",
+    "title": "15 each $52,329",
+    "table": {
+      "columns": [
+        "Item",
+        "Cost",
+        "Extra?"
+      ],
+      "rows": [
+        {
+          "Item": "15 each",
+          "Cost": "$52,329",
+          "Extra": null
+        },
+        {
+          "Item": "20 each",
+          "Cost": "$263,123",
+          "Extra": null
+        },
+        {
+          "Item": "10 each",
+          "Cost": "$205,373",
+          "Extra": null
+        },
+        {
+          "Item": "10 each",
+          "Cost": "$330,332",
+          "Extra": null
+        },
+        {
+          "Item": "1,132 acres",
+          "Cost": "$79,705",
+          "Extra": null
+        },
+        {
+          "Item": "130,000 CuYd",
+          "Cost": "$544,700",
+          "Extra": null
+        },
+        {
+          "Item": "24,216 Inft",
+          "Cost": "$91,536",
+          "Extra": null
+        },
+        {
+          "Item": "1,135 ft",
+          "Cost": "$730,385",
+          "Extra": null
+        },
+        {
+          "Item": "N/A",
+          "Cost": "$45,000",
+          "Extra": null
+        },
+        {
+          "Item": "N/A",
+          "Cost": "$28,000",
+          "Extra": null
+        },
+        {
+          "Item": "N/A",
+          "Cost": "$25,000",
+          "Extra": null
+        }
+      ],
+      "total": null
+    },
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTableNormalized": {
+    "id": "adaptive_generic_costs",
+    "title": "15 each $52,329",
+    "rows": [
+      {
+        "name": "15 each",
+        "totalCost": 52329,
+        "rawCost": "$52,329"
+      },
+      {
+        "name": "20 each",
+        "totalCost": 263123,
+        "rawCost": "$263,123"
+      },
+      {
+        "name": "10 each",
+        "totalCost": 205373,
+        "rawCost": "$205,373"
+      },
+      {
+        "name": "10 each",
+        "totalCost": 330332,
+        "rawCost": "$330,332"
+      },
+      {
+        "name": "1,132 acres",
+        "totalCost": 79705,
+        "rawCost": "$79,705"
+      },
+      {
+        "name": "130,000 CuYd",
+        "totalCost": 544700,
+        "rawCost": "$544,700"
+      },
+      {
+        "name": "24,216 Inft",
+        "totalCost": 91536,
+        "rawCost": "$91,536"
+      },
+      {
+        "name": "1,135 ft",
+        "totalCost": 730385,
+        "rawCost": "$730,385"
+      },
+      {
+        "name": "N/A",
+        "totalCost": 45000,
+        "rawCost": "$45,000"
+      },
+      {
+        "name": "N/A",
+        "totalCost": 28000,
+        "rawCost": "$28,000"
+      },
+      {
+        "name": "N/A",
+        "totalCost": 25000,
+        "rawCost": "$25,000"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 2395483,
+    "discrepancy": null,
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTables": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "15 each $52,329",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "15 each",
+            "Cost": "$52,329",
+            "Extra": null
+          },
+          {
+            "Item": "20 each",
+            "Cost": "$263,123",
+            "Extra": null
+          },
+          {
+            "Item": "10 each",
+            "Cost": "$205,373",
+            "Extra": null
+          },
+          {
+            "Item": "10 each",
+            "Cost": "$330,332",
+            "Extra": null
+          },
+          {
+            "Item": "1,132 acres",
+            "Cost": "$79,705",
+            "Extra": null
+          },
+          {
+            "Item": "130,000 CuYd",
+            "Cost": "$544,700",
+            "Extra": null
+          },
+          {
+            "Item": "24,216 Inft",
+            "Cost": "$91,536",
+            "Extra": null
+          },
+          {
+            "Item": "1,135 ft",
+            "Cost": "$730,385",
+            "Extra": null
+          },
+          {
+            "Item": "N/A",
+            "Cost": "$45,000",
+            "Extra": null
+          },
+          {
+            "Item": "N/A",
+            "Cost": "$28,000",
+            "Extra": null
+          },
+          {
+            "Item": "N/A",
+            "Cost": "$25,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "20 each $263,123",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "20 each",
+            "Cost": "$263,123",
+            "Extra": null
+          },
+          {
+            "Item": "10 each",
+            "Cost": "$205,373",
+            "Extra": null
+          },
+          {
+            "Item": "10 each",
+            "Cost": "$330,332",
+            "Extra": null
+          },
+          {
+            "Item": "1,132 acres",
+            "Cost": "$79,705",
+            "Extra": null
+          },
+          {
+            "Item": "130,000 CuYd",
+            "Cost": "$544,700",
+            "Extra": null
+          },
+          {
+            "Item": "24,216 Inft",
+            "Cost": "$91,536",
+            "Extra": null
+          },
+          {
+            "Item": "1,135 ft",
+            "Cost": "$730,385",
+            "Extra": null
+          },
+          {
+            "Item": "N/A",
+            "Cost": "$45,000",
+            "Extra": null
+          },
+          {
+            "Item": "N/A",
+            "Cost": "$28,000",
+            "Extra": null
+          },
+          {
+            "Item": "N/A",
+            "Cost": "$25,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "10 each $205,373",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "10 each",
+            "Cost": "$205,373",
+            "Extra": null
+          },
+          {
+            "Item": "10 each",
+            "Cost": "$330,332",
+            "Extra": null
+          },
+          {
+            "Item": "1,132 acres",
+            "Cost": "$79,705",
+            "Extra": null
+          },
+          {
+            "Item": "130,000 CuYd",
+            "Cost": "$544,700",
+            "Extra": null
+          },
+          {
+            "Item": "24,216 Inft",
+            "Cost": "$91,536",
+            "Extra": null
+          },
+          {
+            "Item": "1,135 ft",
+            "Cost": "$730,385",
+            "Extra": null
+          },
+          {
+            "Item": "N/A",
+            "Cost": "$45,000",
+            "Extra": null
+          },
+          {
+            "Item": "N/A",
+            "Cost": "$28,000",
+            "Extra": null
+          },
+          {
+            "Item": "N/A",
+            "Cost": "$25,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "10 each $330,332",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "10 each",
+            "Cost": "$330,332",
+            "Extra": null
+          },
+          {
+            "Item": "1,132 acres",
+            "Cost": "$79,705",
+            "Extra": null
+          },
+          {
+            "Item": "130,000 CuYd",
+            "Cost": "$544,700",
+            "Extra": null
+          },
+          {
+            "Item": "24,216 Inft",
+            "Cost": "$91,536",
+            "Extra": null
+          },
+          {
+            "Item": "1,135 ft",
+            "Cost": "$730,385",
+            "Extra": null
+          },
+          {
+            "Item": "N/A",
+            "Cost": "$45,000",
+            "Extra": null
+          },
+          {
+            "Item": "N/A",
+            "Cost": "$28,000",
+            "Extra": null
+          },
+          {
+            "Item": "N/A",
+            "Cost": "$25,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "1,132 acres $79,705",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "1,132 acres",
+            "Cost": "$79,705",
+            "Extra": null
+          },
+          {
+            "Item": "130,000 CuYd",
+            "Cost": "$544,700",
+            "Extra": null
+          },
+          {
+            "Item": "24,216 Inft",
+            "Cost": "$91,536",
+            "Extra": null
+          },
+          {
+            "Item": "1,135 ft",
+            "Cost": "$730,385",
+            "Extra": null
+          },
+          {
+            "Item": "N/A",
+            "Cost": "$45,000",
+            "Extra": null
+          },
+          {
+            "Item": "N/A",
+            "Cost": "$28,000",
+            "Extra": null
+          },
+          {
+            "Item": "N/A",
+            "Cost": "$25,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "130,000 CuYd $544,700",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "130,000 CuYd",
+            "Cost": "$544,700",
+            "Extra": null
+          },
+          {
+            "Item": "24,216 Inft",
+            "Cost": "$91,536",
+            "Extra": null
+          },
+          {
+            "Item": "1,135 ft",
+            "Cost": "$730,385",
+            "Extra": null
+          },
+          {
+            "Item": "N/A",
+            "Cost": "$45,000",
+            "Extra": null
+          },
+          {
+            "Item": "N/A",
+            "Cost": "$28,000",
+            "Extra": null
+          },
+          {
+            "Item": "N/A",
+            "Cost": "$25,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "24,216 Inft $91,536",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "24,216 Inft",
+            "Cost": "$91,536",
+            "Extra": null
+          },
+          {
+            "Item": "1,135 ft",
+            "Cost": "$730,385",
+            "Extra": null
+          },
+          {
+            "Item": "N/A",
+            "Cost": "$45,000",
+            "Extra": null
+          },
+          {
+            "Item": "N/A",
+            "Cost": "$28,000",
+            "Extra": null
+          },
+          {
+            "Item": "N/A",
+            "Cost": "$25,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "1,135 ft $730,385",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "1,135 ft",
+            "Cost": "$730,385",
+            "Extra": null
+          },
+          {
+            "Item": "N/A",
+            "Cost": "$45,000",
+            "Extra": null
+          },
+          {
+            "Item": "N/A",
+            "Cost": "$28,000",
+            "Extra": null
+          },
+          {
+            "Item": "N/A",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "flow)  15 ea",
+            "Cost": "$52,329",
+            "Extra": null
+          },
+          {
+            "Item": "30,000 cy",
+            "Cost": "$125,700",
+            "Extra": null
+          },
+          {
+            "Item": "4,216 Inft",
+            "Cost": "$15,935",
+            "Extra": null
+          },
+          {
+            "Item": "107 ac",
+            "Cost": "$8,195",
+            "Extra": null
+          },
+          {
+            "Item": "135 ft.",
+            "Cost": "$95,477",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$12,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$16,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "N/A $45,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "N/A",
+            "Cost": "$45,000",
+            "Extra": null
+          },
+          {
+            "Item": "N/A",
+            "Cost": "$28,000",
+            "Extra": null
+          },
+          {
+            "Item": "N/A",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "flow)  15 ea",
+            "Cost": "$52,329",
+            "Extra": null
+          },
+          {
+            "Item": "30,000 cy",
+            "Cost": "$125,700",
+            "Extra": null
+          },
+          {
+            "Item": "4,216 Inft",
+            "Cost": "$15,935",
+            "Extra": null
+          },
+          {
+            "Item": "107 ac",
+            "Cost": "$8,195",
+            "Extra": null
+          },
+          {
+            "Item": "135 ft.",
+            "Cost": "$95,477",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$12,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$16,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "N/A $28,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "N/A",
+            "Cost": "$28,000",
+            "Extra": null
+          },
+          {
+            "Item": "N/A",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "flow)  15 ea",
+            "Cost": "$52,329",
+            "Extra": null
+          },
+          {
+            "Item": "30,000 cy",
+            "Cost": "$125,700",
+            "Extra": null
+          },
+          {
+            "Item": "4,216 Inft",
+            "Cost": "$15,935",
+            "Extra": null
+          },
+          {
+            "Item": "107 ac",
+            "Cost": "$8,195",
+            "Extra": null
+          },
+          {
+            "Item": "135 ft.",
+            "Cost": "$95,477",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$12,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$16,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "N/A $25,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "N/A",
+            "Cost": "$25,000",
+            "Extra": null
+          },
+          {
+            "Item": "flow)  15 ea",
+            "Cost": "$52,329",
+            "Extra": null
+          },
+          {
+            "Item": "30,000 cy",
+            "Cost": "$125,700",
+            "Extra": null
+          },
+          {
+            "Item": "4,216 Inft",
+            "Cost": "$15,935",
+            "Extra": null
+          },
+          {
+            "Item": "107 ac",
+            "Cost": "$8,195",
+            "Extra": null
+          },
+          {
+            "Item": "135 ft.",
+            "Cost": "$95,477",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$12,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$16,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$135,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "flow)  15 ea",
+            "Cost": "$52,329",
+            "Extra": null
+          },
+          {
+            "Item": "30,000 cy",
+            "Cost": "$125,700",
+            "Extra": null
+          },
+          {
+            "Item": "4,216 Inft",
+            "Cost": "$15,935",
+            "Extra": null
+          },
+          {
+            "Item": "107 ac",
+            "Cost": "$8,195",
+            "Extra": null
+          },
+          {
+            "Item": "135 ft.",
+            "Cost": "$95,477",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$12,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$16,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$2,530,483",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "flow)  15 ea",
+            "Cost": "$52,329",
+            "Extra": null
+          },
+          {
+            "Item": "30,000 cy",
+            "Cost": "$125,700",
+            "Extra": null
+          },
+          {
+            "Item": "4,216 Inft",
+            "Cost": "$15,935",
+            "Extra": null
+          },
+          {
+            "Item": "107 ac",
+            "Cost": "$8,195",
+            "Extra": null
+          },
+          {
+            "Item": "135 ft.",
+            "Cost": "$95,477",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$12,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$16,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "flow)  15 ea  $52,329",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "flow)  15 ea",
+            "Cost": "$52,329",
+            "Extra": null
+          },
+          {
+            "Item": "30,000 cy",
+            "Cost": "$125,700",
+            "Extra": null
+          },
+          {
+            "Item": "4,216 Inft",
+            "Cost": "$15,935",
+            "Extra": null
+          },
+          {
+            "Item": "107 ac",
+            "Cost": "$8,195",
+            "Extra": null
+          },
+          {
+            "Item": "135 ft.",
+            "Cost": "$95,477",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$12,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$16,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "30,000 cy $125,700",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "30,000 cy",
+            "Cost": "$125,700",
+            "Extra": null
+          },
+          {
+            "Item": "4,216 Inft",
+            "Cost": "$15,935",
+            "Extra": null
+          },
+          {
+            "Item": "107 ac",
+            "Cost": "$8,195",
+            "Extra": null
+          },
+          {
+            "Item": "135 ft.",
+            "Cost": "$95,477",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$12,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$16,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "4,216 Inft $15,935",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "4,216 Inft",
+            "Cost": "$15,935",
+            "Extra": null
+          },
+          {
+            "Item": "107 ac",
+            "Cost": "$8,195",
+            "Extra": null
+          },
+          {
+            "Item": "135 ft.",
+            "Cost": "$95,477",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$12,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$16,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "107 ac $8,195",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "107 ac",
+            "Cost": "$8,195",
+            "Extra": null
+          },
+          {
+            "Item": "135 ft.",
+            "Cost": "$95,477",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$12,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$16,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "135 ft. $95,477",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "135 ft.",
+            "Cost": "$95,477",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$12,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$16,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Technical Assistance N/A $15,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Technical Assistance N/A",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach N/A",
+            "Cost": "$12,000",
+            "Extra": null
+          },
+          {
+            "Item": "Monitoring  N/A",
+            "Cost": "$16,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "15 each $52,329",
+      "rows": [
+        {
+          "name": "15 each",
+          "totalCost": 52329,
+          "rawCost": "$52,329"
+        },
+        {
+          "name": "20 each",
+          "totalCost": 263123,
+          "rawCost": "$263,123"
+        },
+        {
+          "name": "10 each",
+          "totalCost": 205373,
+          "rawCost": "$205,373"
+        },
+        {
+          "name": "10 each",
+          "totalCost": 330332,
+          "rawCost": "$330,332"
+        },
+        {
+          "name": "1,132 acres",
+          "totalCost": 79705,
+          "rawCost": "$79,705"
+        },
+        {
+          "name": "130,000 CuYd",
+          "totalCost": 544700,
+          "rawCost": "$544,700"
+        },
+        {
+          "name": "24,216 Inft",
+          "totalCost": 91536,
+          "rawCost": "$91,536"
+        },
+        {
+          "name": "1,135 ft",
+          "totalCost": 730385,
+          "rawCost": "$730,385"
+        },
+        {
+          "name": "N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "N/A",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2395483,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "20 each $263,123",
+      "rows": [
+        {
+          "name": "20 each",
+          "totalCost": 263123,
+          "rawCost": "$263,123"
+        },
+        {
+          "name": "10 each",
+          "totalCost": 205373,
+          "rawCost": "$205,373"
+        },
+        {
+          "name": "10 each",
+          "totalCost": 330332,
+          "rawCost": "$330,332"
+        },
+        {
+          "name": "1,132 acres",
+          "totalCost": 79705,
+          "rawCost": "$79,705"
+        },
+        {
+          "name": "130,000 CuYd",
+          "totalCost": 544700,
+          "rawCost": "$544,700"
+        },
+        {
+          "name": "24,216 Inft",
+          "totalCost": 91536,
+          "rawCost": "$91,536"
+        },
+        {
+          "name": "1,135 ft",
+          "totalCost": 730385,
+          "rawCost": "$730,385"
+        },
+        {
+          "name": "N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "N/A",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2343154,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "10 each $205,373",
+      "rows": [
+        {
+          "name": "10 each",
+          "totalCost": 205373,
+          "rawCost": "$205,373"
+        },
+        {
+          "name": "10 each",
+          "totalCost": 330332,
+          "rawCost": "$330,332"
+        },
+        {
+          "name": "1,132 acres",
+          "totalCost": 79705,
+          "rawCost": "$79,705"
+        },
+        {
+          "name": "130,000 CuYd",
+          "totalCost": 544700,
+          "rawCost": "$544,700"
+        },
+        {
+          "name": "24,216 Inft",
+          "totalCost": 91536,
+          "rawCost": "$91,536"
+        },
+        {
+          "name": "1,135 ft",
+          "totalCost": 730385,
+          "rawCost": "$730,385"
+        },
+        {
+          "name": "N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "N/A",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 2080031,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "10 each $330,332",
+      "rows": [
+        {
+          "name": "10 each",
+          "totalCost": 330332,
+          "rawCost": "$330,332"
+        },
+        {
+          "name": "1,132 acres",
+          "totalCost": 79705,
+          "rawCost": "$79,705"
+        },
+        {
+          "name": "130,000 CuYd",
+          "totalCost": 544700,
+          "rawCost": "$544,700"
+        },
+        {
+          "name": "24,216 Inft",
+          "totalCost": 91536,
+          "rawCost": "$91,536"
+        },
+        {
+          "name": "1,135 ft",
+          "totalCost": 730385,
+          "rawCost": "$730,385"
+        },
+        {
+          "name": "N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "N/A",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1874658,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "1,132 acres $79,705",
+      "rows": [
+        {
+          "name": "1,132 acres",
+          "totalCost": 79705,
+          "rawCost": "$79,705"
+        },
+        {
+          "name": "130,000 CuYd",
+          "totalCost": 544700,
+          "rawCost": "$544,700"
+        },
+        {
+          "name": "24,216 Inft",
+          "totalCost": 91536,
+          "rawCost": "$91,536"
+        },
+        {
+          "name": "1,135 ft",
+          "totalCost": 730385,
+          "rawCost": "$730,385"
+        },
+        {
+          "name": "N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "N/A",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1544326,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "130,000 CuYd $544,700",
+      "rows": [
+        {
+          "name": "130,000 CuYd",
+          "totalCost": 544700,
+          "rawCost": "$544,700"
+        },
+        {
+          "name": "24,216 Inft",
+          "totalCost": 91536,
+          "rawCost": "$91,536"
+        },
+        {
+          "name": "1,135 ft",
+          "totalCost": 730385,
+          "rawCost": "$730,385"
+        },
+        {
+          "name": "N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "N/A",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1464621,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "24,216 Inft $91,536",
+      "rows": [
+        {
+          "name": "24,216 Inft",
+          "totalCost": 91536,
+          "rawCost": "$91,536"
+        },
+        {
+          "name": "1,135 ft",
+          "totalCost": 730385,
+          "rawCost": "$730,385"
+        },
+        {
+          "name": "N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "N/A",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 919921,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "1,135 ft $730,385",
+      "rows": [
+        {
+          "name": "1,135 ft",
+          "totalCost": 730385,
+          "rawCost": "$730,385"
+        },
+        {
+          "name": "N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "N/A",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "flow)  15 ea",
+          "totalCost": 52329,
+          "rawCost": "$52,329"
+        },
+        {
+          "name": "30,000 cy",
+          "totalCost": 125700,
+          "rawCost": "$125,700"
+        },
+        {
+          "name": "4,216 Inft",
+          "totalCost": 15935,
+          "rawCost": "$15,935"
+        },
+        {
+          "name": "107 ac",
+          "totalCost": 8195,
+          "rawCost": "$8,195"
+        },
+        {
+          "name": "135 ft.",
+          "totalCost": 95477,
+          "rawCost": "$95,477"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 16000,
+          "rawCost": "$16,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1169021,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "N/A $45,000",
+      "rows": [
+        {
+          "name": "N/A",
+          "totalCost": 45000,
+          "rawCost": "$45,000"
+        },
+        {
+          "name": "N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "N/A",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "flow)  15 ea",
+          "totalCost": 52329,
+          "rawCost": "$52,329"
+        },
+        {
+          "name": "30,000 cy",
+          "totalCost": 125700,
+          "rawCost": "$125,700"
+        },
+        {
+          "name": "4,216 Inft",
+          "totalCost": 15935,
+          "rawCost": "$15,935"
+        },
+        {
+          "name": "107 ac",
+          "totalCost": 8195,
+          "rawCost": "$8,195"
+        },
+        {
+          "name": "135 ft.",
+          "totalCost": 95477,
+          "rawCost": "$95,477"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 16000,
+          "rawCost": "$16,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 438636,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "N/A $28,000",
+      "rows": [
+        {
+          "name": "N/A",
+          "totalCost": 28000,
+          "rawCost": "$28,000"
+        },
+        {
+          "name": "N/A",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "flow)  15 ea",
+          "totalCost": 52329,
+          "rawCost": "$52,329"
+        },
+        {
+          "name": "30,000 cy",
+          "totalCost": 125700,
+          "rawCost": "$125,700"
+        },
+        {
+          "name": "4,216 Inft",
+          "totalCost": 15935,
+          "rawCost": "$15,935"
+        },
+        {
+          "name": "107 ac",
+          "totalCost": 8195,
+          "rawCost": "$8,195"
+        },
+        {
+          "name": "135 ft.",
+          "totalCost": 95477,
+          "rawCost": "$95,477"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 16000,
+          "rawCost": "$16,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 393636,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "N/A $25,000",
+      "rows": [
+        {
+          "name": "N/A",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "flow)  15 ea",
+          "totalCost": 52329,
+          "rawCost": "$52,329"
+        },
+        {
+          "name": "30,000 cy",
+          "totalCost": 125700,
+          "rawCost": "$125,700"
+        },
+        {
+          "name": "4,216 Inft",
+          "totalCost": 15935,
+          "rawCost": "$15,935"
+        },
+        {
+          "name": "107 ac",
+          "totalCost": 8195,
+          "rawCost": "$8,195"
+        },
+        {
+          "name": "135 ft.",
+          "totalCost": 95477,
+          "rawCost": "$95,477"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 16000,
+          "rawCost": "$16,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 365636,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$135,000",
+      "rows": [
+        {
+          "name": "flow)  15 ea",
+          "totalCost": 52329,
+          "rawCost": "$52,329"
+        },
+        {
+          "name": "30,000 cy",
+          "totalCost": 125700,
+          "rawCost": "$125,700"
+        },
+        {
+          "name": "4,216 Inft",
+          "totalCost": 15935,
+          "rawCost": "$15,935"
+        },
+        {
+          "name": "107 ac",
+          "totalCost": 8195,
+          "rawCost": "$8,195"
+        },
+        {
+          "name": "135 ft.",
+          "totalCost": 95477,
+          "rawCost": "$95,477"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 16000,
+          "rawCost": "$16,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 340636,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$2,530,483",
+      "rows": [
+        {
+          "name": "flow)  15 ea",
+          "totalCost": 52329,
+          "rawCost": "$52,329"
+        },
+        {
+          "name": "30,000 cy",
+          "totalCost": 125700,
+          "rawCost": "$125,700"
+        },
+        {
+          "name": "4,216 Inft",
+          "totalCost": 15935,
+          "rawCost": "$15,935"
+        },
+        {
+          "name": "107 ac",
+          "totalCost": 8195,
+          "rawCost": "$8,195"
+        },
+        {
+          "name": "135 ft.",
+          "totalCost": 95477,
+          "rawCost": "$95,477"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 16000,
+          "rawCost": "$16,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 340636,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "flow)  15 ea  $52,329",
+      "rows": [
+        {
+          "name": "flow)  15 ea",
+          "totalCost": 52329,
+          "rawCost": "$52,329"
+        },
+        {
+          "name": "30,000 cy",
+          "totalCost": 125700,
+          "rawCost": "$125,700"
+        },
+        {
+          "name": "4,216 Inft",
+          "totalCost": 15935,
+          "rawCost": "$15,935"
+        },
+        {
+          "name": "107 ac",
+          "totalCost": 8195,
+          "rawCost": "$8,195"
+        },
+        {
+          "name": "135 ft.",
+          "totalCost": 95477,
+          "rawCost": "$95,477"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 16000,
+          "rawCost": "$16,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 340636,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "30,000 cy $125,700",
+      "rows": [
+        {
+          "name": "30,000 cy",
+          "totalCost": 125700,
+          "rawCost": "$125,700"
+        },
+        {
+          "name": "4,216 Inft",
+          "totalCost": 15935,
+          "rawCost": "$15,935"
+        },
+        {
+          "name": "107 ac",
+          "totalCost": 8195,
+          "rawCost": "$8,195"
+        },
+        {
+          "name": "135 ft.",
+          "totalCost": 95477,
+          "rawCost": "$95,477"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 16000,
+          "rawCost": "$16,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 288307,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "4,216 Inft $15,935",
+      "rows": [
+        {
+          "name": "4,216 Inft",
+          "totalCost": 15935,
+          "rawCost": "$15,935"
+        },
+        {
+          "name": "107 ac",
+          "totalCost": 8195,
+          "rawCost": "$8,195"
+        },
+        {
+          "name": "135 ft.",
+          "totalCost": 95477,
+          "rawCost": "$95,477"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 16000,
+          "rawCost": "$16,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 162607,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "107 ac $8,195",
+      "rows": [
+        {
+          "name": "107 ac",
+          "totalCost": 8195,
+          "rawCost": "$8,195"
+        },
+        {
+          "name": "135 ft.",
+          "totalCost": 95477,
+          "rawCost": "$95,477"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 16000,
+          "rawCost": "$16,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 146672,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "135 ft. $95,477",
+      "rows": [
+        {
+          "name": "135 ft.",
+          "totalCost": 95477,
+          "rawCost": "$95,477"
+        },
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 16000,
+          "rawCost": "$16,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 138477,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Technical Assistance N/A $15,000",
+      "rows": [
+        {
+          "name": "Technical Assistance N/A",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Education and Outreach N/A",
+          "totalCost": 12000,
+          "rawCost": "$12,000"
+        },
+        {
+          "name": "Monitoring  N/A",
+          "totalCost": 16000,
+          "rawCost": "$16,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 43000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-02T13:23:25.517Z",
+  "metadata": {
+    "sourceId": "muddy-bayou-opossum-bayou-9-key-element-plan-2022",
+    "sourceFile": "muddy-bayou-opossum-bayou-9-key-element-plan-2022.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "adaptive_generic_costs",
+        "title": "15 each $52,329",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2395483
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "20 each $263,123",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2343154
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "10 each $205,373",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 2080031
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "10 each $330,332",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1874658
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "1,132 acres $79,705",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1544326
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "130,000 CuYd $544,700",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1464621
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "24,216 Inft $91,536",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 919921
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "1,135 ft $730,385",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1169021
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "N/A $45,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 438636
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "N/A $28,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 393636
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "N/A $25,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 365636
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$135,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 340636
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$2,530,483",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 340636
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "flow)  15 ea  $52,329",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 340636
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "30,000 cy $125,700",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 288307
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "4,216 Inft $15,935",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 162607
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "107 ac $8,195",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 146672
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "135 ft. $95,477",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 138477
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Technical Assistance N/A $15,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 43000
+      }
+    ]
+  }
+}

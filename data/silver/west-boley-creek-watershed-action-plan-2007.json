@@ -1,0 +1,43 @@
+{
+  "id": "west-boley-creek-watershed-action-plan-2007",
+  "summary": {
+    "totalGoals": 0,
+    "totalBMPs": 0,
+    "totalActivities": 0,
+    "primaryGoals": 0,
+    "completionRate": 0,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 0,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 0
+    },
+    "bmpCategories": {},
+    "avgGoalConfidence": 0,
+    "strongGoals": 0
+  },
+  "goals": [],
+  "mainGoals": [],
+  "bmps": [],
+  "bmpCostTable": null,
+  "bmpCostTableNormalized": null,
+  "bmpCostTables": [],
+  "bmpCostTablesNormalized": [],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-02T18:06:33.176Z",
+  "metadata": {
+    "sourceId": "west-boley-creek-watershed-action-plan-2007",
+    "sourceFile": "West_Boley_Creek_Watershed_Action_Plan_2007.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": []
+  }
+}

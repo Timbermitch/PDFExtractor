@@ -1,0 +1,91 @@
+{
+  "generatedAt": "2025-10-01T23:18:11.759Z",
+  "reports": 51,
+  "totals": {
+    "activities": 15,
+    "bmps": 1594,
+    "goals": 151,
+    "costTables": 79,
+    "reportsWithCostTables": 37,
+    "reportsWithoutCostTables": 14,
+    "discrepancyWithin1": 15,
+    "discrepancyWithin5": 15,
+    "discrepancyOver20": 9,
+    "tablesWithDiscrepancy": 79
+  },
+  "reportsWithoutCostTables": [
+    "bogue-chitto-creek-watershed-plan",
+    "buttahatchee-river-watershed-plan",
+    "chunky-okatibbee-watershed-plan-2007-5",
+    "coldwater-river-watershed-plan-2013",
+    "deer-creek-watershed-plan-2008",
+    "luxapallila-creek-watershed-plan-2004-5",
+    "mill-creek-watershed-plan",
+    "overcup-slough-watershed-plan-2013",
+    "red-creek-watershed-action-plan",
+    "synthetic-goal-demo",
+    "tchoutacabouffa-river-watershed-action-plan-2007",
+    "upper-bay-of-st-louis-watershed-action-plan-2007",
+    "upper-porter-bayou-watershed-plan-2013",
+    "west-boley-creek-watershed-action-plan"
+  ],
+  "patternUsage": {
+    "aggressive_loose_cluster": {
+      "tables": 37,
+      "reports": 10
+    },
+    "practice_costs_format": {
+      "tables": 4,
+      "reports": 3
+    },
+    "activity_match": {
+      "tables": 2,
+      "reports": 2
+    },
+    "bell_creek_bmps": {
+      "tables": 4,
+      "reports": 4
+    },
+    "bell_creek_format": {
+      "tables": 4,
+      "reports": 4
+    },
+    "booths_creek_format": {
+      "tables": 1,
+      "reports": 1
+    },
+    "full_project_estimate": {
+      "tables": 7,
+      "reports": 7
+    },
+    "phase1_estimate": {
+      "tables": 7,
+      "reports": 7
+    },
+    "tech_assistance": {
+      "tables": 3,
+      "reports": 2
+    },
+    "tech_assistance_format": {
+      "tables": 1,
+      "reports": 1
+    },
+    "cost_table": {
+      "tables": 6,
+      "reports": 6
+    },
+    "practice_costs": {
+      "tables": 1,
+      "reports": 1
+    },
+    "phase1_bmps": {
+      "tables": 1,
+      "reports": 1
+    },
+    "phase1_bmps_format": {
+      "tables": 1,
+      "reports": 1
+    }
+  },
+  "bmpFallbackReports": 0
+}

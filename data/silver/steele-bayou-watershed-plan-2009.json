@@ -1,0 +1,5545 @@
+{
+  "id": "steele-bayou-watershed-plan-2009",
+  "summary": {
+    "totalGoals": 2,
+    "totalBMPs": 41,
+    "totalActivities": 0,
+    "primaryGoals": 1,
+    "completionRate": 0,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 2,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "General": 40,
+      "Erosion Control": 1
+    },
+    "avgGoalConfidence": 0,
+    "strongGoals": 0
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "21 Goal The goal of this action item is to removal fish consumption advisories for DDT and 2003d).",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": "2003",
+      "achievedYear": null,
+      "targetYear": "2003",
+      "responsible": null,
+      "source": "21 Goal The goal of this action item is to removal fish consumption advisories for DDT and 2003d).",
+      "confidence": 0,
+      "isPrimary": true,
+      "primaryReason": "fallback_top_confidence",
+      "description": "21 Goal The goal of this action item is to removal fish consumption advisories for DDT and 2003d).",
+      "originalSentence": "21 Goal The goal of this action item is to removal fish consumption advisories for DDT and 2003d).",
+      "shortTitle": "21 Goal The goal of this action item is to removal fish consumption advisories for DDT and 2003d)."
+    },
+    {
+      "id": "G2",
+      "title": "2003d). Therefore, those BMPs listed in Table 5 will also serve to achieve this goal.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": "2003",
+      "achievedYear": null,
+      "targetYear": "2003",
+      "responsible": null,
+      "source": "2003d).  Therefore, those BMPs listed in Table 5 will also serve to achieve this goal.",
+      "confidence": 0,
+      "description": "2003d). Therefore, those BMPs listed in Table 5 will also serve to achieve this goal.",
+      "originalSentence": "2003d). Therefore, those BMPs listed in Table 5 will also serve to achieve this goal.",
+      "shortTitle": "2003d). Therefore, those BMPs listed in Table 5 will also serve to achieve this goal."
+    }
+  ],
+  "mainGoals": [
+    {
+      "id": "G1",
+      "title": "21 Goal The goal of this action item is to removal fish consumption advisories for DDT and 2003d).",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": "2003",
+      "achievedYear": null,
+      "targetYear": "2003",
+      "responsible": null,
+      "source": "21 Goal The goal of this action item is to removal fish consumption advisories for DDT and 2003d).",
+      "confidence": 0,
+      "isPrimary": true,
+      "primaryReason": "fallback_top_confidence",
+      "description": "21 Goal The goal of this action item is to removal fish consumption advisories for DDT and 2003d).",
+      "originalSentence": "21 Goal The goal of this action item is to removal fish consumption advisories for DDT and 2003d).",
+      "shortTitle": "21 Goal The goal of this action item is to removal fish consumption advisories for DDT and 2003d)."
+    }
+  ],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "Unit Cost of Units Total Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Unit Cost of Units Total Cost"
+    },
+    {
+      "id": "B2",
+      "name": "Water Control Structures",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Water Control Structures $1,500  25 $37,500|name_cost_tail_trim",
+      "originalName": "Water Control Structures $1,500  25 $37,500"
+    },
+    {
+      "id": "B3",
+      "name": "Large Overfall Pipes",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Large Overfall Pipes  $101,721  36 $3,661,956|name_cost_tail_trim",
+      "originalName": "Large Overfall Pipes  $101,721  36 $3,661,956"
+    },
+    {
+      "id": "B4",
+      "name": "(feet)",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.05,
+      "source": "(feet) $3  1000 $3,000|name_cost_tail_trim",
+      "originalName": "(feet) $3  1000 $3,000"
+    },
+    {
+      "id": "B5",
+      "name": "Bank Stabilization",
+      "category": "Erosion Control",
+      "keyword": "Bank Stabilization",
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.4,
+      "source": "Bank Stabilization $4,000  6 $24,000|name_cost_tail_trim",
+      "originalName": "Bank Stabilization $4,000  6 $24,000"
+    },
+    {
+      "id": "B6",
+      "name": "Rip-Rap Weirs",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Rip-Rap Weirs $15,400  5 $77,000|name_cost_tail_trim",
+      "originalName": "Rip-Rap Weirs $15,400  5 $77,000"
+    },
+    {
+      "id": "B7",
+      "name": "$3,803,456",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$3,803,456"
+    },
+    {
+      "id": "B8",
+      "name": "Practice Unit Cost  # of Units Total Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Practice Unit Cost  # of Units Total Cost"
+    },
+    {
+      "id": "B9",
+      "name": "Herbicide",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Herbicide $27/gallon 200 gallons $5,400.00|name_cost_tail_trim",
+      "originalName": "Herbicide $27/gallon 200 gallons $5,400.00"
+    },
+    {
+      "id": "B10",
+      "name": "Herbicide Treatments",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Herbicide Treatments $425/hour 90 hours $38,250|name_cost_tail_trim",
+      "originalName": "Herbicide Treatments $425/hour 90 hours $38,250"
+    },
+    {
+      "id": "B11",
+      "name": "Mechanical Removal",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Mechanical Removal $500/hour 25 hours $12,500|name_cost_tail_trim",
+      "originalName": "Mechanical Removal $500/hour 25 hours $12,500"
+    },
+    {
+      "id": "B12",
+      "name": "Total",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Total     $56,150.00|name_cost_tail_trim",
+      "originalName": "Total     $56,150.00"
+    },
+    {
+      "id": "B13",
+      "name": "Practice Unit Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Practice Unit Cost"
+    },
+    {
+      "id": "B14",
+      "name": "Total Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Total Cost"
+    },
+    {
+      "id": "B15",
+      "name": "Field",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Field $590/day 4 $2,360.00|name_cost_tail_trim",
+      "originalName": "Field $590/day 4 $2,360.00"
+    },
+    {
+      "id": "B16",
+      "name": "Fish Pop. Reports",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Fish Pop. Reports $266/day 2 $532.00|name_cost_tail_trim",
+      "originalName": "Fish Pop. Reports $266/day 2 $532.00"
+    },
+    {
+      "id": "B17",
+      "name": "Mgt. Plan Development",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Mgt. Plan Development $266/day 7 $1,862.00|name_cost_tail_trim",
+      "originalName": "Mgt. Plan Development $266/day 7 $1,862.00"
+    },
+    {
+      "id": "B18",
+      "name": "$20,000/year",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$20,000/year"
+    },
+    {
+      "id": "B19",
+      "name": "$40,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$40,000"
+    },
+    {
+      "id": "B20",
+      "name": "Vemco VR2 Receiver",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Vemco VR2 Receiver $1,200 each|name_cost_tail_trim",
+      "originalName": "Vemco VR2 Receiver $1,200 each"
+    },
+    {
+      "id": "B21",
+      "name": "$21,600",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$21,600"
+    },
+    {
+      "id": "B22",
+      "name": "Vemco VR100 Receiver",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Vemco VR100 Receiver $7,000 each|name_cost_tail_trim",
+      "originalName": "Vemco VR100 Receiver $7,000 each"
+    },
+    {
+      "id": "B23",
+      "name": "$14,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$14,000"
+    },
+    {
+      "id": "B24",
+      "name": "Vemco V16 Tags",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Vemco V16 Tags $280 each|name_cost_tail_trim",
+      "originalName": "Vemco V16 Tags $280 each"
+    },
+    {
+      "id": "B25",
+      "name": "$25,200",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$25,200"
+    },
+    {
+      "id": "B26",
+      "name": "Material to Install Receivers",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": "install",
+      "confidence": 0.15,
+      "source": "Material to Install Receivers $150 each|name_cost_tail_trim",
+      "originalName": "Material to Install Receivers $150 each"
+    },
+    {
+      "id": "B27",
+      "name": "$900",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$900"
+    },
+    {
+      "id": "B28",
+      "name": "Maintenance",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.05,
+      "source": "Maintenance $8,000/2 years|name_cost_tail_trim",
+      "originalName": "Maintenance $8,000/2 years"
+    },
+    {
+      "id": "B29",
+      "name": "$16,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$16,000"
+    },
+    {
+      "id": "B30",
+      "name": "Travel",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Travel  $6,000/2 years|name_cost_tail_trim",
+      "originalName": "Travel  $6,000/2 years"
+    },
+    {
+      "id": "B31",
+      "name": "$12,000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$12,000"
+    },
+    {
+      "id": "B32",
+      "name": "Administrative Support",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Administrative Support $42,630/2years|name_cost_tail_trim",
+      "originalName": "Administrative Support $42,630/2years"
+    },
+    {
+      "id": "B33",
+      "name": "$42,630",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$42,630"
+    },
+    {
+      "id": "B34",
+      "name": "$185,148.00",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$185,148.00"
+    },
+    {
+      "id": "B35",
+      "name": "Labor",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Labor $55,800  1 $55,800|name_cost_tail_trim",
+      "originalName": "Labor $55,800  1 $55,800"
+    },
+    {
+      "id": "B36",
+      "name": "Analysis",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Analysis $17,400  1 $17,400|name_cost_tail_trim",
+      "originalName": "Analysis $17,400  1 $17,400"
+    },
+    {
+      "id": "B37",
+      "name": "Vehicles",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Vehicles $4,100  1 $4,100|name_cost_tail_trim",
+      "originalName": "Vehicles $4,100  1 $4,100"
+    },
+    {
+      "id": "B38",
+      "name": "Supplies",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Supplies $73,200  1 $73,200|name_cost_tail_trim",
+      "originalName": "Supplies $73,200  1 $73,200"
+    },
+    {
+      "id": "B39",
+      "name": "Ag BMP",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.05,
+      "source": "Ag BMP $3,803456|name_cost_tail_trim",
+      "originalName": "Ag BMP $3,803456"
+    },
+    {
+      "id": "B40",
+      "name": "Noxious Aquatics",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Noxious Aquatics $27,350|name_cost_tail_trim",
+      "originalName": "Noxious Aquatics $27,350"
+    },
+    {
+      "id": "B41",
+      "name": "Fisheries Management",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Fisheries Management $185,148|name_cost_tail_trim",
+      "originalName": "Fisheries Management $185,148"
+    }
+  ],
+  "bmpCostTable": {
+    "id": "adaptive_generic_costs",
+    "title": "Water Control Structures $1,500  25 $37,500",
+    "table": {
+      "columns": [
+        "Item",
+        "Cost",
+        "Extra?"
+      ],
+      "rows": [
+        {
+          "Item": "Water Control Structures $1,500  25",
+          "Cost": "$37,500",
+          "Extra": null
+        },
+        {
+          "Item": "Large Overfall Pipes  $101,721  36",
+          "Cost": "$3,661,956",
+          "Extra": null
+        },
+        {
+          "Item": "(feet) $3  1000",
+          "Cost": "$3,000",
+          "Extra": null
+        },
+        {
+          "Item": "Bank Stabilization $4,000  6",
+          "Cost": "$24,000",
+          "Extra": null
+        },
+        {
+          "Item": "Rip-Rap Weirs $15,400  5",
+          "Cost": "$77,000",
+          "Extra": null
+        }
+      ],
+      "total": null
+    },
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTableNormalized": {
+    "id": "adaptive_generic_costs",
+    "title": "Water Control Structures $1,500  25 $37,500",
+    "rows": [
+      {
+        "name": "Water Control Structures $1,500  25",
+        "totalCost": 37500,
+        "rawCost": "$37,500"
+      },
+      {
+        "name": "Large Overfall Pipes  $101,721  36",
+        "totalCost": 3661956,
+        "rawCost": "$3,661,956"
+      },
+      {
+        "name": "(feet) $3  1000",
+        "totalCost": 3000,
+        "rawCost": "$3,000"
+      },
+      {
+        "name": "Bank Stabilization $4,000  6",
+        "totalCost": 24000,
+        "rawCost": "$24,000"
+      },
+      {
+        "name": "Rip-Rap Weirs $15,400  5",
+        "totalCost": 77000,
+        "rawCost": "$77,000"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 3803456,
+    "discrepancy": null,
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTables": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Water Control Structures $1,500  25 $37,500",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Water Control Structures $1,500  25",
+            "Cost": "$37,500",
+            "Extra": null
+          },
+          {
+            "Item": "Large Overfall Pipes  $101,721  36",
+            "Cost": "$3,661,956",
+            "Extra": null
+          },
+          {
+            "Item": "(feet) $3  1000",
+            "Cost": "$3,000",
+            "Extra": null
+          },
+          {
+            "Item": "Bank Stabilization $4,000  6",
+            "Cost": "$24,000",
+            "Extra": null
+          },
+          {
+            "Item": "Rip-Rap Weirs $15,400  5",
+            "Cost": "$77,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Large Overfall Pipes  $101,721  36 $3,661,956",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Large Overfall Pipes  $101,721  36",
+            "Cost": "$3,661,956",
+            "Extra": null
+          },
+          {
+            "Item": "(feet) $3  1000",
+            "Cost": "$3,000",
+            "Extra": null
+          },
+          {
+            "Item": "Bank Stabilization $4,000  6",
+            "Cost": "$24,000",
+            "Extra": null
+          },
+          {
+            "Item": "Rip-Rap Weirs $15,400  5",
+            "Cost": "$77,000",
+            "Extra": null
+          },
+          {
+            "Item": "Herbicide $27/gallon 200 gallons",
+            "Cost": "$5,400.00",
+            "Extra": null
+          },
+          {
+            "Item": "Herbicide Treatments $425/hour 90 hours",
+            "Cost": "$38,250",
+            "Extra": null
+          },
+          {
+            "Item": "Mechanical Removal $500/hour 25 hours",
+            "Cost": "$12,500",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$56,150.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "(feet) $3  1000 $3,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "(feet) $3  1000",
+            "Cost": "$3,000",
+            "Extra": null
+          },
+          {
+            "Item": "Bank Stabilization $4,000  6",
+            "Cost": "$24,000",
+            "Extra": null
+          },
+          {
+            "Item": "Rip-Rap Weirs $15,400  5",
+            "Cost": "$77,000",
+            "Extra": null
+          },
+          {
+            "Item": "Herbicide $27/gallon 200 gallons",
+            "Cost": "$5,400.00",
+            "Extra": null
+          },
+          {
+            "Item": "Herbicide Treatments $425/hour 90 hours",
+            "Cost": "$38,250",
+            "Extra": null
+          },
+          {
+            "Item": "Mechanical Removal $500/hour 25 hours",
+            "Cost": "$12,500",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$56,150.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Bank Stabilization $4,000  6 $24,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Bank Stabilization $4,000  6",
+            "Cost": "$24,000",
+            "Extra": null
+          },
+          {
+            "Item": "Rip-Rap Weirs $15,400  5",
+            "Cost": "$77,000",
+            "Extra": null
+          },
+          {
+            "Item": "Herbicide $27/gallon 200 gallons",
+            "Cost": "$5,400.00",
+            "Extra": null
+          },
+          {
+            "Item": "Herbicide Treatments $425/hour 90 hours",
+            "Cost": "$38,250",
+            "Extra": null
+          },
+          {
+            "Item": "Mechanical Removal $500/hour 25 hours",
+            "Cost": "$12,500",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$56,150.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Rip-Rap Weirs $15,400  5 $77,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Rip-Rap Weirs $15,400  5",
+            "Cost": "$77,000",
+            "Extra": null
+          },
+          {
+            "Item": "Herbicide $27/gallon 200 gallons",
+            "Cost": "$5,400.00",
+            "Extra": null
+          },
+          {
+            "Item": "Herbicide Treatments $425/hour 90 hours",
+            "Cost": "$38,250",
+            "Extra": null
+          },
+          {
+            "Item": "Mechanical Removal $500/hour 25 hours",
+            "Cost": "$12,500",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$56,150.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$3,803,456",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Herbicide $27/gallon 200 gallons",
+            "Cost": "$5,400.00",
+            "Extra": null
+          },
+          {
+            "Item": "Herbicide Treatments $425/hour 90 hours",
+            "Cost": "$38,250",
+            "Extra": null
+          },
+          {
+            "Item": "Mechanical Removal $500/hour 25 hours",
+            "Cost": "$12,500",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$56,150.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field $590/day 4",
+            "Cost": "$2,360.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fish Pop. Reports $266/day 2",
+            "Cost": "$532.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field $288/day 28",
+            "Cost": "$8,064.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mgt. Plan Development $266/day 7",
+            "Cost": "$1,862.00",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco VR2 Receiver",
+            "Cost": "$1,200",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco VR100 Receiver",
+            "Cost": "$7,000",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco V16 Tags",
+            "Cost": "$280",
+            "Extra": null
+          },
+          {
+            "Item": "Material to Install Receivers",
+            "Cost": "$150",
+            "Extra": null
+          },
+          {
+            "Item": "Maintenance",
+            "Cost": "$8,000",
+            "Extra": null
+          },
+          {
+            "Item": "Travel",
+            "Cost": "$6,000",
+            "Extra": null
+          },
+          {
+            "Item": "Administrative Support",
+            "Cost": "$42,630",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Herbicide $27/gallon 200 gallons $5,400.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Herbicide $27/gallon 200 gallons",
+            "Cost": "$5,400.00",
+            "Extra": null
+          },
+          {
+            "Item": "Herbicide Treatments $425/hour 90 hours",
+            "Cost": "$38,250",
+            "Extra": null
+          },
+          {
+            "Item": "Mechanical Removal $500/hour 25 hours",
+            "Cost": "$12,500",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$56,150.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field $590/day 4",
+            "Cost": "$2,360.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fish Pop. Reports $266/day 2",
+            "Cost": "$532.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field $288/day 28",
+            "Cost": "$8,064.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mgt. Plan Development $266/day 7",
+            "Cost": "$1,862.00",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco VR2 Receiver",
+            "Cost": "$1,200",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco VR100 Receiver",
+            "Cost": "$7,000",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco V16 Tags",
+            "Cost": "$280",
+            "Extra": null
+          },
+          {
+            "Item": "Material to Install Receivers",
+            "Cost": "$150",
+            "Extra": null
+          },
+          {
+            "Item": "Maintenance",
+            "Cost": "$8,000",
+            "Extra": null
+          },
+          {
+            "Item": "Travel",
+            "Cost": "$6,000",
+            "Extra": null
+          },
+          {
+            "Item": "Administrative Support",
+            "Cost": "$42,630",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Herbicide Treatments $425/hour 90 hours $38,250",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Herbicide Treatments $425/hour 90 hours",
+            "Cost": "$38,250",
+            "Extra": null
+          },
+          {
+            "Item": "Mechanical Removal $500/hour 25 hours",
+            "Cost": "$12,500",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$56,150.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field $590/day 4",
+            "Cost": "$2,360.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fish Pop. Reports $266/day 2",
+            "Cost": "$532.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field $288/day 28",
+            "Cost": "$8,064.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mgt. Plan Development $266/day 7",
+            "Cost": "$1,862.00",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco VR2 Receiver",
+            "Cost": "$1,200",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco VR100 Receiver",
+            "Cost": "$7,000",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco V16 Tags",
+            "Cost": "$280",
+            "Extra": null
+          },
+          {
+            "Item": "Material to Install Receivers",
+            "Cost": "$150",
+            "Extra": null
+          },
+          {
+            "Item": "Maintenance",
+            "Cost": "$8,000",
+            "Extra": null
+          },
+          {
+            "Item": "Travel",
+            "Cost": "$6,000",
+            "Extra": null
+          },
+          {
+            "Item": "Administrative Support",
+            "Cost": "$42,630",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Mechanical Removal $500/hour 25 hours $12,500",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Mechanical Removal $500/hour 25 hours",
+            "Cost": "$12,500",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$56,150.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field $590/day 4",
+            "Cost": "$2,360.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fish Pop. Reports $266/day 2",
+            "Cost": "$532.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field $288/day 28",
+            "Cost": "$8,064.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mgt. Plan Development $266/day 7",
+            "Cost": "$1,862.00",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco VR2 Receiver",
+            "Cost": "$1,200",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco VR100 Receiver",
+            "Cost": "$7,000",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco V16 Tags",
+            "Cost": "$280",
+            "Extra": null
+          },
+          {
+            "Item": "Material to Install Receivers",
+            "Cost": "$150",
+            "Extra": null
+          },
+          {
+            "Item": "Maintenance",
+            "Cost": "$8,000",
+            "Extra": null
+          },
+          {
+            "Item": "Travel",
+            "Cost": "$6,000",
+            "Extra": null
+          },
+          {
+            "Item": "Administrative Support",
+            "Cost": "$42,630",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total     $56,150.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$56,150.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field $590/day 4",
+            "Cost": "$2,360.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fish Pop. Reports $266/day 2",
+            "Cost": "$532.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field $288/day 28",
+            "Cost": "$8,064.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mgt. Plan Development $266/day 7",
+            "Cost": "$1,862.00",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco VR2 Receiver",
+            "Cost": "$1,200",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco VR100 Receiver",
+            "Cost": "$7,000",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco V16 Tags",
+            "Cost": "$280",
+            "Extra": null
+          },
+          {
+            "Item": "Material to Install Receivers",
+            "Cost": "$150",
+            "Extra": null
+          },
+          {
+            "Item": "Maintenance",
+            "Cost": "$8,000",
+            "Extra": null
+          },
+          {
+            "Item": "Travel",
+            "Cost": "$6,000",
+            "Extra": null
+          },
+          {
+            "Item": "Administrative Support",
+            "Cost": "$42,630",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Field $590/day 4 $2,360.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Field $590/day 4",
+            "Cost": "$2,360.00",
+            "Extra": null
+          },
+          {
+            "Item": "Fish Pop. Reports $266/day 2",
+            "Cost": "$532.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field $288/day 28",
+            "Cost": "$8,064.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mgt. Plan Development $266/day 7",
+            "Cost": "$1,862.00",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco VR2 Receiver",
+            "Cost": "$1,200",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco VR100 Receiver",
+            "Cost": "$7,000",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco V16 Tags",
+            "Cost": "$280",
+            "Extra": null
+          },
+          {
+            "Item": "Material to Install Receivers",
+            "Cost": "$150",
+            "Extra": null
+          },
+          {
+            "Item": "Maintenance",
+            "Cost": "$8,000",
+            "Extra": null
+          },
+          {
+            "Item": "Travel",
+            "Cost": "$6,000",
+            "Extra": null
+          },
+          {
+            "Item": "Administrative Support",
+            "Cost": "$42,630",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Fish Pop. Reports $266/day 2 $532.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Fish Pop. Reports $266/day 2",
+            "Cost": "$532.00",
+            "Extra": null
+          },
+          {
+            "Item": "Field $288/day 28",
+            "Cost": "$8,064.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mgt. Plan Development $266/day 7",
+            "Cost": "$1,862.00",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco VR2 Receiver",
+            "Cost": "$1,200",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco VR100 Receiver",
+            "Cost": "$7,000",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco V16 Tags",
+            "Cost": "$280",
+            "Extra": null
+          },
+          {
+            "Item": "Material to Install Receivers",
+            "Cost": "$150",
+            "Extra": null
+          },
+          {
+            "Item": "Maintenance",
+            "Cost": "$8,000",
+            "Extra": null
+          },
+          {
+            "Item": "Travel",
+            "Cost": "$6,000",
+            "Extra": null
+          },
+          {
+            "Item": "Administrative Support",
+            "Cost": "$42,630",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Field $288/day 28 $8,064.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Field $288/day 28",
+            "Cost": "$8,064.00",
+            "Extra": null
+          },
+          {
+            "Item": "Mgt. Plan Development $266/day 7",
+            "Cost": "$1,862.00",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco VR2 Receiver",
+            "Cost": "$1,200",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco VR100 Receiver",
+            "Cost": "$7,000",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco V16 Tags",
+            "Cost": "$280",
+            "Extra": null
+          },
+          {
+            "Item": "Material to Install Receivers",
+            "Cost": "$150",
+            "Extra": null
+          },
+          {
+            "Item": "Maintenance",
+            "Cost": "$8,000",
+            "Extra": null
+          },
+          {
+            "Item": "Travel",
+            "Cost": "$6,000",
+            "Extra": null
+          },
+          {
+            "Item": "Administrative Support",
+            "Cost": "$42,630",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Mgt. Plan Development $266/day 7 $1,862.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Mgt. Plan Development $266/day 7",
+            "Cost": "$1,862.00",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco VR2 Receiver",
+            "Cost": "$1,200",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco VR100 Receiver",
+            "Cost": "$7,000",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco V16 Tags",
+            "Cost": "$280",
+            "Extra": null
+          },
+          {
+            "Item": "Material to Install Receivers",
+            "Cost": "$150",
+            "Extra": null
+          },
+          {
+            "Item": "Maintenance",
+            "Cost": "$8,000",
+            "Extra": null
+          },
+          {
+            "Item": "Travel",
+            "Cost": "$6,000",
+            "Extra": null
+          },
+          {
+            "Item": "Administrative Support",
+            "Cost": "$42,630",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$20,000/year",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Vemco VR2 Receiver",
+            "Cost": "$1,200",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco VR100 Receiver",
+            "Cost": "$7,000",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco V16 Tags",
+            "Cost": "$280",
+            "Extra": null
+          },
+          {
+            "Item": "Material to Install Receivers",
+            "Cost": "$150",
+            "Extra": null
+          },
+          {
+            "Item": "Maintenance",
+            "Cost": "$8,000",
+            "Extra": null
+          },
+          {
+            "Item": "Travel",
+            "Cost": "$6,000",
+            "Extra": null
+          },
+          {
+            "Item": "Administrative Support",
+            "Cost": "$42,630",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$40,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Vemco VR2 Receiver",
+            "Cost": "$1,200",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco VR100 Receiver",
+            "Cost": "$7,000",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco V16 Tags",
+            "Cost": "$280",
+            "Extra": null
+          },
+          {
+            "Item": "Material to Install Receivers",
+            "Cost": "$150",
+            "Extra": null
+          },
+          {
+            "Item": "Maintenance",
+            "Cost": "$8,000",
+            "Extra": null
+          },
+          {
+            "Item": "Travel",
+            "Cost": "$6,000",
+            "Extra": null
+          },
+          {
+            "Item": "Administrative Support",
+            "Cost": "$42,630",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Vemco VR2 Receiver $1,200 each",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Vemco VR2 Receiver",
+            "Cost": "$1,200",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco VR100 Receiver",
+            "Cost": "$7,000",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco V16 Tags",
+            "Cost": "$280",
+            "Extra": null
+          },
+          {
+            "Item": "Material to Install Receivers",
+            "Cost": "$150",
+            "Extra": null
+          },
+          {
+            "Item": "Maintenance",
+            "Cost": "$8,000",
+            "Extra": null
+          },
+          {
+            "Item": "Travel",
+            "Cost": "$6,000",
+            "Extra": null
+          },
+          {
+            "Item": "Administrative Support",
+            "Cost": "$42,630",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$21,600",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Vemco VR100 Receiver",
+            "Cost": "$7,000",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco V16 Tags",
+            "Cost": "$280",
+            "Extra": null
+          },
+          {
+            "Item": "Material to Install Receivers",
+            "Cost": "$150",
+            "Extra": null
+          },
+          {
+            "Item": "Maintenance",
+            "Cost": "$8,000",
+            "Extra": null
+          },
+          {
+            "Item": "Travel",
+            "Cost": "$6,000",
+            "Extra": null
+          },
+          {
+            "Item": "Administrative Support",
+            "Cost": "$42,630",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Vemco VR100 Receiver $7,000 each",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Vemco VR100 Receiver",
+            "Cost": "$7,000",
+            "Extra": null
+          },
+          {
+            "Item": "Vemco V16 Tags",
+            "Cost": "$280",
+            "Extra": null
+          },
+          {
+            "Item": "Material to Install Receivers",
+            "Cost": "$150",
+            "Extra": null
+          },
+          {
+            "Item": "Maintenance",
+            "Cost": "$8,000",
+            "Extra": null
+          },
+          {
+            "Item": "Travel",
+            "Cost": "$6,000",
+            "Extra": null
+          },
+          {
+            "Item": "Administrative Support",
+            "Cost": "$42,630",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$14,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Vemco V16 Tags",
+            "Cost": "$280",
+            "Extra": null
+          },
+          {
+            "Item": "Material to Install Receivers",
+            "Cost": "$150",
+            "Extra": null
+          },
+          {
+            "Item": "Maintenance",
+            "Cost": "$8,000",
+            "Extra": null
+          },
+          {
+            "Item": "Travel",
+            "Cost": "$6,000",
+            "Extra": null
+          },
+          {
+            "Item": "Administrative Support",
+            "Cost": "$42,630",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Vemco V16 Tags $280 each",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Vemco V16 Tags",
+            "Cost": "$280",
+            "Extra": null
+          },
+          {
+            "Item": "Material to Install Receivers",
+            "Cost": "$150",
+            "Extra": null
+          },
+          {
+            "Item": "Maintenance",
+            "Cost": "$8,000",
+            "Extra": null
+          },
+          {
+            "Item": "Travel",
+            "Cost": "$6,000",
+            "Extra": null
+          },
+          {
+            "Item": "Administrative Support",
+            "Cost": "$42,630",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$25,200",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Material to Install Receivers",
+            "Cost": "$150",
+            "Extra": null
+          },
+          {
+            "Item": "Maintenance",
+            "Cost": "$8,000",
+            "Extra": null
+          },
+          {
+            "Item": "Travel",
+            "Cost": "$6,000",
+            "Extra": null
+          },
+          {
+            "Item": "Administrative Support",
+            "Cost": "$42,630",
+            "Extra": null
+          },
+          {
+            "Item": "Labor $55,800  1",
+            "Cost": "$55,800",
+            "Extra": null
+          },
+          {
+            "Item": "Analysis $17,400  1",
+            "Cost": "$17,400",
+            "Extra": null
+          },
+          {
+            "Item": "Travel $19,900  1",
+            "Cost": "$19,900",
+            "Extra": null
+          },
+          {
+            "Item": "Vehicles $4,100  1",
+            "Cost": "$4,100",
+            "Extra": null
+          },
+          {
+            "Item": "Supplies $73,200  1",
+            "Cost": "$73,200",
+            "Extra": null
+          },
+          {
+            "Item": "Total $170,400  1",
+            "Cost": "$170,400",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$3,803456",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$27,350",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$185,148",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$4,015,954",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Material to Install Receivers $150 each",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Material to Install Receivers",
+            "Cost": "$150",
+            "Extra": null
+          },
+          {
+            "Item": "Maintenance",
+            "Cost": "$8,000",
+            "Extra": null
+          },
+          {
+            "Item": "Travel",
+            "Cost": "$6,000",
+            "Extra": null
+          },
+          {
+            "Item": "Administrative Support",
+            "Cost": "$42,630",
+            "Extra": null
+          },
+          {
+            "Item": "Labor $55,800  1",
+            "Cost": "$55,800",
+            "Extra": null
+          },
+          {
+            "Item": "Analysis $17,400  1",
+            "Cost": "$17,400",
+            "Extra": null
+          },
+          {
+            "Item": "Travel $19,900  1",
+            "Cost": "$19,900",
+            "Extra": null
+          },
+          {
+            "Item": "Vehicles $4,100  1",
+            "Cost": "$4,100",
+            "Extra": null
+          },
+          {
+            "Item": "Supplies $73,200  1",
+            "Cost": "$73,200",
+            "Extra": null
+          },
+          {
+            "Item": "Total $170,400  1",
+            "Cost": "$170,400",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$3,803456",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$27,350",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$185,148",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$4,015,954",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$900",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Maintenance",
+            "Cost": "$8,000",
+            "Extra": null
+          },
+          {
+            "Item": "Travel",
+            "Cost": "$6,000",
+            "Extra": null
+          },
+          {
+            "Item": "Administrative Support",
+            "Cost": "$42,630",
+            "Extra": null
+          },
+          {
+            "Item": "Labor $55,800  1",
+            "Cost": "$55,800",
+            "Extra": null
+          },
+          {
+            "Item": "Analysis $17,400  1",
+            "Cost": "$17,400",
+            "Extra": null
+          },
+          {
+            "Item": "Travel $19,900  1",
+            "Cost": "$19,900",
+            "Extra": null
+          },
+          {
+            "Item": "Vehicles $4,100  1",
+            "Cost": "$4,100",
+            "Extra": null
+          },
+          {
+            "Item": "Supplies $73,200  1",
+            "Cost": "$73,200",
+            "Extra": null
+          },
+          {
+            "Item": "Total $170,400  1",
+            "Cost": "$170,400",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$3,803456",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$27,350",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$185,148",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$4,015,954",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Maintenance $8,000/2 years",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Maintenance",
+            "Cost": "$8,000",
+            "Extra": null
+          },
+          {
+            "Item": "Travel",
+            "Cost": "$6,000",
+            "Extra": null
+          },
+          {
+            "Item": "Administrative Support",
+            "Cost": "$42,630",
+            "Extra": null
+          },
+          {
+            "Item": "Labor $55,800  1",
+            "Cost": "$55,800",
+            "Extra": null
+          },
+          {
+            "Item": "Analysis $17,400  1",
+            "Cost": "$17,400",
+            "Extra": null
+          },
+          {
+            "Item": "Travel $19,900  1",
+            "Cost": "$19,900",
+            "Extra": null
+          },
+          {
+            "Item": "Vehicles $4,100  1",
+            "Cost": "$4,100",
+            "Extra": null
+          },
+          {
+            "Item": "Supplies $73,200  1",
+            "Cost": "$73,200",
+            "Extra": null
+          },
+          {
+            "Item": "Total $170,400  1",
+            "Cost": "$170,400",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$3,803456",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$27,350",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$185,148",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$4,015,954",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$16,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Travel",
+            "Cost": "$6,000",
+            "Extra": null
+          },
+          {
+            "Item": "Administrative Support",
+            "Cost": "$42,630",
+            "Extra": null
+          },
+          {
+            "Item": "Labor $55,800  1",
+            "Cost": "$55,800",
+            "Extra": null
+          },
+          {
+            "Item": "Analysis $17,400  1",
+            "Cost": "$17,400",
+            "Extra": null
+          },
+          {
+            "Item": "Travel $19,900  1",
+            "Cost": "$19,900",
+            "Extra": null
+          },
+          {
+            "Item": "Vehicles $4,100  1",
+            "Cost": "$4,100",
+            "Extra": null
+          },
+          {
+            "Item": "Supplies $73,200  1",
+            "Cost": "$73,200",
+            "Extra": null
+          },
+          {
+            "Item": "Total $170,400  1",
+            "Cost": "$170,400",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$3,803456",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$27,350",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$185,148",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$4,015,954",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Travel  $6,000/2 years",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Travel",
+            "Cost": "$6,000",
+            "Extra": null
+          },
+          {
+            "Item": "Administrative Support",
+            "Cost": "$42,630",
+            "Extra": null
+          },
+          {
+            "Item": "Labor $55,800  1",
+            "Cost": "$55,800",
+            "Extra": null
+          },
+          {
+            "Item": "Analysis $17,400  1",
+            "Cost": "$17,400",
+            "Extra": null
+          },
+          {
+            "Item": "Travel $19,900  1",
+            "Cost": "$19,900",
+            "Extra": null
+          },
+          {
+            "Item": "Vehicles $4,100  1",
+            "Cost": "$4,100",
+            "Extra": null
+          },
+          {
+            "Item": "Supplies $73,200  1",
+            "Cost": "$73,200",
+            "Extra": null
+          },
+          {
+            "Item": "Total $170,400  1",
+            "Cost": "$170,400",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$3,803456",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$27,350",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$185,148",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$4,015,954",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$12,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Administrative Support",
+            "Cost": "$42,630",
+            "Extra": null
+          },
+          {
+            "Item": "Labor $55,800  1",
+            "Cost": "$55,800",
+            "Extra": null
+          },
+          {
+            "Item": "Analysis $17,400  1",
+            "Cost": "$17,400",
+            "Extra": null
+          },
+          {
+            "Item": "Travel $19,900  1",
+            "Cost": "$19,900",
+            "Extra": null
+          },
+          {
+            "Item": "Vehicles $4,100  1",
+            "Cost": "$4,100",
+            "Extra": null
+          },
+          {
+            "Item": "Supplies $73,200  1",
+            "Cost": "$73,200",
+            "Extra": null
+          },
+          {
+            "Item": "Total $170,400  1",
+            "Cost": "$170,400",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$3,803456",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$27,350",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$185,148",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$4,015,954",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Administrative Support $42,630/2years",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Administrative Support",
+            "Cost": "$42,630",
+            "Extra": null
+          },
+          {
+            "Item": "Labor $55,800  1",
+            "Cost": "$55,800",
+            "Extra": null
+          },
+          {
+            "Item": "Analysis $17,400  1",
+            "Cost": "$17,400",
+            "Extra": null
+          },
+          {
+            "Item": "Travel $19,900  1",
+            "Cost": "$19,900",
+            "Extra": null
+          },
+          {
+            "Item": "Vehicles $4,100  1",
+            "Cost": "$4,100",
+            "Extra": null
+          },
+          {
+            "Item": "Supplies $73,200  1",
+            "Cost": "$73,200",
+            "Extra": null
+          },
+          {
+            "Item": "Total $170,400  1",
+            "Cost": "$170,400",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$3,803456",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$27,350",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$185,148",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$4,015,954",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$42,630",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Labor $55,800  1",
+            "Cost": "$55,800",
+            "Extra": null
+          },
+          {
+            "Item": "Analysis $17,400  1",
+            "Cost": "$17,400",
+            "Extra": null
+          },
+          {
+            "Item": "Travel $19,900  1",
+            "Cost": "$19,900",
+            "Extra": null
+          },
+          {
+            "Item": "Vehicles $4,100  1",
+            "Cost": "$4,100",
+            "Extra": null
+          },
+          {
+            "Item": "Supplies $73,200  1",
+            "Cost": "$73,200",
+            "Extra": null
+          },
+          {
+            "Item": "Total $170,400  1",
+            "Cost": "$170,400",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$3,803456",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$27,350",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$185,148",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$4,015,954",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$185,148.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Labor $55,800  1",
+            "Cost": "$55,800",
+            "Extra": null
+          },
+          {
+            "Item": "Analysis $17,400  1",
+            "Cost": "$17,400",
+            "Extra": null
+          },
+          {
+            "Item": "Travel $19,900  1",
+            "Cost": "$19,900",
+            "Extra": null
+          },
+          {
+            "Item": "Vehicles $4,100  1",
+            "Cost": "$4,100",
+            "Extra": null
+          },
+          {
+            "Item": "Supplies $73,200  1",
+            "Cost": "$73,200",
+            "Extra": null
+          },
+          {
+            "Item": "Total $170,400  1",
+            "Cost": "$170,400",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$3,803456",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$27,350",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$185,148",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$4,015,954",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Labor $55,800  1 $55,800",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Labor $55,800  1",
+            "Cost": "$55,800",
+            "Extra": null
+          },
+          {
+            "Item": "Analysis $17,400  1",
+            "Cost": "$17,400",
+            "Extra": null
+          },
+          {
+            "Item": "Travel $19,900  1",
+            "Cost": "$19,900",
+            "Extra": null
+          },
+          {
+            "Item": "Vehicles $4,100  1",
+            "Cost": "$4,100",
+            "Extra": null
+          },
+          {
+            "Item": "Supplies $73,200  1",
+            "Cost": "$73,200",
+            "Extra": null
+          },
+          {
+            "Item": "Total $170,400  1",
+            "Cost": "$170,400",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$3,803456",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$27,350",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$185,148",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$4,015,954",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Analysis $17,400  1 $17,400",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Analysis $17,400  1",
+            "Cost": "$17,400",
+            "Extra": null
+          },
+          {
+            "Item": "Travel $19,900  1",
+            "Cost": "$19,900",
+            "Extra": null
+          },
+          {
+            "Item": "Vehicles $4,100  1",
+            "Cost": "$4,100",
+            "Extra": null
+          },
+          {
+            "Item": "Supplies $73,200  1",
+            "Cost": "$73,200",
+            "Extra": null
+          },
+          {
+            "Item": "Total $170,400  1",
+            "Cost": "$170,400",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$3,803456",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$27,350",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$185,148",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$4,015,954",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Travel $19,900  1 $19,900",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Travel $19,900  1",
+            "Cost": "$19,900",
+            "Extra": null
+          },
+          {
+            "Item": "Vehicles $4,100  1",
+            "Cost": "$4,100",
+            "Extra": null
+          },
+          {
+            "Item": "Supplies $73,200  1",
+            "Cost": "$73,200",
+            "Extra": null
+          },
+          {
+            "Item": "Total $170,400  1",
+            "Cost": "$170,400",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$3,803456",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$27,350",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$185,148",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$4,015,954",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Vehicles $4,100  1 $4,100",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Vehicles $4,100  1",
+            "Cost": "$4,100",
+            "Extra": null
+          },
+          {
+            "Item": "Supplies $73,200  1",
+            "Cost": "$73,200",
+            "Extra": null
+          },
+          {
+            "Item": "Total $170,400  1",
+            "Cost": "$170,400",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$3,803456",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$27,350",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$185,148",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$4,015,954",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Supplies $73,200  1 $73,200",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Supplies $73,200  1",
+            "Cost": "$73,200",
+            "Extra": null
+          },
+          {
+            "Item": "Total $170,400  1",
+            "Cost": "$170,400",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$3,803456",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$27,350",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$185,148",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$4,015,954",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total $170,400  1 $170,400",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Total $170,400  1",
+            "Cost": "$170,400",
+            "Extra": null
+          },
+          {
+            "Item": "Ag BMP",
+            "Cost": "$3,803456",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$27,350",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$185,148",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$4,015,954",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Ag BMP $3,803456",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Ag BMP",
+            "Cost": "$3,803456",
+            "Extra": null
+          },
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$27,350",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$185,148",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$4,015,954",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Noxious Aquatics $27,350",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Noxious Aquatics",
+            "Cost": "$27,350",
+            "Extra": null
+          },
+          {
+            "Item": "Fisheries Management",
+            "Cost": "$185,148",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$4,015,954",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Water Control Structures $1,500  25 $37,500",
+      "rows": [
+        {
+          "name": "Water Control Structures $1,500  25",
+          "totalCost": 37500,
+          "rawCost": "$37,500"
+        },
+        {
+          "name": "Large Overfall Pipes  $101,721  36",
+          "totalCost": 3661956,
+          "rawCost": "$3,661,956"
+        },
+        {
+          "name": "(feet) $3  1000",
+          "totalCost": 3000,
+          "rawCost": "$3,000"
+        },
+        {
+          "name": "Bank Stabilization $4,000  6",
+          "totalCost": 24000,
+          "rawCost": "$24,000"
+        },
+        {
+          "name": "Rip-Rap Weirs $15,400  5",
+          "totalCost": 77000,
+          "rawCost": "$77,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 3803456,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Large Overfall Pipes  $101,721  36 $3,661,956",
+      "rows": [
+        {
+          "name": "Large Overfall Pipes  $101,721  36",
+          "totalCost": 3661956,
+          "rawCost": "$3,661,956"
+        },
+        {
+          "name": "(feet) $3  1000",
+          "totalCost": 3000,
+          "rawCost": "$3,000"
+        },
+        {
+          "name": "Bank Stabilization $4,000  6",
+          "totalCost": 24000,
+          "rawCost": "$24,000"
+        },
+        {
+          "name": "Rip-Rap Weirs $15,400  5",
+          "totalCost": 77000,
+          "rawCost": "$77,000"
+        },
+        {
+          "name": "Herbicide $27/gallon 200 gallons",
+          "totalCost": 5400,
+          "rawCost": "$5,400.00"
+        },
+        {
+          "name": "Herbicide Treatments $425/hour 90 hours",
+          "totalCost": 38250,
+          "rawCost": "$38,250"
+        },
+        {
+          "name": "Mechanical Removal $500/hour 25 hours",
+          "totalCost": 12500,
+          "rawCost": "$12,500"
+        },
+        {
+          "name": "Total",
+          "totalCost": 56150,
+          "rawCost": "$56,150.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 3878256,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "(feet) $3  1000 $3,000",
+      "rows": [
+        {
+          "name": "(feet) $3  1000",
+          "totalCost": 3000,
+          "rawCost": "$3,000"
+        },
+        {
+          "name": "Bank Stabilization $4,000  6",
+          "totalCost": 24000,
+          "rawCost": "$24,000"
+        },
+        {
+          "name": "Rip-Rap Weirs $15,400  5",
+          "totalCost": 77000,
+          "rawCost": "$77,000"
+        },
+        {
+          "name": "Herbicide $27/gallon 200 gallons",
+          "totalCost": 5400,
+          "rawCost": "$5,400.00"
+        },
+        {
+          "name": "Herbicide Treatments $425/hour 90 hours",
+          "totalCost": 38250,
+          "rawCost": "$38,250"
+        },
+        {
+          "name": "Mechanical Removal $500/hour 25 hours",
+          "totalCost": 12500,
+          "rawCost": "$12,500"
+        },
+        {
+          "name": "Total",
+          "totalCost": 56150,
+          "rawCost": "$56,150.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 216300,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Bank Stabilization $4,000  6 $24,000",
+      "rows": [
+        {
+          "name": "Bank Stabilization $4,000  6",
+          "totalCost": 24000,
+          "rawCost": "$24,000"
+        },
+        {
+          "name": "Rip-Rap Weirs $15,400  5",
+          "totalCost": 77000,
+          "rawCost": "$77,000"
+        },
+        {
+          "name": "Herbicide $27/gallon 200 gallons",
+          "totalCost": 5400,
+          "rawCost": "$5,400.00"
+        },
+        {
+          "name": "Herbicide Treatments $425/hour 90 hours",
+          "totalCost": 38250,
+          "rawCost": "$38,250"
+        },
+        {
+          "name": "Mechanical Removal $500/hour 25 hours",
+          "totalCost": 12500,
+          "rawCost": "$12,500"
+        },
+        {
+          "name": "Total",
+          "totalCost": 56150,
+          "rawCost": "$56,150.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 213300,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Rip-Rap Weirs $15,400  5 $77,000",
+      "rows": [
+        {
+          "name": "Rip-Rap Weirs $15,400  5",
+          "totalCost": 77000,
+          "rawCost": "$77,000"
+        },
+        {
+          "name": "Herbicide $27/gallon 200 gallons",
+          "totalCost": 5400,
+          "rawCost": "$5,400.00"
+        },
+        {
+          "name": "Herbicide Treatments $425/hour 90 hours",
+          "totalCost": 38250,
+          "rawCost": "$38,250"
+        },
+        {
+          "name": "Mechanical Removal $500/hour 25 hours",
+          "totalCost": 12500,
+          "rawCost": "$12,500"
+        },
+        {
+          "name": "Total",
+          "totalCost": 56150,
+          "rawCost": "$56,150.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 189300,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$3,803,456",
+      "rows": [
+        {
+          "name": "Herbicide $27/gallon 200 gallons",
+          "totalCost": 5400,
+          "rawCost": "$5,400.00"
+        },
+        {
+          "name": "Herbicide Treatments $425/hour 90 hours",
+          "totalCost": 38250,
+          "rawCost": "$38,250"
+        },
+        {
+          "name": "Mechanical Removal $500/hour 25 hours",
+          "totalCost": 12500,
+          "rawCost": "$12,500"
+        },
+        {
+          "name": "Total",
+          "totalCost": 56150,
+          "rawCost": "$56,150.00"
+        },
+        {
+          "name": "Field $590/day 4",
+          "totalCost": 2360,
+          "rawCost": "$2,360.00"
+        },
+        {
+          "name": "Fish Pop. Reports $266/day 2",
+          "totalCost": 532,
+          "rawCost": "$532.00"
+        },
+        {
+          "name": "Field $288/day 28",
+          "totalCost": 8064,
+          "rawCost": "$8,064.00"
+        },
+        {
+          "name": "Mgt. Plan Development $266/day 7",
+          "totalCost": 1862,
+          "rawCost": "$1,862.00"
+        },
+        {
+          "name": "Vemco VR2 Receiver",
+          "totalCost": 1200,
+          "rawCost": "$1,200"
+        },
+        {
+          "name": "Vemco VR100 Receiver",
+          "totalCost": 7000,
+          "rawCost": "$7,000"
+        },
+        {
+          "name": "Vemco V16 Tags",
+          "totalCost": 280,
+          "rawCost": "$280"
+        },
+        {
+          "name": "Material to Install Receivers",
+          "totalCost": 150,
+          "rawCost": "$150"
+        },
+        {
+          "name": "Maintenance",
+          "totalCost": 8000,
+          "rawCost": "$8,000"
+        },
+        {
+          "name": "Travel",
+          "totalCost": 6000,
+          "rawCost": "$6,000"
+        },
+        {
+          "name": "Administrative Support",
+          "totalCost": 42630,
+          "rawCost": "$42,630"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 190378,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Herbicide $27/gallon 200 gallons $5,400.00",
+      "rows": [
+        {
+          "name": "Herbicide $27/gallon 200 gallons",
+          "totalCost": 5400,
+          "rawCost": "$5,400.00"
+        },
+        {
+          "name": "Herbicide Treatments $425/hour 90 hours",
+          "totalCost": 38250,
+          "rawCost": "$38,250"
+        },
+        {
+          "name": "Mechanical Removal $500/hour 25 hours",
+          "totalCost": 12500,
+          "rawCost": "$12,500"
+        },
+        {
+          "name": "Total",
+          "totalCost": 56150,
+          "rawCost": "$56,150.00"
+        },
+        {
+          "name": "Field $590/day 4",
+          "totalCost": 2360,
+          "rawCost": "$2,360.00"
+        },
+        {
+          "name": "Fish Pop. Reports $266/day 2",
+          "totalCost": 532,
+          "rawCost": "$532.00"
+        },
+        {
+          "name": "Field $288/day 28",
+          "totalCost": 8064,
+          "rawCost": "$8,064.00"
+        },
+        {
+          "name": "Mgt. Plan Development $266/day 7",
+          "totalCost": 1862,
+          "rawCost": "$1,862.00"
+        },
+        {
+          "name": "Vemco VR2 Receiver",
+          "totalCost": 1200,
+          "rawCost": "$1,200"
+        },
+        {
+          "name": "Vemco VR100 Receiver",
+          "totalCost": 7000,
+          "rawCost": "$7,000"
+        },
+        {
+          "name": "Vemco V16 Tags",
+          "totalCost": 280,
+          "rawCost": "$280"
+        },
+        {
+          "name": "Material to Install Receivers",
+          "totalCost": 150,
+          "rawCost": "$150"
+        },
+        {
+          "name": "Maintenance",
+          "totalCost": 8000,
+          "rawCost": "$8,000"
+        },
+        {
+          "name": "Travel",
+          "totalCost": 6000,
+          "rawCost": "$6,000"
+        },
+        {
+          "name": "Administrative Support",
+          "totalCost": 42630,
+          "rawCost": "$42,630"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 190378,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Herbicide Treatments $425/hour 90 hours $38,250",
+      "rows": [
+        {
+          "name": "Herbicide Treatments $425/hour 90 hours",
+          "totalCost": 38250,
+          "rawCost": "$38,250"
+        },
+        {
+          "name": "Mechanical Removal $500/hour 25 hours",
+          "totalCost": 12500,
+          "rawCost": "$12,500"
+        },
+        {
+          "name": "Total",
+          "totalCost": 56150,
+          "rawCost": "$56,150.00"
+        },
+        {
+          "name": "Field $590/day 4",
+          "totalCost": 2360,
+          "rawCost": "$2,360.00"
+        },
+        {
+          "name": "Fish Pop. Reports $266/day 2",
+          "totalCost": 532,
+          "rawCost": "$532.00"
+        },
+        {
+          "name": "Field $288/day 28",
+          "totalCost": 8064,
+          "rawCost": "$8,064.00"
+        },
+        {
+          "name": "Mgt. Plan Development $266/day 7",
+          "totalCost": 1862,
+          "rawCost": "$1,862.00"
+        },
+        {
+          "name": "Vemco VR2 Receiver",
+          "totalCost": 1200,
+          "rawCost": "$1,200"
+        },
+        {
+          "name": "Vemco VR100 Receiver",
+          "totalCost": 7000,
+          "rawCost": "$7,000"
+        },
+        {
+          "name": "Vemco V16 Tags",
+          "totalCost": 280,
+          "rawCost": "$280"
+        },
+        {
+          "name": "Material to Install Receivers",
+          "totalCost": 150,
+          "rawCost": "$150"
+        },
+        {
+          "name": "Maintenance",
+          "totalCost": 8000,
+          "rawCost": "$8,000"
+        },
+        {
+          "name": "Travel",
+          "totalCost": 6000,
+          "rawCost": "$6,000"
+        },
+        {
+          "name": "Administrative Support",
+          "totalCost": 42630,
+          "rawCost": "$42,630"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 184978,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Mechanical Removal $500/hour 25 hours $12,500",
+      "rows": [
+        {
+          "name": "Mechanical Removal $500/hour 25 hours",
+          "totalCost": 12500,
+          "rawCost": "$12,500"
+        },
+        {
+          "name": "Total",
+          "totalCost": 56150,
+          "rawCost": "$56,150.00"
+        },
+        {
+          "name": "Field $590/day 4",
+          "totalCost": 2360,
+          "rawCost": "$2,360.00"
+        },
+        {
+          "name": "Fish Pop. Reports $266/day 2",
+          "totalCost": 532,
+          "rawCost": "$532.00"
+        },
+        {
+          "name": "Field $288/day 28",
+          "totalCost": 8064,
+          "rawCost": "$8,064.00"
+        },
+        {
+          "name": "Mgt. Plan Development $266/day 7",
+          "totalCost": 1862,
+          "rawCost": "$1,862.00"
+        },
+        {
+          "name": "Vemco VR2 Receiver",
+          "totalCost": 1200,
+          "rawCost": "$1,200"
+        },
+        {
+          "name": "Vemco VR100 Receiver",
+          "totalCost": 7000,
+          "rawCost": "$7,000"
+        },
+        {
+          "name": "Vemco V16 Tags",
+          "totalCost": 280,
+          "rawCost": "$280"
+        },
+        {
+          "name": "Material to Install Receivers",
+          "totalCost": 150,
+          "rawCost": "$150"
+        },
+        {
+          "name": "Maintenance",
+          "totalCost": 8000,
+          "rawCost": "$8,000"
+        },
+        {
+          "name": "Travel",
+          "totalCost": 6000,
+          "rawCost": "$6,000"
+        },
+        {
+          "name": "Administrative Support",
+          "totalCost": 42630,
+          "rawCost": "$42,630"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 146728,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total     $56,150.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 56150,
+          "rawCost": "$56,150.00"
+        },
+        {
+          "name": "Field $590/day 4",
+          "totalCost": 2360,
+          "rawCost": "$2,360.00"
+        },
+        {
+          "name": "Fish Pop. Reports $266/day 2",
+          "totalCost": 532,
+          "rawCost": "$532.00"
+        },
+        {
+          "name": "Field $288/day 28",
+          "totalCost": 8064,
+          "rawCost": "$8,064.00"
+        },
+        {
+          "name": "Mgt. Plan Development $266/day 7",
+          "totalCost": 1862,
+          "rawCost": "$1,862.00"
+        },
+        {
+          "name": "Vemco VR2 Receiver",
+          "totalCost": 1200,
+          "rawCost": "$1,200"
+        },
+        {
+          "name": "Vemco VR100 Receiver",
+          "totalCost": 7000,
+          "rawCost": "$7,000"
+        },
+        {
+          "name": "Vemco V16 Tags",
+          "totalCost": 280,
+          "rawCost": "$280"
+        },
+        {
+          "name": "Material to Install Receivers",
+          "totalCost": 150,
+          "rawCost": "$150"
+        },
+        {
+          "name": "Maintenance",
+          "totalCost": 8000,
+          "rawCost": "$8,000"
+        },
+        {
+          "name": "Travel",
+          "totalCost": 6000,
+          "rawCost": "$6,000"
+        },
+        {
+          "name": "Administrative Support",
+          "totalCost": 42630,
+          "rawCost": "$42,630"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 134228,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Field $590/day 4 $2,360.00",
+      "rows": [
+        {
+          "name": "Field $590/day 4",
+          "totalCost": 2360,
+          "rawCost": "$2,360.00"
+        },
+        {
+          "name": "Fish Pop. Reports $266/day 2",
+          "totalCost": 532,
+          "rawCost": "$532.00"
+        },
+        {
+          "name": "Field $288/day 28",
+          "totalCost": 8064,
+          "rawCost": "$8,064.00"
+        },
+        {
+          "name": "Mgt. Plan Development $266/day 7",
+          "totalCost": 1862,
+          "rawCost": "$1,862.00"
+        },
+        {
+          "name": "Vemco VR2 Receiver",
+          "totalCost": 1200,
+          "rawCost": "$1,200"
+        },
+        {
+          "name": "Vemco VR100 Receiver",
+          "totalCost": 7000,
+          "rawCost": "$7,000"
+        },
+        {
+          "name": "Vemco V16 Tags",
+          "totalCost": 280,
+          "rawCost": "$280"
+        },
+        {
+          "name": "Material to Install Receivers",
+          "totalCost": 150,
+          "rawCost": "$150"
+        },
+        {
+          "name": "Maintenance",
+          "totalCost": 8000,
+          "rawCost": "$8,000"
+        },
+        {
+          "name": "Travel",
+          "totalCost": 6000,
+          "rawCost": "$6,000"
+        },
+        {
+          "name": "Administrative Support",
+          "totalCost": 42630,
+          "rawCost": "$42,630"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 78078,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Fish Pop. Reports $266/day 2 $532.00",
+      "rows": [
+        {
+          "name": "Fish Pop. Reports $266/day 2",
+          "totalCost": 532,
+          "rawCost": "$532.00"
+        },
+        {
+          "name": "Field $288/day 28",
+          "totalCost": 8064,
+          "rawCost": "$8,064.00"
+        },
+        {
+          "name": "Mgt. Plan Development $266/day 7",
+          "totalCost": 1862,
+          "rawCost": "$1,862.00"
+        },
+        {
+          "name": "Vemco VR2 Receiver",
+          "totalCost": 1200,
+          "rawCost": "$1,200"
+        },
+        {
+          "name": "Vemco VR100 Receiver",
+          "totalCost": 7000,
+          "rawCost": "$7,000"
+        },
+        {
+          "name": "Vemco V16 Tags",
+          "totalCost": 280,
+          "rawCost": "$280"
+        },
+        {
+          "name": "Material to Install Receivers",
+          "totalCost": 150,
+          "rawCost": "$150"
+        },
+        {
+          "name": "Maintenance",
+          "totalCost": 8000,
+          "rawCost": "$8,000"
+        },
+        {
+          "name": "Travel",
+          "totalCost": 6000,
+          "rawCost": "$6,000"
+        },
+        {
+          "name": "Administrative Support",
+          "totalCost": 42630,
+          "rawCost": "$42,630"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 75718,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Field $288/day 28 $8,064.00",
+      "rows": [
+        {
+          "name": "Field $288/day 28",
+          "totalCost": 8064,
+          "rawCost": "$8,064.00"
+        },
+        {
+          "name": "Mgt. Plan Development $266/day 7",
+          "totalCost": 1862,
+          "rawCost": "$1,862.00"
+        },
+        {
+          "name": "Vemco VR2 Receiver",
+          "totalCost": 1200,
+          "rawCost": "$1,200"
+        },
+        {
+          "name": "Vemco VR100 Receiver",
+          "totalCost": 7000,
+          "rawCost": "$7,000"
+        },
+        {
+          "name": "Vemco V16 Tags",
+          "totalCost": 280,
+          "rawCost": "$280"
+        },
+        {
+          "name": "Material to Install Receivers",
+          "totalCost": 150,
+          "rawCost": "$150"
+        },
+        {
+          "name": "Maintenance",
+          "totalCost": 8000,
+          "rawCost": "$8,000"
+        },
+        {
+          "name": "Travel",
+          "totalCost": 6000,
+          "rawCost": "$6,000"
+        },
+        {
+          "name": "Administrative Support",
+          "totalCost": 42630,
+          "rawCost": "$42,630"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 75186,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Mgt. Plan Development $266/day 7 $1,862.00",
+      "rows": [
+        {
+          "name": "Mgt. Plan Development $266/day 7",
+          "totalCost": 1862,
+          "rawCost": "$1,862.00"
+        },
+        {
+          "name": "Vemco VR2 Receiver",
+          "totalCost": 1200,
+          "rawCost": "$1,200"
+        },
+        {
+          "name": "Vemco VR100 Receiver",
+          "totalCost": 7000,
+          "rawCost": "$7,000"
+        },
+        {
+          "name": "Vemco V16 Tags",
+          "totalCost": 280,
+          "rawCost": "$280"
+        },
+        {
+          "name": "Material to Install Receivers",
+          "totalCost": 150,
+          "rawCost": "$150"
+        },
+        {
+          "name": "Maintenance",
+          "totalCost": 8000,
+          "rawCost": "$8,000"
+        },
+        {
+          "name": "Travel",
+          "totalCost": 6000,
+          "rawCost": "$6,000"
+        },
+        {
+          "name": "Administrative Support",
+          "totalCost": 42630,
+          "rawCost": "$42,630"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 67122,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$20,000/year",
+      "rows": [
+        {
+          "name": "Vemco VR2 Receiver",
+          "totalCost": 1200,
+          "rawCost": "$1,200"
+        },
+        {
+          "name": "Vemco VR100 Receiver",
+          "totalCost": 7000,
+          "rawCost": "$7,000"
+        },
+        {
+          "name": "Vemco V16 Tags",
+          "totalCost": 280,
+          "rawCost": "$280"
+        },
+        {
+          "name": "Material to Install Receivers",
+          "totalCost": 150,
+          "rawCost": "$150"
+        },
+        {
+          "name": "Maintenance",
+          "totalCost": 8000,
+          "rawCost": "$8,000"
+        },
+        {
+          "name": "Travel",
+          "totalCost": 6000,
+          "rawCost": "$6,000"
+        },
+        {
+          "name": "Administrative Support",
+          "totalCost": 42630,
+          "rawCost": "$42,630"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 65260,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$40,000",
+      "rows": [
+        {
+          "name": "Vemco VR2 Receiver",
+          "totalCost": 1200,
+          "rawCost": "$1,200"
+        },
+        {
+          "name": "Vemco VR100 Receiver",
+          "totalCost": 7000,
+          "rawCost": "$7,000"
+        },
+        {
+          "name": "Vemco V16 Tags",
+          "totalCost": 280,
+          "rawCost": "$280"
+        },
+        {
+          "name": "Material to Install Receivers",
+          "totalCost": 150,
+          "rawCost": "$150"
+        },
+        {
+          "name": "Maintenance",
+          "totalCost": 8000,
+          "rawCost": "$8,000"
+        },
+        {
+          "name": "Travel",
+          "totalCost": 6000,
+          "rawCost": "$6,000"
+        },
+        {
+          "name": "Administrative Support",
+          "totalCost": 42630,
+          "rawCost": "$42,630"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 65260,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Vemco VR2 Receiver $1,200 each",
+      "rows": [
+        {
+          "name": "Vemco VR2 Receiver",
+          "totalCost": 1200,
+          "rawCost": "$1,200"
+        },
+        {
+          "name": "Vemco VR100 Receiver",
+          "totalCost": 7000,
+          "rawCost": "$7,000"
+        },
+        {
+          "name": "Vemco V16 Tags",
+          "totalCost": 280,
+          "rawCost": "$280"
+        },
+        {
+          "name": "Material to Install Receivers",
+          "totalCost": 150,
+          "rawCost": "$150"
+        },
+        {
+          "name": "Maintenance",
+          "totalCost": 8000,
+          "rawCost": "$8,000"
+        },
+        {
+          "name": "Travel",
+          "totalCost": 6000,
+          "rawCost": "$6,000"
+        },
+        {
+          "name": "Administrative Support",
+          "totalCost": 42630,
+          "rawCost": "$42,630"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 65260,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$21,600",
+      "rows": [
+        {
+          "name": "Vemco VR100 Receiver",
+          "totalCost": 7000,
+          "rawCost": "$7,000"
+        },
+        {
+          "name": "Vemco V16 Tags",
+          "totalCost": 280,
+          "rawCost": "$280"
+        },
+        {
+          "name": "Material to Install Receivers",
+          "totalCost": 150,
+          "rawCost": "$150"
+        },
+        {
+          "name": "Maintenance",
+          "totalCost": 8000,
+          "rawCost": "$8,000"
+        },
+        {
+          "name": "Travel",
+          "totalCost": 6000,
+          "rawCost": "$6,000"
+        },
+        {
+          "name": "Administrative Support",
+          "totalCost": 42630,
+          "rawCost": "$42,630"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 64060,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Vemco VR100 Receiver $7,000 each",
+      "rows": [
+        {
+          "name": "Vemco VR100 Receiver",
+          "totalCost": 7000,
+          "rawCost": "$7,000"
+        },
+        {
+          "name": "Vemco V16 Tags",
+          "totalCost": 280,
+          "rawCost": "$280"
+        },
+        {
+          "name": "Material to Install Receivers",
+          "totalCost": 150,
+          "rawCost": "$150"
+        },
+        {
+          "name": "Maintenance",
+          "totalCost": 8000,
+          "rawCost": "$8,000"
+        },
+        {
+          "name": "Travel",
+          "totalCost": 6000,
+          "rawCost": "$6,000"
+        },
+        {
+          "name": "Administrative Support",
+          "totalCost": 42630,
+          "rawCost": "$42,630"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 64060,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$14,000",
+      "rows": [
+        {
+          "name": "Vemco V16 Tags",
+          "totalCost": 280,
+          "rawCost": "$280"
+        },
+        {
+          "name": "Material to Install Receivers",
+          "totalCost": 150,
+          "rawCost": "$150"
+        },
+        {
+          "name": "Maintenance",
+          "totalCost": 8000,
+          "rawCost": "$8,000"
+        },
+        {
+          "name": "Travel",
+          "totalCost": 6000,
+          "rawCost": "$6,000"
+        },
+        {
+          "name": "Administrative Support",
+          "totalCost": 42630,
+          "rawCost": "$42,630"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 57060,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Vemco V16 Tags $280 each",
+      "rows": [
+        {
+          "name": "Vemco V16 Tags",
+          "totalCost": 280,
+          "rawCost": "$280"
+        },
+        {
+          "name": "Material to Install Receivers",
+          "totalCost": 150,
+          "rawCost": "$150"
+        },
+        {
+          "name": "Maintenance",
+          "totalCost": 8000,
+          "rawCost": "$8,000"
+        },
+        {
+          "name": "Travel",
+          "totalCost": 6000,
+          "rawCost": "$6,000"
+        },
+        {
+          "name": "Administrative Support",
+          "totalCost": 42630,
+          "rawCost": "$42,630"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 57060,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$25,200",
+      "rows": [
+        {
+          "name": "Material to Install Receivers",
+          "totalCost": 150,
+          "rawCost": "$150"
+        },
+        {
+          "name": "Maintenance",
+          "totalCost": 8000,
+          "rawCost": "$8,000"
+        },
+        {
+          "name": "Travel",
+          "totalCost": 6000,
+          "rawCost": "$6,000"
+        },
+        {
+          "name": "Administrative Support",
+          "totalCost": 42630,
+          "rawCost": "$42,630"
+        },
+        {
+          "name": "Labor $55,800  1",
+          "totalCost": 55800,
+          "rawCost": "$55,800"
+        },
+        {
+          "name": "Analysis $17,400  1",
+          "totalCost": 17400,
+          "rawCost": "$17,400"
+        },
+        {
+          "name": "Travel $19,900  1",
+          "totalCost": 19900,
+          "rawCost": "$19,900"
+        },
+        {
+          "name": "Vehicles $4,100  1",
+          "totalCost": 4100,
+          "rawCost": "$4,100"
+        },
+        {
+          "name": "Supplies $73,200  1",
+          "totalCost": 73200,
+          "rawCost": "$73,200"
+        },
+        {
+          "name": "Total $170,400  1",
+          "totalCost": 170400,
+          "rawCost": "$170,400"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 3803456,
+          "rawCost": "$3,803456"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 27350,
+          "rawCost": "$27,350"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 185148,
+          "rawCost": "$185,148"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 4015954,
+          "rawCost": "$4,015,954"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 8429488,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Material to Install Receivers $150 each",
+      "rows": [
+        {
+          "name": "Material to Install Receivers",
+          "totalCost": 150,
+          "rawCost": "$150"
+        },
+        {
+          "name": "Maintenance",
+          "totalCost": 8000,
+          "rawCost": "$8,000"
+        },
+        {
+          "name": "Travel",
+          "totalCost": 6000,
+          "rawCost": "$6,000"
+        },
+        {
+          "name": "Administrative Support",
+          "totalCost": 42630,
+          "rawCost": "$42,630"
+        },
+        {
+          "name": "Labor $55,800  1",
+          "totalCost": 55800,
+          "rawCost": "$55,800"
+        },
+        {
+          "name": "Analysis $17,400  1",
+          "totalCost": 17400,
+          "rawCost": "$17,400"
+        },
+        {
+          "name": "Travel $19,900  1",
+          "totalCost": 19900,
+          "rawCost": "$19,900"
+        },
+        {
+          "name": "Vehicles $4,100  1",
+          "totalCost": 4100,
+          "rawCost": "$4,100"
+        },
+        {
+          "name": "Supplies $73,200  1",
+          "totalCost": 73200,
+          "rawCost": "$73,200"
+        },
+        {
+          "name": "Total $170,400  1",
+          "totalCost": 170400,
+          "rawCost": "$170,400"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 3803456,
+          "rawCost": "$3,803456"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 27350,
+          "rawCost": "$27,350"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 185148,
+          "rawCost": "$185,148"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 4015954,
+          "rawCost": "$4,015,954"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 8429488,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$900",
+      "rows": [
+        {
+          "name": "Maintenance",
+          "totalCost": 8000,
+          "rawCost": "$8,000"
+        },
+        {
+          "name": "Travel",
+          "totalCost": 6000,
+          "rawCost": "$6,000"
+        },
+        {
+          "name": "Administrative Support",
+          "totalCost": 42630,
+          "rawCost": "$42,630"
+        },
+        {
+          "name": "Labor $55,800  1",
+          "totalCost": 55800,
+          "rawCost": "$55,800"
+        },
+        {
+          "name": "Analysis $17,400  1",
+          "totalCost": 17400,
+          "rawCost": "$17,400"
+        },
+        {
+          "name": "Travel $19,900  1",
+          "totalCost": 19900,
+          "rawCost": "$19,900"
+        },
+        {
+          "name": "Vehicles $4,100  1",
+          "totalCost": 4100,
+          "rawCost": "$4,100"
+        },
+        {
+          "name": "Supplies $73,200  1",
+          "totalCost": 73200,
+          "rawCost": "$73,200"
+        },
+        {
+          "name": "Total $170,400  1",
+          "totalCost": 170400,
+          "rawCost": "$170,400"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 3803456,
+          "rawCost": "$3,803456"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 27350,
+          "rawCost": "$27,350"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 185148,
+          "rawCost": "$185,148"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 4015954,
+          "rawCost": "$4,015,954"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 8429338,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Maintenance $8,000/2 years",
+      "rows": [
+        {
+          "name": "Maintenance",
+          "totalCost": 8000,
+          "rawCost": "$8,000"
+        },
+        {
+          "name": "Travel",
+          "totalCost": 6000,
+          "rawCost": "$6,000"
+        },
+        {
+          "name": "Administrative Support",
+          "totalCost": 42630,
+          "rawCost": "$42,630"
+        },
+        {
+          "name": "Labor $55,800  1",
+          "totalCost": 55800,
+          "rawCost": "$55,800"
+        },
+        {
+          "name": "Analysis $17,400  1",
+          "totalCost": 17400,
+          "rawCost": "$17,400"
+        },
+        {
+          "name": "Travel $19,900  1",
+          "totalCost": 19900,
+          "rawCost": "$19,900"
+        },
+        {
+          "name": "Vehicles $4,100  1",
+          "totalCost": 4100,
+          "rawCost": "$4,100"
+        },
+        {
+          "name": "Supplies $73,200  1",
+          "totalCost": 73200,
+          "rawCost": "$73,200"
+        },
+        {
+          "name": "Total $170,400  1",
+          "totalCost": 170400,
+          "rawCost": "$170,400"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 3803456,
+          "rawCost": "$3,803456"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 27350,
+          "rawCost": "$27,350"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 185148,
+          "rawCost": "$185,148"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 4015954,
+          "rawCost": "$4,015,954"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 8429338,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$16,000",
+      "rows": [
+        {
+          "name": "Travel",
+          "totalCost": 6000,
+          "rawCost": "$6,000"
+        },
+        {
+          "name": "Administrative Support",
+          "totalCost": 42630,
+          "rawCost": "$42,630"
+        },
+        {
+          "name": "Labor $55,800  1",
+          "totalCost": 55800,
+          "rawCost": "$55,800"
+        },
+        {
+          "name": "Analysis $17,400  1",
+          "totalCost": 17400,
+          "rawCost": "$17,400"
+        },
+        {
+          "name": "Travel $19,900  1",
+          "totalCost": 19900,
+          "rawCost": "$19,900"
+        },
+        {
+          "name": "Vehicles $4,100  1",
+          "totalCost": 4100,
+          "rawCost": "$4,100"
+        },
+        {
+          "name": "Supplies $73,200  1",
+          "totalCost": 73200,
+          "rawCost": "$73,200"
+        },
+        {
+          "name": "Total $170,400  1",
+          "totalCost": 170400,
+          "rawCost": "$170,400"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 3803456,
+          "rawCost": "$3,803456"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 27350,
+          "rawCost": "$27,350"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 185148,
+          "rawCost": "$185,148"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 4015954,
+          "rawCost": "$4,015,954"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 8421338,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Travel  $6,000/2 years",
+      "rows": [
+        {
+          "name": "Travel",
+          "totalCost": 6000,
+          "rawCost": "$6,000"
+        },
+        {
+          "name": "Administrative Support",
+          "totalCost": 42630,
+          "rawCost": "$42,630"
+        },
+        {
+          "name": "Labor $55,800  1",
+          "totalCost": 55800,
+          "rawCost": "$55,800"
+        },
+        {
+          "name": "Analysis $17,400  1",
+          "totalCost": 17400,
+          "rawCost": "$17,400"
+        },
+        {
+          "name": "Travel $19,900  1",
+          "totalCost": 19900,
+          "rawCost": "$19,900"
+        },
+        {
+          "name": "Vehicles $4,100  1",
+          "totalCost": 4100,
+          "rawCost": "$4,100"
+        },
+        {
+          "name": "Supplies $73,200  1",
+          "totalCost": 73200,
+          "rawCost": "$73,200"
+        },
+        {
+          "name": "Total $170,400  1",
+          "totalCost": 170400,
+          "rawCost": "$170,400"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 3803456,
+          "rawCost": "$3,803456"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 27350,
+          "rawCost": "$27,350"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 185148,
+          "rawCost": "$185,148"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 4015954,
+          "rawCost": "$4,015,954"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 8421338,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$12,000",
+      "rows": [
+        {
+          "name": "Administrative Support",
+          "totalCost": 42630,
+          "rawCost": "$42,630"
+        },
+        {
+          "name": "Labor $55,800  1",
+          "totalCost": 55800,
+          "rawCost": "$55,800"
+        },
+        {
+          "name": "Analysis $17,400  1",
+          "totalCost": 17400,
+          "rawCost": "$17,400"
+        },
+        {
+          "name": "Travel $19,900  1",
+          "totalCost": 19900,
+          "rawCost": "$19,900"
+        },
+        {
+          "name": "Vehicles $4,100  1",
+          "totalCost": 4100,
+          "rawCost": "$4,100"
+        },
+        {
+          "name": "Supplies $73,200  1",
+          "totalCost": 73200,
+          "rawCost": "$73,200"
+        },
+        {
+          "name": "Total $170,400  1",
+          "totalCost": 170400,
+          "rawCost": "$170,400"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 3803456,
+          "rawCost": "$3,803456"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 27350,
+          "rawCost": "$27,350"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 185148,
+          "rawCost": "$185,148"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 4015954,
+          "rawCost": "$4,015,954"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 8415338,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Administrative Support $42,630/2years",
+      "rows": [
+        {
+          "name": "Administrative Support",
+          "totalCost": 42630,
+          "rawCost": "$42,630"
+        },
+        {
+          "name": "Labor $55,800  1",
+          "totalCost": 55800,
+          "rawCost": "$55,800"
+        },
+        {
+          "name": "Analysis $17,400  1",
+          "totalCost": 17400,
+          "rawCost": "$17,400"
+        },
+        {
+          "name": "Travel $19,900  1",
+          "totalCost": 19900,
+          "rawCost": "$19,900"
+        },
+        {
+          "name": "Vehicles $4,100  1",
+          "totalCost": 4100,
+          "rawCost": "$4,100"
+        },
+        {
+          "name": "Supplies $73,200  1",
+          "totalCost": 73200,
+          "rawCost": "$73,200"
+        },
+        {
+          "name": "Total $170,400  1",
+          "totalCost": 170400,
+          "rawCost": "$170,400"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 3803456,
+          "rawCost": "$3,803456"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 27350,
+          "rawCost": "$27,350"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 185148,
+          "rawCost": "$185,148"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 4015954,
+          "rawCost": "$4,015,954"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 8415338,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$42,630",
+      "rows": [
+        {
+          "name": "Labor $55,800  1",
+          "totalCost": 55800,
+          "rawCost": "$55,800"
+        },
+        {
+          "name": "Analysis $17,400  1",
+          "totalCost": 17400,
+          "rawCost": "$17,400"
+        },
+        {
+          "name": "Travel $19,900  1",
+          "totalCost": 19900,
+          "rawCost": "$19,900"
+        },
+        {
+          "name": "Vehicles $4,100  1",
+          "totalCost": 4100,
+          "rawCost": "$4,100"
+        },
+        {
+          "name": "Supplies $73,200  1",
+          "totalCost": 73200,
+          "rawCost": "$73,200"
+        },
+        {
+          "name": "Total $170,400  1",
+          "totalCost": 170400,
+          "rawCost": "$170,400"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 3803456,
+          "rawCost": "$3,803456"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 27350,
+          "rawCost": "$27,350"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 185148,
+          "rawCost": "$185,148"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 4015954,
+          "rawCost": "$4,015,954"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 8372708,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$185,148.00",
+      "rows": [
+        {
+          "name": "Labor $55,800  1",
+          "totalCost": 55800,
+          "rawCost": "$55,800"
+        },
+        {
+          "name": "Analysis $17,400  1",
+          "totalCost": 17400,
+          "rawCost": "$17,400"
+        },
+        {
+          "name": "Travel $19,900  1",
+          "totalCost": 19900,
+          "rawCost": "$19,900"
+        },
+        {
+          "name": "Vehicles $4,100  1",
+          "totalCost": 4100,
+          "rawCost": "$4,100"
+        },
+        {
+          "name": "Supplies $73,200  1",
+          "totalCost": 73200,
+          "rawCost": "$73,200"
+        },
+        {
+          "name": "Total $170,400  1",
+          "totalCost": 170400,
+          "rawCost": "$170,400"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 3803456,
+          "rawCost": "$3,803456"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 27350,
+          "rawCost": "$27,350"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 185148,
+          "rawCost": "$185,148"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 4015954,
+          "rawCost": "$4,015,954"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 8372708,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Labor $55,800  1 $55,800",
+      "rows": [
+        {
+          "name": "Labor $55,800  1",
+          "totalCost": 55800,
+          "rawCost": "$55,800"
+        },
+        {
+          "name": "Analysis $17,400  1",
+          "totalCost": 17400,
+          "rawCost": "$17,400"
+        },
+        {
+          "name": "Travel $19,900  1",
+          "totalCost": 19900,
+          "rawCost": "$19,900"
+        },
+        {
+          "name": "Vehicles $4,100  1",
+          "totalCost": 4100,
+          "rawCost": "$4,100"
+        },
+        {
+          "name": "Supplies $73,200  1",
+          "totalCost": 73200,
+          "rawCost": "$73,200"
+        },
+        {
+          "name": "Total $170,400  1",
+          "totalCost": 170400,
+          "rawCost": "$170,400"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 3803456,
+          "rawCost": "$3,803456"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 27350,
+          "rawCost": "$27,350"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 185148,
+          "rawCost": "$185,148"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 4015954,
+          "rawCost": "$4,015,954"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 8372708,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Analysis $17,400  1 $17,400",
+      "rows": [
+        {
+          "name": "Analysis $17,400  1",
+          "totalCost": 17400,
+          "rawCost": "$17,400"
+        },
+        {
+          "name": "Travel $19,900  1",
+          "totalCost": 19900,
+          "rawCost": "$19,900"
+        },
+        {
+          "name": "Vehicles $4,100  1",
+          "totalCost": 4100,
+          "rawCost": "$4,100"
+        },
+        {
+          "name": "Supplies $73,200  1",
+          "totalCost": 73200,
+          "rawCost": "$73,200"
+        },
+        {
+          "name": "Total $170,400  1",
+          "totalCost": 170400,
+          "rawCost": "$170,400"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 3803456,
+          "rawCost": "$3,803456"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 27350,
+          "rawCost": "$27,350"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 185148,
+          "rawCost": "$185,148"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 4015954,
+          "rawCost": "$4,015,954"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 8316908,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Travel $19,900  1 $19,900",
+      "rows": [
+        {
+          "name": "Travel $19,900  1",
+          "totalCost": 19900,
+          "rawCost": "$19,900"
+        },
+        {
+          "name": "Vehicles $4,100  1",
+          "totalCost": 4100,
+          "rawCost": "$4,100"
+        },
+        {
+          "name": "Supplies $73,200  1",
+          "totalCost": 73200,
+          "rawCost": "$73,200"
+        },
+        {
+          "name": "Total $170,400  1",
+          "totalCost": 170400,
+          "rawCost": "$170,400"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 3803456,
+          "rawCost": "$3,803456"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 27350,
+          "rawCost": "$27,350"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 185148,
+          "rawCost": "$185,148"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 4015954,
+          "rawCost": "$4,015,954"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 8299508,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Vehicles $4,100  1 $4,100",
+      "rows": [
+        {
+          "name": "Vehicles $4,100  1",
+          "totalCost": 4100,
+          "rawCost": "$4,100"
+        },
+        {
+          "name": "Supplies $73,200  1",
+          "totalCost": 73200,
+          "rawCost": "$73,200"
+        },
+        {
+          "name": "Total $170,400  1",
+          "totalCost": 170400,
+          "rawCost": "$170,400"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 3803456,
+          "rawCost": "$3,803456"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 27350,
+          "rawCost": "$27,350"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 185148,
+          "rawCost": "$185,148"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 4015954,
+          "rawCost": "$4,015,954"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 8279608,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Supplies $73,200  1 $73,200",
+      "rows": [
+        {
+          "name": "Supplies $73,200  1",
+          "totalCost": 73200,
+          "rawCost": "$73,200"
+        },
+        {
+          "name": "Total $170,400  1",
+          "totalCost": 170400,
+          "rawCost": "$170,400"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 3803456,
+          "rawCost": "$3,803456"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 27350,
+          "rawCost": "$27,350"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 185148,
+          "rawCost": "$185,148"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 4015954,
+          "rawCost": "$4,015,954"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 8275508,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total $170,400  1 $170,400",
+      "rows": [
+        {
+          "name": "Total $170,400  1",
+          "totalCost": 170400,
+          "rawCost": "$170,400"
+        },
+        {
+          "name": "Ag BMP",
+          "totalCost": 3803456,
+          "rawCost": "$3,803456"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 27350,
+          "rawCost": "$27,350"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 185148,
+          "rawCost": "$185,148"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 4015954,
+          "rawCost": "$4,015,954"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 8202308,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Ag BMP $3,803456",
+      "rows": [
+        {
+          "name": "Ag BMP",
+          "totalCost": 3803456,
+          "rawCost": "$3,803456"
+        },
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 27350,
+          "rawCost": "$27,350"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 185148,
+          "rawCost": "$185,148"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 4015954,
+          "rawCost": "$4,015,954"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 8031908,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Noxious Aquatics $27,350",
+      "rows": [
+        {
+          "name": "Noxious Aquatics",
+          "totalCost": 27350,
+          "rawCost": "$27,350"
+        },
+        {
+          "name": "Fisheries Management",
+          "totalCost": 185148,
+          "rawCost": "$185,148"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 4015954,
+          "rawCost": "$4,015,954"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 4228452,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-02T13:23:26.088Z",
+  "metadata": {
+    "sourceId": "steele-bayou-watershed-plan-2009",
+    "sourceFile": "steele-bayou-watershed-plan-2009.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Water Control Structures $1,500  25 $37,500",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 3803456
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Large Overfall Pipes  $101,721  36 $3,661,956",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 3878256
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "(feet) $3  1000 $3,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 216300
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Bank Stabilization $4,000  6 $24,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 213300
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Rip-Rap Weirs $15,400  5 $77,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 189300
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$3,803,456",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 190378
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Herbicide $27/gallon 200 gallons $5,400.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 190378
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Herbicide Treatments $425/hour 90 hours $38,250",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 184978
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Mechanical Removal $500/hour 25 hours $12,500",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 146728
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Total     $56,150.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 134228
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Field $590/day 4 $2,360.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 78078
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Fish Pop. Reports $266/day 2 $532.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 75718
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Field $288/day 28 $8,064.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 75186
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Mgt. Plan Development $266/day 7 $1,862.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 67122
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$20,000/year",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 65260
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$40,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 65260
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Vemco VR2 Receiver $1,200 each",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 65260
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$21,600",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 64060
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Vemco VR100 Receiver $7,000 each",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 64060
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$14,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 57060
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Vemco V16 Tags $280 each",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 57060
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$25,200",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 8429488
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Material to Install Receivers $150 each",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 8429488
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$900",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 8429338
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Maintenance $8,000/2 years",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 8429338
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$16,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 8421338
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Travel  $6,000/2 years",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 8421338
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$12,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 8415338
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Administrative Support $42,630/2years",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 8415338
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$42,630",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 8372708
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$185,148.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 8372708
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Labor $55,800  1 $55,800",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 8372708
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Analysis $17,400  1 $17,400",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 8316908
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Travel $19,900  1 $19,900",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 8299508
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Vehicles $4,100  1 $4,100",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 8279608
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Supplies $73,200  1 $73,200",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 8275508
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Total $170,400  1 $170,400",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 8202308
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Ag BMP $3,803456",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 8031908
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Noxious Aquatics $27,350",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 4228452
+      }
+    ]
+  }
+}

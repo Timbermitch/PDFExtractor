@@ -1,0 +1,926 @@
+{
+  "generatedAt": "2025-10-02T06:41:32.062Z",
+  "count": 184,
+  "candidates": [
+    {
+      "file": "basket-creek-hickahala-creek-9-key-element-plan-2018-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "bear-creek-watershed-plan-2007-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "bear-creek-watershed-plan-2007-2.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "bear-creek-watershed-plan-2007-3.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "bear-lake-9-key-elelment-plan-2018-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "bee-lake-watershed-plan-2006-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "bee-lake-watershed-plan-2006-2.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "bee-lake-watershed-plan-2006-3.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "bee-lake-watershed-plan-2006-4.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "bee-lake-watershed-plan-2006-5.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "bee-lake-watershed-plan-2006-6.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "bogue-chitto-creek-watershed-plan-2004-2.json",
+      "length": 292,
+      "reason": "tiny_fragment"
+    },
+    {
+      "file": "bogue-chitto-creek-watershed-plan-2004.json",
+      "length": 292,
+      "reason": "tiny_fragment"
+    },
+    {
+      "file": "broken-pumpkin-9-key-element-plan-2019-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "buttahatchee-river-watershed-plan-2004.json",
+      "length": 216,
+      "reason": "tiny_fragment"
+    },
+    {
+      "file": "carmichael-creek-town-creek-9-key-element-plan-2019-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "carmichael-creek-town-creek-9-key-element-plan-2019-2.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "coldwater-river-watershed-plan-2013-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "coldwater-river-watershed-plan-2013-2.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "deer-creek-watershed-plan-2008-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "deer-creek-watershed-plan-2008-2.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "deer-creek-watershed-plan-2008-3.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "deer-creek-watershed-plan-2008-4.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "deer-creek-watershed-plan-2008-5.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "fannegusha-creek-watershed-plan-2009-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "fannegusha-creek-watershed-plan-2009-2.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "fannegusha-creek-watershed-plan-2009-3.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "fourteen-mile-bakers-creek-watershed-plan-2009-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "fourteen-mile-bakers-creek-watershed-plan-2009-2.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "fourteen-mile-bakers-creek-watershed-plan-2009-3.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "fuller-creek-town-creek-9-key-element-plan-2022-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "hickahala-creek-watershed-plan-2009-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "hickahala-creek-watershed-plan-2009-2.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "hickahala-creek-watershed-plan-2009-3.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "jasper-creek-watershed-plan-2019-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "jasper-creek-watershed-plan-2019-2.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "jasper-creek-watershed-plan-2019-3.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "lake-washington-watershed-plan-2007-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "lake-washington-watershed-plan-2007-2.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "lake-washington-watershed-plan-2007-3.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "lake-washington-watershed-plan-2007-4.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "lake-washington-watershed-plan-2007-5.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "lake-washington-watershed-plan-2007-6.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "lake-washington-watershed-plan-2007-7.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "lake-washington-watershed-plan-2007-8.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "lake-washington-watershed-plan-2007-9.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "luxapallila-creek-watershed-plan-2004-2.json",
+      "length": 224,
+      "reason": "tiny_fragment"
+    },
+    {
+      "file": "luxapallila-creek-watershed-plan-2004-3.json",
+      "length": 224,
+      "reason": "tiny_fragment"
+    },
+    {
+      "file": "luxapallila-creek-watershed-plan-2004-4.json",
+      "length": 224,
+      "reason": "tiny_fragment"
+    },
+    {
+      "file": "luxapallila-creek-watershed-plan-2004-5.json",
+      "length": 224,
+      "reason": "tiny_fragment"
+    },
+    {
+      "file": "luxapallila-creek-watershed-plan-2004.json",
+      "length": 224,
+      "reason": "tiny_fragment"
+    },
+    {
+      "file": "magees-creek-watershed-plan-2007-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "magees-creek-watershed-plan-2007-2.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "magees-creek-watershed-plan-2007-3.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "middle-porter-bayou-watershed-plan-2013-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "middle-porter-bayou-watershed-plan-2013-2.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "middle-porter-bayou-watershed-plan-2013-3.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "middle-porter-bayou-watershed-plan-2013-4.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "middle-porter-bayou-watershed-plan-2013-5.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "middle-porter-bayou-watershed-plan-2013-6.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "middle-porter-bayou-watershed-plan-2013-7.json",
+      "length": 477,
+      "reason": "tiny_fragment"
+    },
+    {
+      "file": "muddy-bayou-opossum-bayou-9-key-element-plan-2022-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "north-tippah-creek-watershed-plan-2013-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "north-tippah-creek-watershed-plan-2013-2.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "overcup-slough-watershed-plan-2013-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "overcup-slough-watershed-plan-2013-2.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "overcup-slough-watershed-plan-2013-3.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "overcup-slough-watershed-plan-2013-4.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "overcup-slough-watershed-plan-2013-5.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "owl-creek-little-hatchie-river-9-key-element-plan-2020-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "pickwick-reservoir-watershed-plan-2009-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "pickwick-reservoir-watershed-plan-2009-2.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "pickwick-reservoir-watershed-plan-2009-3.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "platner-bayou-tippo-bayou-9-key-element-plan-2021-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-phase-1-plan-2017-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-phase-1-plan-2017-2.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-phase-1-plan-2017-3.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-phase-1-plan-2017-4.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-phase-1-plan-2017-5.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-phase-1-plan-2017-6.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-phase-1-plan-2017-7.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-phase-1-plan-2017-8.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-10.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-11.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-12.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-13.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-14.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-15.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-16.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-2.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-3.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-4.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-5.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-6.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-7.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-8.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-9.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "red-creek-watershed-action-plan-2007.json",
+      "length": 86,
+      "reason": "tiny_fragment"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-10.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-11.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-12.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-13.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-14.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-15.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-16.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-17.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-18.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-19.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-2.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-20.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-21.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-22.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-23.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-24.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-25.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-26.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-27.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-28.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-29.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-3.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-30.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-31.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-32.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-33.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-34.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-35.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-36.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-37.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-38.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-39.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-4.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-40.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-41.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-42.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-43.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-44.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-45.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-46.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-47.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-48.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-49.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-5.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-50.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-51.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-52.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-53.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-54.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-55.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-56.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-6.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-7.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-8.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-9.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "sherman-creek-panola-quitman-floodway-9-key-element-plan-2018-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "tarebreeches-creek-tuscumbia-river-canal-watersehd-plan-2012-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "tarebreeches-creek-tuscumbia-river-canal-watersehd-plan-2012-2.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "tarebreeches-creek-tuscumbia-river-canal-watersehd-plan-2012-3.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "tchoutacabouffa-river-watershed-action-plan-2007-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "tchoutacabouffa-river-watershed-action-plan-2007-2.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "tchoutacabouffa-river-watershed-action-plan-2007-3.json",
+      "length": 216,
+      "reason": "tiny_fragment"
+    },
+    {
+      "file": "turkey-creek-watershed-plan-2006-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "turkey-creek-watershed-plan-2006-2.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "turkey-creek-watershed-plan-2006-3.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "turkey-creek-watershed-plan-2006-4.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "turkey-creek-watershed-plan-2010.json",
+      "length": 20,
+      "reason": "tiny_fragment"
+    },
+    {
+      "file": "upper-bay-of-st-louis-watershed-action-plan-2007-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "upper-bay-of-st-louis-watershed-action-plan-2007-2.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "upper-little-bayou-pierre-watershed-plan-2018-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "upper-porter-bayou-watershed-plan-2013-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "upper-porter-bayou-watershed-plan-2013-2.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "upper-porter-bayou-watershed-plan-2013-3.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "upper-porter-bayou-watershed-plan-2013-4.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "upper-porter-bayou-watershed-plan-2013-5.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "west-boley-creek-watershed-action-plan-2007.json",
+      "length": 80,
+      "reason": "tiny_fragment"
+    },
+    {
+      "file": "wolf-lake-broad-lake-watershed-plan-2009-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "wolf-lake-broad-lake-watershed-plan-2009-2.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "wolf-river-watershed-plan-2009-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "wolf-river-watershed-plan-2009-2.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "wolf-river-watershed-plan-2009-3.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "wolf-river-watershed-plan-2009-4.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "wolf-river-watershed-plan-2009-5.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    },
+    {
+      "file": "yazoo-pass-9-key-element-plan-2021-1.json",
+      "length": 18000,
+      "reason": "exact_18000_truncation"
+    }
+  ]
+}

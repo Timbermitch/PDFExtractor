@@ -1,0 +1,900 @@
+{
+  "id": "chunky-okatibbee-watershed-plan-2007-3",
+  "summary": {
+    "totalGoals": 6,
+    "totalBMPs": 1,
+    "totalActivities": 15,
+    "primaryGoals": 1,
+    "completionRate": 0,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 6,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "General": 1
+    },
+    "avgGoalConfidence": 0,
+    "strongGoals": 0
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "is to identify the location and nature of illegal dumping sites in the The education committee will accomplish this goal having the intended effect and to ensure that the goals and objectives of the plan Goal/Benefit Desired Management Action Where When with the goal of long term success of the established goals and The goal of the The goals of the plan will be goals include a number of numerical and temporal specifics.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "goal is to identify the location and nature of illegal dumping sites in the The education committee will accomplish this goal having the intended effect and to ensure that the goals and objectives of the plan Goal/Benefit Desired Management Action Where When with the goal of long term success of the established goals and The goal of the The goals of the plan will be goals include a number of numerical and temporal specifics.",
+      "confidence": 0,
+      "description": "the goals and objectives of the plan Goal/Benefit Desired Management Action Where When with the goal of long term success of the established goals and The goal of the The goals of the plan will be goals include a number of numerical and temporal specifics.",
+      "originalSentence": "is to identify the location and nature of illegal dumping sites in the The education committee will accomplish this goal having the intended effect and to ensure that the goals and objectives of the plan Goal/Benefit Desired Management Action Where When with the goal of long term success of the established goals and The goal of the The goals of the plan will be goals include a number of numerical and temporal specifics.",
+      "shortTitle": "is to identify the location and nature of illegal dumping sites in the The…",
+      "_present": false
+    },
+    {
+      "id": "G2",
+      "title": "/Benefit Desired Management Action Where When with the goal of long term To achieve the goal of maximizing recreational opportunities One goal is to organize and conduct stream clean-up activities.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "Goal/Benefit Desired Management Action Where When with the goal of long term To achieve the goal of maximizing recreational opportunities One goal is to organize and conduct stream clean-up activities.",
+      "confidence": 0,
+      "isPrimary": true,
+      "primaryReason": "fallback_top_confidence",
+      "description": "/Benefit Desired Management Action Where When with the goal of long term To achieve the goal of maximizing recreational opportunities One goal is to organize and conduct stream clean-up activities.",
+      "originalSentence": "/Benefit Desired Management Action Where When with the goal of long term To achieve the goal of maximizing recreational opportunities One goal is to organize and conduct stream clean-up activities.",
+      "shortTitle": "/Benefit Desired Management Action Where When with the goal of long term To achieve…",
+      "_present": false
+    },
+    {
+      "id": "G3",
+      "title": "some of the specific actions and goals are included as planning estimates, and",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "some  of  the  specific  actions  and  goals  are  included  as  planning  estimates,  and",
+      "confidence": 0,
+      "description": "some of the specific actions and goals are included as planning estimates, and",
+      "originalSentence": "some of the specific actions and goals are included as planning estimates, and",
+      "shortTitle": "some of the specific actions and goals are included as planning estimates, and",
+      "_present": false
+    },
+    {
+      "id": "G4",
+      "title": "is to identify the location and nature of illegal dumping sites in the",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "goal  is  to  identify  the  location  and  nature  of  illegal  dumping  sites  in  the",
+      "confidence": 0,
+      "description": "is to identify the location and nature of illegal dumping sites in the",
+      "originalSentence": "is to identify the location and nature of illegal dumping sites in the",
+      "shortTitle": "is to identify the location and nature of illegal dumping sites in the",
+      "_present": false
+    },
+    {
+      "id": "G5",
+      "title": "some of the specific actions and goals are included as planning estimates, and",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "some of the specific actions and goals are included as planning estimates, and",
+      "confidence": 0,
+      "description": "some of the specific actions and goals are included as planning estimates, and",
+      "originalSentence": "some of the specific actions and goals are included as planning estimates, and",
+      "shortTitle": "some of the specific actions and goals are included as planning estimates, and",
+      "_present": false
+    },
+    {
+      "id": "G6",
+      "title": "To achieve the goal of maximizing recreational opportunities",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "To  achieve  the  goal  of  maximizing  recreational  opportunities",
+      "confidence": 0,
+      "description": "To achieve the goal of maximizing recreational opportunities",
+      "originalSentence": "To achieve the goal of maximizing recreational opportunities",
+      "shortTitle": "To achieve the goal of maximizing recreational opportunities",
+      "_present": false
+    }
+  ],
+  "mainGoals": [
+    {
+      "id": "G2",
+      "title": "/Benefit Desired Management Action Where When with the goal of long term To achieve the goal of maximizing recreational opportunities One goal is to organize and conduct stream clean-up activities.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "Goal/Benefit Desired Management Action Where When with the goal of long term To achieve the goal of maximizing recreational opportunities One goal is to organize and conduct stream clean-up activities.",
+      "confidence": 0,
+      "isPrimary": true,
+      "primaryReason": "fallback_top_confidence",
+      "description": "/Benefit Desired Management Action Where When with the goal of long term To achieve the goal of maximizing recreational opportunities One goal is to organize and conduct stream clean-up activities.",
+      "originalSentence": "/Benefit Desired Management Action Where When with the goal of long term To achieve the goal of maximizing recreational opportunities One goal is to organize and conduct stream clean-up activities.",
+      "shortTitle": "/Benefit Desired Management Action Where When with the goal of long term To achieve…",
+      "_present": false
+    }
+  ],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "The budget for this task item is anticipated to be at",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.25,
+      "source": "summary_line:The budget for this task item is anticipated to be at $25,000.00",
+      "_present": true
+    }
+  ],
+  "bmpCostTable": {
+    "id": "adaptive_generic_costs",
+    "title": "2007-2008               $15,000",
+    "table": {
+      "columns": [
+        "Item",
+        "Cost",
+        "Extra?"
+      ],
+      "rows": [
+        {
+          "Item": "2007-2008",
+          "Cost": "$15,000",
+          "Extra": null
+        },
+        {
+          "Item": "2008-2009",
+          "Cost": "$10,000",
+          "Extra": null
+        },
+        {
+          "Item": "2007",
+          "Cost": "$5,000",
+          "Extra": null
+        },
+        {
+          "Item": "2008-2009",
+          "Cost": "$10,000",
+          "Extra": null
+        },
+        {
+          "Item": "2007-2009",
+          "Cost": "$5,000",
+          "Extra": null
+        }
+      ],
+      "total": null
+    },
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTableNormalized": {
+    "id": "adaptive_generic_costs",
+    "title": "2007-2008               $15,000",
+    "rows": [
+      {
+        "name": "2007-2008",
+        "totalCost": 15000,
+        "rawCost": "$15,000"
+      },
+      {
+        "name": "2008-2009",
+        "totalCost": 10000,
+        "rawCost": "$10,000"
+      },
+      {
+        "name": "2007",
+        "totalCost": 5000,
+        "rawCost": "$5,000"
+      },
+      {
+        "name": "2008-2009",
+        "totalCost": 10000,
+        "rawCost": "$10,000"
+      },
+      {
+        "name": "2007-2009",
+        "totalCost": 5000,
+        "rawCost": "$5,000"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 45000,
+    "discrepancy": null,
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTables": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "2007-2008               $15,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "2007-2008",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "2008-2009",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "2007",
+            "Cost": "$5,000",
+            "Extra": null
+          },
+          {
+            "Item": "2008-2009",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "2007-2009",
+            "Cost": "$5,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "2008-2009               $10,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "2008-2009",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "2007",
+            "Cost": "$5,000",
+            "Extra": null
+          },
+          {
+            "Item": "2008-2009",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "2007-2009",
+            "Cost": "$5,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "2007                     $5,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "2007",
+            "Cost": "$5,000",
+            "Extra": null
+          },
+          {
+            "Item": "2008-2009",
+            "Cost": "$10,000",
+            "Extra": null
+          },
+          {
+            "Item": "2007-2009",
+            "Cost": "$5,000",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "2007-2008               $15,000",
+      "rows": [
+        {
+          "name": "2007-2008",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "2008-2009",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "2007",
+          "totalCost": 5000,
+          "rawCost": "$5,000"
+        },
+        {
+          "name": "2008-2009",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "2007-2009",
+          "totalCost": 5000,
+          "rawCost": "$5,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 45000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "2008-2009               $10,000",
+      "rows": [
+        {
+          "name": "2008-2009",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "2007",
+          "totalCost": 5000,
+          "rawCost": "$5,000"
+        },
+        {
+          "name": "2008-2009",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "2007-2009",
+          "totalCost": 5000,
+          "rawCost": "$5,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 30000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "2007                     $5,000",
+      "rows": [
+        {
+          "name": "2007",
+          "totalCost": 5000,
+          "rawCost": "$5,000"
+        },
+        {
+          "name": "2008-2009",
+          "totalCost": 10000,
+          "rawCost": "$10,000"
+        },
+        {
+          "name": "2007-2009",
+          "totalCost": 5000,
+          "rawCost": "$5,000"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 20000,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "activities": [
+    {
+      "id": "A1",
+      "description": "Organize and conduct stream clean-up activities and events.",
+      "verb": "conduct",
+      "object": "Organize and conduct stream clean-up activities and events.",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "Organize and conduct stream clean-up activities and events."
+    },
+    {
+      "id": "A2",
+      "description": "Establishment of conservation easements and buffer zones with the goal of long term preservation in mind Entire Watershed Ongoing          $55,000* $275,000** *This cost item is estimated, and the total cost will be dependent on the acreage purchased. **This budget is a best estimate based on unknown quantity of acres to be placed in conservation easements. Watershed Implementation Plan Chunky-Okatibbee Watershed Project May 2007 Page                                                                              38 Specific   activities   designed   to   implement   the   strategies   listed   include   the following: •    Collection  of  existing  spatial  data  and  the  creation  of  new  data  to  be included in a Geographic Information Systems (GIS) database; •    Development of a public access plan to include inventory of existing public access facilities and strategy to secure lands for improved access; •   Organization and implementation of targeted stream clean up events and activities; •    Identification  of  existing  and  potential  illegal  dumping  sites  within  the watershed; •    Provide  technical  assistance  to  individual  counties  to  assist  with  their efforts to mitigate and minimize littering activities; •    Sample and monitor water quality within the watershed; •    Development of specific BMPs designed to improve water quality; •    Continuous    monitoring    of BMP effectiveness; and •    Identification  and  establishment  of  conservation  easements  and  buffer zones  designed  to  preserve  and  protect  environmentally  sensitive  lands and to provide for enhanced recreation access.",
+      "verb": "implement",
+      "object": "Establishment of conservation easements and buffer zones with the goal of long term preservation in mind Entire Watershed Ongoing          $55,000* $275,000** *This cost item is estimated, and the total cost will be dependent on the acreage purchased. **This budget is a best estimate based on unknown quantity of acres to be placed in conservation easements. Watershed Implementation Plan Chunky-Okatibbee Watershed Project May 2007 Page                                                                              38 Specific   activities   designed   to   implement   the   strategies   listed   include   the following: •    Collection  of  existing  spatial  data  and  the  creation  of  new  data  to  be included in a Geographic Information Systems (GIS) database; •    Development of a public access plan to include inventory of existing public access facilities and strategy to secure lands for improved access; •   Organization and implementation of targeted stream clean up events and activities; •    Identification  of  existing  and  potential  illegal  dumping  sites  within  the watershed; •    Provide  technical  assistance  to  individual  counties  to  assist  with  their efforts to mitigate and minimize littering activities; •    Sample and monitor water quality within the watershed; •    Development of specific BMPs designed to improve water quality; •    Continuous    monitoring    of BMP effectiveness; and •    Identification  and  establishment  of  conservation  easements  and  buffer zones  designed  to  preserve  and  protect  environmentally  sensitive  lands and to provide for enhanced recreation access.",
+      "frequency": null,
+      "dueYear": "2007",
+      "responsible": null,
+      "costValue": 55000,
+      "costUnit": "USD",
+      "confidence": 0.55,
+      "source": "Establishment of conservation easements and buffer zones with the goal of long term preservation in mind Entire Watershed Ongoing          $55,000* $275,000** *This cost item is estimated, and the total cost will be dependent on the acreage purchased. **This budget is a best estimate based on unknown quantity of acres to be placed in conservation easements. Watershed Implementation Plan Chunky-Okatibbee Watershed Project May 2007 Page                                                                              38 Specific   activities   designed   to   implement   the   strategies   listed   include   the following: •    Collection  of  existing  spatial  data  and  the  creation  of  new  data  to  be included in a Geographic Information Systems (GIS) database; •    Development of a public access plan to include inventory of existing public access facilities and strategy to secure lands for improved access; •   Organization and implementation of targeted stream clean up events and activities; •    Identification  of  existing  and  potential  illegal  dumping  sites  within  the watershed; •    Provide  technical  assistance  to  individual  counties  to  assist  with  their efforts to mitigate and minimize littering activities; •    Sample and monitor water quality within the watershed; •    Development of specific BMPs designed to improve water quality; •    Continuous    monitoring    of BMP effectiveness; and •    Identification  and  establishment  of  conservation  easements  and  buffer zones  designed  to  preserve  and  protect  environmentally  sensitive  lands and to provide for enhanced recreation access."
+    },
+    {
+      "id": "A3",
+      "description": "Geological  Survey  (USGS),  Federal  Emergency  Management  Agency  (FEMA),",
+      "verb": "survey",
+      "object": "Geological  Survey  (USGS),  Federal  Emergency  Management  Agency  (FEMA),",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "Geological  Survey  (USGS),  Federal  Emergency  Management  Agency  (FEMA),"
+    },
+    {
+      "id": "A4",
+      "description": "The  presence  of  illegal  dumping  sites  along  bridge  crossings  and  stream  banks is  seen  as  a  significant  detraction  to  recreational  use  and  a  detriment  to  water quality.  One goal is to organize and conduct stream clean-up activities.  Another goal  is  to  identify  the  location  and  nature  of  illegal  dumping  sites  in  the Watershed Implementation Plan Chunky-Okatibbee Watershed Project May 2007 Page                                                                              43 watershed.  Types of materials present can be inventoried, if appropriate, to aid in  targeted  education  and  public  awareness  measures.    Materials  from  selected dump  sites  should  be  removed  and  properly  disposed  of,  and  the  dump  site secured  as  appropriate  to  discourage  future  dumping.    State  and  local  law enforcement  officials  will  be  employed  to  investigate  and  prosecute  violators  if known.    Inputs  of  floatable  litter  from  urbanized  areas  of  Meridian  have  been suggested  as  a  major  source  of  objectionable  materials  present  in  Sowashee and  Okatibbee  Creeks.    Measures  to  reduce  inputs  and  structural  control measures  to  screen  floatable  materials  may  also  be  considered  to  address  the concern.",
+      "verb": "conduct",
+      "object": "The  presence  of  illegal  dumping  sites  along  bridge  crossings  and  stream  banks is  seen  as  a  significant  detraction  to  recreational  use  and  a  detriment  to  water quality.  One goal is to organize and conduct stream clean-up activities.  Another goal  is  to  identify  the  location  and  nature  of  illegal  dumping  sites  in  the Watershed Implementation Plan Chunky-Okatibbee Watershed Project May 2007 Page                                                                              43 watershed.  Types of materials present can be inventoried, if appropriate, to aid in  targeted  education  and  public  awareness  measures.    Materials  from  selected dump  sites  should  be  removed  and  properly  disposed  of,  and  the  dump  site secured  as  appropriate  to  discourage  future  dumping.    State  and  local  law enforcement  officials  will  be  employed  to  investigate  and  prosecute  violators  if known.    Inputs  of  floatable  litter  from  urbanized  areas  of  Meridian  have  been suggested  as  a  major  source  of  objectionable  materials  present  in  Sowashee and  Okatibbee  Creeks.    Measures  to  reduce  inputs  and  structural  control measures  to  screen  floatable  materials  may  also  be  considered  to  address  the concern.",
+      "frequency": null,
+      "dueYear": "2007",
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.4,
+      "source": "The  presence  of  illegal  dumping  sites  along  bridge  crossings  and  stream  banks is  seen  as  a  significant  detraction  to  recreational  use  and  a  detriment  to  water quality.  One goal is to organize and conduct stream clean-up activities.  Another goal  is  to  identify  the  location  and  nature  of  illegal  dumping  sites  in  the Watershed Implementation Plan Chunky-Okatibbee Watershed Project May 2007 Page                                                                              43 watershed.  Types of materials present can be inventoried, if appropriate, to aid in  targeted  education  and  public  awareness  measures.    Materials  from  selected dump  sites  should  be  removed  and  properly  disposed  of,  and  the  dump  site secured  as  appropriate  to  discourage  future  dumping.    State  and  local  law enforcement  officials  will  be  employed  to  investigate  and  prosecute  violators  if known.    Inputs  of  floatable  litter  from  urbanized  areas  of  Meridian  have  been suggested  as  a  major  source  of  objectionable  materials  present  in  Sowashee and  Okatibbee  Creeks.    Measures  to  reduce  inputs  and  structural  control measures  to  screen  floatable  materials  may  also  be  considered  to  address  the concern."
+    },
+    {
+      "id": "A5",
+      "description": "EMFLT  Conduct  sampling  and  monitoring  for  effectiveness  of  BMPs  and additional monitoring as determined appropriate.",
+      "verb": "conduct",
+      "object": "EMFLT  Conduct  sampling  and  monitoring  for  effectiveness  of  BMPs  and additional monitoring as determined appropriate.",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "EMFLT  Conduct  sampling  and  monitoring  for  effectiveness  of  BMPs  and additional monitoring as determined appropriate."
+    },
+    {
+      "id": "A6",
+      "description": "The   following   table   is   derived   from   the   results   of   surveys   completed   by stakeholders  and  committee  members.    The  survey  was  developed  to  collect data  specific  to  real  and  perceived  issues  existing  in  the  watershed  and  also",
+      "verb": "survey",
+      "object": "The   following   table   is   derived   from   the   results   of   surveys   completed   by stakeholders  and  committee  members.    The  survey  was  developed  to  collect data  specific  to  real  and  perceived  issues  existing  in  the  watershed  and  also",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "The   following   table   is   derived   from   the   results   of   surveys   completed   by stakeholders  and  committee  members.    The  survey  was  developed  to  collect data  specific  to  real  and  perceived  issues  existing  in  the  watershed  and  also"
+    },
+    {
+      "id": "A7",
+      "description": "Specific   activities   designed   to   implement   the   strategies   listed   include   the following:",
+      "verb": "implement",
+      "object": "Specific   activities   designed   to   implement   the   strategies   listed   include   the following:",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "Specific   activities   designed   to   implement   the   strategies   listed   include   the following:"
+    },
+    {
+      "id": "A8",
+      "description": "•    Conduct watershed “eco-tours” for stakeholders",
+      "verb": "conduct",
+      "object": "•    Conduct watershed “eco-tours” for stakeholders",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "•    Conduct watershed “eco-tours” for stakeholders"
+    },
+    {
+      "id": "A9",
+      "description": "•    Conduct Growth Readiness (NEMO) training for local officials",
+      "verb": "conduct",
+      "object": "•    Conduct Growth Readiness (NEMO) training for local officials",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "•    Conduct Growth Readiness (NEMO) training for local officials"
+    },
+    {
+      "id": "A10",
+      "description": "•    Conduct a summer teacher’s workshop",
+      "verb": "conduct",
+      "object": "•    Conduct a summer teacher’s workshop",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "•    Conduct a summer teacher’s workshop"
+    },
+    {
+      "id": "A11",
+      "description": "Conduct meetings and presentations for a variety of stakeholders and interest groups through professional organizations, civic clubs, and other venues as opportunities are presented.",
+      "verb": "conduct",
+      "object": "Conduct meetings and presentations for a variety of stakeholders and interest groups through professional organizations, civic clubs, and other venues as opportunities are presented.",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "Conduct meetings and presentations for a variety of stakeholders and interest groups through professional organizations, civic clubs, and other venues as opportunities are presented."
+    },
+    {
+      "id": "A12",
+      "description": "Conduct a coordinated media campaign utilizing both print and mass media to increase overall public awareness of the importance of water quality and its potential impacts on quality of life within the watershed.",
+      "verb": "conduct",
+      "object": "Conduct a coordinated media campaign utilizing both print and mass media to increase overall public awareness of the importance of water quality and its potential impacts on quality of life within the watershed.",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "Conduct a coordinated media campaign utilizing both print and mass media to increase overall public awareness of the importance of water quality and its potential impacts on quality of life within the watershed."
+    },
+    {
+      "id": "A13",
+      "description": "The  Watershed  Implementation  Team  will  develop  a  portable  table-top  display that can be set up at area schools, libraries, city halls, courthouses, conferences, exhibits, fairs, and other events as part of a strategy to educate a wide variety of",
+      "verb": "educate",
+      "object": "The  Watershed  Implementation  Team  will  develop  a  portable  table-top  display that can be set up at area schools, libraries, city halls, courthouses, conferences, exhibits, fairs, and other events as part of a strategy to educate a wide variety of",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "The  Watershed  Implementation  Team  will  develop  a  portable  table-top  display that can be set up at area schools, libraries, city halls, courthouses, conferences, exhibits, fairs, and other events as part of a strategy to educate a wide variety of"
+    },
+    {
+      "id": "A14",
+      "description": "USGS United States Geological Survey",
+      "verb": "survey",
+      "object": "USGS United States Geological Survey",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "USGS United States Geological Survey"
+    },
+    {
+      "id": "A15",
+      "description": "APPENDIX C:  SURVEY",
+      "verb": "survey",
+      "object": "APPENDIX C:  SURVEY",
+      "frequency": null,
+      "dueYear": null,
+      "responsible": null,
+      "costValue": null,
+      "costUnit": null,
+      "confidence": 0.25,
+      "source": "APPENDIX C:  SURVEY"
+    }
+  ],
+  "implementation": [
+    {
+      "id": "I1",
+      "description": "Organize and conduct stream clean-up activities and events.",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "Organize and conduct stream clean-up activities and events.",
+      "_present": false
+    },
+    {
+      "id": "I2",
+      "description": "Establishment of conservation easements and buffer zones with the goal of long term preservation in mind Entire Watershed Ongoing          $55,000* $275,000** *This cost item is estimated, and the total cost will be dependent on the acreage purchased. **This budget is a best estimate based on unknown quantity of acres to be placed in conservation easements. Watershed Implementation Plan Chunky-Okatibbee Watershed Project May 2007 Page                                                                              38 Specific   activities   designed   to   implement   the   strategies   listed   include   the following: •    Collection  of  existing  spatial  data  and  the  creation  of  new  data  to  be included in a Geographic Information Systems (GIS) database; •    Development of a public access plan to include inventory of existing public access facilities and strategy to secure lands for improved access; •   Organization and implementation of targeted stream clean up events and activities; •    Identification  of  existing  and  potential  illegal  dumping  sites  within  the watershed; •    Provide  technical  assistance  to  individual  counties  to  assist  with  their efforts to mitigate and minimize littering activities; •    Sample and monitor water quality within the watershed; •    Development of specific BMPs designed to improve water quality; •    Continuous    monitoring    of BMP effectiveness; and •    Identification  and  establishment  of  conservation  easements  and  buffer zones  designed  to  preserve  and  protect  environmentally  sensitive  lands and to provide for enhanced recreation access.",
+      "date": "2007-01-01",
+      "target": null,
+      "achieved": null,
+      "source": "Establishment of conservation easements and buffer zones with the goal of long term preservation in mind Entire Watershed Ongoing          $55,000* $275,000** *This cost item is estimated, and the total cost will be dependent on the acreage purchased. **This budget is a best estimate based on unknown quantity of acres to be placed in conservation easements. Watershed Implementation Plan Chunky-Okatibbee Watershed Project May 2007 Page                                                                              38 Specific   activities   designed   to   implement   the   strategies   listed   include   the following: •    Collection  of  existing  spatial  data  and  the  creation  of  new  data  to  be included in a Geographic Information Systems (GIS) database; •    Development of a public access plan to include inventory of existing public access facilities and strategy to secure lands for improved access; •   Organization and implementation of targeted stream clean up events and activities; •    Identification  of  existing  and  potential  illegal  dumping  sites  within  the watershed; •    Provide  technical  assistance  to  individual  counties  to  assist  with  their efforts to mitigate and minimize littering activities; •    Sample and monitor water quality within the watershed; •    Development of specific BMPs designed to improve water quality; •    Continuous    monitoring    of BMP effectiveness; and •    Identification  and  establishment  of  conservation  easements  and  buffer zones  designed  to  preserve  and  protect  environmentally  sensitive  lands and to provide for enhanced recreation access.",
+      "_present": false
+    },
+    {
+      "id": "I3",
+      "description": "Geological  Survey  (USGS),  Federal  Emergency  Management  Agency  (FEMA),",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "Geological  Survey  (USGS),  Federal  Emergency  Management  Agency  (FEMA),",
+      "_present": true
+    },
+    {
+      "id": "I4",
+      "description": "The  presence  of  illegal  dumping  sites  along  bridge  crossings  and  stream  banks is  seen  as  a  significant  detraction  to  recreational  use  and  a  detriment  to  water quality.  One goal is to organize and conduct stream clean-up activities.  Another goal  is  to  identify  the  location  and  nature  of  illegal  dumping  sites  in  the Watershed Implementation Plan Chunky-Okatibbee Watershed Project May 2007 Page                                                                              43 watershed.  Types of materials present can be inventoried, if appropriate, to aid in  targeted  education  and  public  awareness  measures.    Materials  from  selected dump  sites  should  be  removed  and  properly  disposed  of,  and  the  dump  site secured  as  appropriate  to  discourage  future  dumping.    State  and  local  law enforcement  officials  will  be  employed  to  investigate  and  prosecute  violators  if known.    Inputs  of  floatable  litter  from  urbanized  areas  of  Meridian  have  been suggested  as  a  major  source  of  objectionable  materials  present  in  Sowashee and  Okatibbee  Creeks.    Measures  to  reduce  inputs  and  structural  control measures  to  screen  floatable  materials  may  also  be  considered  to  address  the concern.",
+      "date": "2007-01-01",
+      "target": null,
+      "achieved": null,
+      "source": "The  presence  of  illegal  dumping  sites  along  bridge  crossings  and  stream  banks is  seen  as  a  significant  detraction  to  recreational  use  and  a  detriment  to  water quality.  One goal is to organize and conduct stream clean-up activities.  Another goal  is  to  identify  the  location  and  nature  of  illegal  dumping  sites  in  the Watershed Implementation Plan Chunky-Okatibbee Watershed Project May 2007 Page                                                                              43 watershed.  Types of materials present can be inventoried, if appropriate, to aid in  targeted  education  and  public  awareness  measures.    Materials  from  selected dump  sites  should  be  removed  and  properly  disposed  of,  and  the  dump  site secured  as  appropriate  to  discourage  future  dumping.    State  and  local  law enforcement  officials  will  be  employed  to  investigate  and  prosecute  violators  if known.    Inputs  of  floatable  litter  from  urbanized  areas  of  Meridian  have  been suggested  as  a  major  source  of  objectionable  materials  present  in  Sowashee and  Okatibbee  Creeks.    Measures  to  reduce  inputs  and  structural  control measures  to  screen  floatable  materials  may  also  be  considered  to  address  the concern.",
+      "_present": false
+    },
+    {
+      "id": "I5",
+      "description": "EMFLT  Conduct  sampling  and  monitoring  for  effectiveness  of  BMPs  and additional monitoring as determined appropriate.",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "EMFLT  Conduct  sampling  and  monitoring  for  effectiveness  of  BMPs  and additional monitoring as determined appropriate.",
+      "_present": false
+    },
+    {
+      "id": "I6",
+      "description": "The   following   table   is   derived   from   the   results   of   surveys   completed   by stakeholders  and  committee  members.    The  survey  was  developed  to  collect data  specific  to  real  and  perceived  issues  existing  in  the  watershed  and  also",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "The   following   table   is   derived   from   the   results   of   surveys   completed   by stakeholders  and  committee  members.    The  survey  was  developed  to  collect data  specific  to  real  and  perceived  issues  existing  in  the  watershed  and  also",
+      "_present": false
+    },
+    {
+      "id": "I7",
+      "description": "Specific   activities   designed   to   implement   the   strategies   listed   include   the following:",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "Specific   activities   designed   to   implement   the   strategies   listed   include   the following:",
+      "_present": false
+    },
+    {
+      "id": "I8",
+      "description": "•    Conduct watershed “eco-tours” for stakeholders",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "•    Conduct watershed “eco-tours” for stakeholders",
+      "_present": true
+    },
+    {
+      "id": "I9",
+      "description": "•    Conduct Growth Readiness (NEMO) training for local officials",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "•    Conduct Growth Readiness (NEMO) training for local officials",
+      "_present": true
+    },
+    {
+      "id": "I10",
+      "description": "•    Conduct a summer teacher’s workshop",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "•    Conduct a summer teacher’s workshop",
+      "_present": true
+    },
+    {
+      "id": "I11",
+      "description": "Conduct meetings and presentations for a variety of stakeholders and interest groups through professional organizations, civic clubs, and other venues as opportunities are presented.",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "Conduct meetings and presentations for a variety of stakeholders and interest groups through professional organizations, civic clubs, and other venues as opportunities are presented.",
+      "_present": false
+    },
+    {
+      "id": "I12",
+      "description": "Conduct a coordinated media campaign utilizing both print and mass media to increase overall public awareness of the importance of water quality and its potential impacts on quality of life within the watershed.",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "Conduct a coordinated media campaign utilizing both print and mass media to increase overall public awareness of the importance of water quality and its potential impacts on quality of life within the watershed.",
+      "_present": false
+    },
+    {
+      "id": "I13",
+      "description": "The  Watershed  Implementation  Team  will  develop  a  portable  table-top  display that can be set up at area schools, libraries, city halls, courthouses, conferences, exhibits, fairs, and other events as part of a strategy to educate a wide variety of",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "The  Watershed  Implementation  Team  will  develop  a  portable  table-top  display that can be set up at area schools, libraries, city halls, courthouses, conferences, exhibits, fairs, and other events as part of a strategy to educate a wide variety of",
+      "_present": false
+    },
+    {
+      "id": "I14",
+      "description": "USGS United States Geological Survey",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "USGS United States Geological Survey",
+      "_present": true
+    },
+    {
+      "id": "I15",
+      "description": "APPENDIX C:  SURVEY",
+      "date": null,
+      "target": null,
+      "achieved": null,
+      "source": "APPENDIX C:  SURVEY",
+      "_present": true
+    }
+  ],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-06T01:29:52.614Z",
+  "metadata": {
+    "sourceId": "chunky-okatibbee-watershed-plan-2007-3",
+    "sourceFile": "chunky-okatibbee-watershed-plan-2007-3.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": true,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "adaptive_generic_costs",
+        "title": "2007-2008               $15,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 45000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "2008-2009               $10,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 30000
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "2007                     $5,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 20000
+      }
+    ],
+    "originalName": "Chunky_Okatibbee_Watershed_Plan_2007.pdf",
+    "presence": {
+      "goals": 0,
+      "bmps": 1,
+      "implementation": 6,
+      "monitoring": 0,
+      "outreach": 0
+    }
+  }
+}

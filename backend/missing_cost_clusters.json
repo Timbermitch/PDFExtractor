@@ -1,0 +1,126 @@
+{
+  "generatedAt": "2025-10-02T13:26:22.415Z",
+  "missingCount": 12,
+  "reports": [
+    {
+      "id": "bogue-chitto-creek-watershed-plan",
+      "clusterCount": 0,
+      "clusters": []
+    },
+    {
+      "id": "buttahatchee-river-watershed-plan",
+      "clusterCount": 0,
+      "clusters": []
+    },
+    {
+      "id": "coldwater-river-watershed-plan-2013",
+      "clusterCount": 0,
+      "clusters": []
+    },
+    {
+      "id": "luxapallila-creek-watershed-plan-2004",
+      "clusterCount": 0,
+      "clusters": []
+    },
+    {
+      "id": "mill-creek-watershed-plan",
+      "clusterCount": 0,
+      "clusters": []
+    },
+    {
+      "id": "old-fort-bayou-watershed-plan-2019-2",
+      "clusterCount": 1,
+      "clusters": [
+        {
+          "startLine": 2296,
+          "endLine": 2305,
+          "moneyLineCount": 10,
+          "sample": [
+            "Critical Area Planting $248.10  32 acres $7,939.20  ",
+            "Fence $1.91 12,499 ft $23,873.09  ",
+            "Grade Stabilization Structures $5,000 5 $25,000.00  ",
+            "Heavy Use Area $1.04 8,000 acres $8,320.00  ",
+            "Pipeline $1.75 3,600 ft $6,300.00  ",
+            "Stream Bank Protection $1.54 1,588 acres $2,445.52  ",
+            "Grassed Waterways $1,648 13 $21,424.00  ",
+            "Pond $3.77 2,120 acres $7,992.40  ",
+            "Tank/Trough $4,600 10 $46,000.00  ",
+            "TOTAL     $149,294.21  "
+          ],
+          "headerSignature": "Critical Area Planting $248.10 32 acres $7,939.20"
+        }
+      ]
+    },
+    {
+      "id": "red-creek-watershed-action-plan",
+      "clusterCount": 0,
+      "clusters": []
+    },
+    {
+      "id": "synthetic-goal-demo",
+      "clusterCount": 0,
+      "clusters": []
+    },
+    {
+      "id": "tchoutacabouffa-river-watershed-action-plan-2007",
+      "clusterCount": 0,
+      "clusters": []
+    },
+    {
+      "id": "turkey-creek-watershed-plan-2006",
+      "clusterCount": 2,
+      "clusters": [
+        {
+          "startLine": 1018,
+          "endLine": 1068,
+          "moneyLineCount": 41,
+          "sample": [
+            "$108,500.00     for     ",
+            "A1. acquire identified conservation areas, TC Greenway  $1,470,000.00 ",
+            "*2 New Capacity ",
+            " CIAP I acquisitions. Work not completed funding already allocated $60,000.00 ",
+            " Education staff ",
+            "A2. Green subdivision model; conservation easement, 28th st $2,500.00      ",
+            "A3. Green subdivision model; conservation easement, Bernard Bayou $2,500.00 *2  ",
+            "A4. Education about conservation options for Landowners $1,200.00      ",
+            " Support statewide legislative action to allow TDRs  $1,300.00   ",
+            "A5. Advocate and support City tree protection ordinance - Creekkeeper $2,500.00 *1  ",
+            "A6. Education about streamside buffer and urban forests $2,500.00 *2  ",
+            "A7. New capacity:  Creekkeeper to review wetland permits $25,000.00 *1  "
+          ],
+          "headerSignature": "$108,500.00 for"
+        },
+        {
+          "startLine": 1074,
+          "endLine": 1093,
+          "moneyLineCount": 8,
+          "sample": [
+            "A14    Restoration of native vegetation on easement: bernard bayou $25,000.00   ",
+            "       ",
+            "Subtotal: $651,500.00                                          ",
+            "              ",
+            "B1 ",
+            "Creeksweep - ",
+            "Creekkeeper                                                                                                    $5,000.00                         *2  ",
+            "B2 Advocate for brownfield restoration - Creekkeeper  $10,000.00 *1  ",
+            "B3 Advocate for reduced airport impacts   included in B2   ",
+            "B4 Advocate for light industrial zoning   included in B2   ",
+            "B5 Advocate for cleaner water/air at concrete plant  included in B2   ",
+            "B6 Remarkable riches of splendid ditches   $1,000.00 *2  "
+          ],
+          "headerSignature": "A14 Restoration of native vegetation on easement: bernard bayou $25,000.00"
+        }
+      ]
+    },
+    {
+      "id": "upper-bay-of-st-louis-watershed-action-plan-2007",
+      "clusterCount": 0,
+      "clusters": []
+    },
+    {
+      "id": "west-boley-creek-watershed-action-plan",
+      "clusterCount": 0,
+      "clusters": []
+    }
+  ]
+}

@@ -1,0 +1,3979 @@
+{
+  "id": "jasper-creek-watershed-plan-2019",
+  "summary": {
+    "totalGoals": 2,
+    "totalBMPs": 28,
+    "totalActivities": 0,
+    "primaryGoals": 1,
+    "completionRate": 0,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 2,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "General": 26,
+      "Vegetative": 1,
+      "Livestock Exclusion": 1
+    },
+    "avgGoalConfidence": 0.19,
+    "strongGoals": 0
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "The goal of this watershed based plan include reducing the nutrients and sediment The goal of this watershed implementation team and resulting watershed based plan is to reduce",
+      "status": "planned",
+      "pollutant": "sediment",
+      "parameter": "sediment",
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The goal of this watershed based plan include reducing the nutrients and sediment Goal Who What Where When Contacts The goal of this watershed implementation team and resulting watershed based plan is to reduce",
+      "confidence": 0.2,
+      "isPrimary": true,
+      "primaryReason": "top_scoring",
+      "description": "The goal of this watershed based plan include reducing the nutrients and sediment The goal of this watershed implementation team and resulting watershed based plan is to reduce",
+      "originalSentence": "The goal of this watershed based plan include reducing the nutrients and sediment The goal of this watershed implementation team and resulting watershed based plan is to reduce",
+      "shortTitle": "The goal of this watershed based plan include reducing the nutrients and sediment The…"
+    },
+    {
+      "id": "G2",
+      "title": "Watershed. The goal of this watershed based plan include reducing the nutrients and sediment",
+      "status": "planned",
+      "pollutant": "sediment",
+      "parameter": "sediment",
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "Watershed.  The goal of this watershed based plan include reducing the nutrients and sediment",
+      "confidence": 0.18000000000000002,
+      "description": "Watershed. The goal of this watershed based plan include reducing the nutrients and sediment",
+      "originalSentence": "Watershed. The goal of this watershed based plan include reducing the nutrients and sediment",
+      "shortTitle": "Watershed. The goal of this watershed based plan include reducing the nutrients and sediment"
+    }
+  ],
+  "mainGoals": [
+    {
+      "id": "G1",
+      "title": "The goal of this watershed based plan include reducing the nutrients and sediment The goal of this watershed implementation team and resulting watershed based plan is to reduce",
+      "status": "planned",
+      "pollutant": "sediment",
+      "parameter": "sediment",
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The goal of this watershed based plan include reducing the nutrients and sediment Goal Who What Where When Contacts The goal of this watershed implementation team and resulting watershed based plan is to reduce",
+      "confidence": 0.2,
+      "isPrimary": true,
+      "primaryReason": "top_scoring",
+      "description": "The goal of this watershed based plan include reducing the nutrients and sediment The goal of this watershed implementation team and resulting watershed based plan is to reduce",
+      "originalSentence": "The goal of this watershed based plan include reducing the nutrients and sediment The goal of this watershed implementation team and resulting watershed based plan is to reduce",
+      "shortTitle": "The goal of this watershed based plan include reducing the nutrients and sediment The…"
+    }
+  ],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "NRCS, there has been over",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "NRCS, there has been over $96,000 spent on conservation practices in Union and Tippah|name_cost_tail_trim",
+      "originalName": "NRCS, there has been over $96,000 spent on conservation practices in Union and Tippah"
+    },
+    {
+      "id": "B2",
+      "name": "Mulching",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Mulching 1.9 ac $907.35|name_cost_tail_trim",
+      "originalName": "Mulching 1.9 ac $907.35"
+    },
+    {
+      "id": "B3",
+      "name": "Land Clearing",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Land Clearing 1 ac $1,935.00|name_cost_tail_trim",
+      "originalName": "Land Clearing 1 ac $1,935.00"
+    },
+    {
+      "id": "B4",
+      "name": "Grade Stabilization Structure 5 no",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Grade Stabilization Structure 5 no $22,248.70|name_cost_tail_trim",
+      "originalName": "Grade Stabilization Structure 5 no $22,248.70"
+    },
+    {
+      "id": "B5",
+      "name": "Critical Area Planting",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Critical Area Planting 1.9 ac $801.12|name_cost_tail_trim",
+      "originalName": "Critical Area Planting 1.9 ac $801.12"
+    },
+    {
+      "id": "B6",
+      "name": "Herbaceous Weed Control",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Herbaceous Weed Control 32.8 ac $803.82|name_cost_tail_trim",
+      "originalName": "Herbaceous Weed Control 32.8 ac $803.82"
+    },
+    {
+      "id": "B7",
+      "name": "Heavy Use Protection Area 2 no",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Heavy Use Protection Area 2 no $1,431.25|name_cost_tail_trim",
+      "originalName": "Heavy Use Protection Area 2 no $1,431.25"
+    },
+    {
+      "id": "B8",
+      "name": "Watering Facility 2 no",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Watering Facility 2 no $2,145.01|name_cost_tail_trim",
+      "originalName": "Watering Facility 2 no $2,145.01"
+    },
+    {
+      "id": "B9",
+      "name": "Livestock Pipeline",
+      "category": "General",
+      "keyword": null,
+      "quantity": 950,
+      "unit": "ft",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "Livestock Pipeline 950 ft $2,104.60|name_cost_tail_trim",
+      "originalName": "Livestock Pipeline 950 ft $2,104.60"
+    },
+    {
+      "id": "B10",
+      "name": "High Tunnel System 2160 sq ft",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.05,
+      "source": "High Tunnel System 2160 sq ft $4,829.76|name_cost_tail_trim",
+      "originalName": "High Tunnel System 2160 sq ft $4,829.76"
+    },
+    {
+      "id": "B11",
+      "name": "Cover Crop",
+      "category": "Vegetative",
+      "keyword": "Cover Crop",
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.4,
+      "source": "Cover Crop 0.7 ac $87.40|name_cost_tail_trim",
+      "originalName": "Cover Crop 0.7 ac $87.40"
+    },
+    {
+      "id": "B12",
+      "name": "Micro-irrigation System",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Micro-irrigation System 0.7 ac $174.72|name_cost_tail_trim",
+      "originalName": "Micro-irrigation System 0.7 ac $174.72"
+    },
+    {
+      "id": "B13",
+      "name": "$37,468.73",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$37,468.73"
+    },
+    {
+      "id": "B14",
+      "name": "990 feet",
+      "category": "General",
+      "keyword": null,
+      "quantity": 990,
+      "unit": "feet",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "990 feet $78,555.00|name_cost_tail_trim",
+      "originalName": "990 feet $78,555.00"
+    },
+    {
+      "id": "B15",
+      "name": "Grade Stabilization Structure",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Grade Stabilization Structure 42 ea $398,624.06|name_cost_tail_trim",
+      "originalName": "Grade Stabilization Structure 42 ea $398,624.06"
+    },
+    {
+      "id": "B16",
+      "name": "Stream Crossing",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Stream Crossing 1 ea $10,500.00|name_cost_tail_trim",
+      "originalName": "Stream Crossing 1 ea $10,500.00"
+    },
+    {
+      "id": "B17",
+      "name": "Heavy Use Protection Area",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Heavy Use Protection Area 1 ea $4,260.00|name_cost_tail_trim",
+      "originalName": "Heavy Use Protection Area 1 ea $4,260.00"
+    },
+    {
+      "id": "B18",
+      "name": "Tank and Trough",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Tank and Trough 4 ea $9,225.86|name_cost_tail_trim",
+      "originalName": "Tank and Trough 4 ea $9,225.86"
+    },
+    {
+      "id": "B19",
+      "name": "Fencing",
+      "category": "Livestock Exclusion",
+      "keyword": "Fencing",
+      "quantity": 2802,
+      "unit": "feet",
+      "verb": null,
+      "confidence": 0.65,
+      "source": "Fencing 2,802 feet $6,990.42|name_cost_tail_trim",
+      "originalName": "Fencing 2,802 feet $6,990.42"
+    },
+    {
+      "id": "B20",
+      "name": "Diversion",
+      "category": "General",
+      "keyword": null,
+      "quantity": 2040,
+      "unit": "feet",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "Diversion 2,040 feet $16,066.29|name_cost_tail_trim",
+      "originalName": "Diversion 2,040 feet $16,066.29"
+    },
+    {
+      "id": "B21",
+      "name": "Sub Surface Drain",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Sub Surface Drain 1ea $3,951.23|name_cost_tail_trim",
+      "originalName": "Sub Surface Drain 1ea $3,951.23"
+    },
+    {
+      "id": "B22",
+      "name": "$528.172.86",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$528.172.86"
+    },
+    {
+      "id": "B23",
+      "name": "Total Estimated Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Total Estimated Cost $7,040.26|name_cost_tail_trim",
+      "originalName": "Total Estimated Cost $7,040.26"
+    },
+    {
+      "id": "B24",
+      "name": "Section 319 Grant Funded BMPs",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Section 319 Grant Funded BMPs $528,172.86|name_cost_tail_trim",
+      "originalName": "Section 319 Grant Funded BMPs $528,172.86"
+    },
+    {
+      "id": "B25",
+      "name": "NRCS EQIP Funded BMPs",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "NRCS EQIP Funded BMPs $37,468.73|name_cost_tail_trim",
+      "originalName": "NRCS EQIP Funded BMPs $37,468.73"
+    },
+    {
+      "id": "B26",
+      "name": "Education and Outreach",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Education and Outreach  $7,040.26|name_cost_tail_trim",
+      "originalName": "Education and Outreach  $7,040.26"
+    },
+    {
+      "id": "B27",
+      "name": "Technical Assistance",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Technical Assistance $24,899.93|name_cost_tail_trim",
+      "originalName": "Technical Assistance $24,899.93"
+    },
+    {
+      "id": "B28",
+      "name": "Total",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Total $597,581.78 amount of $534,837.55 bringing the total project funding to $1,132,419.30.|name_cost_tail_trim",
+      "originalName": "Total $597,581.78 amount of $534,837.55 bringing the total project funding to $1,132,419.30."
+    }
+  ],
+  "bmpCostTable": {
+    "id": "adaptive_generic_costs",
+    "title": "NRCS, there has been over $96,000 spent on conservation practices in Union and Tippah",
+    "table": {
+      "columns": [
+        "Item",
+        "Cost",
+        "Extra?"
+      ],
+      "rows": [
+        {
+          "Item": "NRCS, there has been over",
+          "Cost": "$96,000",
+          "Extra": null
+        },
+        {
+          "Item": "Mulching 1.9 ac",
+          "Cost": "$907.35",
+          "Extra": null
+        },
+        {
+          "Item": "Land Clearing 1 ac",
+          "Cost": "$1,935.00",
+          "Extra": null
+        },
+        {
+          "Item": "Grade Stabilization Structure 5 no",
+          "Cost": "$22,248.70",
+          "Extra": null
+        },
+        {
+          "Item": "Critical Area Planting 1.9 ac",
+          "Cost": "$801.12",
+          "Extra": null
+        },
+        {
+          "Item": "Herbaceous Weed Control 32.8 ac",
+          "Cost": "$803.82",
+          "Extra": null
+        },
+        {
+          "Item": "Heavy Use Protection Area 2 no",
+          "Cost": "$1,431.25",
+          "Extra": null
+        },
+        {
+          "Item": "Watering Facility 2 no",
+          "Cost": "$2,145.01",
+          "Extra": null
+        },
+        {
+          "Item": "Livestock Pipeline 950 ft",
+          "Cost": "$2,104.60",
+          "Extra": null
+        },
+        {
+          "Item": "High Tunnel System 2160 sq ft",
+          "Cost": "$4,829.76",
+          "Extra": null
+        },
+        {
+          "Item": "Cover Crop 0.7 ac",
+          "Cost": "$87.40",
+          "Extra": null
+        },
+        {
+          "Item": "Micro-irrigation System 0.7 ac",
+          "Cost": "$174.72",
+          "Extra": null
+        },
+        {
+          "Item": "990 feet",
+          "Cost": "$78,555.00",
+          "Extra": null
+        },
+        {
+          "Item": "Grade Stabilization Structure 42 ea",
+          "Cost": "$398,624.06",
+          "Extra": null
+        },
+        {
+          "Item": "Stream Crossing 1 ea",
+          "Cost": "$10,500.00",
+          "Extra": null
+        },
+        {
+          "Item": "Heavy Use Protection Area 1 ea",
+          "Cost": "$4,260.00",
+          "Extra": null
+        },
+        {
+          "Item": "Tank and Trough 4 ea",
+          "Cost": "$9,225.86",
+          "Extra": null
+        },
+        {
+          "Item": "Fencing 2,802 feet",
+          "Cost": "$6,990.42",
+          "Extra": null
+        },
+        {
+          "Item": "Diversion 2,040 feet",
+          "Cost": "$16,066.29",
+          "Extra": null
+        },
+        {
+          "Item": "Sub Surface Drain 1ea",
+          "Cost": "$3,951.23",
+          "Extra": null
+        },
+        {
+          "Item": "Total Estimated Cost",
+          "Cost": "$7,040.26",
+          "Extra": null
+        }
+      ],
+      "total": null
+    },
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTableNormalized": {
+    "id": "adaptive_generic_costs",
+    "title": "NRCS, there has been over $96,000 spent on conservation practices in Union and Tippah",
+    "rows": [
+      {
+        "name": "NRCS, there has been over",
+        "totalCost": 96000,
+        "rawCost": "$96,000"
+      },
+      {
+        "name": "Mulching 1.9 ac",
+        "totalCost": 907.35,
+        "rawCost": "$907.35"
+      },
+      {
+        "name": "Land Clearing 1 ac",
+        "totalCost": 1935,
+        "rawCost": "$1,935.00"
+      },
+      {
+        "name": "Grade Stabilization Structure 5 no",
+        "totalCost": 22248.7,
+        "rawCost": "$22,248.70"
+      },
+      {
+        "name": "Critical Area Planting 1.9 ac",
+        "totalCost": 801.12,
+        "rawCost": "$801.12"
+      },
+      {
+        "name": "Herbaceous Weed Control 32.8 ac",
+        "totalCost": 803.82,
+        "rawCost": "$803.82"
+      },
+      {
+        "name": "Heavy Use Protection Area 2 no",
+        "totalCost": 1431.25,
+        "rawCost": "$1,431.25"
+      },
+      {
+        "name": "Watering Facility 2 no",
+        "totalCost": 2145.01,
+        "rawCost": "$2,145.01"
+      },
+      {
+        "name": "Livestock Pipeline 950 ft",
+        "totalCost": 2104.6,
+        "rawCost": "$2,104.60"
+      },
+      {
+        "name": "High Tunnel System 2160 sq ft",
+        "totalCost": 4829.76,
+        "rawCost": "$4,829.76"
+      },
+      {
+        "name": "Cover Crop 0.7 ac",
+        "totalCost": 87.4,
+        "rawCost": "$87.40"
+      },
+      {
+        "name": "Micro-irrigation System 0.7 ac",
+        "totalCost": 174.72,
+        "rawCost": "$174.72"
+      },
+      {
+        "name": "990 feet",
+        "totalCost": 78555,
+        "rawCost": "$78,555.00"
+      },
+      {
+        "name": "Grade Stabilization Structure 42 ea",
+        "totalCost": 398624.06,
+        "rawCost": "$398,624.06"
+      },
+      {
+        "name": "Stream Crossing 1 ea",
+        "totalCost": 10500,
+        "rawCost": "$10,500.00"
+      },
+      {
+        "name": "Heavy Use Protection Area 1 ea",
+        "totalCost": 4260,
+        "rawCost": "$4,260.00"
+      },
+      {
+        "name": "Tank and Trough 4 ea",
+        "totalCost": 9225.86,
+        "rawCost": "$9,225.86"
+      },
+      {
+        "name": "Fencing 2,802 feet",
+        "totalCost": 6990.42,
+        "rawCost": "$6,990.42"
+      },
+      {
+        "name": "Diversion 2,040 feet",
+        "totalCost": 16066.29,
+        "rawCost": "$16,066.29"
+      },
+      {
+        "name": "Sub Surface Drain 1ea",
+        "totalCost": 3951.23,
+        "rawCost": "$3,951.23"
+      },
+      {
+        "name": "Total Estimated Cost",
+        "totalCost": 7040.26,
+        "rawCost": "$7,040.26"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 668681.8500000001,
+    "discrepancy": null,
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTables": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "NRCS, there has been over $96,000 spent on conservation practices in Union and Tippah",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "NRCS, there has been over",
+            "Cost": "$96,000",
+            "Extra": null
+          },
+          {
+            "Item": "Mulching 1.9 ac",
+            "Cost": "$907.35",
+            "Extra": null
+          },
+          {
+            "Item": "Land Clearing 1 ac",
+            "Cost": "$1,935.00",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure 5 no",
+            "Cost": "$22,248.70",
+            "Extra": null
+          },
+          {
+            "Item": "Critical Area Planting 1.9 ac",
+            "Cost": "$801.12",
+            "Extra": null
+          },
+          {
+            "Item": "Herbaceous Weed Control 32.8 ac",
+            "Cost": "$803.82",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Protection Area 2 no",
+            "Cost": "$1,431.25",
+            "Extra": null
+          },
+          {
+            "Item": "Watering Facility 2 no",
+            "Cost": "$2,145.01",
+            "Extra": null
+          },
+          {
+            "Item": "Livestock Pipeline 950 ft",
+            "Cost": "$2,104.60",
+            "Extra": null
+          },
+          {
+            "Item": "High Tunnel System 2160 sq ft",
+            "Cost": "$4,829.76",
+            "Extra": null
+          },
+          {
+            "Item": "Cover Crop 0.7 ac",
+            "Cost": "$87.40",
+            "Extra": null
+          },
+          {
+            "Item": "Micro-irrigation System 0.7 ac",
+            "Cost": "$174.72",
+            "Extra": null
+          },
+          {
+            "Item": "990 feet",
+            "Cost": "$78,555.00",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure 42 ea",
+            "Cost": "$398,624.06",
+            "Extra": null
+          },
+          {
+            "Item": "Stream Crossing 1 ea",
+            "Cost": "$10,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Protection Area 1 ea",
+            "Cost": "$4,260.00",
+            "Extra": null
+          },
+          {
+            "Item": "Tank and Trough 4 ea",
+            "Cost": "$9,225.86",
+            "Extra": null
+          },
+          {
+            "Item": "Fencing 2,802 feet",
+            "Cost": "$6,990.42",
+            "Extra": null
+          },
+          {
+            "Item": "Diversion 2,040 feet",
+            "Cost": "$16,066.29",
+            "Extra": null
+          },
+          {
+            "Item": "Sub Surface Drain 1ea",
+            "Cost": "$3,951.23",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$7,040.26",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Mulching 1.9 ac $907.35",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Mulching 1.9 ac",
+            "Cost": "$907.35",
+            "Extra": null
+          },
+          {
+            "Item": "Land Clearing 1 ac",
+            "Cost": "$1,935.00",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure 5 no",
+            "Cost": "$22,248.70",
+            "Extra": null
+          },
+          {
+            "Item": "Critical Area Planting 1.9 ac",
+            "Cost": "$801.12",
+            "Extra": null
+          },
+          {
+            "Item": "Herbaceous Weed Control 32.8 ac",
+            "Cost": "$803.82",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Protection Area 2 no",
+            "Cost": "$1,431.25",
+            "Extra": null
+          },
+          {
+            "Item": "Watering Facility 2 no",
+            "Cost": "$2,145.01",
+            "Extra": null
+          },
+          {
+            "Item": "Livestock Pipeline 950 ft",
+            "Cost": "$2,104.60",
+            "Extra": null
+          },
+          {
+            "Item": "High Tunnel System 2160 sq ft",
+            "Cost": "$4,829.76",
+            "Extra": null
+          },
+          {
+            "Item": "Cover Crop 0.7 ac",
+            "Cost": "$87.40",
+            "Extra": null
+          },
+          {
+            "Item": "Micro-irrigation System 0.7 ac",
+            "Cost": "$174.72",
+            "Extra": null
+          },
+          {
+            "Item": "990 feet",
+            "Cost": "$78,555.00",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure 42 ea",
+            "Cost": "$398,624.06",
+            "Extra": null
+          },
+          {
+            "Item": "Stream Crossing 1 ea",
+            "Cost": "$10,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Protection Area 1 ea",
+            "Cost": "$4,260.00",
+            "Extra": null
+          },
+          {
+            "Item": "Tank and Trough 4 ea",
+            "Cost": "$9,225.86",
+            "Extra": null
+          },
+          {
+            "Item": "Fencing 2,802 feet",
+            "Cost": "$6,990.42",
+            "Extra": null
+          },
+          {
+            "Item": "Diversion 2,040 feet",
+            "Cost": "$16,066.29",
+            "Extra": null
+          },
+          {
+            "Item": "Sub Surface Drain 1ea",
+            "Cost": "$3,951.23",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$7,040.26",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Land Clearing 1 ac $1,935.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Land Clearing 1 ac",
+            "Cost": "$1,935.00",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure 5 no",
+            "Cost": "$22,248.70",
+            "Extra": null
+          },
+          {
+            "Item": "Critical Area Planting 1.9 ac",
+            "Cost": "$801.12",
+            "Extra": null
+          },
+          {
+            "Item": "Herbaceous Weed Control 32.8 ac",
+            "Cost": "$803.82",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Protection Area 2 no",
+            "Cost": "$1,431.25",
+            "Extra": null
+          },
+          {
+            "Item": "Watering Facility 2 no",
+            "Cost": "$2,145.01",
+            "Extra": null
+          },
+          {
+            "Item": "Livestock Pipeline 950 ft",
+            "Cost": "$2,104.60",
+            "Extra": null
+          },
+          {
+            "Item": "High Tunnel System 2160 sq ft",
+            "Cost": "$4,829.76",
+            "Extra": null
+          },
+          {
+            "Item": "Cover Crop 0.7 ac",
+            "Cost": "$87.40",
+            "Extra": null
+          },
+          {
+            "Item": "Micro-irrigation System 0.7 ac",
+            "Cost": "$174.72",
+            "Extra": null
+          },
+          {
+            "Item": "990 feet",
+            "Cost": "$78,555.00",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure 42 ea",
+            "Cost": "$398,624.06",
+            "Extra": null
+          },
+          {
+            "Item": "Stream Crossing 1 ea",
+            "Cost": "$10,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Protection Area 1 ea",
+            "Cost": "$4,260.00",
+            "Extra": null
+          },
+          {
+            "Item": "Tank and Trough 4 ea",
+            "Cost": "$9,225.86",
+            "Extra": null
+          },
+          {
+            "Item": "Fencing 2,802 feet",
+            "Cost": "$6,990.42",
+            "Extra": null
+          },
+          {
+            "Item": "Diversion 2,040 feet",
+            "Cost": "$16,066.29",
+            "Extra": null
+          },
+          {
+            "Item": "Sub Surface Drain 1ea",
+            "Cost": "$3,951.23",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$7,040.26",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Grade Stabilization Structure 5 no $22,248.70",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Grade Stabilization Structure 5 no",
+            "Cost": "$22,248.70",
+            "Extra": null
+          },
+          {
+            "Item": "Critical Area Planting 1.9 ac",
+            "Cost": "$801.12",
+            "Extra": null
+          },
+          {
+            "Item": "Herbaceous Weed Control 32.8 ac",
+            "Cost": "$803.82",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Protection Area 2 no",
+            "Cost": "$1,431.25",
+            "Extra": null
+          },
+          {
+            "Item": "Watering Facility 2 no",
+            "Cost": "$2,145.01",
+            "Extra": null
+          },
+          {
+            "Item": "Livestock Pipeline 950 ft",
+            "Cost": "$2,104.60",
+            "Extra": null
+          },
+          {
+            "Item": "High Tunnel System 2160 sq ft",
+            "Cost": "$4,829.76",
+            "Extra": null
+          },
+          {
+            "Item": "Cover Crop 0.7 ac",
+            "Cost": "$87.40",
+            "Extra": null
+          },
+          {
+            "Item": "Micro-irrigation System 0.7 ac",
+            "Cost": "$174.72",
+            "Extra": null
+          },
+          {
+            "Item": "990 feet",
+            "Cost": "$78,555.00",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure 42 ea",
+            "Cost": "$398,624.06",
+            "Extra": null
+          },
+          {
+            "Item": "Stream Crossing 1 ea",
+            "Cost": "$10,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Protection Area 1 ea",
+            "Cost": "$4,260.00",
+            "Extra": null
+          },
+          {
+            "Item": "Tank and Trough 4 ea",
+            "Cost": "$9,225.86",
+            "Extra": null
+          },
+          {
+            "Item": "Fencing 2,802 feet",
+            "Cost": "$6,990.42",
+            "Extra": null
+          },
+          {
+            "Item": "Diversion 2,040 feet",
+            "Cost": "$16,066.29",
+            "Extra": null
+          },
+          {
+            "Item": "Sub Surface Drain 1ea",
+            "Cost": "$3,951.23",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$7,040.26",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Critical Area Planting 1.9 ac $801.12",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Critical Area Planting 1.9 ac",
+            "Cost": "$801.12",
+            "Extra": null
+          },
+          {
+            "Item": "Herbaceous Weed Control 32.8 ac",
+            "Cost": "$803.82",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Protection Area 2 no",
+            "Cost": "$1,431.25",
+            "Extra": null
+          },
+          {
+            "Item": "Watering Facility 2 no",
+            "Cost": "$2,145.01",
+            "Extra": null
+          },
+          {
+            "Item": "Livestock Pipeline 950 ft",
+            "Cost": "$2,104.60",
+            "Extra": null
+          },
+          {
+            "Item": "High Tunnel System 2160 sq ft",
+            "Cost": "$4,829.76",
+            "Extra": null
+          },
+          {
+            "Item": "Cover Crop 0.7 ac",
+            "Cost": "$87.40",
+            "Extra": null
+          },
+          {
+            "Item": "Micro-irrigation System 0.7 ac",
+            "Cost": "$174.72",
+            "Extra": null
+          },
+          {
+            "Item": "990 feet",
+            "Cost": "$78,555.00",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure 42 ea",
+            "Cost": "$398,624.06",
+            "Extra": null
+          },
+          {
+            "Item": "Stream Crossing 1 ea",
+            "Cost": "$10,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Protection Area 1 ea",
+            "Cost": "$4,260.00",
+            "Extra": null
+          },
+          {
+            "Item": "Tank and Trough 4 ea",
+            "Cost": "$9,225.86",
+            "Extra": null
+          },
+          {
+            "Item": "Fencing 2,802 feet",
+            "Cost": "$6,990.42",
+            "Extra": null
+          },
+          {
+            "Item": "Diversion 2,040 feet",
+            "Cost": "$16,066.29",
+            "Extra": null
+          },
+          {
+            "Item": "Sub Surface Drain 1ea",
+            "Cost": "$3,951.23",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$7,040.26",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Herbaceous Weed Control 32.8 ac $803.82",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Herbaceous Weed Control 32.8 ac",
+            "Cost": "$803.82",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Protection Area 2 no",
+            "Cost": "$1,431.25",
+            "Extra": null
+          },
+          {
+            "Item": "Watering Facility 2 no",
+            "Cost": "$2,145.01",
+            "Extra": null
+          },
+          {
+            "Item": "Livestock Pipeline 950 ft",
+            "Cost": "$2,104.60",
+            "Extra": null
+          },
+          {
+            "Item": "High Tunnel System 2160 sq ft",
+            "Cost": "$4,829.76",
+            "Extra": null
+          },
+          {
+            "Item": "Cover Crop 0.7 ac",
+            "Cost": "$87.40",
+            "Extra": null
+          },
+          {
+            "Item": "Micro-irrigation System 0.7 ac",
+            "Cost": "$174.72",
+            "Extra": null
+          },
+          {
+            "Item": "990 feet",
+            "Cost": "$78,555.00",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure 42 ea",
+            "Cost": "$398,624.06",
+            "Extra": null
+          },
+          {
+            "Item": "Stream Crossing 1 ea",
+            "Cost": "$10,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Protection Area 1 ea",
+            "Cost": "$4,260.00",
+            "Extra": null
+          },
+          {
+            "Item": "Tank and Trough 4 ea",
+            "Cost": "$9,225.86",
+            "Extra": null
+          },
+          {
+            "Item": "Fencing 2,802 feet",
+            "Cost": "$6,990.42",
+            "Extra": null
+          },
+          {
+            "Item": "Diversion 2,040 feet",
+            "Cost": "$16,066.29",
+            "Extra": null
+          },
+          {
+            "Item": "Sub Surface Drain 1ea",
+            "Cost": "$3,951.23",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$7,040.26",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Heavy Use Protection Area 2 no $1,431.25",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Heavy Use Protection Area 2 no",
+            "Cost": "$1,431.25",
+            "Extra": null
+          },
+          {
+            "Item": "Watering Facility 2 no",
+            "Cost": "$2,145.01",
+            "Extra": null
+          },
+          {
+            "Item": "Livestock Pipeline 950 ft",
+            "Cost": "$2,104.60",
+            "Extra": null
+          },
+          {
+            "Item": "High Tunnel System 2160 sq ft",
+            "Cost": "$4,829.76",
+            "Extra": null
+          },
+          {
+            "Item": "Cover Crop 0.7 ac",
+            "Cost": "$87.40",
+            "Extra": null
+          },
+          {
+            "Item": "Micro-irrigation System 0.7 ac",
+            "Cost": "$174.72",
+            "Extra": null
+          },
+          {
+            "Item": "990 feet",
+            "Cost": "$78,555.00",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure 42 ea",
+            "Cost": "$398,624.06",
+            "Extra": null
+          },
+          {
+            "Item": "Stream Crossing 1 ea",
+            "Cost": "$10,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Protection Area 1 ea",
+            "Cost": "$4,260.00",
+            "Extra": null
+          },
+          {
+            "Item": "Tank and Trough 4 ea",
+            "Cost": "$9,225.86",
+            "Extra": null
+          },
+          {
+            "Item": "Fencing 2,802 feet",
+            "Cost": "$6,990.42",
+            "Extra": null
+          },
+          {
+            "Item": "Diversion 2,040 feet",
+            "Cost": "$16,066.29",
+            "Extra": null
+          },
+          {
+            "Item": "Sub Surface Drain 1ea",
+            "Cost": "$3,951.23",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$7,040.26",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Watering Facility 2 no $2,145.01",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Watering Facility 2 no",
+            "Cost": "$2,145.01",
+            "Extra": null
+          },
+          {
+            "Item": "Livestock Pipeline 950 ft",
+            "Cost": "$2,104.60",
+            "Extra": null
+          },
+          {
+            "Item": "High Tunnel System 2160 sq ft",
+            "Cost": "$4,829.76",
+            "Extra": null
+          },
+          {
+            "Item": "Cover Crop 0.7 ac",
+            "Cost": "$87.40",
+            "Extra": null
+          },
+          {
+            "Item": "Micro-irrigation System 0.7 ac",
+            "Cost": "$174.72",
+            "Extra": null
+          },
+          {
+            "Item": "990 feet",
+            "Cost": "$78,555.00",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure 42 ea",
+            "Cost": "$398,624.06",
+            "Extra": null
+          },
+          {
+            "Item": "Stream Crossing 1 ea",
+            "Cost": "$10,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Protection Area 1 ea",
+            "Cost": "$4,260.00",
+            "Extra": null
+          },
+          {
+            "Item": "Tank and Trough 4 ea",
+            "Cost": "$9,225.86",
+            "Extra": null
+          },
+          {
+            "Item": "Fencing 2,802 feet",
+            "Cost": "$6,990.42",
+            "Extra": null
+          },
+          {
+            "Item": "Diversion 2,040 feet",
+            "Cost": "$16,066.29",
+            "Extra": null
+          },
+          {
+            "Item": "Sub Surface Drain 1ea",
+            "Cost": "$3,951.23",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$7,040.26",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Livestock Pipeline 950 ft $2,104.60",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Livestock Pipeline 950 ft",
+            "Cost": "$2,104.60",
+            "Extra": null
+          },
+          {
+            "Item": "High Tunnel System 2160 sq ft",
+            "Cost": "$4,829.76",
+            "Extra": null
+          },
+          {
+            "Item": "Cover Crop 0.7 ac",
+            "Cost": "$87.40",
+            "Extra": null
+          },
+          {
+            "Item": "Micro-irrigation System 0.7 ac",
+            "Cost": "$174.72",
+            "Extra": null
+          },
+          {
+            "Item": "990 feet",
+            "Cost": "$78,555.00",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure 42 ea",
+            "Cost": "$398,624.06",
+            "Extra": null
+          },
+          {
+            "Item": "Stream Crossing 1 ea",
+            "Cost": "$10,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Protection Area 1 ea",
+            "Cost": "$4,260.00",
+            "Extra": null
+          },
+          {
+            "Item": "Tank and Trough 4 ea",
+            "Cost": "$9,225.86",
+            "Extra": null
+          },
+          {
+            "Item": "Fencing 2,802 feet",
+            "Cost": "$6,990.42",
+            "Extra": null
+          },
+          {
+            "Item": "Diversion 2,040 feet",
+            "Cost": "$16,066.29",
+            "Extra": null
+          },
+          {
+            "Item": "Sub Surface Drain 1ea",
+            "Cost": "$3,951.23",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$7,040.26",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "High Tunnel System 2160 sq ft $4,829.76",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "High Tunnel System 2160 sq ft",
+            "Cost": "$4,829.76",
+            "Extra": null
+          },
+          {
+            "Item": "Cover Crop 0.7 ac",
+            "Cost": "$87.40",
+            "Extra": null
+          },
+          {
+            "Item": "Micro-irrigation System 0.7 ac",
+            "Cost": "$174.72",
+            "Extra": null
+          },
+          {
+            "Item": "990 feet",
+            "Cost": "$78,555.00",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure 42 ea",
+            "Cost": "$398,624.06",
+            "Extra": null
+          },
+          {
+            "Item": "Stream Crossing 1 ea",
+            "Cost": "$10,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Protection Area 1 ea",
+            "Cost": "$4,260.00",
+            "Extra": null
+          },
+          {
+            "Item": "Tank and Trough 4 ea",
+            "Cost": "$9,225.86",
+            "Extra": null
+          },
+          {
+            "Item": "Fencing 2,802 feet",
+            "Cost": "$6,990.42",
+            "Extra": null
+          },
+          {
+            "Item": "Diversion 2,040 feet",
+            "Cost": "$16,066.29",
+            "Extra": null
+          },
+          {
+            "Item": "Sub Surface Drain 1ea",
+            "Cost": "$3,951.23",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$7,040.26",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Cover Crop 0.7 ac $87.40",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Cover Crop 0.7 ac",
+            "Cost": "$87.40",
+            "Extra": null
+          },
+          {
+            "Item": "Micro-irrigation System 0.7 ac",
+            "Cost": "$174.72",
+            "Extra": null
+          },
+          {
+            "Item": "990 feet",
+            "Cost": "$78,555.00",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure 42 ea",
+            "Cost": "$398,624.06",
+            "Extra": null
+          },
+          {
+            "Item": "Stream Crossing 1 ea",
+            "Cost": "$10,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Protection Area 1 ea",
+            "Cost": "$4,260.00",
+            "Extra": null
+          },
+          {
+            "Item": "Tank and Trough 4 ea",
+            "Cost": "$9,225.86",
+            "Extra": null
+          },
+          {
+            "Item": "Fencing 2,802 feet",
+            "Cost": "$6,990.42",
+            "Extra": null
+          },
+          {
+            "Item": "Diversion 2,040 feet",
+            "Cost": "$16,066.29",
+            "Extra": null
+          },
+          {
+            "Item": "Sub Surface Drain 1ea",
+            "Cost": "$3,951.23",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$7,040.26",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Micro-irrigation System 0.7 ac $174.72",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Micro-irrigation System 0.7 ac",
+            "Cost": "$174.72",
+            "Extra": null
+          },
+          {
+            "Item": "990 feet",
+            "Cost": "$78,555.00",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure 42 ea",
+            "Cost": "$398,624.06",
+            "Extra": null
+          },
+          {
+            "Item": "Stream Crossing 1 ea",
+            "Cost": "$10,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Protection Area 1 ea",
+            "Cost": "$4,260.00",
+            "Extra": null
+          },
+          {
+            "Item": "Tank and Trough 4 ea",
+            "Cost": "$9,225.86",
+            "Extra": null
+          },
+          {
+            "Item": "Fencing 2,802 feet",
+            "Cost": "$6,990.42",
+            "Extra": null
+          },
+          {
+            "Item": "Diversion 2,040 feet",
+            "Cost": "$16,066.29",
+            "Extra": null
+          },
+          {
+            "Item": "Sub Surface Drain 1ea",
+            "Cost": "$3,951.23",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$7,040.26",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$37,468.73",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "990 feet",
+            "Cost": "$78,555.00",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure 42 ea",
+            "Cost": "$398,624.06",
+            "Extra": null
+          },
+          {
+            "Item": "Stream Crossing 1 ea",
+            "Cost": "$10,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Protection Area 1 ea",
+            "Cost": "$4,260.00",
+            "Extra": null
+          },
+          {
+            "Item": "Tank and Trough 4 ea",
+            "Cost": "$9,225.86",
+            "Extra": null
+          },
+          {
+            "Item": "Fencing 2,802 feet",
+            "Cost": "$6,990.42",
+            "Extra": null
+          },
+          {
+            "Item": "Diversion 2,040 feet",
+            "Cost": "$16,066.29",
+            "Extra": null
+          },
+          {
+            "Item": "Sub Surface Drain 1ea",
+            "Cost": "$3,951.23",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$7,040.26",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "990 feet $78,555.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "990 feet",
+            "Cost": "$78,555.00",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure 42 ea",
+            "Cost": "$398,624.06",
+            "Extra": null
+          },
+          {
+            "Item": "Stream Crossing 1 ea",
+            "Cost": "$10,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Protection Area 1 ea",
+            "Cost": "$4,260.00",
+            "Extra": null
+          },
+          {
+            "Item": "Tank and Trough 4 ea",
+            "Cost": "$9,225.86",
+            "Extra": null
+          },
+          {
+            "Item": "Fencing 2,802 feet",
+            "Cost": "$6,990.42",
+            "Extra": null
+          },
+          {
+            "Item": "Diversion 2,040 feet",
+            "Cost": "$16,066.29",
+            "Extra": null
+          },
+          {
+            "Item": "Sub Surface Drain 1ea",
+            "Cost": "$3,951.23",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$7,040.26",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Grade Stabilization Structure 42 ea $398,624.06",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Grade Stabilization Structure 42 ea",
+            "Cost": "$398,624.06",
+            "Extra": null
+          },
+          {
+            "Item": "Stream Crossing 1 ea",
+            "Cost": "$10,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Protection Area 1 ea",
+            "Cost": "$4,260.00",
+            "Extra": null
+          },
+          {
+            "Item": "Tank and Trough 4 ea",
+            "Cost": "$9,225.86",
+            "Extra": null
+          },
+          {
+            "Item": "Fencing 2,802 feet",
+            "Cost": "$6,990.42",
+            "Extra": null
+          },
+          {
+            "Item": "Diversion 2,040 feet",
+            "Cost": "$16,066.29",
+            "Extra": null
+          },
+          {
+            "Item": "Sub Surface Drain 1ea",
+            "Cost": "$3,951.23",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$7,040.26",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Stream Crossing 1 ea $10,500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Stream Crossing 1 ea",
+            "Cost": "$10,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Protection Area 1 ea",
+            "Cost": "$4,260.00",
+            "Extra": null
+          },
+          {
+            "Item": "Tank and Trough 4 ea",
+            "Cost": "$9,225.86",
+            "Extra": null
+          },
+          {
+            "Item": "Fencing 2,802 feet",
+            "Cost": "$6,990.42",
+            "Extra": null
+          },
+          {
+            "Item": "Diversion 2,040 feet",
+            "Cost": "$16,066.29",
+            "Extra": null
+          },
+          {
+            "Item": "Sub Surface Drain 1ea",
+            "Cost": "$3,951.23",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$7,040.26",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Heavy Use Protection Area 1 ea $4,260.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Heavy Use Protection Area 1 ea",
+            "Cost": "$4,260.00",
+            "Extra": null
+          },
+          {
+            "Item": "Tank and Trough 4 ea",
+            "Cost": "$9,225.86",
+            "Extra": null
+          },
+          {
+            "Item": "Fencing 2,802 feet",
+            "Cost": "$6,990.42",
+            "Extra": null
+          },
+          {
+            "Item": "Diversion 2,040 feet",
+            "Cost": "$16,066.29",
+            "Extra": null
+          },
+          {
+            "Item": "Sub Surface Drain 1ea",
+            "Cost": "$3,951.23",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$7,040.26",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Tank and Trough 4 ea $9,225.86",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Tank and Trough 4 ea",
+            "Cost": "$9,225.86",
+            "Extra": null
+          },
+          {
+            "Item": "Fencing 2,802 feet",
+            "Cost": "$6,990.42",
+            "Extra": null
+          },
+          {
+            "Item": "Diversion 2,040 feet",
+            "Cost": "$16,066.29",
+            "Extra": null
+          },
+          {
+            "Item": "Sub Surface Drain 1ea",
+            "Cost": "$3,951.23",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$7,040.26",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Fencing 2,802 feet $6,990.42",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Fencing 2,802 feet",
+            "Cost": "$6,990.42",
+            "Extra": null
+          },
+          {
+            "Item": "Diversion 2,040 feet",
+            "Cost": "$16,066.29",
+            "Extra": null
+          },
+          {
+            "Item": "Sub Surface Drain 1ea",
+            "Cost": "$3,951.23",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$7,040.26",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Diversion 2,040 feet $16,066.29",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Diversion 2,040 feet",
+            "Cost": "$16,066.29",
+            "Extra": null
+          },
+          {
+            "Item": "Sub Surface Drain 1ea",
+            "Cost": "$3,951.23",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Cost",
+            "Cost": "$7,040.26",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "NRCS EQIP Funded BMPs $37,468.73",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "NRCS EQIP Funded BMPs",
+            "Cost": "$37,468.73",
+            "Extra": null
+          },
+          {
+            "Item": "Education and Outreach",
+            "Cost": "$7,040.26",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$24,899.93",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$597,581.78",
+            "Extra": null
+          },
+          {
+            "Item": "amount of",
+            "Cost": "$534,837.55",
+            "Extra": "$1,132,419.30"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Education and Outreach  $7,040.26",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Education and Outreach",
+            "Cost": "$7,040.26",
+            "Extra": null
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$24,899.93",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$597,581.78",
+            "Extra": null
+          },
+          {
+            "Item": "amount of",
+            "Cost": "$534,837.55",
+            "Extra": "$1,132,419.30"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Technical Assistance $24,899.93",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$24,899.93",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$597,581.78",
+            "Extra": null
+          },
+          {
+            "Item": "amount of",
+            "Cost": "$534,837.55",
+            "Extra": "$1,132,419.30"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "NRCS, there has been over $96,000 spent on conservation practices in Union and Tippah",
+      "rows": [
+        {
+          "name": "NRCS, there has been over",
+          "totalCost": 96000,
+          "rawCost": "$96,000"
+        },
+        {
+          "name": "Mulching 1.9 ac",
+          "totalCost": 907.35,
+          "rawCost": "$907.35"
+        },
+        {
+          "name": "Land Clearing 1 ac",
+          "totalCost": 1935,
+          "rawCost": "$1,935.00"
+        },
+        {
+          "name": "Grade Stabilization Structure 5 no",
+          "totalCost": 22248.7,
+          "rawCost": "$22,248.70"
+        },
+        {
+          "name": "Critical Area Planting 1.9 ac",
+          "totalCost": 801.12,
+          "rawCost": "$801.12"
+        },
+        {
+          "name": "Herbaceous Weed Control 32.8 ac",
+          "totalCost": 803.82,
+          "rawCost": "$803.82"
+        },
+        {
+          "name": "Heavy Use Protection Area 2 no",
+          "totalCost": 1431.25,
+          "rawCost": "$1,431.25"
+        },
+        {
+          "name": "Watering Facility 2 no",
+          "totalCost": 2145.01,
+          "rawCost": "$2,145.01"
+        },
+        {
+          "name": "Livestock Pipeline 950 ft",
+          "totalCost": 2104.6,
+          "rawCost": "$2,104.60"
+        },
+        {
+          "name": "High Tunnel System 2160 sq ft",
+          "totalCost": 4829.76,
+          "rawCost": "$4,829.76"
+        },
+        {
+          "name": "Cover Crop 0.7 ac",
+          "totalCost": 87.4,
+          "rawCost": "$87.40"
+        },
+        {
+          "name": "Micro-irrigation System 0.7 ac",
+          "totalCost": 174.72,
+          "rawCost": "$174.72"
+        },
+        {
+          "name": "990 feet",
+          "totalCost": 78555,
+          "rawCost": "$78,555.00"
+        },
+        {
+          "name": "Grade Stabilization Structure 42 ea",
+          "totalCost": 398624.06,
+          "rawCost": "$398,624.06"
+        },
+        {
+          "name": "Stream Crossing 1 ea",
+          "totalCost": 10500,
+          "rawCost": "$10,500.00"
+        },
+        {
+          "name": "Heavy Use Protection Area 1 ea",
+          "totalCost": 4260,
+          "rawCost": "$4,260.00"
+        },
+        {
+          "name": "Tank and Trough 4 ea",
+          "totalCost": 9225.86,
+          "rawCost": "$9,225.86"
+        },
+        {
+          "name": "Fencing 2,802 feet",
+          "totalCost": 6990.42,
+          "rawCost": "$6,990.42"
+        },
+        {
+          "name": "Diversion 2,040 feet",
+          "totalCost": 16066.29,
+          "rawCost": "$16,066.29"
+        },
+        {
+          "name": "Sub Surface Drain 1ea",
+          "totalCost": 3951.23,
+          "rawCost": "$3,951.23"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 7040.26,
+          "rawCost": "$7,040.26"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 668681.8500000001,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Mulching 1.9 ac $907.35",
+      "rows": [
+        {
+          "name": "Mulching 1.9 ac",
+          "totalCost": 907.35,
+          "rawCost": "$907.35"
+        },
+        {
+          "name": "Land Clearing 1 ac",
+          "totalCost": 1935,
+          "rawCost": "$1,935.00"
+        },
+        {
+          "name": "Grade Stabilization Structure 5 no",
+          "totalCost": 22248.7,
+          "rawCost": "$22,248.70"
+        },
+        {
+          "name": "Critical Area Planting 1.9 ac",
+          "totalCost": 801.12,
+          "rawCost": "$801.12"
+        },
+        {
+          "name": "Herbaceous Weed Control 32.8 ac",
+          "totalCost": 803.82,
+          "rawCost": "$803.82"
+        },
+        {
+          "name": "Heavy Use Protection Area 2 no",
+          "totalCost": 1431.25,
+          "rawCost": "$1,431.25"
+        },
+        {
+          "name": "Watering Facility 2 no",
+          "totalCost": 2145.01,
+          "rawCost": "$2,145.01"
+        },
+        {
+          "name": "Livestock Pipeline 950 ft",
+          "totalCost": 2104.6,
+          "rawCost": "$2,104.60"
+        },
+        {
+          "name": "High Tunnel System 2160 sq ft",
+          "totalCost": 4829.76,
+          "rawCost": "$4,829.76"
+        },
+        {
+          "name": "Cover Crop 0.7 ac",
+          "totalCost": 87.4,
+          "rawCost": "$87.40"
+        },
+        {
+          "name": "Micro-irrigation System 0.7 ac",
+          "totalCost": 174.72,
+          "rawCost": "$174.72"
+        },
+        {
+          "name": "990 feet",
+          "totalCost": 78555,
+          "rawCost": "$78,555.00"
+        },
+        {
+          "name": "Grade Stabilization Structure 42 ea",
+          "totalCost": 398624.06,
+          "rawCost": "$398,624.06"
+        },
+        {
+          "name": "Stream Crossing 1 ea",
+          "totalCost": 10500,
+          "rawCost": "$10,500.00"
+        },
+        {
+          "name": "Heavy Use Protection Area 1 ea",
+          "totalCost": 4260,
+          "rawCost": "$4,260.00"
+        },
+        {
+          "name": "Tank and Trough 4 ea",
+          "totalCost": 9225.86,
+          "rawCost": "$9,225.86"
+        },
+        {
+          "name": "Fencing 2,802 feet",
+          "totalCost": 6990.42,
+          "rawCost": "$6,990.42"
+        },
+        {
+          "name": "Diversion 2,040 feet",
+          "totalCost": 16066.29,
+          "rawCost": "$16,066.29"
+        },
+        {
+          "name": "Sub Surface Drain 1ea",
+          "totalCost": 3951.23,
+          "rawCost": "$3,951.23"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 7040.26,
+          "rawCost": "$7,040.26"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 572681.8500000001,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Land Clearing 1 ac $1,935.00",
+      "rows": [
+        {
+          "name": "Land Clearing 1 ac",
+          "totalCost": 1935,
+          "rawCost": "$1,935.00"
+        },
+        {
+          "name": "Grade Stabilization Structure 5 no",
+          "totalCost": 22248.7,
+          "rawCost": "$22,248.70"
+        },
+        {
+          "name": "Critical Area Planting 1.9 ac",
+          "totalCost": 801.12,
+          "rawCost": "$801.12"
+        },
+        {
+          "name": "Herbaceous Weed Control 32.8 ac",
+          "totalCost": 803.82,
+          "rawCost": "$803.82"
+        },
+        {
+          "name": "Heavy Use Protection Area 2 no",
+          "totalCost": 1431.25,
+          "rawCost": "$1,431.25"
+        },
+        {
+          "name": "Watering Facility 2 no",
+          "totalCost": 2145.01,
+          "rawCost": "$2,145.01"
+        },
+        {
+          "name": "Livestock Pipeline 950 ft",
+          "totalCost": 2104.6,
+          "rawCost": "$2,104.60"
+        },
+        {
+          "name": "High Tunnel System 2160 sq ft",
+          "totalCost": 4829.76,
+          "rawCost": "$4,829.76"
+        },
+        {
+          "name": "Cover Crop 0.7 ac",
+          "totalCost": 87.4,
+          "rawCost": "$87.40"
+        },
+        {
+          "name": "Micro-irrigation System 0.7 ac",
+          "totalCost": 174.72,
+          "rawCost": "$174.72"
+        },
+        {
+          "name": "990 feet",
+          "totalCost": 78555,
+          "rawCost": "$78,555.00"
+        },
+        {
+          "name": "Grade Stabilization Structure 42 ea",
+          "totalCost": 398624.06,
+          "rawCost": "$398,624.06"
+        },
+        {
+          "name": "Stream Crossing 1 ea",
+          "totalCost": 10500,
+          "rawCost": "$10,500.00"
+        },
+        {
+          "name": "Heavy Use Protection Area 1 ea",
+          "totalCost": 4260,
+          "rawCost": "$4,260.00"
+        },
+        {
+          "name": "Tank and Trough 4 ea",
+          "totalCost": 9225.86,
+          "rawCost": "$9,225.86"
+        },
+        {
+          "name": "Fencing 2,802 feet",
+          "totalCost": 6990.42,
+          "rawCost": "$6,990.42"
+        },
+        {
+          "name": "Diversion 2,040 feet",
+          "totalCost": 16066.29,
+          "rawCost": "$16,066.29"
+        },
+        {
+          "name": "Sub Surface Drain 1ea",
+          "totalCost": 3951.23,
+          "rawCost": "$3,951.23"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 7040.26,
+          "rawCost": "$7,040.26"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 571774.5,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Grade Stabilization Structure 5 no $22,248.70",
+      "rows": [
+        {
+          "name": "Grade Stabilization Structure 5 no",
+          "totalCost": 22248.7,
+          "rawCost": "$22,248.70"
+        },
+        {
+          "name": "Critical Area Planting 1.9 ac",
+          "totalCost": 801.12,
+          "rawCost": "$801.12"
+        },
+        {
+          "name": "Herbaceous Weed Control 32.8 ac",
+          "totalCost": 803.82,
+          "rawCost": "$803.82"
+        },
+        {
+          "name": "Heavy Use Protection Area 2 no",
+          "totalCost": 1431.25,
+          "rawCost": "$1,431.25"
+        },
+        {
+          "name": "Watering Facility 2 no",
+          "totalCost": 2145.01,
+          "rawCost": "$2,145.01"
+        },
+        {
+          "name": "Livestock Pipeline 950 ft",
+          "totalCost": 2104.6,
+          "rawCost": "$2,104.60"
+        },
+        {
+          "name": "High Tunnel System 2160 sq ft",
+          "totalCost": 4829.76,
+          "rawCost": "$4,829.76"
+        },
+        {
+          "name": "Cover Crop 0.7 ac",
+          "totalCost": 87.4,
+          "rawCost": "$87.40"
+        },
+        {
+          "name": "Micro-irrigation System 0.7 ac",
+          "totalCost": 174.72,
+          "rawCost": "$174.72"
+        },
+        {
+          "name": "990 feet",
+          "totalCost": 78555,
+          "rawCost": "$78,555.00"
+        },
+        {
+          "name": "Grade Stabilization Structure 42 ea",
+          "totalCost": 398624.06,
+          "rawCost": "$398,624.06"
+        },
+        {
+          "name": "Stream Crossing 1 ea",
+          "totalCost": 10500,
+          "rawCost": "$10,500.00"
+        },
+        {
+          "name": "Heavy Use Protection Area 1 ea",
+          "totalCost": 4260,
+          "rawCost": "$4,260.00"
+        },
+        {
+          "name": "Tank and Trough 4 ea",
+          "totalCost": 9225.86,
+          "rawCost": "$9,225.86"
+        },
+        {
+          "name": "Fencing 2,802 feet",
+          "totalCost": 6990.42,
+          "rawCost": "$6,990.42"
+        },
+        {
+          "name": "Diversion 2,040 feet",
+          "totalCost": 16066.29,
+          "rawCost": "$16,066.29"
+        },
+        {
+          "name": "Sub Surface Drain 1ea",
+          "totalCost": 3951.23,
+          "rawCost": "$3,951.23"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 7040.26,
+          "rawCost": "$7,040.26"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 569839.5,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Critical Area Planting 1.9 ac $801.12",
+      "rows": [
+        {
+          "name": "Critical Area Planting 1.9 ac",
+          "totalCost": 801.12,
+          "rawCost": "$801.12"
+        },
+        {
+          "name": "Herbaceous Weed Control 32.8 ac",
+          "totalCost": 803.82,
+          "rawCost": "$803.82"
+        },
+        {
+          "name": "Heavy Use Protection Area 2 no",
+          "totalCost": 1431.25,
+          "rawCost": "$1,431.25"
+        },
+        {
+          "name": "Watering Facility 2 no",
+          "totalCost": 2145.01,
+          "rawCost": "$2,145.01"
+        },
+        {
+          "name": "Livestock Pipeline 950 ft",
+          "totalCost": 2104.6,
+          "rawCost": "$2,104.60"
+        },
+        {
+          "name": "High Tunnel System 2160 sq ft",
+          "totalCost": 4829.76,
+          "rawCost": "$4,829.76"
+        },
+        {
+          "name": "Cover Crop 0.7 ac",
+          "totalCost": 87.4,
+          "rawCost": "$87.40"
+        },
+        {
+          "name": "Micro-irrigation System 0.7 ac",
+          "totalCost": 174.72,
+          "rawCost": "$174.72"
+        },
+        {
+          "name": "990 feet",
+          "totalCost": 78555,
+          "rawCost": "$78,555.00"
+        },
+        {
+          "name": "Grade Stabilization Structure 42 ea",
+          "totalCost": 398624.06,
+          "rawCost": "$398,624.06"
+        },
+        {
+          "name": "Stream Crossing 1 ea",
+          "totalCost": 10500,
+          "rawCost": "$10,500.00"
+        },
+        {
+          "name": "Heavy Use Protection Area 1 ea",
+          "totalCost": 4260,
+          "rawCost": "$4,260.00"
+        },
+        {
+          "name": "Tank and Trough 4 ea",
+          "totalCost": 9225.86,
+          "rawCost": "$9,225.86"
+        },
+        {
+          "name": "Fencing 2,802 feet",
+          "totalCost": 6990.42,
+          "rawCost": "$6,990.42"
+        },
+        {
+          "name": "Diversion 2,040 feet",
+          "totalCost": 16066.29,
+          "rawCost": "$16,066.29"
+        },
+        {
+          "name": "Sub Surface Drain 1ea",
+          "totalCost": 3951.23,
+          "rawCost": "$3,951.23"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 7040.26,
+          "rawCost": "$7,040.26"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 547590.7999999999,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Herbaceous Weed Control 32.8 ac $803.82",
+      "rows": [
+        {
+          "name": "Herbaceous Weed Control 32.8 ac",
+          "totalCost": 803.82,
+          "rawCost": "$803.82"
+        },
+        {
+          "name": "Heavy Use Protection Area 2 no",
+          "totalCost": 1431.25,
+          "rawCost": "$1,431.25"
+        },
+        {
+          "name": "Watering Facility 2 no",
+          "totalCost": 2145.01,
+          "rawCost": "$2,145.01"
+        },
+        {
+          "name": "Livestock Pipeline 950 ft",
+          "totalCost": 2104.6,
+          "rawCost": "$2,104.60"
+        },
+        {
+          "name": "High Tunnel System 2160 sq ft",
+          "totalCost": 4829.76,
+          "rawCost": "$4,829.76"
+        },
+        {
+          "name": "Cover Crop 0.7 ac",
+          "totalCost": 87.4,
+          "rawCost": "$87.40"
+        },
+        {
+          "name": "Micro-irrigation System 0.7 ac",
+          "totalCost": 174.72,
+          "rawCost": "$174.72"
+        },
+        {
+          "name": "990 feet",
+          "totalCost": 78555,
+          "rawCost": "$78,555.00"
+        },
+        {
+          "name": "Grade Stabilization Structure 42 ea",
+          "totalCost": 398624.06,
+          "rawCost": "$398,624.06"
+        },
+        {
+          "name": "Stream Crossing 1 ea",
+          "totalCost": 10500,
+          "rawCost": "$10,500.00"
+        },
+        {
+          "name": "Heavy Use Protection Area 1 ea",
+          "totalCost": 4260,
+          "rawCost": "$4,260.00"
+        },
+        {
+          "name": "Tank and Trough 4 ea",
+          "totalCost": 9225.86,
+          "rawCost": "$9,225.86"
+        },
+        {
+          "name": "Fencing 2,802 feet",
+          "totalCost": 6990.42,
+          "rawCost": "$6,990.42"
+        },
+        {
+          "name": "Diversion 2,040 feet",
+          "totalCost": 16066.29,
+          "rawCost": "$16,066.29"
+        },
+        {
+          "name": "Sub Surface Drain 1ea",
+          "totalCost": 3951.23,
+          "rawCost": "$3,951.23"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 7040.26,
+          "rawCost": "$7,040.26"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 546789.6799999999,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Heavy Use Protection Area 2 no $1,431.25",
+      "rows": [
+        {
+          "name": "Heavy Use Protection Area 2 no",
+          "totalCost": 1431.25,
+          "rawCost": "$1,431.25"
+        },
+        {
+          "name": "Watering Facility 2 no",
+          "totalCost": 2145.01,
+          "rawCost": "$2,145.01"
+        },
+        {
+          "name": "Livestock Pipeline 950 ft",
+          "totalCost": 2104.6,
+          "rawCost": "$2,104.60"
+        },
+        {
+          "name": "High Tunnel System 2160 sq ft",
+          "totalCost": 4829.76,
+          "rawCost": "$4,829.76"
+        },
+        {
+          "name": "Cover Crop 0.7 ac",
+          "totalCost": 87.4,
+          "rawCost": "$87.40"
+        },
+        {
+          "name": "Micro-irrigation System 0.7 ac",
+          "totalCost": 174.72,
+          "rawCost": "$174.72"
+        },
+        {
+          "name": "990 feet",
+          "totalCost": 78555,
+          "rawCost": "$78,555.00"
+        },
+        {
+          "name": "Grade Stabilization Structure 42 ea",
+          "totalCost": 398624.06,
+          "rawCost": "$398,624.06"
+        },
+        {
+          "name": "Stream Crossing 1 ea",
+          "totalCost": 10500,
+          "rawCost": "$10,500.00"
+        },
+        {
+          "name": "Heavy Use Protection Area 1 ea",
+          "totalCost": 4260,
+          "rawCost": "$4,260.00"
+        },
+        {
+          "name": "Tank and Trough 4 ea",
+          "totalCost": 9225.86,
+          "rawCost": "$9,225.86"
+        },
+        {
+          "name": "Fencing 2,802 feet",
+          "totalCost": 6990.42,
+          "rawCost": "$6,990.42"
+        },
+        {
+          "name": "Diversion 2,040 feet",
+          "totalCost": 16066.29,
+          "rawCost": "$16,066.29"
+        },
+        {
+          "name": "Sub Surface Drain 1ea",
+          "totalCost": 3951.23,
+          "rawCost": "$3,951.23"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 7040.26,
+          "rawCost": "$7,040.26"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 545985.86,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Watering Facility 2 no $2,145.01",
+      "rows": [
+        {
+          "name": "Watering Facility 2 no",
+          "totalCost": 2145.01,
+          "rawCost": "$2,145.01"
+        },
+        {
+          "name": "Livestock Pipeline 950 ft",
+          "totalCost": 2104.6,
+          "rawCost": "$2,104.60"
+        },
+        {
+          "name": "High Tunnel System 2160 sq ft",
+          "totalCost": 4829.76,
+          "rawCost": "$4,829.76"
+        },
+        {
+          "name": "Cover Crop 0.7 ac",
+          "totalCost": 87.4,
+          "rawCost": "$87.40"
+        },
+        {
+          "name": "Micro-irrigation System 0.7 ac",
+          "totalCost": 174.72,
+          "rawCost": "$174.72"
+        },
+        {
+          "name": "990 feet",
+          "totalCost": 78555,
+          "rawCost": "$78,555.00"
+        },
+        {
+          "name": "Grade Stabilization Structure 42 ea",
+          "totalCost": 398624.06,
+          "rawCost": "$398,624.06"
+        },
+        {
+          "name": "Stream Crossing 1 ea",
+          "totalCost": 10500,
+          "rawCost": "$10,500.00"
+        },
+        {
+          "name": "Heavy Use Protection Area 1 ea",
+          "totalCost": 4260,
+          "rawCost": "$4,260.00"
+        },
+        {
+          "name": "Tank and Trough 4 ea",
+          "totalCost": 9225.86,
+          "rawCost": "$9,225.86"
+        },
+        {
+          "name": "Fencing 2,802 feet",
+          "totalCost": 6990.42,
+          "rawCost": "$6,990.42"
+        },
+        {
+          "name": "Diversion 2,040 feet",
+          "totalCost": 16066.29,
+          "rawCost": "$16,066.29"
+        },
+        {
+          "name": "Sub Surface Drain 1ea",
+          "totalCost": 3951.23,
+          "rawCost": "$3,951.23"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 7040.26,
+          "rawCost": "$7,040.26"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 544554.61,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Livestock Pipeline 950 ft $2,104.60",
+      "rows": [
+        {
+          "name": "Livestock Pipeline 950 ft",
+          "totalCost": 2104.6,
+          "rawCost": "$2,104.60"
+        },
+        {
+          "name": "High Tunnel System 2160 sq ft",
+          "totalCost": 4829.76,
+          "rawCost": "$4,829.76"
+        },
+        {
+          "name": "Cover Crop 0.7 ac",
+          "totalCost": 87.4,
+          "rawCost": "$87.40"
+        },
+        {
+          "name": "Micro-irrigation System 0.7 ac",
+          "totalCost": 174.72,
+          "rawCost": "$174.72"
+        },
+        {
+          "name": "990 feet",
+          "totalCost": 78555,
+          "rawCost": "$78,555.00"
+        },
+        {
+          "name": "Grade Stabilization Structure 42 ea",
+          "totalCost": 398624.06,
+          "rawCost": "$398,624.06"
+        },
+        {
+          "name": "Stream Crossing 1 ea",
+          "totalCost": 10500,
+          "rawCost": "$10,500.00"
+        },
+        {
+          "name": "Heavy Use Protection Area 1 ea",
+          "totalCost": 4260,
+          "rawCost": "$4,260.00"
+        },
+        {
+          "name": "Tank and Trough 4 ea",
+          "totalCost": 9225.86,
+          "rawCost": "$9,225.86"
+        },
+        {
+          "name": "Fencing 2,802 feet",
+          "totalCost": 6990.42,
+          "rawCost": "$6,990.42"
+        },
+        {
+          "name": "Diversion 2,040 feet",
+          "totalCost": 16066.29,
+          "rawCost": "$16,066.29"
+        },
+        {
+          "name": "Sub Surface Drain 1ea",
+          "totalCost": 3951.23,
+          "rawCost": "$3,951.23"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 7040.26,
+          "rawCost": "$7,040.26"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 542409.6,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "High Tunnel System 2160 sq ft $4,829.76",
+      "rows": [
+        {
+          "name": "High Tunnel System 2160 sq ft",
+          "totalCost": 4829.76,
+          "rawCost": "$4,829.76"
+        },
+        {
+          "name": "Cover Crop 0.7 ac",
+          "totalCost": 87.4,
+          "rawCost": "$87.40"
+        },
+        {
+          "name": "Micro-irrigation System 0.7 ac",
+          "totalCost": 174.72,
+          "rawCost": "$174.72"
+        },
+        {
+          "name": "990 feet",
+          "totalCost": 78555,
+          "rawCost": "$78,555.00"
+        },
+        {
+          "name": "Grade Stabilization Structure 42 ea",
+          "totalCost": 398624.06,
+          "rawCost": "$398,624.06"
+        },
+        {
+          "name": "Stream Crossing 1 ea",
+          "totalCost": 10500,
+          "rawCost": "$10,500.00"
+        },
+        {
+          "name": "Heavy Use Protection Area 1 ea",
+          "totalCost": 4260,
+          "rawCost": "$4,260.00"
+        },
+        {
+          "name": "Tank and Trough 4 ea",
+          "totalCost": 9225.86,
+          "rawCost": "$9,225.86"
+        },
+        {
+          "name": "Fencing 2,802 feet",
+          "totalCost": 6990.42,
+          "rawCost": "$6,990.42"
+        },
+        {
+          "name": "Diversion 2,040 feet",
+          "totalCost": 16066.29,
+          "rawCost": "$16,066.29"
+        },
+        {
+          "name": "Sub Surface Drain 1ea",
+          "totalCost": 3951.23,
+          "rawCost": "$3,951.23"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 7040.26,
+          "rawCost": "$7,040.26"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 540305,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Cover Crop 0.7 ac $87.40",
+      "rows": [
+        {
+          "name": "Cover Crop 0.7 ac",
+          "totalCost": 87.4,
+          "rawCost": "$87.40"
+        },
+        {
+          "name": "Micro-irrigation System 0.7 ac",
+          "totalCost": 174.72,
+          "rawCost": "$174.72"
+        },
+        {
+          "name": "990 feet",
+          "totalCost": 78555,
+          "rawCost": "$78,555.00"
+        },
+        {
+          "name": "Grade Stabilization Structure 42 ea",
+          "totalCost": 398624.06,
+          "rawCost": "$398,624.06"
+        },
+        {
+          "name": "Stream Crossing 1 ea",
+          "totalCost": 10500,
+          "rawCost": "$10,500.00"
+        },
+        {
+          "name": "Heavy Use Protection Area 1 ea",
+          "totalCost": 4260,
+          "rawCost": "$4,260.00"
+        },
+        {
+          "name": "Tank and Trough 4 ea",
+          "totalCost": 9225.86,
+          "rawCost": "$9,225.86"
+        },
+        {
+          "name": "Fencing 2,802 feet",
+          "totalCost": 6990.42,
+          "rawCost": "$6,990.42"
+        },
+        {
+          "name": "Diversion 2,040 feet",
+          "totalCost": 16066.29,
+          "rawCost": "$16,066.29"
+        },
+        {
+          "name": "Sub Surface Drain 1ea",
+          "totalCost": 3951.23,
+          "rawCost": "$3,951.23"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 7040.26,
+          "rawCost": "$7,040.26"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 535475.24,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Micro-irrigation System 0.7 ac $174.72",
+      "rows": [
+        {
+          "name": "Micro-irrigation System 0.7 ac",
+          "totalCost": 174.72,
+          "rawCost": "$174.72"
+        },
+        {
+          "name": "990 feet",
+          "totalCost": 78555,
+          "rawCost": "$78,555.00"
+        },
+        {
+          "name": "Grade Stabilization Structure 42 ea",
+          "totalCost": 398624.06,
+          "rawCost": "$398,624.06"
+        },
+        {
+          "name": "Stream Crossing 1 ea",
+          "totalCost": 10500,
+          "rawCost": "$10,500.00"
+        },
+        {
+          "name": "Heavy Use Protection Area 1 ea",
+          "totalCost": 4260,
+          "rawCost": "$4,260.00"
+        },
+        {
+          "name": "Tank and Trough 4 ea",
+          "totalCost": 9225.86,
+          "rawCost": "$9,225.86"
+        },
+        {
+          "name": "Fencing 2,802 feet",
+          "totalCost": 6990.42,
+          "rawCost": "$6,990.42"
+        },
+        {
+          "name": "Diversion 2,040 feet",
+          "totalCost": 16066.29,
+          "rawCost": "$16,066.29"
+        },
+        {
+          "name": "Sub Surface Drain 1ea",
+          "totalCost": 3951.23,
+          "rawCost": "$3,951.23"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 7040.26,
+          "rawCost": "$7,040.26"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 535387.84,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$37,468.73",
+      "rows": [
+        {
+          "name": "990 feet",
+          "totalCost": 78555,
+          "rawCost": "$78,555.00"
+        },
+        {
+          "name": "Grade Stabilization Structure 42 ea",
+          "totalCost": 398624.06,
+          "rawCost": "$398,624.06"
+        },
+        {
+          "name": "Stream Crossing 1 ea",
+          "totalCost": 10500,
+          "rawCost": "$10,500.00"
+        },
+        {
+          "name": "Heavy Use Protection Area 1 ea",
+          "totalCost": 4260,
+          "rawCost": "$4,260.00"
+        },
+        {
+          "name": "Tank and Trough 4 ea",
+          "totalCost": 9225.86,
+          "rawCost": "$9,225.86"
+        },
+        {
+          "name": "Fencing 2,802 feet",
+          "totalCost": 6990.42,
+          "rawCost": "$6,990.42"
+        },
+        {
+          "name": "Diversion 2,040 feet",
+          "totalCost": 16066.29,
+          "rawCost": "$16,066.29"
+        },
+        {
+          "name": "Sub Surface Drain 1ea",
+          "totalCost": 3951.23,
+          "rawCost": "$3,951.23"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 7040.26,
+          "rawCost": "$7,040.26"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 535213.12,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "990 feet $78,555.00",
+      "rows": [
+        {
+          "name": "990 feet",
+          "totalCost": 78555,
+          "rawCost": "$78,555.00"
+        },
+        {
+          "name": "Grade Stabilization Structure 42 ea",
+          "totalCost": 398624.06,
+          "rawCost": "$398,624.06"
+        },
+        {
+          "name": "Stream Crossing 1 ea",
+          "totalCost": 10500,
+          "rawCost": "$10,500.00"
+        },
+        {
+          "name": "Heavy Use Protection Area 1 ea",
+          "totalCost": 4260,
+          "rawCost": "$4,260.00"
+        },
+        {
+          "name": "Tank and Trough 4 ea",
+          "totalCost": 9225.86,
+          "rawCost": "$9,225.86"
+        },
+        {
+          "name": "Fencing 2,802 feet",
+          "totalCost": 6990.42,
+          "rawCost": "$6,990.42"
+        },
+        {
+          "name": "Diversion 2,040 feet",
+          "totalCost": 16066.29,
+          "rawCost": "$16,066.29"
+        },
+        {
+          "name": "Sub Surface Drain 1ea",
+          "totalCost": 3951.23,
+          "rawCost": "$3,951.23"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 7040.26,
+          "rawCost": "$7,040.26"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 535213.12,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Grade Stabilization Structure 42 ea $398,624.06",
+      "rows": [
+        {
+          "name": "Grade Stabilization Structure 42 ea",
+          "totalCost": 398624.06,
+          "rawCost": "$398,624.06"
+        },
+        {
+          "name": "Stream Crossing 1 ea",
+          "totalCost": 10500,
+          "rawCost": "$10,500.00"
+        },
+        {
+          "name": "Heavy Use Protection Area 1 ea",
+          "totalCost": 4260,
+          "rawCost": "$4,260.00"
+        },
+        {
+          "name": "Tank and Trough 4 ea",
+          "totalCost": 9225.86,
+          "rawCost": "$9,225.86"
+        },
+        {
+          "name": "Fencing 2,802 feet",
+          "totalCost": 6990.42,
+          "rawCost": "$6,990.42"
+        },
+        {
+          "name": "Diversion 2,040 feet",
+          "totalCost": 16066.29,
+          "rawCost": "$16,066.29"
+        },
+        {
+          "name": "Sub Surface Drain 1ea",
+          "totalCost": 3951.23,
+          "rawCost": "$3,951.23"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 7040.26,
+          "rawCost": "$7,040.26"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 456658.11999999994,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Stream Crossing 1 ea $10,500.00",
+      "rows": [
+        {
+          "name": "Stream Crossing 1 ea",
+          "totalCost": 10500,
+          "rawCost": "$10,500.00"
+        },
+        {
+          "name": "Heavy Use Protection Area 1 ea",
+          "totalCost": 4260,
+          "rawCost": "$4,260.00"
+        },
+        {
+          "name": "Tank and Trough 4 ea",
+          "totalCost": 9225.86,
+          "rawCost": "$9,225.86"
+        },
+        {
+          "name": "Fencing 2,802 feet",
+          "totalCost": 6990.42,
+          "rawCost": "$6,990.42"
+        },
+        {
+          "name": "Diversion 2,040 feet",
+          "totalCost": 16066.29,
+          "rawCost": "$16,066.29"
+        },
+        {
+          "name": "Sub Surface Drain 1ea",
+          "totalCost": 3951.23,
+          "rawCost": "$3,951.23"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 7040.26,
+          "rawCost": "$7,040.26"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 58034.060000000005,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Heavy Use Protection Area 1 ea $4,260.00",
+      "rows": [
+        {
+          "name": "Heavy Use Protection Area 1 ea",
+          "totalCost": 4260,
+          "rawCost": "$4,260.00"
+        },
+        {
+          "name": "Tank and Trough 4 ea",
+          "totalCost": 9225.86,
+          "rawCost": "$9,225.86"
+        },
+        {
+          "name": "Fencing 2,802 feet",
+          "totalCost": 6990.42,
+          "rawCost": "$6,990.42"
+        },
+        {
+          "name": "Diversion 2,040 feet",
+          "totalCost": 16066.29,
+          "rawCost": "$16,066.29"
+        },
+        {
+          "name": "Sub Surface Drain 1ea",
+          "totalCost": 3951.23,
+          "rawCost": "$3,951.23"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 7040.26,
+          "rawCost": "$7,040.26"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 47534.060000000005,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Tank and Trough 4 ea $9,225.86",
+      "rows": [
+        {
+          "name": "Tank and Trough 4 ea",
+          "totalCost": 9225.86,
+          "rawCost": "$9,225.86"
+        },
+        {
+          "name": "Fencing 2,802 feet",
+          "totalCost": 6990.42,
+          "rawCost": "$6,990.42"
+        },
+        {
+          "name": "Diversion 2,040 feet",
+          "totalCost": 16066.29,
+          "rawCost": "$16,066.29"
+        },
+        {
+          "name": "Sub Surface Drain 1ea",
+          "totalCost": 3951.23,
+          "rawCost": "$3,951.23"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 7040.26,
+          "rawCost": "$7,040.26"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 43274.060000000005,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Fencing 2,802 feet $6,990.42",
+      "rows": [
+        {
+          "name": "Fencing 2,802 feet",
+          "totalCost": 6990.42,
+          "rawCost": "$6,990.42"
+        },
+        {
+          "name": "Diversion 2,040 feet",
+          "totalCost": 16066.29,
+          "rawCost": "$16,066.29"
+        },
+        {
+          "name": "Sub Surface Drain 1ea",
+          "totalCost": 3951.23,
+          "rawCost": "$3,951.23"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 7040.26,
+          "rawCost": "$7,040.26"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 34048.2,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Diversion 2,040 feet $16,066.29",
+      "rows": [
+        {
+          "name": "Diversion 2,040 feet",
+          "totalCost": 16066.29,
+          "rawCost": "$16,066.29"
+        },
+        {
+          "name": "Sub Surface Drain 1ea",
+          "totalCost": 3951.23,
+          "rawCost": "$3,951.23"
+        },
+        {
+          "name": "Total Estimated Cost",
+          "totalCost": 7040.26,
+          "rawCost": "$7,040.26"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 27057.78,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "NRCS EQIP Funded BMPs $37,468.73",
+      "rows": [
+        {
+          "name": "NRCS EQIP Funded BMPs",
+          "totalCost": 37468.73,
+          "rawCost": "$37,468.73"
+        },
+        {
+          "name": "Education and Outreach",
+          "totalCost": 7040.26,
+          "rawCost": "$7,040.26"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 24899.93,
+          "rawCost": "$24,899.93"
+        },
+        {
+          "name": "Total",
+          "totalCost": 597581.78,
+          "rawCost": "$597,581.78"
+        },
+        {
+          "name": "amount of",
+          "totalCost": 534837.55,
+          "rawCost": "$534,837.55"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1201828.25,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Education and Outreach  $7,040.26",
+      "rows": [
+        {
+          "name": "Education and Outreach",
+          "totalCost": 7040.26,
+          "rawCost": "$7,040.26"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 24899.93,
+          "rawCost": "$24,899.93"
+        },
+        {
+          "name": "Total",
+          "totalCost": 597581.78,
+          "rawCost": "$597,581.78"
+        },
+        {
+          "name": "amount of",
+          "totalCost": 534837.55,
+          "rawCost": "$534,837.55"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1164359.52,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Technical Assistance $24,899.93",
+      "rows": [
+        {
+          "name": "Technical Assistance",
+          "totalCost": 24899.93,
+          "rawCost": "$24,899.93"
+        },
+        {
+          "name": "Total",
+          "totalCost": 597581.78,
+          "rawCost": "$597,581.78"
+        },
+        {
+          "name": "amount of",
+          "totalCost": 534837.55,
+          "rawCost": "$534,837.55"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1157319.2600000002,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-02T13:23:25.402Z",
+  "metadata": {
+    "sourceId": "jasper-creek-watershed-plan-2019",
+    "sourceFile": "jasper-creek-watershed-plan-2019.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "adaptive_generic_costs",
+        "title": "NRCS, there has been over $96,000 spent on conservation practices in Union and Tippah",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 668681.8500000001
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Mulching 1.9 ac $907.35",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 572681.8500000001
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Land Clearing 1 ac $1,935.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 571774.5
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Grade Stabilization Structure 5 no $22,248.70",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 569839.5
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Critical Area Planting 1.9 ac $801.12",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 547590.7999999999
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Herbaceous Weed Control 32.8 ac $803.82",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 546789.6799999999
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Heavy Use Protection Area 2 no $1,431.25",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 545985.86
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Watering Facility 2 no $2,145.01",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 544554.61
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Livestock Pipeline 950 ft $2,104.60",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 542409.6
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "High Tunnel System 2160 sq ft $4,829.76",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 540305
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Cover Crop 0.7 ac $87.40",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 535475.24
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Micro-irrigation System 0.7 ac $174.72",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 535387.84
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$37,468.73",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 535213.12
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "990 feet $78,555.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 535213.12
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Grade Stabilization Structure 42 ea $398,624.06",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 456658.11999999994
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Stream Crossing 1 ea $10,500.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 58034.060000000005
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Heavy Use Protection Area 1 ea $4,260.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 47534.060000000005
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Tank and Trough 4 ea $9,225.86",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 43274.060000000005
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Fencing 2,802 feet $6,990.42",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 34048.2
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Diversion 2,040 feet $16,066.29",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 27057.78
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "NRCS EQIP Funded BMPs $37,468.73",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1201828.25
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Education and Outreach  $7,040.26",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1164359.52
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Technical Assistance $24,899.93",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1157319.2600000002
+      }
+    ]
+  }
+}

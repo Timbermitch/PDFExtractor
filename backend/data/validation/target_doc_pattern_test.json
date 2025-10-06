@@ -1,0 +1,32 @@
+{
+  "generatedAt": "2025-10-02T12:33:22.844Z",
+  "results": [
+    {
+      "file": "old-fort-bayou-watershed-plan.json",
+      "detectedCostTables": 1,
+      "newPatternTables": [
+        {
+          "patternId": "practice_unit_nrcs_costs"
+        }
+      ]
+    },
+    {
+      "file": "coldwater-river-watershed-plan-2013.json",
+      "detectedCostTables": 1,
+      "newPatternTables": [
+        {
+          "patternId": "multi_funding_source_costs"
+        }
+      ]
+    },
+    {
+      "file": "turkey-creek-watershed-plan-2006.json",
+      "detectedCostTables": 1,
+      "newPatternTables": [
+        {
+          "patternId": "implementation_plan_coded_budget"
+        }
+      ]
+    }
+  ]
+}

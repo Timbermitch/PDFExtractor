@@ -1,26 +1,27 @@
 import React, { useState } from 'react';
 import type { ExtractedReport } from '../types';
+import { ensureSummary } from '../types';
 import { Tabs } from './dashboard/Tabs';
 import { SummaryTab } from './dashboard/SummaryTab';
 import { GoalsTab } from './dashboard/GoalsTab';
-import { BMPTab } from './dashboard/BMPTab';
-import { ImplementationTab } from './dashboard/ImplementationTab';
+import BMPTab from './dashboard/BMPTab';
+
 import { MonitoringTab } from './dashboard/MonitoringTab';
-import { OutreachTab } from './dashboard/OutreachTab';
+
 import { GeographyTab } from './dashboard/GeographyTab';
 import { ChartsTab } from './dashboard/ChartsTab';
 
 interface Props { report: ExtractedReport; }
 
 export const ReportDashboard: React.FC<Props> = ({ report }) => {
-  const [active, setActive] = useState<string>('summary');
+  // Backward compatibility: ensure summary fields if older report version
+  report.summary = ensureSummary(report);
+  const [active, setActive] = useState<string>('goals');
   const tabs = [
     { key: 'summary', label: 'Summary' },
     { key: 'goals', label: 'Goals' },
-    { key: 'bmps', label: 'BMPs' },
-    { key: 'implementation', label: 'Implementation' },
+  { key: 'bmps', label: 'BMPs / Budget / Implementation Plan' },
     { key: 'monitoring', label: 'Monitoring' },
-    { key: 'outreach', label: 'Outreach' },
     { key: 'geography', label: 'Geography' },
     { key: 'charts', label: 'Charts' }
   ];
@@ -36,9 +37,7 @@ export const ReportDashboard: React.FC<Props> = ({ report }) => {
       {active === 'summary' && <SummaryTab report={report} />}
       {active === 'goals' && <GoalsTab report={report} />}
       {active === 'bmps' && <BMPTab report={report} />}
-      {active === 'implementation' && <ImplementationTab report={report} />}
       {active === 'monitoring' && <MonitoringTab report={report} />}
-      {active === 'outreach' && <OutreachTab report={report} />}
       {active === 'geography' && <GeographyTab report={report} />}
       {active === 'charts' && <ChartsTab report={report} />}
     </div>

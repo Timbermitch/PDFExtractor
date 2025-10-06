@@ -1,0 +1,57 @@
+{
+  "totalDocs": 51,
+  "success": 45,
+  "errors": 6,
+  "zeroGoal": 1,
+  "zeroBMP": 8,
+  "needsOCR": 6,
+  "needsOCRFiles": [
+    "Buttahatchee_River_Watershed_Plan_2004.pdf",
+    "Bogue_Chitto_Creek_Watershed_Plan_2004.pdf",
+    "Luxapallila_Creek_Watershed_Plan_2004.pdf",
+    "Red_Creek_Watershed_Action_Plan_2007.pdf",
+    "Turkey_Creek_Watershed_Plan_2010.pdf",
+    "West_Boley_Creek_Watershed_Action_Plan_2007.pdf"
+  ],
+  "zeroGoalFiles": [
+    "Mill_Creek_Watershed_Plan_2005.pdf"
+  ],
+  "zeroBMPFiles": [
+    "Coldwater_River_Watershed_Plan_2013.pdf",
+    "Mill_Creek_Watershed_Plan_2005.pdf",
+    "Old_Fort_Bayou_Watershed_Plan_2019.pdf",
+    "Pickwick_Reservoir_Watershed_Plan_2009.pdf",
+    "Rotten_Bayou_Watershed_Plan_2015.pdf",
+    "Ross_Barnett_Reservoir_Watershed_Plan_2011.pdf",
+    "Tchoutacabouffa_River_Watershed_Action_Plan_2007.pdf",
+    "Upper_Bay_of_St_Louis_Watershed_Action_Plan_2007.pdf"
+  ],
+  "highBmpFiles": [
+    {
+      "file": "Lake_Washington_Watershed_Plan_2007.pdf",
+      "bmps": 622
+    },
+    {
+      "file": "Middle_Porter_Bayou_Watershed_Plan_2013.pdf",
+      "bmps": 154
+    },
+    {
+      "file": "Red_Bud_Catalpa_Creek_Watershed_Plan_2016.pdf",
+      "bmps": 182
+    },
+    {
+      "file": "Upper_Porter_Bayou_Watershed_Plan_2013.pdf",
+      "bmps": 165
+    }
+  ],
+  "bmpStats": {
+    "min": 0,
+    "median": 4,
+    "p90": 77,
+    "p95": 154,
+    "p99": 182,
+    "max": 622,
+    "mean": 36.18
+  },
+  "generatedAt": "2025-10-06T02:42:30.890Z"
+}

@@ -1,0 +1,268 @@
+{
+  "generatedAt": "2025-10-06T04:09:42.803Z",
+  "aggregate": {
+    "files": 16,
+    "totalBaselineBMPs": 1505,
+    "totalFilteredBMPs": 1072,
+    "bmpDelta": -433,
+    "percentReduction": -28.77,
+    "totalRejected": 832,
+    "reasonTotals": {
+      "numeric_punct_heavy": 383,
+      "too_short": 544,
+      "too_long": 56,
+      "cost_context": 69,
+      "starts_bad_token": 71,
+      "time_range": 8,
+      "meta_only": 14,
+      "phase_token": 11,
+      "header_case": 4,
+      "schedule_fragment": 6
+    }
+  },
+  "perFile": [
+    {
+      "file": "Lake_Washington_Watershed_Plan_2007.pdf",
+      "baselineBMPs": 622,
+      "filteredBMPs": 435,
+      "delta": -187,
+      "goalsBaseline": 6,
+      "goalsFiltered": 6,
+      "goalsDelta": 0,
+      "rejected": 548,
+      "reasons": {
+        "numeric_punct_heavy": 279,
+        "too_short": 401,
+        "too_long": 14,
+        "cost_context": 26,
+        "starts_bad_token": 56,
+        "time_range": 8,
+        "meta_only": 13,
+        "phase_token": 9
+      }
+    },
+    {
+      "file": "Red_Bud_Catalpa_Creek_Watershed_Plan_2016.pdf",
+      "baselineBMPs": 182,
+      "filteredBMPs": 161,
+      "delta": -21,
+      "goalsBaseline": 21,
+      "goalsFiltered": 21,
+      "goalsDelta": 0,
+      "rejected": 21,
+      "reasons": {
+        "too_short": 10,
+        "too_long": 9,
+        "cost_context": 2,
+        "starts_bad_token": 1,
+        "numeric_punct_heavy": 3
+      }
+    },
+    {
+      "file": "Upper_Porter_Bayou_Watershed_Plan_2013.pdf",
+      "baselineBMPs": 165,
+      "filteredBMPs": 112,
+      "delta": -53,
+      "goalsBaseline": 5,
+      "goalsFiltered": 5,
+      "goalsDelta": 0,
+      "rejected": 59,
+      "reasons": {
+        "numeric_punct_heavy": 26,
+        "too_short": 34,
+        "header_case": 1,
+        "too_long": 5,
+        "cost_context": 10
+      }
+    },
+    {
+      "file": "Middle_Porter_Bayou_Watershed_Plan_2013.pdf",
+      "baselineBMPs": 154,
+      "filteredBMPs": 107,
+      "delta": -47,
+      "goalsBaseline": 5,
+      "goalsFiltered": 5,
+      "goalsDelta": 0,
+      "rejected": 64,
+      "reasons": {
+        "numeric_punct_heavy": 21,
+        "too_short": 42,
+        "header_case": 1,
+        "too_long": 6,
+        "cost_context": 7
+      }
+    },
+    {
+      "file": "Muddy_Bayou_Opossum_Bayou_9_Key_Element_Plan_2022.pdf",
+      "baselineBMPs": 88,
+      "filteredBMPs": 59,
+      "delta": -29,
+      "goalsBaseline": 1,
+      "goalsFiltered": 1,
+      "goalsDelta": 0,
+      "rejected": 35,
+      "reasons": {
+        "cost_context": 10,
+        "too_short": 14,
+        "numeric_punct_heavy": 15,
+        "starts_bad_token": 1,
+        "too_long": 5,
+        "phase_token": 1,
+        "meta_only": 1,
+        "schedule_fragment": 2
+      }
+    },
+    {
+      "file": "Bear_Lake_9_Key_Elelment_Plan_2018.pdf",
+      "baselineBMPs": 77,
+      "filteredBMPs": 55,
+      "delta": -22,
+      "goalsBaseline": 1,
+      "goalsFiltered": 1,
+      "goalsDelta": 0,
+      "rejected": 24,
+      "reasons": {
+        "numeric_punct_heavy": 12,
+        "too_short": 6,
+        "cost_context": 2,
+        "too_long": 6,
+        "schedule_fragment": 2
+      }
+    },
+    {
+      "file": "Dry_Creek_9_Key_Element_Plan_2017.pdf",
+      "baselineBMPs": 74,
+      "filteredBMPs": 55,
+      "delta": -19,
+      "goalsBaseline": 1,
+      "goalsFiltered": 1,
+      "goalsDelta": 0,
+      "rejected": 20,
+      "reasons": {
+        "numeric_punct_heavy": 7,
+        "cost_context": 4,
+        "starts_bad_token": 1,
+        "too_long": 6,
+        "too_short": 4,
+        "schedule_fragment": 2
+      }
+    },
+    {
+      "file": "Overcup_Slough_Watershed_Plan_2013.pdf",
+      "baselineBMPs": 57,
+      "filteredBMPs": 29,
+      "delta": -28,
+      "goalsBaseline": 4,
+      "goalsFiltered": 4,
+      "goalsDelta": 0,
+      "rejected": 34,
+      "reasons": {
+        "numeric_punct_heavy": 13,
+        "too_short": 25,
+        "header_case": 1,
+        "too_long": 2,
+        "cost_context": 4
+      }
+    },
+    {
+      "file": "Deer_Creek_Watershed_Plan_2008.pdf",
+      "baselineBMPs": 54,
+      "filteredBMPs": 40,
+      "delta": -14,
+      "goalsBaseline": 4,
+      "goalsFiltered": 4,
+      "goalsDelta": 0,
+      "rejected": 14,
+      "reasons": {
+        "starts_bad_token": 11,
+        "too_short": 2,
+        "header_case": 1,
+        "numeric_punct_heavy": 1
+      }
+    },
+    {
+      "file": "Upper_Piney_Creek_9_Key_Element_Plan_2022.pdf",
+      "baselineBMPs": 32,
+      "filteredBMPs": 19,
+      "delta": -13,
+      "goalsBaseline": 1,
+      "goalsFiltered": 1,
+      "goalsDelta": 0,
+      "rejected": 13,
+      "reasons": {
+        "cost_context": 4,
+        "numeric_punct_heavy": 6,
+        "too_short": 6,
+        "starts_bad_token": 1,
+        "phase_token": 1,
+        "too_long": 3
+      }
+    },
+    {
+      "file": "Pickwick_Reservoir_Watershed_Plan_2009.pdf",
+      "baselineBMPs": 0,
+      "filteredBMPs": 0,
+      "delta": 0,
+      "goalsBaseline": 20,
+      "goalsFiltered": 20,
+      "goalsDelta": 0,
+      "rejected": 0,
+      "reasons": {}
+    },
+    {
+      "file": "Old_Fort_Bayou_Watershed_Plan_2019.pdf",
+      "baselineBMPs": 0,
+      "filteredBMPs": 0,
+      "delta": 0,
+      "goalsBaseline": 8,
+      "goalsFiltered": 8,
+      "goalsDelta": 0,
+      "rejected": 0,
+      "reasons": {}
+    },
+    {
+      "file": "Rotten_Bayou_Watershed_Plan_2015.pdf",
+      "baselineBMPs": 0,
+      "filteredBMPs": 0,
+      "delta": 0,
+      "goalsBaseline": 7,
+      "goalsFiltered": 7,
+      "goalsDelta": 0,
+      "rejected": 0,
+      "reasons": {}
+    },
+    {
+      "file": "Ross_Barnett_Reservoir_Watershed_Plan_2011.pdf",
+      "baselineBMPs": 0,
+      "filteredBMPs": 0,
+      "delta": 0,
+      "goalsBaseline": 1,
+      "goalsFiltered": 1,
+      "goalsDelta": 0,
+      "rejected": 0,
+      "reasons": {}
+    },
+    {
+      "file": "Upper_Bay_of_St_Louis_Watershed_Action_Plan_2007.pdf",
+      "baselineBMPs": 0,
+      "filteredBMPs": 0,
+      "delta": 0,
+      "goalsBaseline": 1,
+      "goalsFiltered": 1,
+      "goalsDelta": 0,
+      "rejected": 0,
+      "reasons": {}
+    },
+    {
+      "file": "Tchoutacabouffa_River_Watershed_Action_Plan_2007.pdf",
+      "baselineBMPs": 0,
+      "filteredBMPs": 0,
+      "delta": 0,
+      "goalsBaseline": 1,
+      "goalsFiltered": 1,
+      "goalsDelta": 0,
+      "rejected": 0,
+      "reasons": {}
+    }
+  ]
+}

@@ -1,0 +1,4099 @@
+{
+  "id": "turkey-creek-watershed-plan-2006",
+  "summary": {
+    "totalGoals": 5,
+    "totalBMPs": 48,
+    "totalActivities": 0,
+    "primaryGoals": 0,
+    "completionRate": 0,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 5,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "General": 47,
+      "Erosion Control": 1
+    },
+    "avgGoalConfidence": 0,
+    "strongGoals": 0
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "RESTORATION GOAL 17 stakeholders can best achieve this goal by (1) creating a community greenway with public (1) PROTECTION GOAL: To defend the existing natural and cultural resources of the Turkey protection goal.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "RESTORATION GOAL 17 stakeholders can best achieve this goal by (1) creating a community greenway with public (1) PROTECTION GOAL: To defend the existing natural and cultural resources of the Turkey protection goal.",
+      "confidence": 0,
+      "description": "RESTORATION GOAL 17 stakeholders can best achieve this goal by (1) creating a community greenway with public (1) PROTECTION GOAL: To defend the existing natural and cultural resources of the Turkey protection goal.",
+      "originalSentence": "RESTORATION GOAL 17 stakeholders can best achieve this goal by (1) creating a community greenway with public (1) PROTECTION GOAL: To defend the existing natural and cultural resources of the Turkey protection goal.",
+      "shortTitle": "RESTORATION GOAL 17 stakeholders can best achieve this goal by (1) creating a community…"
+    },
+    {
+      "id": "G2",
+      "title": "(2) RESTORATION GOAL: To actively initiate or accelerate the recovery of the ecological and education strategies to help meet the restoration goal.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "(2) RESTORATION GOAL: To actively initiate or accelerate the recovery of the ecological and education strategies to help meet the restoration goal.",
+      "confidence": 0,
+      "description": "(2) RESTORATION GOAL: To actively initiate or accelerate the recovery of the ecological and education strategies to help meet the restoration goal.",
+      "originalSentence": "(2) RESTORATION GOAL: To actively initiate or accelerate the recovery of the ecological and education strategies to help meet the restoration goal.",
+      "shortTitle": "(2) RESTORATION GOAL: To actively initiate or accelerate the recovery of the ecological and…"
+    },
+    {
+      "id": "G3",
+      "title": "(2) RESTORATION GOAL: To actively initiate or accelerate the recovery of the ecological and",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "(2) RESTORATION GOAL:  To actively initiate or accelerate the recovery of the ecological and",
+      "confidence": 0,
+      "description": "(2) RESTORATION GOAL: To actively initiate or accelerate the recovery of the ecological and",
+      "originalSentence": "(2) RESTORATION GOAL: To actively initiate or accelerate the recovery of the ecological and",
+      "shortTitle": "(2) RESTORATION GOAL: To actively initiate or accelerate the recovery of the ecological and"
+    },
+    {
+      "id": "G4",
+      "title": "(1) PROTECTION GOAL: To defend the existing natural and cultural resources of the Turkey",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "(1) PROTECTION GOAL:  To defend the existing natural and cultural resources of the Turkey",
+      "confidence": 0,
+      "description": "(1) PROTECTION GOAL: To defend the existing natural and cultural resources of the Turkey",
+      "originalSentence": "(1) PROTECTION GOAL: To defend the existing natural and cultural resources of the Turkey",
+      "shortTitle": "(1) PROTECTION GOAL: To defend the existing natural and cultural resources of the Turkey"
+    },
+    {
+      "id": "G5",
+      "title": "Coast. Beautify Hwy 49 corridor. Tie-in to the native nursery goal.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "Coast.  Beautify Hwy 49 corridor.  Tie-in to the native nursery goal.",
+      "confidence": 0,
+      "description": "Coast. Beautify Hwy 49 corridor. Tie-in to the native nursery goal.",
+      "originalSentence": "Coast. Beautify Hwy 49 corridor. Tie-in to the native nursery goal.",
+      "shortTitle": "Coast. Beautify Hwy 49 corridor. Tie-in to the native nursery goal."
+    }
+  ],
+  "mainGoals": [],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "success.  The estimated cost for completing this watershed action plan is approximately",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "success.  The estimated cost for completing this watershed action plan is approximately $2.3|name_cost_tail_trim",
+      "originalName": "success.  The estimated cost for completing this watershed action plan is approximately $2.3"
+    },
+    {
+      "id": "B2",
+      "name": "$70,000.00     for",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$70,000.00     for"
+    },
+    {
+      "id": "B3",
+      "name": "$108,500.00     for",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$108,500.00     for"
+    },
+    {
+      "id": "B4",
+      "name": "A1. acquire identified conservation areas, TC Greenway",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "A1. acquire identified conservation areas, TC Greenway  $1,470,000.00|name_cost_tail_trim",
+      "originalName": "A1. acquire identified conservation areas, TC Greenway  $1,470,000.00"
+    },
+    {
+      "id": "B5",
+      "name": "CIAP I acquisitions. Work not completed funding already allocated",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "CIAP I acquisitions. Work not completed funding already allocated $60,000.00|name_cost_tail_trim",
+      "originalName": "CIAP I acquisitions. Work not completed funding already allocated $60,000.00"
+    },
+    {
+      "id": "B6",
+      "name": "A2. Green subdivision model; conservation easement, 28th st",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "A2. Green subdivision model; conservation easement, 28th st $2,500.00|name_cost_tail_trim",
+      "originalName": "A2. Green subdivision model; conservation easement, 28th st $2,500.00"
+    },
+    {
+      "id": "B7",
+      "name": "A3. Green subdivision model; conservation easement, Bernard Bayou",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "A3. Green subdivision model; conservation easement, Bernard Bayou $2,500.00 *2|name_cost_tail_trim",
+      "originalName": "A3. Green subdivision model; conservation easement, Bernard Bayou $2,500.00 *2"
+    },
+    {
+      "id": "B8",
+      "name": "A4. Education about conservation options for Landowners",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "A4. Education about conservation options for Landowners $1,200.00|name_cost_tail_trim",
+      "originalName": "A4. Education about conservation options for Landowners $1,200.00"
+    },
+    {
+      "id": "B9",
+      "name": "Support statewide legislative action to allow TDRs",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Support statewide legislative action to allow TDRs  $1,300.00|name_cost_tail_trim",
+      "originalName": "Support statewide legislative action to allow TDRs  $1,300.00"
+    },
+    {
+      "id": "B10",
+      "name": "A5. Advocate and support City tree protection ordinance - Creekkeeper",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "A5. Advocate and support City tree protection ordinance - Creekkeeper $2,500.00 *1|name_cost_tail_trim",
+      "originalName": "A5. Advocate and support City tree protection ordinance - Creekkeeper $2,500.00 *1"
+    },
+    {
+      "id": "B11",
+      "name": "A6. Education about streamside buffer and urban forests",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "A6. Education about streamside buffer and urban forests $2,500.00 *2|name_cost_tail_trim",
+      "originalName": "A6. Education about streamside buffer and urban forests $2,500.00 *2"
+    },
+    {
+      "id": "B12",
+      "name": "A7. New capacity:  Creekkeeper to review wetland permits",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "A7. New capacity:  Creekkeeper to review wetland permits $25,000.00 *1|name_cost_tail_trim",
+      "originalName": "A7. New capacity:  Creekkeeper to review wetland permits $25,000.00 *1"
+    },
+    {
+      "id": "B13",
+      "name": "A8.     Promote     walking/biking     paths     for Long Beach canals",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "A8.     Promote     walking/biking     paths     for Long Beach canals $25,000.00 *2|name_cost_tail_trim",
+      "originalName": "A8.     Promote     walking/biking     paths     for Long Beach canals $25,000.00 *2"
+    },
+    {
+      "id": "B14",
+      "name": "Subtotal",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Subtotal: $1,592,500.00|name_cost_tail_trim",
+      "originalName": "Subtotal: $1,592,500.00"
+    },
+    {
+      "id": "B15",
+      "name": "B1. New capacity: environmental science education coordinator",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "B1. New capacity: environmental science education coordinator  $25,000.00 *2|name_cost_tail_trim",
+      "originalName": "B1. New capacity: environmental science education coordinator  $25,000.00 *2"
+    },
+    {
+      "id": "B16",
+      "name": "B2. passive education thru website",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "B2. passive education thru website   $6,000.00|name_cost_tail_trim",
+      "originalName": "B2. passive education thru website   $6,000.00"
+    },
+    {
+      "id": "B17",
+      "name": "B3.     Wetlands     101workshop",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "B3.     Wetlands     101workshop                       $850.00|name_cost_tail_trim",
+      "originalName": "B3.     Wetlands     101workshop                       $850.00"
+    },
+    {
+      "id": "B18",
+      "name": "B4. Creekkeeper to monitor water quality",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": "monitor",
+      "confidence": 0.15,
+      "source": "B4. Creekkeeper to monitor water quality   $25,000.00 *1|name_cost_tail_trim",
+      "originalName": "B4. Creekkeeper to monitor water quality   $25,000.00 *1"
+    },
+    {
+      "id": "B19",
+      "name": "B5. Greenways construction of public access",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "B5. Greenways construction of public access  $95,000.00|name_cost_tail_trim",
+      "originalName": "B5. Greenways construction of public access  $95,000.00"
+    },
+    {
+      "id": "B20",
+      "name": "B6. Interpretation of Greenway and public access: maps, signage",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "B6. Interpretation of Greenway and public access: maps, signage $10,000.00 *2|name_cost_tail_trim",
+      "originalName": "B6. Interpretation of Greenway and public access: maps, signage $10,000.00 *2"
+    },
+    {
+      "id": "B21",
+      "name": "B7. Fishing piers - included in B5",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "B7. Fishing piers - included in B5   $0.00|name_cost_tail_trim",
+      "originalName": "B7. Fishing piers - included in B5   $0.00"
+    },
+    {
+      "id": "B22",
+      "name": "B8 Coordinate building of walking,biking trails",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "B8 Coordinate building of walking,biking trails  $7,500.00 *2|name_cost_tail_trim",
+      "originalName": "B8 Coordinate building of walking,biking trails  $7,500.00 *2"
+    },
+    {
+      "id": "B23",
+      "name": "B9 Build and enhance connectors, walk/bike on levees",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "B9 Build and enhance connectors, walk/bike on levees  $15,000.00|name_cost_tail_trim",
+      "originalName": "B9 Build and enhance connectors, walk/bike on levees  $15,000.00"
+    },
+    {
+      "id": "B24",
+      "name": "B10    Highway signage:  \"you are entering...\"",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "B10    Highway signage:  \"you are entering...\"   $7,500.00|name_cost_tail_trim",
+      "originalName": "B10    Highway signage:  \"you are entering...\"   $7,500.00"
+    },
+    {
+      "id": "B25",
+      "name": "B11    Printing:  signage and other educational materials",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "B11    Printing:  signage and other educational materials  $2,500.00|name_cost_tail_trim",
+      "originalName": "B11    Printing:  signage and other educational materials  $2,500.00"
+    },
+    {
+      "id": "B26",
+      "name": "B12    Create Gateway to City of Gulport",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "B12    Create Gateway to City of Gulport   $15,000.00|name_cost_tail_trim",
+      "originalName": "B12    Create Gateway to City of Gulport   $15,000.00"
+    },
+    {
+      "id": "B27",
+      "name": "B13    MDEQ    Puppet    Show",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "B13    MDEQ    Puppet    Show                $2,500.00|name_cost_tail_trim",
+      "originalName": "B13    MDEQ    Puppet    Show                $2,500.00"
+    },
+    {
+      "id": "B28",
+      "name": "B14    Turkey Creek Cane Pole Derby",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "B14    Turkey Creek Cane Pole Derby   $1,000.00 *2|name_cost_tail_trim",
+      "originalName": "B14    Turkey Creek Cane Pole Derby   $1,000.00 *2"
+    },
+    {
+      "id": "B29",
+      "name": "B15    Develop a Turkey Creek Heritage Festival",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "B15    Develop a Turkey Creek Heritage Festival  $35,000.00|name_cost_tail_trim",
+      "originalName": "B15    Develop a Turkey Creek Heritage Festival  $35,000.00"
+    },
+    {
+      "id": "B30",
+      "name": "A1..    Restore Forrest Heights levee",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": "restore",
+      "confidence": 0.15,
+      "source": "A1..    Restore Forrest Heights levee   $45,000.00|name_cost_tail_trim",
+      "originalName": "A1..    Restore Forrest Heights levee   $45,000.00"
+    },
+    {
+      "id": "B31",
+      "name": "A2. Guide debris removal from Creek",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "A2. Guide debris removal from Creek   $2,500.00 *1|name_cost_tail_trim",
+      "originalName": "A2. Guide debris removal from Creek   $2,500.00 *1"
+    },
+    {
+      "id": "B32",
+      "name": "A3. Bayhead reforestation at Mt. Pleasant/Audubon site",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "A3. Bayhead reforestation at Mt. Pleasant/Audubon site  $250,000.00|name_cost_tail_trim",
+      "originalName": "A3. Bayhead reforestation at Mt. Pleasant/Audubon site  $250,000.00"
+    },
+    {
+      "id": "B33",
+      "name": "A4.     Cogongrass     eradication     program",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "A4.     Cogongrass     eradication     program               $18,000.00     *2|name_cost_tail_trim",
+      "originalName": "A4.     Cogongrass     eradication     program               $18,000.00     *2"
+    },
+    {
+      "id": "B34",
+      "name": "A5. Urban Forest Renewal Program",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "A5. Urban Forest Renewal Program   $7,500.00 *2|name_cost_tail_trim",
+      "originalName": "A5. Urban Forest Renewal Program   $7,500.00 *2"
+    },
+    {
+      "id": "B35",
+      "name": "A6.     Airport     revegetation",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "A6.     Airport     revegetation                    $25,000.00|name_cost_tail_trim",
+      "originalName": "A6.     Airport     revegetation                    $25,000.00"
+    },
+    {
+      "id": "B36",
+      "name": "A7. Native plant nursery",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": "plant",
+      "confidence": 0.15,
+      "source": "A7. Native plant nursery    $10,000.00|name_cost_tail_trim",
+      "originalName": "A7. Native plant nursery    $10,000.00"
+    },
+    {
+      "id": "B37",
+      "name": "A8.     Ditch     cleanup",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "A8.     Ditch     cleanup                         $3,500.00     *2|name_cost_tail_trim",
+      "originalName": "A8.     Ditch     cleanup                         $3,500.00     *2"
+    },
+    {
+      "id": "B38",
+      "name": "A9:     TMDL     fecal",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "A9:     TMDL     fecal                    $2,500.00     *1|name_cost_tail_trim",
+      "originalName": "A9:     TMDL     fecal                    $2,500.00     *1"
+    },
+    {
+      "id": "B39",
+      "name": "A10    TMDL    fecal",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "A10    TMDL    fecal                 $2,500.00    *1 protection)                                                                $5,000.00|name_cost_tail_trim",
+      "originalName": "A10    TMDL    fecal                 $2,500.00    *1 protection)                                                                $5,000.00"
+    },
+    {
+      "id": "B40",
+      "name": "A12    TMDL    PH",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "A12    TMDL    PH                   $15,000.00|name_cost_tail_trim",
+      "originalName": "A12    TMDL    PH                   $15,000.00"
+    },
+    {
+      "id": "B41",
+      "name": "A13    Gemorph assessment and bank stabilization, 1 mile",
+      "category": "Erosion Control",
+      "keyword": "bank stabilization",
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.4,
+      "source": "A13    Gemorph assessment and bank stabilization, 1 mile $240,000.00|name_cost_tail_trim",
+      "originalName": "A13    Gemorph assessment and bank stabilization, 1 mile $240,000.00"
+    },
+    {
+      "id": "B42",
+      "name": "A14    Restoration of native vegetation on easement: bernard bayou",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "A14    Restoration of native vegetation on easement: bernard bayou $25,000.00|name_cost_tail_trim",
+      "originalName": "A14    Restoration of native vegetation on easement: bernard bayou $25,000.00"
+    },
+    {
+      "id": "B43",
+      "name": "Creekkeeper",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Creekkeeper                                                                                                    $5,000.00                         *2|name_cost_tail_trim",
+      "originalName": "Creekkeeper                                                                                                    $5,000.00                         *2"
+    },
+    {
+      "id": "B44",
+      "name": "B2 Advocate for brownfield restoration - Creekkeeper",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "B2 Advocate for brownfield restoration - Creekkeeper  $10,000.00 *1|name_cost_tail_trim",
+      "originalName": "B2 Advocate for brownfield restoration - Creekkeeper  $10,000.00 *1"
+    },
+    {
+      "id": "B45",
+      "name": "B6 Remarkable riches of splendid ditches",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "B6 Remarkable riches of splendid ditches   $1,000.00 *2|name_cost_tail_trim",
+      "originalName": "B6 Remarkable riches of splendid ditches   $1,000.00 *2"
+    },
+    {
+      "id": "B46",
+      "name": "B8 Educational ops for private landowners",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "B8 Educational ops for private landowners   $5,000.00|name_cost_tail_trim",
+      "originalName": "B8 Educational ops for private landowners   $5,000.00"
+    },
+    {
+      "id": "B47",
+      "name": "$2,512,850.00 the TCCI:  (1) an environmental education/stewardship program at an estimated cost of",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$2,512,850.00 the TCCI:  (1) an environmental education/stewardship program at an estimated cost of"
+    },
+    {
+      "id": "B48",
+      "name": "$90,500 per year, and a (2) Creek Keeper program at an estimated cost of",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$90,500 per year, and a (2) Creek Keeper program at an estimated cost of $30,000 per year.|name_cost_tail_trim",
+      "originalName": "$90,500 per year, and a (2) Creek Keeper program at an estimated cost of $30,000 per year."
+    }
+  ],
+  "bmpCostTable": {
+    "id": "adaptive_generic_costs",
+    "title": "success.  The estimated cost for completing this watershed action plan is approximately $2.3",
+    "table": {
+      "columns": [
+        "Item",
+        "Cost",
+        "Extra?"
+      ],
+      "rows": [
+        {
+          "Item": "success.  The estimated cost for completing this watershed action plan is approximately",
+          "Cost": "$2",
+          "Extra": null
+        },
+        {
+          "Item": "A1. acquire identified conservation areas, TC Greenway",
+          "Cost": "$1,470,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "CIAP I acquisitions. Work not completed funding already allocated",
+          "Cost": "$60,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "A2. Green subdivision model; conservation easement, 28th st",
+          "Cost": "$2,500.00",
+          "Extra": null
+        },
+        {
+          "Item": "A3. Green subdivision model; conservation easement, Bernard Bayou",
+          "Cost": "$2,500.00",
+          "Extra": null
+        },
+        {
+          "Item": "A4. Education about conservation options for Landowners",
+          "Cost": "$1,200.00",
+          "Extra": null
+        },
+        {
+          "Item": "Support statewide legislative action to allow TDRs",
+          "Cost": "$1,300.00",
+          "Extra": null
+        },
+        {
+          "Item": "A5. Advocate and support City tree protection ordinance - Creekkeeper",
+          "Cost": "$2,500.00",
+          "Extra": null
+        },
+        {
+          "Item": "A6. Education about streamside buffer and urban forests",
+          "Cost": "$2,500.00",
+          "Extra": null
+        },
+        {
+          "Item": "A7. New capacity:  Creekkeeper to review wetland permits",
+          "Cost": "$25,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "A8.     Promote     walking/biking     paths     for Long Beach canals",
+          "Cost": "$25,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "Subtotal:",
+          "Cost": "$1,592,500.00",
+          "Extra": null
+        },
+        {
+          "Item": "B1. New capacity: environmental science education coordinator",
+          "Cost": "$25,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "B2. passive education thru website",
+          "Cost": "$6,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "B3.     Wetlands     101workshop",
+          "Cost": "$850.00",
+          "Extra": null
+        },
+        {
+          "Item": "B4. Creekkeeper to monitor water quality",
+          "Cost": "$25,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "B5. Greenways construction of public access",
+          "Cost": "$95,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "B6. Interpretation of Greenway and public access: maps, signage",
+          "Cost": "$10,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "B7. Fishing piers - included in B5",
+          "Cost": "$0.00",
+          "Extra": null
+        },
+        {
+          "Item": "B8 Coordinate building of walking,biking trails",
+          "Cost": "$7,500.00",
+          "Extra": null
+        },
+        {
+          "Item": "B9 Build and enhance connectors, walk/bike on levees",
+          "Cost": "$15,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "B10    Highway signage:  \"you are entering...\"",
+          "Cost": "$7,500.00",
+          "Extra": null
+        },
+        {
+          "Item": "B11    Printing:  signage and other educational materials",
+          "Cost": "$2,500.00",
+          "Extra": null
+        },
+        {
+          "Item": "B12    Create Gateway to City of Gulport",
+          "Cost": "$15,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "B13    MDEQ    Puppet    Show",
+          "Cost": "$2,500.00",
+          "Extra": null
+        },
+        {
+          "Item": "B14    Turkey Creek Cane Pole Derby",
+          "Cost": "$1,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "B15    Develop a Turkey Creek Heritage Festival",
+          "Cost": "$35,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "Subtotal:",
+          "Cost": "$247,850.00",
+          "Extra": null
+        },
+        {
+          "Item": "A1..    Restore Forrest Heights levee",
+          "Cost": "$45,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "A2. Guide debris removal from Creek",
+          "Cost": "$2,500.00",
+          "Extra": null
+        },
+        {
+          "Item": "A3. Bayhead reforestation at Mt. Pleasant/Audubon site",
+          "Cost": "$250,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "A4.     Cogongrass     eradication     program",
+          "Cost": "$18,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "A5. Urban Forest Renewal Program",
+          "Cost": "$7,500.00",
+          "Extra": null
+        },
+        {
+          "Item": "A6.     Airport     revegetation",
+          "Cost": "$25,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "A7. Native plant nursery",
+          "Cost": "$10,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "A8.     Ditch     cleanup",
+          "Cost": "$3,500.00",
+          "Extra": null
+        },
+        {
+          "Item": "A9:     TMDL     fecal",
+          "Cost": "$2,500.00",
+          "Extra": null
+        },
+        {
+          "Item": "A10    TMDL    fecal",
+          "Cost": "$2,500.00",
+          "Extra": null
+        },
+        {
+          "Item": "protection)",
+          "Cost": "$5,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "A12    TMDL    PH",
+          "Cost": "$15,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "A13    Gemorph assessment and bank stabilization, 1 mile",
+          "Cost": "$240,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "A14    Restoration of native vegetation on easement: bernard bayou",
+          "Cost": "$25,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "Subtotal:",
+          "Cost": "$651,500.00",
+          "Extra": null
+        },
+        {
+          "Item": "Creekkeeper",
+          "Cost": "$5,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "B2 Advocate for brownfield restoration - Creekkeeper",
+          "Cost": "$10,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "B6 Remarkable riches of splendid ditches",
+          "Cost": "$1,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "B8 Educational ops for private landowners",
+          "Cost": "$5,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "Subtotal:",
+          "Cost": "$21,000.00",
+          "Extra": null
+        }
+      ],
+      "total": null
+    },
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTableNormalized": {
+    "id": "adaptive_generic_costs",
+    "title": "success.  The estimated cost for completing this watershed action plan is approximately $2.3",
+    "rows": [
+      {
+        "name": "success.  The estimated cost for completing this watershed action plan is approximately",
+        "totalCost": 2,
+        "rawCost": "$2"
+      },
+      {
+        "name": "A1. acquire identified conservation areas, TC Greenway",
+        "totalCost": 1470000,
+        "rawCost": "$1,470,000.00"
+      },
+      {
+        "name": "CIAP I acquisitions. Work not completed funding already allocated",
+        "totalCost": 60000,
+        "rawCost": "$60,000.00"
+      },
+      {
+        "name": "A2. Green subdivision model; conservation easement, 28th st",
+        "totalCost": 2500,
+        "rawCost": "$2,500.00"
+      },
+      {
+        "name": "A3. Green subdivision model; conservation easement, Bernard Bayou",
+        "totalCost": 2500,
+        "rawCost": "$2,500.00"
+      },
+      {
+        "name": "A4. Education about conservation options for Landowners",
+        "totalCost": 1200,
+        "rawCost": "$1,200.00"
+      },
+      {
+        "name": "Support statewide legislative action to allow TDRs",
+        "totalCost": 1300,
+        "rawCost": "$1,300.00"
+      },
+      {
+        "name": "A5. Advocate and support City tree protection ordinance - Creekkeeper",
+        "totalCost": 2500,
+        "rawCost": "$2,500.00"
+      },
+      {
+        "name": "A6. Education about streamside buffer and urban forests",
+        "totalCost": 2500,
+        "rawCost": "$2,500.00"
+      },
+      {
+        "name": "A7. New capacity:  Creekkeeper to review wetland permits",
+        "totalCost": 25000,
+        "rawCost": "$25,000.00"
+      },
+      {
+        "name": "A8.     Promote     walking/biking     paths     for Long Beach canals",
+        "totalCost": 25000,
+        "rawCost": "$25,000.00"
+      },
+      {
+        "name": "Subtotal:",
+        "totalCost": 1592500,
+        "rawCost": "$1,592,500.00"
+      },
+      {
+        "name": "B1. New capacity: environmental science education coordinator",
+        "totalCost": 25000,
+        "rawCost": "$25,000.00"
+      },
+      {
+        "name": "B2. passive education thru website",
+        "totalCost": 6000,
+        "rawCost": "$6,000.00"
+      },
+      {
+        "name": "B3.     Wetlands     101workshop",
+        "totalCost": 850,
+        "rawCost": "$850.00"
+      },
+      {
+        "name": "B4. Creekkeeper to monitor water quality",
+        "totalCost": 25000,
+        "rawCost": "$25,000.00"
+      },
+      {
+        "name": "B5. Greenways construction of public access",
+        "totalCost": 95000,
+        "rawCost": "$95,000.00"
+      },
+      {
+        "name": "B6. Interpretation of Greenway and public access: maps, signage",
+        "totalCost": 10000,
+        "rawCost": "$10,000.00"
+      },
+      {
+        "name": "B7. Fishing piers - included in B5",
+        "totalCost": 0,
+        "rawCost": "$0.00"
+      },
+      {
+        "name": "B8 Coordinate building of walking,biking trails",
+        "totalCost": 7500,
+        "rawCost": "$7,500.00"
+      },
+      {
+        "name": "B9 Build and enhance connectors, walk/bike on levees",
+        "totalCost": 15000,
+        "rawCost": "$15,000.00"
+      },
+      {
+        "name": "B10    Highway signage:  \"you are entering...\"",
+        "totalCost": 7500,
+        "rawCost": "$7,500.00"
+      },
+      {
+        "name": "B11    Printing:  signage and other educational materials",
+        "totalCost": 2500,
+        "rawCost": "$2,500.00"
+      },
+      {
+        "name": "B12    Create Gateway to City of Gulport",
+        "totalCost": 15000,
+        "rawCost": "$15,000.00"
+      },
+      {
+        "name": "B13    MDEQ    Puppet    Show",
+        "totalCost": 2500,
+        "rawCost": "$2,500.00"
+      },
+      {
+        "name": "B14    Turkey Creek Cane Pole Derby",
+        "totalCost": 1000,
+        "rawCost": "$1,000.00"
+      },
+      {
+        "name": "B15    Develop a Turkey Creek Heritage Festival",
+        "totalCost": 35000,
+        "rawCost": "$35,000.00"
+      },
+      {
+        "name": "Subtotal:",
+        "totalCost": 247850,
+        "rawCost": "$247,850.00"
+      },
+      {
+        "name": "A1..    Restore Forrest Heights levee",
+        "totalCost": 45000,
+        "rawCost": "$45,000.00"
+      },
+      {
+        "name": "A2. Guide debris removal from Creek",
+        "totalCost": 2500,
+        "rawCost": "$2,500.00"
+      },
+      {
+        "name": "A3. Bayhead reforestation at Mt. Pleasant/Audubon site",
+        "totalCost": 250000,
+        "rawCost": "$250,000.00"
+      },
+      {
+        "name": "A4.     Cogongrass     eradication     program",
+        "totalCost": 18000,
+        "rawCost": "$18,000.00"
+      },
+      {
+        "name": "A5. Urban Forest Renewal Program",
+        "totalCost": 7500,
+        "rawCost": "$7,500.00"
+      },
+      {
+        "name": "A6.     Airport     revegetation",
+        "totalCost": 25000,
+        "rawCost": "$25,000.00"
+      },
+      {
+        "name": "A7. Native plant nursery",
+        "totalCost": 10000,
+        "rawCost": "$10,000.00"
+      },
+      {
+        "name": "A8.     Ditch     cleanup",
+        "totalCost": 3500,
+        "rawCost": "$3,500.00"
+      },
+      {
+        "name": "A9:     TMDL     fecal",
+        "totalCost": 2500,
+        "rawCost": "$2,500.00"
+      },
+      {
+        "name": "A10    TMDL    fecal",
+        "totalCost": 2500,
+        "rawCost": "$2,500.00"
+      },
+      {
+        "name": "protection)",
+        "totalCost": 5000,
+        "rawCost": "$5,000.00"
+      },
+      {
+        "name": "A12    TMDL    PH",
+        "totalCost": 15000,
+        "rawCost": "$15,000.00"
+      },
+      {
+        "name": "A13    Gemorph assessment and bank stabilization, 1 mile",
+        "totalCost": 240000,
+        "rawCost": "$240,000.00"
+      },
+      {
+        "name": "A14    Restoration of native vegetation on easement: bernard bayou",
+        "totalCost": 25000,
+        "rawCost": "$25,000.00"
+      },
+      {
+        "name": "Subtotal:",
+        "totalCost": 651500,
+        "rawCost": "$651,500.00"
+      },
+      {
+        "name": "Creekkeeper",
+        "totalCost": 5000,
+        "rawCost": "$5,000.00"
+      },
+      {
+        "name": "B2 Advocate for brownfield restoration - Creekkeeper",
+        "totalCost": 10000,
+        "rawCost": "$10,000.00"
+      },
+      {
+        "name": "B6 Remarkable riches of splendid ditches",
+        "totalCost": 1000,
+        "rawCost": "$1,000.00"
+      },
+      {
+        "name": "B8 Educational ops for private landowners",
+        "totalCost": 5000,
+        "rawCost": "$5,000.00"
+      },
+      {
+        "name": "Subtotal:",
+        "totalCost": 21000,
+        "rawCost": "$21,000.00"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 5025702,
+    "discrepancy": null,
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTables": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "success.  The estimated cost for completing this watershed action plan is approximately $2.3",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "success.  The estimated cost for completing this watershed action plan is approximately",
+            "Cost": "$2",
+            "Extra": null
+          },
+          {
+            "Item": "A1. acquire identified conservation areas, TC Greenway",
+            "Cost": "$1,470,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "CIAP I acquisitions. Work not completed funding already allocated",
+            "Cost": "$60,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A2. Green subdivision model; conservation easement, 28th st",
+            "Cost": "$2,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "A3. Green subdivision model; conservation easement, Bernard Bayou",
+            "Cost": "$2,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "A4. Education about conservation options for Landowners",
+            "Cost": "$1,200.00",
+            "Extra": null
+          },
+          {
+            "Item": "Support statewide legislative action to allow TDRs",
+            "Cost": "$1,300.00",
+            "Extra": null
+          },
+          {
+            "Item": "A5. Advocate and support City tree protection ordinance - Creekkeeper",
+            "Cost": "$2,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "A6. Education about streamside buffer and urban forests",
+            "Cost": "$2,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "A7. New capacity:  Creekkeeper to review wetland permits",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A8.     Promote     walking/biking     paths     for Long Beach canals",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Subtotal:",
+            "Cost": "$1,592,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "B1. New capacity: environmental science education coordinator",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B2. passive education thru website",
+            "Cost": "$6,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B3.     Wetlands     101workshop",
+            "Cost": "$850.00",
+            "Extra": null
+          },
+          {
+            "Item": "B4. Creekkeeper to monitor water quality",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B5. Greenways construction of public access",
+            "Cost": "$95,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B6. Interpretation of Greenway and public access: maps, signage",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B7. Fishing piers - included in B5",
+            "Cost": "$0.00",
+            "Extra": null
+          },
+          {
+            "Item": "B8 Coordinate building of walking,biking trails",
+            "Cost": "$7,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "B9 Build and enhance connectors, walk/bike on levees",
+            "Cost": "$15,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B10    Highway signage:  \"you are entering...\"",
+            "Cost": "$7,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "B11    Printing:  signage and other educational materials",
+            "Cost": "$2,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "B12    Create Gateway to City of Gulport",
+            "Cost": "$15,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B13    MDEQ    Puppet    Show",
+            "Cost": "$2,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "B14    Turkey Creek Cane Pole Derby",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B15    Develop a Turkey Creek Heritage Festival",
+            "Cost": "$35,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Subtotal:",
+            "Cost": "$247,850.00",
+            "Extra": null
+          },
+          {
+            "Item": "A1..    Restore Forrest Heights levee",
+            "Cost": "$45,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A2. Guide debris removal from Creek",
+            "Cost": "$2,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "A3. Bayhead reforestation at Mt. Pleasant/Audubon site",
+            "Cost": "$250,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A4.     Cogongrass     eradication     program",
+            "Cost": "$18,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A5. Urban Forest Renewal Program",
+            "Cost": "$7,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "A6.     Airport     revegetation",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A7. Native plant nursery",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A8.     Ditch     cleanup",
+            "Cost": "$3,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "A9:     TMDL     fecal",
+            "Cost": "$2,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "A10    TMDL    fecal",
+            "Cost": "$2,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "protection)",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A12    TMDL    PH",
+            "Cost": "$15,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A13    Gemorph assessment and bank stabilization, 1 mile",
+            "Cost": "$240,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A14    Restoration of native vegetation on easement: bernard bayou",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Subtotal:",
+            "Cost": "$651,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Creekkeeper",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B2 Advocate for brownfield restoration - Creekkeeper",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B6 Remarkable riches of splendid ditches",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B8 Educational ops for private landowners",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Subtotal:",
+            "Cost": "$21,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$70,000.00     for",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "A1. acquire identified conservation areas, TC Greenway",
+            "Cost": "$1,470,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "CIAP I acquisitions. Work not completed funding already allocated",
+            "Cost": "$60,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A2. Green subdivision model; conservation easement, 28th st",
+            "Cost": "$2,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "A3. Green subdivision model; conservation easement, Bernard Bayou",
+            "Cost": "$2,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "A4. Education about conservation options for Landowners",
+            "Cost": "$1,200.00",
+            "Extra": null
+          },
+          {
+            "Item": "Support statewide legislative action to allow TDRs",
+            "Cost": "$1,300.00",
+            "Extra": null
+          },
+          {
+            "Item": "A5. Advocate and support City tree protection ordinance - Creekkeeper",
+            "Cost": "$2,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "A6. Education about streamside buffer and urban forests",
+            "Cost": "$2,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "A7. New capacity:  Creekkeeper to review wetland permits",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A8.     Promote     walking/biking     paths     for Long Beach canals",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Subtotal:",
+            "Cost": "$1,592,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "B1. New capacity: environmental science education coordinator",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B2. passive education thru website",
+            "Cost": "$6,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B3.     Wetlands     101workshop",
+            "Cost": "$850.00",
+            "Extra": null
+          },
+          {
+            "Item": "B4. Creekkeeper to monitor water quality",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B5. Greenways construction of public access",
+            "Cost": "$95,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B6. Interpretation of Greenway and public access: maps, signage",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B7. Fishing piers - included in B5",
+            "Cost": "$0.00",
+            "Extra": null
+          },
+          {
+            "Item": "B8 Coordinate building of walking,biking trails",
+            "Cost": "$7,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "B9 Build and enhance connectors, walk/bike on levees",
+            "Cost": "$15,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B10    Highway signage:  \"you are entering...\"",
+            "Cost": "$7,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "B11    Printing:  signage and other educational materials",
+            "Cost": "$2,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "B12    Create Gateway to City of Gulport",
+            "Cost": "$15,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B13    MDEQ    Puppet    Show",
+            "Cost": "$2,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "B14    Turkey Creek Cane Pole Derby",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B15    Develop a Turkey Creek Heritage Festival",
+            "Cost": "$35,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Subtotal:",
+            "Cost": "$247,850.00",
+            "Extra": null
+          },
+          {
+            "Item": "A1..    Restore Forrest Heights levee",
+            "Cost": "$45,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A2. Guide debris removal from Creek",
+            "Cost": "$2,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "A3. Bayhead reforestation at Mt. Pleasant/Audubon site",
+            "Cost": "$250,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A4.     Cogongrass     eradication     program",
+            "Cost": "$18,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A5. Urban Forest Renewal Program",
+            "Cost": "$7,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "A6.     Airport     revegetation",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A7. Native plant nursery",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A8.     Ditch     cleanup",
+            "Cost": "$3,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "A9:     TMDL     fecal",
+            "Cost": "$2,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "A10    TMDL    fecal",
+            "Cost": "$2,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "protection)",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A12    TMDL    PH",
+            "Cost": "$15,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A13    Gemorph assessment and bank stabilization, 1 mile",
+            "Cost": "$240,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A14    Restoration of native vegetation on easement: bernard bayou",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Subtotal:",
+            "Cost": "$651,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Creekkeeper",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B2 Advocate for brownfield restoration - Creekkeeper",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B6 Remarkable riches of splendid ditches",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B8 Educational ops for private landowners",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Subtotal:",
+            "Cost": "$21,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$108,500.00     for",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "A1. acquire identified conservation areas, TC Greenway",
+            "Cost": "$1,470,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "CIAP I acquisitions. Work not completed funding already allocated",
+            "Cost": "$60,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A2. Green subdivision model; conservation easement, 28th st",
+            "Cost": "$2,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "A3. Green subdivision model; conservation easement, Bernard Bayou",
+            "Cost": "$2,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "A4. Education about conservation options for Landowners",
+            "Cost": "$1,200.00",
+            "Extra": null
+          },
+          {
+            "Item": "Support statewide legislative action to allow TDRs",
+            "Cost": "$1,300.00",
+            "Extra": null
+          },
+          {
+            "Item": "A5. Advocate and support City tree protection ordinance - Creekkeeper",
+            "Cost": "$2,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "A6. Education about streamside buffer and urban forests",
+            "Cost": "$2,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "A7. New capacity:  Creekkeeper to review wetland permits",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A8.     Promote     walking/biking     paths     for Long Beach canals",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Subtotal:",
+            "Cost": "$1,592,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "B1. New capacity: environmental science education coordinator",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B2. passive education thru website",
+            "Cost": "$6,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B3.     Wetlands     101workshop",
+            "Cost": "$850.00",
+            "Extra": null
+          },
+          {
+            "Item": "B4. Creekkeeper to monitor water quality",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B5. Greenways construction of public access",
+            "Cost": "$95,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B6. Interpretation of Greenway and public access: maps, signage",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B7. Fishing piers - included in B5",
+            "Cost": "$0.00",
+            "Extra": null
+          },
+          {
+            "Item": "B8 Coordinate building of walking,biking trails",
+            "Cost": "$7,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "B9 Build and enhance connectors, walk/bike on levees",
+            "Cost": "$15,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B10    Highway signage:  \"you are entering...\"",
+            "Cost": "$7,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "B11    Printing:  signage and other educational materials",
+            "Cost": "$2,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "B12    Create Gateway to City of Gulport",
+            "Cost": "$15,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B13    MDEQ    Puppet    Show",
+            "Cost": "$2,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "B14    Turkey Creek Cane Pole Derby",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B15    Develop a Turkey Creek Heritage Festival",
+            "Cost": "$35,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Subtotal:",
+            "Cost": "$247,850.00",
+            "Extra": null
+          },
+          {
+            "Item": "A1..    Restore Forrest Heights levee",
+            "Cost": "$45,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A2. Guide debris removal from Creek",
+            "Cost": "$2,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "A3. Bayhead reforestation at Mt. Pleasant/Audubon site",
+            "Cost": "$250,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A4.     Cogongrass     eradication     program",
+            "Cost": "$18,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A5. Urban Forest Renewal Program",
+            "Cost": "$7,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "A6.     Airport     revegetation",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A7. Native plant nursery",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A8.     Ditch     cleanup",
+            "Cost": "$3,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "A9:     TMDL     fecal",
+            "Cost": "$2,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "A10    TMDL    fecal",
+            "Cost": "$2,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "protection)",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A12    TMDL    PH",
+            "Cost": "$15,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A13    Gemorph assessment and bank stabilization, 1 mile",
+            "Cost": "$240,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "A14    Restoration of native vegetation on easement: bernard bayou",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Subtotal:",
+            "Cost": "$651,500.00",
+            "Extra": null
+          },
+          {
+            "Item": "Creekkeeper",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B2 Advocate for brownfield restoration - Creekkeeper",
+            "Cost": "$10,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B6 Remarkable riches of splendid ditches",
+            "Cost": "$1,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "B8 Educational ops for private landowners",
+            "Cost": "$5,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Subtotal:",
+            "Cost": "$21,000.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "coded_activity_budget_loose",
+      "title": "A1. acquire identified conservation areas, TC Greenway  $1,470,000.00",
+      "table": {
+        "columns": [
+          "Code",
+          "Description",
+          "Amount",
+          "Section"
+        ],
+        "rows": [
+          {
+            "Code": "A1",
+            "Description": "acquire identified conservation areas, TC Greenway",
+            "Amount": "$1,470,000.00",
+            "Section": null
+          },
+          {
+            "Code": "A2",
+            "Description": "Green subdivision model; conservation easement, 28th st",
+            "Amount": "$2,500.00",
+            "Section": null
+          },
+          {
+            "Code": "A4",
+            "Description": "Education about conservation options for Landowners",
+            "Amount": "$1,200.00",
+            "Section": null
+          },
+          {
+            "Code": "B2",
+            "Description": "passive education thru website",
+            "Amount": "$6,000.00",
+            "Section": null
+          },
+          {
+            "Code": "B3",
+            "Description": "Wetlands     101workshop",
+            "Amount": "$850.00",
+            "Section": null
+          }
+        ],
+        "total": 3073050
+      },
+      "patternId": "coded_activity_budget_loose",
+      "patternConfidence": 0.68
+    },
+    {
+      "id": "coded_activity_budget_loose",
+      "title": "A2. Green subdivision model; conservation easement, 28th st $2,500.00",
+      "table": {
+        "columns": [
+          "Code",
+          "Description",
+          "Amount",
+          "Section"
+        ],
+        "rows": [
+          {
+            "Code": "A2",
+            "Description": "Green subdivision model; conservation easement, 28th st",
+            "Amount": "$2,500.00",
+            "Section": null
+          },
+          {
+            "Code": "A4",
+            "Description": "Education about conservation options for Landowners",
+            "Amount": "$1,200.00",
+            "Section": null
+          },
+          {
+            "Code": "B2",
+            "Description": "passive education thru website",
+            "Amount": "$6,000.00",
+            "Section": null
+          },
+          {
+            "Code": "B3",
+            "Description": "Wetlands     101workshop",
+            "Amount": "$850.00",
+            "Section": null
+          },
+          {
+            "Code": "B5",
+            "Description": "Greenways construction of public access",
+            "Amount": "$95,000.00",
+            "Section": null
+          }
+        ],
+        "total": 1698050
+      },
+      "patternId": "coded_activity_budget_loose",
+      "patternConfidence": 0.68
+    },
+    {
+      "id": "coded_activity_budget_loose",
+      "title": "A3. Green subdivision model; conservation easement, Bernard Bayou $2,500.00 *2",
+      "table": {
+        "columns": [
+          "Code",
+          "Description",
+          "Amount",
+          "Section"
+        ],
+        "rows": [
+          {
+            "Code": "A4",
+            "Description": "Education about conservation options for Landowners",
+            "Amount": "$1,200.00",
+            "Section": null
+          },
+          {
+            "Code": "B2",
+            "Description": "passive education thru website",
+            "Amount": "$6,000.00",
+            "Section": null
+          },
+          {
+            "Code": "B3",
+            "Description": "Wetlands     101workshop",
+            "Amount": "$850.00",
+            "Section": null
+          },
+          {
+            "Code": "B5",
+            "Description": "Greenways construction of public access",
+            "Amount": "$95,000.00",
+            "Section": null
+          },
+          {
+            "Code": "B7",
+            "Description": "Fishing piers - included in B5",
+            "Amount": "$0.00",
+            "Section": null
+          }
+        ],
+        "total": 1695550
+      },
+      "patternId": "coded_activity_budget_loose",
+      "patternConfidence": 0.68
+    },
+    {
+      "id": "coded_activity_budget_loose",
+      "title": "A4. Education about conservation options for Landowners $1,200.00",
+      "table": {
+        "columns": [
+          "Code",
+          "Description",
+          "Amount",
+          "Section"
+        ],
+        "rows": [
+          {
+            "Code": "A4",
+            "Description": "Education about conservation options for Landowners",
+            "Amount": "$1,200.00",
+            "Section": null
+          },
+          {
+            "Code": "B2",
+            "Description": "passive education thru website",
+            "Amount": "$6,000.00",
+            "Section": null
+          },
+          {
+            "Code": "B3",
+            "Description": "Wetlands     101workshop",
+            "Amount": "$850.00",
+            "Section": null
+          },
+          {
+            "Code": "B5",
+            "Description": "Greenways construction of public access",
+            "Amount": "$95,000.00",
+            "Section": null
+          },
+          {
+            "Code": "B7",
+            "Description": "Fishing piers - included in B5",
+            "Amount": "$0.00",
+            "Section": null
+          }
+        ],
+        "total": 1695550
+      },
+      "patternId": "coded_activity_budget_loose",
+      "patternConfidence": 0.68
+    },
+    {
+      "id": "coded_activity_budget_loose",
+      "title": "A5. Advocate and support City tree protection ordinance - Creekkeeper $2,500.00 *1",
+      "table": {
+        "columns": [
+          "Code",
+          "Description",
+          "Amount",
+          "Section"
+        ],
+        "rows": [
+          {
+            "Code": "B2",
+            "Description": "passive education thru website",
+            "Amount": "$6,000.00",
+            "Section": null
+          },
+          {
+            "Code": "B3",
+            "Description": "Wetlands     101workshop",
+            "Amount": "$850.00",
+            "Section": null
+          },
+          {
+            "Code": "B5",
+            "Description": "Greenways construction of public access",
+            "Amount": "$95,000.00",
+            "Section": null
+          },
+          {
+            "Code": "B7",
+            "Description": "Fishing piers - included in B5",
+            "Amount": "$0.00",
+            "Section": null
+          },
+          {
+            "Code": "A3",
+            "Description": "Bayhead reforestation at Mt. Pleasant/Audubon site",
+            "Amount": "$250,000.00",
+            "Section": null
+          }
+        ],
+        "total": 2192200
+      },
+      "patternId": "coded_activity_budget_loose",
+      "patternConfidence": 0.68
+    },
+    {
+      "id": "coded_activity_budget_loose",
+      "title": "A6. Education about streamside buffer and urban forests $2,500.00 *2",
+      "table": {
+        "columns": [
+          "Code",
+          "Description",
+          "Amount",
+          "Section"
+        ],
+        "rows": [
+          {
+            "Code": "B2",
+            "Description": "passive education thru website",
+            "Amount": "$6,000.00",
+            "Section": null
+          },
+          {
+            "Code": "B3",
+            "Description": "Wetlands     101workshop",
+            "Amount": "$850.00",
+            "Section": null
+          },
+          {
+            "Code": "B5",
+            "Description": "Greenways construction of public access",
+            "Amount": "$95,000.00",
+            "Section": null
+          },
+          {
+            "Code": "B7",
+            "Description": "Fishing piers - included in B5",
+            "Amount": "$0.00",
+            "Section": null
+          },
+          {
+            "Code": "A3",
+            "Description": "Bayhead reforestation at Mt. Pleasant/Audubon site",
+            "Amount": "$250,000.00",
+            "Section": null
+          }
+        ],
+        "total": 2192200
+      },
+      "patternId": "coded_activity_budget_loose",
+      "patternConfidence": 0.68
+    },
+    {
+      "id": "coded_activity_budget_loose",
+      "title": "A7. New capacity:  Creekkeeper to review wetland permits $25,000.00 *1",
+      "table": {
+        "columns": [
+          "Code",
+          "Description",
+          "Amount",
+          "Section"
+        ],
+        "rows": [
+          {
+            "Code": "B2",
+            "Description": "passive education thru website",
+            "Amount": "$6,000.00",
+            "Section": null
+          },
+          {
+            "Code": "B3",
+            "Description": "Wetlands     101workshop",
+            "Amount": "$850.00",
+            "Section": null
+          },
+          {
+            "Code": "B5",
+            "Description": "Greenways construction of public access",
+            "Amount": "$95,000.00",
+            "Section": null
+          },
+          {
+            "Code": "B7",
+            "Description": "Fishing piers - included in B5",
+            "Amount": "$0.00",
+            "Section": null
+          },
+          {
+            "Code": "A3",
+            "Description": "Bayhead reforestation at Mt. Pleasant/Audubon site",
+            "Amount": "$250,000.00",
+            "Section": null
+          }
+        ],
+        "total": 2192200
+      },
+      "patternId": "coded_activity_budget_loose",
+      "patternConfidence": 0.68
+    },
+    {
+      "id": "coded_activity_budget_loose",
+      "title": "A8.     Promote     walking/biking     paths     for Long Beach canals $25,000.00 *2",
+      "table": {
+        "columns": [
+          "Code",
+          "Description",
+          "Amount",
+          "Section"
+        ],
+        "rows": [
+          {
+            "Code": "B2",
+            "Description": "passive education thru website",
+            "Amount": "$6,000.00",
+            "Section": null
+          },
+          {
+            "Code": "B3",
+            "Description": "Wetlands     101workshop",
+            "Amount": "$850.00",
+            "Section": null
+          },
+          {
+            "Code": "B5",
+            "Description": "Greenways construction of public access",
+            "Amount": "$95,000.00",
+            "Section": null
+          },
+          {
+            "Code": "B7",
+            "Description": "Fishing piers - included in B5",
+            "Amount": "$0.00",
+            "Section": null
+          },
+          {
+            "Code": "A3",
+            "Description": "Bayhead reforestation at Mt. Pleasant/Audubon site",
+            "Amount": "$250,000.00",
+            "Section": null
+          }
+        ],
+        "total": 2192200
+      },
+      "patternId": "coded_activity_budget_loose",
+      "patternConfidence": 0.68
+    },
+    {
+      "id": "coded_activity_budget_loose",
+      "title": "B1. New capacity: environmental science education coordinator  $25,000.00 *2",
+      "table": {
+        "columns": [
+          "Code",
+          "Description",
+          "Amount",
+          "Section"
+        ],
+        "rows": [
+          {
+            "Code": "B2",
+            "Description": "passive education thru website",
+            "Amount": "$6,000.00",
+            "Section": null
+          },
+          {
+            "Code": "B3",
+            "Description": "Wetlands     101workshop",
+            "Amount": "$850.00",
+            "Section": null
+          },
+          {
+            "Code": "B5",
+            "Description": "Greenways construction of public access",
+            "Amount": "$95,000.00",
+            "Section": null
+          },
+          {
+            "Code": "B7",
+            "Description": "Fishing piers - included in B5",
+            "Amount": "$0.00",
+            "Section": null
+          },
+          {
+            "Code": "A3",
+            "Description": "Bayhead reforestation at Mt. Pleasant/Audubon site",
+            "Amount": "$250,000.00",
+            "Section": null
+          }
+        ],
+        "total": 599700
+      },
+      "patternId": "coded_activity_budget_loose",
+      "patternConfidence": 0.68
+    },
+    {
+      "id": "coded_activity_budget_loose",
+      "title": "B2. passive education thru website   $6,000.00",
+      "table": {
+        "columns": [
+          "Code",
+          "Description",
+          "Amount",
+          "Section"
+        ],
+        "rows": [
+          {
+            "Code": "B2",
+            "Description": "passive education thru website",
+            "Amount": "$6,000.00",
+            "Section": null
+          },
+          {
+            "Code": "B3",
+            "Description": "Wetlands     101workshop",
+            "Amount": "$850.00",
+            "Section": null
+          },
+          {
+            "Code": "B5",
+            "Description": "Greenways construction of public access",
+            "Amount": "$95,000.00",
+            "Section": null
+          },
+          {
+            "Code": "B7",
+            "Description": "Fishing piers - included in B5",
+            "Amount": "$0.00",
+            "Section": null
+          },
+          {
+            "Code": "A3",
+            "Description": "Bayhead reforestation at Mt. Pleasant/Audubon site",
+            "Amount": "$250,000.00",
+            "Section": null
+          }
+        ],
+        "total": 599700
+      },
+      "patternId": "coded_activity_budget_loose",
+      "patternConfidence": 0.68
+    },
+    {
+      "id": "coded_activity_budget_loose",
+      "title": "B3.     Wetlands     101workshop                       $850.00",
+      "table": {
+        "columns": [
+          "Code",
+          "Description",
+          "Amount",
+          "Section"
+        ],
+        "rows": [
+          {
+            "Code": "B3",
+            "Description": "Wetlands     101workshop",
+            "Amount": "$850.00",
+            "Section": null
+          },
+          {
+            "Code": "B5",
+            "Description": "Greenways construction of public access",
+            "Amount": "$95,000.00",
+            "Section": null
+          },
+          {
+            "Code": "B7",
+            "Description": "Fishing piers - included in B5",
+            "Amount": "$0.00",
+            "Section": null
+          },
+          {
+            "Code": "A3",
+            "Description": "Bayhead reforestation at Mt. Pleasant/Audubon site",
+            "Amount": "$250,000.00",
+            "Section": null
+          },
+          {
+            "Code": "A6",
+            "Description": "Airport     revegetation",
+            "Amount": "$25,000.00",
+            "Section": null
+          },
+          {
+            "Code": "A7",
+            "Description": "Native plant nursery",
+            "Amount": "$10,000.00",
+            "Section": null
+          }
+        ],
+        "total": 628700
+      },
+      "patternId": "coded_activity_budget_loose",
+      "patternConfidence": 0.68
+    },
+    {
+      "id": "coded_activity_budget_loose",
+      "title": "B4. Creekkeeper to monitor water quality   $25,000.00 *1",
+      "table": {
+        "columns": [
+          "Code",
+          "Description",
+          "Amount",
+          "Section"
+        ],
+        "rows": [
+          {
+            "Code": "B5",
+            "Description": "Greenways construction of public access",
+            "Amount": "$95,000.00",
+            "Section": null
+          },
+          {
+            "Code": "B7",
+            "Description": "Fishing piers - included in B5",
+            "Amount": "$0.00",
+            "Section": null
+          },
+          {
+            "Code": "A3",
+            "Description": "Bayhead reforestation at Mt. Pleasant/Audubon site",
+            "Amount": "$250,000.00",
+            "Section": null
+          },
+          {
+            "Code": "A6",
+            "Description": "Airport     revegetation",
+            "Amount": "$25,000.00",
+            "Section": null
+          },
+          {
+            "Code": "A7",
+            "Description": "Native plant nursery",
+            "Amount": "$10,000.00",
+            "Section": null
+          }
+        ],
+        "total": 627850
+      },
+      "patternId": "coded_activity_budget_loose",
+      "patternConfidence": 0.68
+    },
+    {
+      "id": "coded_activity_budget_loose",
+      "title": "B5. Greenways construction of public access  $95,000.00",
+      "table": {
+        "columns": [
+          "Code",
+          "Description",
+          "Amount",
+          "Section"
+        ],
+        "rows": [
+          {
+            "Code": "B5",
+            "Description": "Greenways construction of public access",
+            "Amount": "$95,000.00",
+            "Section": null
+          },
+          {
+            "Code": "B7",
+            "Description": "Fishing piers - included in B5",
+            "Amount": "$0.00",
+            "Section": null
+          },
+          {
+            "Code": "A3",
+            "Description": "Bayhead reforestation at Mt. Pleasant/Audubon site",
+            "Amount": "$250,000.00",
+            "Section": null
+          },
+          {
+            "Code": "A6",
+            "Description": "Airport     revegetation",
+            "Amount": "$25,000.00",
+            "Section": null
+          },
+          {
+            "Code": "A7",
+            "Description": "Native plant nursery",
+            "Amount": "$10,000.00",
+            "Section": null
+          }
+        ],
+        "total": 627850
+      },
+      "patternId": "coded_activity_budget_loose",
+      "patternConfidence": 0.68
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "success.  The estimated cost for completing this watershed action plan is approximately $2.3",
+      "rows": [
+        {
+          "name": "success.  The estimated cost for completing this watershed action plan is approximately",
+          "totalCost": 2,
+          "rawCost": "$2"
+        },
+        {
+          "name": "A1. acquire identified conservation areas, TC Greenway",
+          "totalCost": 1470000,
+          "rawCost": "$1,470,000.00"
+        },
+        {
+          "name": "CIAP I acquisitions. Work not completed funding already allocated",
+          "totalCost": 60000,
+          "rawCost": "$60,000.00"
+        },
+        {
+          "name": "A2. Green subdivision model; conservation easement, 28th st",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "A3. Green subdivision model; conservation easement, Bernard Bayou",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "A4. Education about conservation options for Landowners",
+          "totalCost": 1200,
+          "rawCost": "$1,200.00"
+        },
+        {
+          "name": "Support statewide legislative action to allow TDRs",
+          "totalCost": 1300,
+          "rawCost": "$1,300.00"
+        },
+        {
+          "name": "A5. Advocate and support City tree protection ordinance - Creekkeeper",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "A6. Education about streamside buffer and urban forests",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "A7. New capacity:  Creekkeeper to review wetland permits",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "A8.     Promote     walking/biking     paths     for Long Beach canals",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Subtotal:",
+          "totalCost": 1592500,
+          "rawCost": "$1,592,500.00"
+        },
+        {
+          "name": "B1. New capacity: environmental science education coordinator",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "B2. passive education thru website",
+          "totalCost": 6000,
+          "rawCost": "$6,000.00"
+        },
+        {
+          "name": "B3.     Wetlands     101workshop",
+          "totalCost": 850,
+          "rawCost": "$850.00"
+        },
+        {
+          "name": "B4. Creekkeeper to monitor water quality",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "B5. Greenways construction of public access",
+          "totalCost": 95000,
+          "rawCost": "$95,000.00"
+        },
+        {
+          "name": "B6. Interpretation of Greenway and public access: maps, signage",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "B7. Fishing piers - included in B5",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "B8 Coordinate building of walking,biking trails",
+          "totalCost": 7500,
+          "rawCost": "$7,500.00"
+        },
+        {
+          "name": "B9 Build and enhance connectors, walk/bike on levees",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "B10    Highway signage:  \"you are entering...\"",
+          "totalCost": 7500,
+          "rawCost": "$7,500.00"
+        },
+        {
+          "name": "B11    Printing:  signage and other educational materials",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "B12    Create Gateway to City of Gulport",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "B13    MDEQ    Puppet    Show",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "B14    Turkey Creek Cane Pole Derby",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "B15    Develop a Turkey Creek Heritage Festival",
+          "totalCost": 35000,
+          "rawCost": "$35,000.00"
+        },
+        {
+          "name": "Subtotal:",
+          "totalCost": 247850,
+          "rawCost": "$247,850.00"
+        },
+        {
+          "name": "A1..    Restore Forrest Heights levee",
+          "totalCost": 45000,
+          "rawCost": "$45,000.00"
+        },
+        {
+          "name": "A2. Guide debris removal from Creek",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "A3. Bayhead reforestation at Mt. Pleasant/Audubon site",
+          "totalCost": 250000,
+          "rawCost": "$250,000.00"
+        },
+        {
+          "name": "A4.     Cogongrass     eradication     program",
+          "totalCost": 18000,
+          "rawCost": "$18,000.00"
+        },
+        {
+          "name": "A5. Urban Forest Renewal Program",
+          "totalCost": 7500,
+          "rawCost": "$7,500.00"
+        },
+        {
+          "name": "A6.     Airport     revegetation",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "A7. Native plant nursery",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "A8.     Ditch     cleanup",
+          "totalCost": 3500,
+          "rawCost": "$3,500.00"
+        },
+        {
+          "name": "A9:     TMDL     fecal",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "A10    TMDL    fecal",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "protection)",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "A12    TMDL    PH",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "A13    Gemorph assessment and bank stabilization, 1 mile",
+          "totalCost": 240000,
+          "rawCost": "$240,000.00"
+        },
+        {
+          "name": "A14    Restoration of native vegetation on easement: bernard bayou",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Subtotal:",
+          "totalCost": 651500,
+          "rawCost": "$651,500.00"
+        },
+        {
+          "name": "Creekkeeper",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "B2 Advocate for brownfield restoration - Creekkeeper",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "B6 Remarkable riches of splendid ditches",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "B8 Educational ops for private landowners",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "Subtotal:",
+          "totalCost": 21000,
+          "rawCost": "$21,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 5025702,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$70,000.00     for",
+      "rows": [
+        {
+          "name": "A1. acquire identified conservation areas, TC Greenway",
+          "totalCost": 1470000,
+          "rawCost": "$1,470,000.00"
+        },
+        {
+          "name": "CIAP I acquisitions. Work not completed funding already allocated",
+          "totalCost": 60000,
+          "rawCost": "$60,000.00"
+        },
+        {
+          "name": "A2. Green subdivision model; conservation easement, 28th st",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "A3. Green subdivision model; conservation easement, Bernard Bayou",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "A4. Education about conservation options for Landowners",
+          "totalCost": 1200,
+          "rawCost": "$1,200.00"
+        },
+        {
+          "name": "Support statewide legislative action to allow TDRs",
+          "totalCost": 1300,
+          "rawCost": "$1,300.00"
+        },
+        {
+          "name": "A5. Advocate and support City tree protection ordinance - Creekkeeper",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "A6. Education about streamside buffer and urban forests",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "A7. New capacity:  Creekkeeper to review wetland permits",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "A8.     Promote     walking/biking     paths     for Long Beach canals",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Subtotal:",
+          "totalCost": 1592500,
+          "rawCost": "$1,592,500.00"
+        },
+        {
+          "name": "B1. New capacity: environmental science education coordinator",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "B2. passive education thru website",
+          "totalCost": 6000,
+          "rawCost": "$6,000.00"
+        },
+        {
+          "name": "B3.     Wetlands     101workshop",
+          "totalCost": 850,
+          "rawCost": "$850.00"
+        },
+        {
+          "name": "B4. Creekkeeper to monitor water quality",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "B5. Greenways construction of public access",
+          "totalCost": 95000,
+          "rawCost": "$95,000.00"
+        },
+        {
+          "name": "B6. Interpretation of Greenway and public access: maps, signage",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "B7. Fishing piers - included in B5",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "B8 Coordinate building of walking,biking trails",
+          "totalCost": 7500,
+          "rawCost": "$7,500.00"
+        },
+        {
+          "name": "B9 Build and enhance connectors, walk/bike on levees",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "B10    Highway signage:  \"you are entering...\"",
+          "totalCost": 7500,
+          "rawCost": "$7,500.00"
+        },
+        {
+          "name": "B11    Printing:  signage and other educational materials",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "B12    Create Gateway to City of Gulport",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "B13    MDEQ    Puppet    Show",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "B14    Turkey Creek Cane Pole Derby",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "B15    Develop a Turkey Creek Heritage Festival",
+          "totalCost": 35000,
+          "rawCost": "$35,000.00"
+        },
+        {
+          "name": "Subtotal:",
+          "totalCost": 247850,
+          "rawCost": "$247,850.00"
+        },
+        {
+          "name": "A1..    Restore Forrest Heights levee",
+          "totalCost": 45000,
+          "rawCost": "$45,000.00"
+        },
+        {
+          "name": "A2. Guide debris removal from Creek",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "A3. Bayhead reforestation at Mt. Pleasant/Audubon site",
+          "totalCost": 250000,
+          "rawCost": "$250,000.00"
+        },
+        {
+          "name": "A4.     Cogongrass     eradication     program",
+          "totalCost": 18000,
+          "rawCost": "$18,000.00"
+        },
+        {
+          "name": "A5. Urban Forest Renewal Program",
+          "totalCost": 7500,
+          "rawCost": "$7,500.00"
+        },
+        {
+          "name": "A6.     Airport     revegetation",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "A7. Native plant nursery",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "A8.     Ditch     cleanup",
+          "totalCost": 3500,
+          "rawCost": "$3,500.00"
+        },
+        {
+          "name": "A9:     TMDL     fecal",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "A10    TMDL    fecal",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "protection)",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "A12    TMDL    PH",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "A13    Gemorph assessment and bank stabilization, 1 mile",
+          "totalCost": 240000,
+          "rawCost": "$240,000.00"
+        },
+        {
+          "name": "A14    Restoration of native vegetation on easement: bernard bayou",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Subtotal:",
+          "totalCost": 651500,
+          "rawCost": "$651,500.00"
+        },
+        {
+          "name": "Creekkeeper",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "B2 Advocate for brownfield restoration - Creekkeeper",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "B6 Remarkable riches of splendid ditches",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "B8 Educational ops for private landowners",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "Subtotal:",
+          "totalCost": 21000,
+          "rawCost": "$21,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 5025700,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$108,500.00     for",
+      "rows": [
+        {
+          "name": "A1. acquire identified conservation areas, TC Greenway",
+          "totalCost": 1470000,
+          "rawCost": "$1,470,000.00"
+        },
+        {
+          "name": "CIAP I acquisitions. Work not completed funding already allocated",
+          "totalCost": 60000,
+          "rawCost": "$60,000.00"
+        },
+        {
+          "name": "A2. Green subdivision model; conservation easement, 28th st",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "A3. Green subdivision model; conservation easement, Bernard Bayou",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "A4. Education about conservation options for Landowners",
+          "totalCost": 1200,
+          "rawCost": "$1,200.00"
+        },
+        {
+          "name": "Support statewide legislative action to allow TDRs",
+          "totalCost": 1300,
+          "rawCost": "$1,300.00"
+        },
+        {
+          "name": "A5. Advocate and support City tree protection ordinance - Creekkeeper",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "A6. Education about streamside buffer and urban forests",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "A7. New capacity:  Creekkeeper to review wetland permits",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "A8.     Promote     walking/biking     paths     for Long Beach canals",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Subtotal:",
+          "totalCost": 1592500,
+          "rawCost": "$1,592,500.00"
+        },
+        {
+          "name": "B1. New capacity: environmental science education coordinator",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "B2. passive education thru website",
+          "totalCost": 6000,
+          "rawCost": "$6,000.00"
+        },
+        {
+          "name": "B3.     Wetlands     101workshop",
+          "totalCost": 850,
+          "rawCost": "$850.00"
+        },
+        {
+          "name": "B4. Creekkeeper to monitor water quality",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "B5. Greenways construction of public access",
+          "totalCost": 95000,
+          "rawCost": "$95,000.00"
+        },
+        {
+          "name": "B6. Interpretation of Greenway and public access: maps, signage",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "B7. Fishing piers - included in B5",
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "B8 Coordinate building of walking,biking trails",
+          "totalCost": 7500,
+          "rawCost": "$7,500.00"
+        },
+        {
+          "name": "B9 Build and enhance connectors, walk/bike on levees",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "B10    Highway signage:  \"you are entering...\"",
+          "totalCost": 7500,
+          "rawCost": "$7,500.00"
+        },
+        {
+          "name": "B11    Printing:  signage and other educational materials",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "B12    Create Gateway to City of Gulport",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "B13    MDEQ    Puppet    Show",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "B14    Turkey Creek Cane Pole Derby",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "B15    Develop a Turkey Creek Heritage Festival",
+          "totalCost": 35000,
+          "rawCost": "$35,000.00"
+        },
+        {
+          "name": "Subtotal:",
+          "totalCost": 247850,
+          "rawCost": "$247,850.00"
+        },
+        {
+          "name": "A1..    Restore Forrest Heights levee",
+          "totalCost": 45000,
+          "rawCost": "$45,000.00"
+        },
+        {
+          "name": "A2. Guide debris removal from Creek",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "A3. Bayhead reforestation at Mt. Pleasant/Audubon site",
+          "totalCost": 250000,
+          "rawCost": "$250,000.00"
+        },
+        {
+          "name": "A4.     Cogongrass     eradication     program",
+          "totalCost": 18000,
+          "rawCost": "$18,000.00"
+        },
+        {
+          "name": "A5. Urban Forest Renewal Program",
+          "totalCost": 7500,
+          "rawCost": "$7,500.00"
+        },
+        {
+          "name": "A6.     Airport     revegetation",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "A7. Native plant nursery",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "A8.     Ditch     cleanup",
+          "totalCost": 3500,
+          "rawCost": "$3,500.00"
+        },
+        {
+          "name": "A9:     TMDL     fecal",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "A10    TMDL    fecal",
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "protection)",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "A12    TMDL    PH",
+          "totalCost": 15000,
+          "rawCost": "$15,000.00"
+        },
+        {
+          "name": "A13    Gemorph assessment and bank stabilization, 1 mile",
+          "totalCost": 240000,
+          "rawCost": "$240,000.00"
+        },
+        {
+          "name": "A14    Restoration of native vegetation on easement: bernard bayou",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Subtotal:",
+          "totalCost": 651500,
+          "rawCost": "$651,500.00"
+        },
+        {
+          "name": "Creekkeeper",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "B2 Advocate for brownfield restoration - Creekkeeper",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "B6 Remarkable riches of splendid ditches",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "B8 Educational ops for private landowners",
+          "totalCost": 5000,
+          "rawCost": "$5,000.00"
+        },
+        {
+          "name": "Subtotal:",
+          "totalCost": 21000,
+          "rawCost": "$21,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 5025700,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "coded_activity_budget_loose",
+      "title": "A1. acquire identified conservation areas, TC Greenway  $1,470,000.00",
+      "rows": [
+        {
+          "name": "A1 acquire identified conservation areas, TC Greenway",
+          "code": "A1",
+          "section": null,
+          "totalCost": 1470000,
+          "rawCost": "$1,470,000.00"
+        },
+        {
+          "name": "A2 Green subdivision model; conservation easement, 28th st",
+          "code": "A2",
+          "section": null,
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "A4 Education about conservation options for Landowners",
+          "code": "A4",
+          "section": null,
+          "totalCost": 1200,
+          "rawCost": "$1,200.00"
+        },
+        {
+          "name": "B2 passive education thru website",
+          "code": "B2",
+          "section": null,
+          "totalCost": 6000,
+          "rawCost": "$6,000.00"
+        },
+        {
+          "name": "B3 Wetlands     101workshop",
+          "code": "B3",
+          "section": null,
+          "totalCost": 850,
+          "rawCost": "$850.00"
+        }
+      ],
+      "totalReported": 3073050,
+      "totalComputed": 1480550,
+      "discrepancy": 1592500,
+      "patternId": "coded_activity_budget_loose",
+      "patternConfidence": 0.68
+    },
+    {
+      "id": "coded_activity_budget_loose",
+      "title": "A2. Green subdivision model; conservation easement, 28th st $2,500.00",
+      "rows": [
+        {
+          "name": "A2 Green subdivision model; conservation easement, 28th st",
+          "code": "A2",
+          "section": null,
+          "totalCost": 2500,
+          "rawCost": "$2,500.00"
+        },
+        {
+          "name": "A4 Education about conservation options for Landowners",
+          "code": "A4",
+          "section": null,
+          "totalCost": 1200,
+          "rawCost": "$1,200.00"
+        },
+        {
+          "name": "B2 passive education thru website",
+          "code": "B2",
+          "section": null,
+          "totalCost": 6000,
+          "rawCost": "$6,000.00"
+        },
+        {
+          "name": "B3 Wetlands     101workshop",
+          "code": "B3",
+          "section": null,
+          "totalCost": 850,
+          "rawCost": "$850.00"
+        },
+        {
+          "name": "B5 Greenways construction of public access",
+          "code": "B5",
+          "section": null,
+          "totalCost": 95000,
+          "rawCost": "$95,000.00"
+        }
+      ],
+      "totalReported": 1698050,
+      "totalComputed": 105550,
+      "discrepancy": 1592500,
+      "patternId": "coded_activity_budget_loose",
+      "patternConfidence": 0.68
+    },
+    {
+      "id": "coded_activity_budget_loose",
+      "title": "A3. Green subdivision model; conservation easement, Bernard Bayou $2,500.00 *2",
+      "rows": [
+        {
+          "name": "A4 Education about conservation options for Landowners",
+          "code": "A4",
+          "section": null,
+          "totalCost": 1200,
+          "rawCost": "$1,200.00"
+        },
+        {
+          "name": "B2 passive education thru website",
+          "code": "B2",
+          "section": null,
+          "totalCost": 6000,
+          "rawCost": "$6,000.00"
+        },
+        {
+          "name": "B3 Wetlands     101workshop",
+          "code": "B3",
+          "section": null,
+          "totalCost": 850,
+          "rawCost": "$850.00"
+        },
+        {
+          "name": "B5 Greenways construction of public access",
+          "code": "B5",
+          "section": null,
+          "totalCost": 95000,
+          "rawCost": "$95,000.00"
+        },
+        {
+          "name": "B7 Fishing piers - included in B5",
+          "code": "B7",
+          "section": null,
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        }
+      ],
+      "totalReported": 1695550,
+      "totalComputed": 103050,
+      "discrepancy": 1592500,
+      "patternId": "coded_activity_budget_loose",
+      "patternConfidence": 0.68
+    },
+    {
+      "id": "coded_activity_budget_loose",
+      "title": "A4. Education about conservation options for Landowners $1,200.00",
+      "rows": [
+        {
+          "name": "A4 Education about conservation options for Landowners",
+          "code": "A4",
+          "section": null,
+          "totalCost": 1200,
+          "rawCost": "$1,200.00"
+        },
+        {
+          "name": "B2 passive education thru website",
+          "code": "B2",
+          "section": null,
+          "totalCost": 6000,
+          "rawCost": "$6,000.00"
+        },
+        {
+          "name": "B3 Wetlands     101workshop",
+          "code": "B3",
+          "section": null,
+          "totalCost": 850,
+          "rawCost": "$850.00"
+        },
+        {
+          "name": "B5 Greenways construction of public access",
+          "code": "B5",
+          "section": null,
+          "totalCost": 95000,
+          "rawCost": "$95,000.00"
+        },
+        {
+          "name": "B7 Fishing piers - included in B5",
+          "code": "B7",
+          "section": null,
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        }
+      ],
+      "totalReported": 1695550,
+      "totalComputed": 103050,
+      "discrepancy": 1592500,
+      "patternId": "coded_activity_budget_loose",
+      "patternConfidence": 0.68
+    },
+    {
+      "id": "coded_activity_budget_loose",
+      "title": "A5. Advocate and support City tree protection ordinance - Creekkeeper $2,500.00 *1",
+      "rows": [
+        {
+          "name": "B2 passive education thru website",
+          "code": "B2",
+          "section": null,
+          "totalCost": 6000,
+          "rawCost": "$6,000.00"
+        },
+        {
+          "name": "B3 Wetlands     101workshop",
+          "code": "B3",
+          "section": null,
+          "totalCost": 850,
+          "rawCost": "$850.00"
+        },
+        {
+          "name": "B5 Greenways construction of public access",
+          "code": "B5",
+          "section": null,
+          "totalCost": 95000,
+          "rawCost": "$95,000.00"
+        },
+        {
+          "name": "B7 Fishing piers - included in B5",
+          "code": "B7",
+          "section": null,
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "A3 Bayhead reforestation at Mt. Pleasant/Audubon site",
+          "code": "A3",
+          "section": null,
+          "totalCost": 250000,
+          "rawCost": "$250,000.00"
+        }
+      ],
+      "totalReported": 2192200,
+      "totalComputed": 351850,
+      "discrepancy": 1840350,
+      "patternId": "coded_activity_budget_loose",
+      "patternConfidence": 0.68
+    },
+    {
+      "id": "coded_activity_budget_loose",
+      "title": "A6. Education about streamside buffer and urban forests $2,500.00 *2",
+      "rows": [
+        {
+          "name": "B2 passive education thru website",
+          "code": "B2",
+          "section": null,
+          "totalCost": 6000,
+          "rawCost": "$6,000.00"
+        },
+        {
+          "name": "B3 Wetlands     101workshop",
+          "code": "B3",
+          "section": null,
+          "totalCost": 850,
+          "rawCost": "$850.00"
+        },
+        {
+          "name": "B5 Greenways construction of public access",
+          "code": "B5",
+          "section": null,
+          "totalCost": 95000,
+          "rawCost": "$95,000.00"
+        },
+        {
+          "name": "B7 Fishing piers - included in B5",
+          "code": "B7",
+          "section": null,
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "A3 Bayhead reforestation at Mt. Pleasant/Audubon site",
+          "code": "A3",
+          "section": null,
+          "totalCost": 250000,
+          "rawCost": "$250,000.00"
+        }
+      ],
+      "totalReported": 2192200,
+      "totalComputed": 351850,
+      "discrepancy": 1840350,
+      "patternId": "coded_activity_budget_loose",
+      "patternConfidence": 0.68
+    },
+    {
+      "id": "coded_activity_budget_loose",
+      "title": "A7. New capacity:  Creekkeeper to review wetland permits $25,000.00 *1",
+      "rows": [
+        {
+          "name": "B2 passive education thru website",
+          "code": "B2",
+          "section": null,
+          "totalCost": 6000,
+          "rawCost": "$6,000.00"
+        },
+        {
+          "name": "B3 Wetlands     101workshop",
+          "code": "B3",
+          "section": null,
+          "totalCost": 850,
+          "rawCost": "$850.00"
+        },
+        {
+          "name": "B5 Greenways construction of public access",
+          "code": "B5",
+          "section": null,
+          "totalCost": 95000,
+          "rawCost": "$95,000.00"
+        },
+        {
+          "name": "B7 Fishing piers - included in B5",
+          "code": "B7",
+          "section": null,
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "A3 Bayhead reforestation at Mt. Pleasant/Audubon site",
+          "code": "A3",
+          "section": null,
+          "totalCost": 250000,
+          "rawCost": "$250,000.00"
+        }
+      ],
+      "totalReported": 2192200,
+      "totalComputed": 351850,
+      "discrepancy": 1840350,
+      "patternId": "coded_activity_budget_loose",
+      "patternConfidence": 0.68
+    },
+    {
+      "id": "coded_activity_budget_loose",
+      "title": "A8.     Promote     walking/biking     paths     for Long Beach canals $25,000.00 *2",
+      "rows": [
+        {
+          "name": "B2 passive education thru website",
+          "code": "B2",
+          "section": null,
+          "totalCost": 6000,
+          "rawCost": "$6,000.00"
+        },
+        {
+          "name": "B3 Wetlands     101workshop",
+          "code": "B3",
+          "section": null,
+          "totalCost": 850,
+          "rawCost": "$850.00"
+        },
+        {
+          "name": "B5 Greenways construction of public access",
+          "code": "B5",
+          "section": null,
+          "totalCost": 95000,
+          "rawCost": "$95,000.00"
+        },
+        {
+          "name": "B7 Fishing piers - included in B5",
+          "code": "B7",
+          "section": null,
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "A3 Bayhead reforestation at Mt. Pleasant/Audubon site",
+          "code": "A3",
+          "section": null,
+          "totalCost": 250000,
+          "rawCost": "$250,000.00"
+        }
+      ],
+      "totalReported": 2192200,
+      "totalComputed": 351850,
+      "discrepancy": 1840350,
+      "patternId": "coded_activity_budget_loose",
+      "patternConfidence": 0.68
+    },
+    {
+      "id": "coded_activity_budget_loose",
+      "title": "B1. New capacity: environmental science education coordinator  $25,000.00 *2",
+      "rows": [
+        {
+          "name": "B2 passive education thru website",
+          "code": "B2",
+          "section": null,
+          "totalCost": 6000,
+          "rawCost": "$6,000.00"
+        },
+        {
+          "name": "B3 Wetlands     101workshop",
+          "code": "B3",
+          "section": null,
+          "totalCost": 850,
+          "rawCost": "$850.00"
+        },
+        {
+          "name": "B5 Greenways construction of public access",
+          "code": "B5",
+          "section": null,
+          "totalCost": 95000,
+          "rawCost": "$95,000.00"
+        },
+        {
+          "name": "B7 Fishing piers - included in B5",
+          "code": "B7",
+          "section": null,
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "A3 Bayhead reforestation at Mt. Pleasant/Audubon site",
+          "code": "A3",
+          "section": null,
+          "totalCost": 250000,
+          "rawCost": "$250,000.00"
+        }
+      ],
+      "totalReported": 599700,
+      "totalComputed": 351850,
+      "discrepancy": 247850,
+      "patternId": "coded_activity_budget_loose",
+      "patternConfidence": 0.68
+    },
+    {
+      "id": "coded_activity_budget_loose",
+      "title": "B2. passive education thru website   $6,000.00",
+      "rows": [
+        {
+          "name": "B2 passive education thru website",
+          "code": "B2",
+          "section": null,
+          "totalCost": 6000,
+          "rawCost": "$6,000.00"
+        },
+        {
+          "name": "B3 Wetlands     101workshop",
+          "code": "B3",
+          "section": null,
+          "totalCost": 850,
+          "rawCost": "$850.00"
+        },
+        {
+          "name": "B5 Greenways construction of public access",
+          "code": "B5",
+          "section": null,
+          "totalCost": 95000,
+          "rawCost": "$95,000.00"
+        },
+        {
+          "name": "B7 Fishing piers - included in B5",
+          "code": "B7",
+          "section": null,
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "A3 Bayhead reforestation at Mt. Pleasant/Audubon site",
+          "code": "A3",
+          "section": null,
+          "totalCost": 250000,
+          "rawCost": "$250,000.00"
+        }
+      ],
+      "totalReported": 599700,
+      "totalComputed": 351850,
+      "discrepancy": 247850,
+      "patternId": "coded_activity_budget_loose",
+      "patternConfidence": 0.68
+    },
+    {
+      "id": "coded_activity_budget_loose",
+      "title": "B3.     Wetlands     101workshop                       $850.00",
+      "rows": [
+        {
+          "name": "B3 Wetlands     101workshop",
+          "code": "B3",
+          "section": null,
+          "totalCost": 850,
+          "rawCost": "$850.00"
+        },
+        {
+          "name": "B5 Greenways construction of public access",
+          "code": "B5",
+          "section": null,
+          "totalCost": 95000,
+          "rawCost": "$95,000.00"
+        },
+        {
+          "name": "B7 Fishing piers - included in B5",
+          "code": "B7",
+          "section": null,
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "A3 Bayhead reforestation at Mt. Pleasant/Audubon site",
+          "code": "A3",
+          "section": null,
+          "totalCost": 250000,
+          "rawCost": "$250,000.00"
+        },
+        {
+          "name": "A6 Airport     revegetation",
+          "code": "A6",
+          "section": null,
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "A7 Native plant nursery",
+          "code": "A7",
+          "section": null,
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        }
+      ],
+      "totalReported": 628700,
+      "totalComputed": 380850,
+      "discrepancy": 247850,
+      "patternId": "coded_activity_budget_loose",
+      "patternConfidence": 0.68
+    },
+    {
+      "id": "coded_activity_budget_loose",
+      "title": "B4. Creekkeeper to monitor water quality   $25,000.00 *1",
+      "rows": [
+        {
+          "name": "B5 Greenways construction of public access",
+          "code": "B5",
+          "section": null,
+          "totalCost": 95000,
+          "rawCost": "$95,000.00"
+        },
+        {
+          "name": "B7 Fishing piers - included in B5",
+          "code": "B7",
+          "section": null,
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "A3 Bayhead reforestation at Mt. Pleasant/Audubon site",
+          "code": "A3",
+          "section": null,
+          "totalCost": 250000,
+          "rawCost": "$250,000.00"
+        },
+        {
+          "name": "A6 Airport     revegetation",
+          "code": "A6",
+          "section": null,
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "A7 Native plant nursery",
+          "code": "A7",
+          "section": null,
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        }
+      ],
+      "totalReported": 627850,
+      "totalComputed": 380000,
+      "discrepancy": 247850,
+      "patternId": "coded_activity_budget_loose",
+      "patternConfidence": 0.68
+    },
+    {
+      "id": "coded_activity_budget_loose",
+      "title": "B5. Greenways construction of public access  $95,000.00",
+      "rows": [
+        {
+          "name": "B5 Greenways construction of public access",
+          "code": "B5",
+          "section": null,
+          "totalCost": 95000,
+          "rawCost": "$95,000.00"
+        },
+        {
+          "name": "B7 Fishing piers - included in B5",
+          "code": "B7",
+          "section": null,
+          "totalCost": 0,
+          "rawCost": "$0.00"
+        },
+        {
+          "name": "A3 Bayhead reforestation at Mt. Pleasant/Audubon site",
+          "code": "A3",
+          "section": null,
+          "totalCost": 250000,
+          "rawCost": "$250,000.00"
+        },
+        {
+          "name": "A6 Airport     revegetation",
+          "code": "A6",
+          "section": null,
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "A7 Native plant nursery",
+          "code": "A7",
+          "section": null,
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        }
+      ],
+      "totalReported": 627850,
+      "totalComputed": 380000,
+      "discrepancy": 247850,
+      "patternId": "coded_activity_budget_loose",
+      "patternConfidence": 0.68
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-02T17:24:45.237Z",
+  "metadata": {
+    "sourceId": "turkey-creek-watershed-plan-2006",
+    "sourceFile": "turkey-creek-watershed-plan-2006.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "adaptive_generic_costs",
+        "title": "success.  The estimated cost for completing this watershed action plan is approximately $2.3",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 5025702
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$70,000.00     for",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 5025700
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$108,500.00     for",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 5025700
+      },
+      {
+        "id": "coded_activity_budget_loose",
+        "title": "A1. acquire identified conservation areas, TC Greenway  $1,470,000.00",
+        "confidence": 0.68,
+        "totalReported": 3073050,
+        "totalComputed": 1480550
+      },
+      {
+        "id": "coded_activity_budget_loose",
+        "title": "A2. Green subdivision model; conservation easement, 28th st $2,500.00",
+        "confidence": 0.68,
+        "totalReported": 1698050,
+        "totalComputed": 105550
+      },
+      {
+        "id": "coded_activity_budget_loose",
+        "title": "A3. Green subdivision model; conservation easement, Bernard Bayou $2,500.00 *2",
+        "confidence": 0.68,
+        "totalReported": 1695550,
+        "totalComputed": 103050
+      },
+      {
+        "id": "coded_activity_budget_loose",
+        "title": "A4. Education about conservation options for Landowners $1,200.00",
+        "confidence": 0.68,
+        "totalReported": 1695550,
+        "totalComputed": 103050
+      },
+      {
+        "id": "coded_activity_budget_loose",
+        "title": "A5. Advocate and support City tree protection ordinance - Creekkeeper $2,500.00 *1",
+        "confidence": 0.68,
+        "totalReported": 2192200,
+        "totalComputed": 351850
+      },
+      {
+        "id": "coded_activity_budget_loose",
+        "title": "A6. Education about streamside buffer and urban forests $2,500.00 *2",
+        "confidence": 0.68,
+        "totalReported": 2192200,
+        "totalComputed": 351850
+      },
+      {
+        "id": "coded_activity_budget_loose",
+        "title": "A7. New capacity:  Creekkeeper to review wetland permits $25,000.00 *1",
+        "confidence": 0.68,
+        "totalReported": 2192200,
+        "totalComputed": 351850
+      },
+      {
+        "id": "coded_activity_budget_loose",
+        "title": "A8.     Promote     walking/biking     paths     for Long Beach canals $25,000.00 *2",
+        "confidence": 0.68,
+        "totalReported": 2192200,
+        "totalComputed": 351850
+      },
+      {
+        "id": "coded_activity_budget_loose",
+        "title": "B1. New capacity: environmental science education coordinator  $25,000.00 *2",
+        "confidence": 0.68,
+        "totalReported": 599700,
+        "totalComputed": 351850
+      },
+      {
+        "id": "coded_activity_budget_loose",
+        "title": "B2. passive education thru website   $6,000.00",
+        "confidence": 0.68,
+        "totalReported": 599700,
+        "totalComputed": 351850
+      },
+      {
+        "id": "coded_activity_budget_loose",
+        "title": "B3.     Wetlands     101workshop                       $850.00",
+        "confidence": 0.68,
+        "totalReported": 628700,
+        "totalComputed": 380850
+      },
+      {
+        "id": "coded_activity_budget_loose",
+        "title": "B4. Creekkeeper to monitor water quality   $25,000.00 *1",
+        "confidence": 0.68,
+        "totalReported": 627850,
+        "totalComputed": 380000
+      },
+      {
+        "id": "coded_activity_budget_loose",
+        "title": "B5. Greenways construction of public access  $95,000.00",
+        "confidence": 0.68,
+        "totalReported": 627850,
+        "totalComputed": 380000
+      }
+    ]
+  }
+}

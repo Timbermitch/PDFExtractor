@@ -2,8 +2,8 @@ import express from 'express';
 import multer from 'multer';
 import path from 'path';
 import fs from 'fs';
-// Lazy load pdf-parse to avoid triggering its top-level debug harness in certain versions
-let pdfParseLazy = null;
+import { extractText } from '../services/pdfText.js';
+import { parsePdf } from '../services/pdfParsePatched.js';
 import { v4 as uuidv4 } from 'uuid'; // still used for tie-break hashing if needed
 
 const router = express.Router();
@@ -11,21 +11,48 @@ const router = express.Router();
 const storage = multer.memoryStorage();
 const upload = multer({ storage });
 
+// Lightweight smoke test endpoint to validate router is mounted
+router.get('/smoke', (req, res) => {
+  res.json({ ok: true, route: 'upload', timestamp: Date.now() });
+});
+
 router.post('/', upload.single('file'), async (req, res, next) => {
+  const t0 = Date.now();
   try {
     if (!req.file) {
       return res.status(400).json({ error: 'No file uploaded' });
     }
-    if (path.extname(req.file.originalname).toLowerCase() !== '.pdf') {
+    const ext = path.extname(req.file.originalname).toLowerCase();
+    if (ext !== '.pdf') {
       return res.status(400).json({ error: 'Only PDF files are supported' });
     }
-
-    if (!pdfParseLazy) {
-      const mod = await import('pdf-parse');
-      pdfParseLazy = mod.default || mod;
+    let rawText = '';
+    let pages = 0;
+    const skipParse = (req.query.skipParse === '1' || req.query.skip === '1');
+    if (skipParse) {
+      rawText = '[skipParse smoke test placeholder text]';
+      pages = 0;
+      console.log('[upload] skipParse=1 applied - bypassing PDF parsing for smoke test');
+    } else {
+      const parseStart = Date.now();
+      try {
+        const parsed = await parsePdf(req.file.buffer);
+        rawText = parsed.text || '';
+        pages = parsed.numpages || 0;
+        console.log(`[upload] pdf-parse(patched) success pages=${pages} ms=${Date.now()-parseStart}`);
+      } catch (e1) {
+        console.warn('[upload] pdf-parse(patched) failed, fallback to pdfjs', e1.message);
+        try {
+          const data = await extractText(req.file.buffer);
+          rawText = data.text;
+          pages = data.numpages;
+          console.log(`[upload] pdfjs fallback success pages=${pages} ms=${Date.now()-parseStart}`);
+        } catch (e2) {
+          console.error('[upload] extraction failed both methods', e2);
+          return res.status(500).json({ error: 'PDF extraction failed', detail: e2.message });
+        }
+      }
     }
-    const data = await pdfParseLazy(req.file.buffer);
-    const rawText = data.text || '';
 
     // Derive a human-readable id from the original filename (without extension)
     const originalBase = path.basename(req.file.originalname, path.extname(req.file.originalname));
@@ -58,16 +85,20 @@ router.post('/', upload.single('file'), async (req, res, next) => {
       originalName: req.file.originalname,
       size: req.file.size,
       uploadedAt: new Date().toISOString(),
-      pageCount: data.numpages,
-      info: data.info || {}
+      pageCount: pages,
+      info: {}
     };
 
     const bronzeRecord = { id, rawText, metadata };
     const bronzePath = path.join(process.cwd(), 'data', 'bronze', `${id}.json`);
     await fs.promises.writeFile(bronzePath, JSON.stringify(bronzeRecord, null, 2));
 
+    // eslint-disable-next-line no-console
+  console.log(`[upload] stored bronze id=${id} size=${req.file.size} totalMs=${Date.now()-t0}`);
     res.json(bronzeRecord);
   } catch (err) {
+    // eslint-disable-next-line no-console
+    console.error('[upload] unexpected error', err);
     next(err);
   }
 });

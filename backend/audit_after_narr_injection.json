@@ -1,0 +1,1271 @@
+{
+  "summary": {
+    "totalReports": 56,
+    "withCost": 43,
+    "withoutCost": 13,
+    "coveragePct": 0.7678571428571429,
+    "logicalFamilies": 52,
+    "familiesWithCost": 43,
+    "familiesWithoutCost": 9,
+    "familyCoveragePct": 0.8269230769230769,
+    "familiesWithAdaptive": 39,
+    "blankFamilies": 1,
+    "withAdaptive": 39,
+    "suspectedTrunc": 1,
+    "timestamp": "2025-10-02T18:13:34.823Z"
+  },
+  "reports": [
+    {
+      "id": "basket-creek-hickahala-creek-9-key-element-plan-2018",
+      "logicalId": "basket-creek-hickahala-creek-9-key-element-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 5,
+      "adaptiveCount": 5,
+      "bronzeLen": 25499,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false,
+      "ingestionNonWs": 20514,
+      "ingestionDollarCount": 8
+    },
+    {
+      "id": "bear-creek-watershed-plan-2007",
+      "logicalId": "bear-creek-watershed-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 37,
+      "adaptiveCount": 37,
+      "bronzeLen": 70922,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false,
+      "ingestionNonWs": 55919,
+      "ingestionDollarCount": 57
+    },
+    {
+      "id": "bear-lake-9-key-elelment-plan-2018",
+      "logicalId": "bear-lake-9-key-elelment-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 17,
+      "adaptiveCount": 16,
+      "bronzeLen": 26509,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false,
+      "ingestionNonWs": 21084,
+      "ingestionDollarCount": 38
+    },
+    {
+      "id": "bee-lake-watershed-plan-2006",
+      "logicalId": "bee-lake-watershed-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 172,
+      "adaptiveCount": 172,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "bell-creek-muddy-creek-watershed-plan-2012",
+      "logicalId": "bell-creek-muddy-creek-watershed-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 55,
+      "adaptiveCount": 53,
+      "bronzeLen": 64825,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false,
+      "ingestionNonWs": 49825,
+      "ingestionDollarCount": 96
+    },
+    {
+      "id": "booths-creek-bayou-pierre-watershed-plan-2017-6",
+      "logicalId": "booths-creek-bayou-pierre-watershed-plan",
+      "hasCost": true,
+      "adaptive": false,
+      "tableCount": 2,
+      "adaptiveCount": 0,
+      "bronzeLen": 22548,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false,
+      "ingestionNonWs": 17459,
+      "ingestionDollarCount": 97
+    },
+    {
+      "id": "broken-pumpkin-9-key-element-plan-2019",
+      "logicalId": "broken-pumpkin-9-key-element-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 48,
+      "adaptiveCount": 48,
+      "bronzeLen": 25863,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false,
+      "ingestionNonWs": 20852,
+      "ingestionDollarCount": 90
+    },
+    {
+      "id": "carmichael-creek-town-creek-9-key-element-plan-2019",
+      "logicalId": "carmichael-creek-town-creek-9-key-element-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 31,
+      "adaptiveCount": 31,
+      "bronzeLen": 38009,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false,
+      "ingestionNonWs": 30635,
+      "ingestionDollarCount": 64
+    },
+    {
+      "id": "chunky-okatibbee-watershed-plan-2007",
+      "logicalId": "chunky-okatibbee-watershed-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 24,
+      "adaptiveCount": 24,
+      "bronzeLen": 160187,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false,
+      "ingestionNonWs": 98606,
+      "ingestionDollarCount": 26
+    },
+    {
+      "id": "coldwater-river-watershed-plan-2013",
+      "logicalId": "coldwater-river-watershed-plan",
+      "hasCost": true,
+      "adaptive": false,
+      "tableCount": 2,
+      "adaptiveCount": 0,
+      "bronzeLen": 48343,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false,
+      "ingestionNonWs": 38888,
+      "ingestionDollarCount": 19
+    },
+    {
+      "id": "deer-creek-watershed-plan-2008",
+      "logicalId": "deer-creek-watershed-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 45,
+      "adaptiveCount": 45,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "dry-creek-9-key-element-plan-2017",
+      "logicalId": "dry-creek-9-key-element-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 16,
+      "adaptiveCount": 14,
+      "bronzeLen": 24108,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false,
+      "ingestionNonWs": 19128,
+      "ingestionDollarCount": 37
+    },
+    {
+      "id": "ellison-creek-9-key-element-plan-2021",
+      "logicalId": "ellison-creek-9-key-element-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 29,
+      "adaptiveCount": 29,
+      "bronzeLen": 27143,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false,
+      "ingestionNonWs": 21642,
+      "ingestionDollarCount": 50
+    },
+    {
+      "id": "fannegusha-creek-watershed-plan-2009",
+      "logicalId": "fannegusha-creek-watershed-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 44,
+      "adaptiveCount": 42,
+      "bronzeLen": 59377,
+      "segmentCount": null,
+      "suspectedTrunc": true,
+      "ingestionBlank": false,
+      "ingestionNonWs": 45301,
+      "ingestionDollarCount": 59
+    },
+    {
+      "id": "fourteen-mile-bakers-creek-watershed-plan-2009",
+      "logicalId": "fourteen-mile-bakers-creek-watershed-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 39,
+      "adaptiveCount": 37,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "fuller-creek-town-creek-9-key-element-plan-2022",
+      "logicalId": "fuller-creek-town-creek-9-key-element-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 24,
+      "adaptiveCount": 24,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "hickahala-creek-watershed-plan-2009",
+      "logicalId": "hickahala-creek-watershed-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 39,
+      "adaptiveCount": 39,
+      "bronzeLen": 73480,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false,
+      "ingestionNonWs": 56872,
+      "ingestionDollarCount": 56
+    },
+    {
+      "id": "jasper-creek-watershed-plan-2019",
+      "logicalId": "jasper-creek-watershed-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 24,
+      "adaptiveCount": 24,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "lake-washington-watershed-plan-2007",
+      "logicalId": "lake-washington-watershed-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 53,
+      "adaptiveCount": 53,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "magees-creek-watershed-plan-2007",
+      "logicalId": "magees-creek-watershed-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 52,
+      "adaptiveCount": 52,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "middle-porter-bayou-watershed-plan-2013",
+      "logicalId": "middle-porter-bayou-watershed-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 22,
+      "adaptiveCount": 22,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "muddy-bayou-opossum-bayou-9-key-element-plan-2022",
+      "logicalId": "muddy-bayou-opossum-bayou-9-key-element-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 20,
+      "adaptiveCount": 20,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "north-tippah-creek-watershed-plan-2013",
+      "logicalId": "north-tippah-creek-watershed-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 58,
+      "adaptiveCount": 58,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "old-fort-bayou-watershed-plan-2019-2",
+      "logicalId": "old-fort-bayou-watershed-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 16,
+      "adaptiveCount": 4,
+      "bronzeLen": 156083,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false,
+      "ingestionNonWs": 126251,
+      "ingestionDollarCount": 25
+    },
+    {
+      "id": "overcup-slough-watershed-plan-2013",
+      "logicalId": "overcup-slough-watershed-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 20,
+      "adaptiveCount": 20,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "owl-creek-little-hatchie-river-9-key-element-plan-2020",
+      "logicalId": "owl-creek-little-hatchie-river-9-key-element-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 16,
+      "adaptiveCount": 16,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "pickwick-reservoir-watershed-plan-2009",
+      "logicalId": "pickwick-reservoir-watershed-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 26,
+      "adaptiveCount": 26,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "platner-bayou-tippo-bayou-9-key-element-plan-2021",
+      "logicalId": "platner-bayou-tippo-bayou-9-key-element-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 24,
+      "adaptiveCount": 24,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "red-bud-catalpa-creek-watershed-phase-1-plan-2017",
+      "logicalId": "red-bud-catalpa-creek-watershed-phase-1-plan",
+      "hasCost": true,
+      "adaptive": false,
+      "tableCount": 2,
+      "adaptiveCount": 0,
+      "bronzeLen": 159226,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false,
+      "ingestionNonWs": 128534,
+      "ingestionDollarCount": 164
+    },
+    {
+      "id": "red-bud-catalpa-creek-watershed-plan-2016",
+      "logicalId": "red-bud-catalpa-creek-watershed-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 85,
+      "adaptiveCount": 85,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "ross-barnett-reservoir-watershed-plan-2011",
+      "logicalId": "ross-barnett-reservoir-watershed-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 166,
+      "adaptiveCount": 166,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "rotten-bayou-watershed-plan-2015-2",
+      "logicalId": "rotten-bayou-watershed-plan",
+      "hasCost": true,
+      "adaptive": false,
+      "tableCount": 2,
+      "adaptiveCount": 0,
+      "bronzeLen": 625473,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false,
+      "ingestionNonWs": 500975,
+      "ingestionDollarCount": 184
+    },
+    {
+      "id": "sample",
+      "logicalId": "sample",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 6,
+      "adaptiveCount": 3,
+      "bronzeLen": 840,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false,
+      "ingestionNonWs": 541,
+      "ingestionDollarCount": 5
+    },
+    {
+      "id": "sherman-creek-panola-quitman-floodway-9-key-element-plan-2018",
+      "logicalId": "sherman-creek-panola-quitman-floodway-9-key-element-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 38,
+      "adaptiveCount": 38,
+      "bronzeLen": 32249,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false,
+      "ingestionNonWs": 25892,
+      "ingestionDollarCount": 76
+    },
+    {
+      "id": "steele-bayou-watershed-plan-2009",
+      "logicalId": "steele-bayou-watershed-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 40,
+      "adaptiveCount": 40,
+      "bronzeLen": 49456,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false,
+      "ingestionNonWs": 39965,
+      "ingestionDollarCount": 59
+    },
+    {
+      "id": "tarebreeches-creek-tuscumbia-river-canal-watersehd-plan-2012",
+      "logicalId": "tarebreeches-creek-tuscumbia-river-canal-watersehd-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 56,
+      "adaptiveCount": 54,
+      "bronzeLen": 66650,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false,
+      "ingestionNonWs": 51442,
+      "ingestionDollarCount": 96
+    },
+    {
+      "id": "turkey-creek-watershed-plan-2006",
+      "logicalId": "turkey-creek-watershed-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 17,
+      "adaptiveCount": 4,
+      "bronzeLen": 88578,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false,
+      "ingestionNonWs": 61221,
+      "ingestionDollarCount": 54
+    },
+    {
+      "id": "upper-little-bayou-pierre-watershed-plan-2018",
+      "logicalId": "upper-little-bayou-pierre-watershed-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 7,
+      "adaptiveCount": 7,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "upper-piney-creek-9-key-element-plan-2022",
+      "logicalId": "upper-piney-creek-9-key-element-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 14,
+      "adaptiveCount": 12,
+      "bronzeLen": 29106,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false,
+      "ingestionNonWs": 23294,
+      "ingestionDollarCount": 17
+    },
+    {
+      "id": "upper-porter-bayou-watershed-plan-2013",
+      "logicalId": "upper-porter-bayou-watershed-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 21,
+      "adaptiveCount": 21,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "wolf-lake-broad-lake-watershed-plan-2009",
+      "logicalId": "wolf-lake-broad-lake-watershed-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 12,
+      "adaptiveCount": 12,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "wolf-river-watershed-plan-2009",
+      "logicalId": "wolf-river-watershed-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 17,
+      "adaptiveCount": 17,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "yazoo-pass-9-key-element-plan-2021",
+      "logicalId": "yazoo-pass-9-key-element-plan",
+      "hasCost": true,
+      "adaptive": true,
+      "tableCount": 17,
+      "adaptiveCount": 17,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "bogue-chitto-creek-watershed-plan",
+      "logicalId": "bogue-chitto-creek-watershed-plan",
+      "hasCost": false,
+      "adaptive": false,
+      "tableCount": 0,
+      "adaptiveCount": 0,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "buttahatchee-river-watershed-plan",
+      "logicalId": "buttahatchee-river-watershed-plan",
+      "hasCost": false,
+      "adaptive": false,
+      "tableCount": 0,
+      "adaptiveCount": 0,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "luxapallila-creek-watershed-plan-2004",
+      "logicalId": "luxapallila-creek-watershed-plan",
+      "hasCost": false,
+      "adaptive": false,
+      "tableCount": 0,
+      "adaptiveCount": 0,
+      "bronzeLen": 905,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": true,
+      "ingestionNonWs": 0,
+      "ingestionDollarCount": 0
+    },
+    {
+      "id": "mill-creek-watershed-plan",
+      "logicalId": "mill-creek-watershed-plan",
+      "hasCost": false,
+      "adaptive": false,
+      "tableCount": 0,
+      "adaptiveCount": 0,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "mill-creek-watershed-plan-2005",
+      "logicalId": "mill-creek-watershed-plan",
+      "hasCost": false,
+      "adaptive": false,
+      "tableCount": 0,
+      "adaptiveCount": 0,
+      "bronzeLen": 13757,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false,
+      "ingestionNonWs": 9224,
+      "ingestionDollarCount": 134
+    },
+    {
+      "id": "red-creek-watershed-action-plan",
+      "logicalId": "red-creek-watershed-action-plan",
+      "hasCost": false,
+      "adaptive": false,
+      "tableCount": 0,
+      "adaptiveCount": 0,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "red-creek-watershed-action-plan-2007",
+      "logicalId": "red-creek-watershed-action-plan",
+      "hasCost": false,
+      "adaptive": false,
+      "tableCount": 0,
+      "adaptiveCount": 0,
+      "bronzeLen": 293,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": true,
+      "ingestionNonWs": 0,
+      "ingestionDollarCount": 0
+    },
+    {
+      "id": "synthetic-goal-demo",
+      "logicalId": "synthetic-goal-demo",
+      "hasCost": false,
+      "adaptive": false,
+      "tableCount": 0,
+      "adaptiveCount": 0,
+      "bronzeLen": 306,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false,
+      "ingestionNonWs": 142,
+      "ingestionDollarCount": 0
+    },
+    {
+      "id": "tchoutacabouffa-river-watershed-action-plan",
+      "logicalId": "tchoutacabouffa-river-watershed-action-plan",
+      "hasCost": false,
+      "adaptive": false,
+      "tableCount": 0,
+      "adaptiveCount": 0,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "tchoutacabouffa-river-watershed-action-plan-2007",
+      "logicalId": "tchoutacabouffa-river-watershed-action-plan",
+      "hasCost": false,
+      "adaptive": false,
+      "tableCount": 0,
+      "adaptiveCount": 0,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "upper-bay-of-st-louis-watershed-action-plan-2007",
+      "logicalId": "upper-bay-of-st-louis-watershed-action-plan",
+      "hasCost": false,
+      "adaptive": false,
+      "tableCount": 0,
+      "adaptiveCount": 0,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "west-boley-creek-watershed-action-plan",
+      "logicalId": "west-boley-creek-watershed-action-plan",
+      "hasCost": false,
+      "adaptive": false,
+      "tableCount": 0,
+      "adaptiveCount": 0,
+      "bronzeLen": null,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": false
+    },
+    {
+      "id": "west-boley-creek-watershed-action-plan-2007",
+      "logicalId": "west-boley-creek-watershed-action-plan",
+      "hasCost": false,
+      "adaptive": false,
+      "tableCount": 0,
+      "adaptiveCount": 0,
+      "bronzeLen": 295,
+      "segmentCount": null,
+      "suspectedTrunc": false,
+      "ingestionBlank": true,
+      "ingestionNonWs": 0,
+      "ingestionDollarCount": 0
+    }
+  ],
+  "families": [
+    {
+      "id": "basket-creek-hickahala-creek-9-key-element-plan",
+      "variants": [
+        "basket-creek-hickahala-creek-9-key-element-plan-2018"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "basket-creek-hickahala-creek-9-key-element-plan-2018"
+    },
+    {
+      "id": "bear-creek-watershed-plan",
+      "variants": [
+        "bear-creek-watershed-plan-2007"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "bear-creek-watershed-plan-2007"
+    },
+    {
+      "id": "bear-lake-9-key-elelment-plan",
+      "variants": [
+        "bear-lake-9-key-elelment-plan-2018"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "bear-lake-9-key-elelment-plan-2018"
+    },
+    {
+      "id": "bee-lake-watershed-plan",
+      "variants": [
+        "bee-lake-watershed-plan-2006"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "bee-lake-watershed-plan-2006"
+    },
+    {
+      "id": "bell-creek-muddy-creek-watershed-plan",
+      "variants": [
+        "bell-creek-muddy-creek-watershed-plan-2012"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "bell-creek-muddy-creek-watershed-plan-2012"
+    },
+    {
+      "id": "bogue-chitto-creek-watershed-plan",
+      "variants": [
+        "bogue-chitto-creek-watershed-plan"
+      ],
+      "variantCount": 1,
+      "anyCost": false,
+      "anyAdaptive": false,
+      "representative": "bogue-chitto-creek-watershed-plan"
+    },
+    {
+      "id": "booths-creek-bayou-pierre-watershed-plan",
+      "variants": [
+        "booths-creek-bayou-pierre-watershed-plan-2017-6"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": false,
+      "representative": "booths-creek-bayou-pierre-watershed-plan-2017-6"
+    },
+    {
+      "id": "broken-pumpkin-9-key-element-plan",
+      "variants": [
+        "broken-pumpkin-9-key-element-plan-2019"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "broken-pumpkin-9-key-element-plan-2019"
+    },
+    {
+      "id": "buttahatchee-river-watershed-plan",
+      "variants": [
+        "buttahatchee-river-watershed-plan"
+      ],
+      "variantCount": 1,
+      "anyCost": false,
+      "anyAdaptive": false,
+      "representative": "buttahatchee-river-watershed-plan"
+    },
+    {
+      "id": "carmichael-creek-town-creek-9-key-element-plan",
+      "variants": [
+        "carmichael-creek-town-creek-9-key-element-plan-2019"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "carmichael-creek-town-creek-9-key-element-plan-2019"
+    },
+    {
+      "id": "chunky-okatibbee-watershed-plan",
+      "variants": [
+        "chunky-okatibbee-watershed-plan-2007"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "chunky-okatibbee-watershed-plan-2007"
+    },
+    {
+      "id": "coldwater-river-watershed-plan",
+      "variants": [
+        "coldwater-river-watershed-plan-2013"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": false,
+      "representative": "coldwater-river-watershed-plan-2013"
+    },
+    {
+      "id": "deer-creek-watershed-plan",
+      "variants": [
+        "deer-creek-watershed-plan-2008"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "deer-creek-watershed-plan-2008"
+    },
+    {
+      "id": "dry-creek-9-key-element-plan",
+      "variants": [
+        "dry-creek-9-key-element-plan-2017"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "dry-creek-9-key-element-plan-2017"
+    },
+    {
+      "id": "ellison-creek-9-key-element-plan",
+      "variants": [
+        "ellison-creek-9-key-element-plan-2021"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "ellison-creek-9-key-element-plan-2021"
+    },
+    {
+      "id": "fannegusha-creek-watershed-plan",
+      "variants": [
+        "fannegusha-creek-watershed-plan-2009"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "fannegusha-creek-watershed-plan-2009"
+    },
+    {
+      "id": "fourteen-mile-bakers-creek-watershed-plan",
+      "variants": [
+        "fourteen-mile-bakers-creek-watershed-plan-2009"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "fourteen-mile-bakers-creek-watershed-plan-2009"
+    },
+    {
+      "id": "fuller-creek-town-creek-9-key-element-plan",
+      "variants": [
+        "fuller-creek-town-creek-9-key-element-plan-2022"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "fuller-creek-town-creek-9-key-element-plan-2022"
+    },
+    {
+      "id": "hickahala-creek-watershed-plan",
+      "variants": [
+        "hickahala-creek-watershed-plan-2009"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "hickahala-creek-watershed-plan-2009"
+    },
+    {
+      "id": "jasper-creek-watershed-plan",
+      "variants": [
+        "jasper-creek-watershed-plan-2019"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "jasper-creek-watershed-plan-2019"
+    },
+    {
+      "id": "lake-washington-watershed-plan",
+      "variants": [
+        "lake-washington-watershed-plan-2007"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "lake-washington-watershed-plan-2007"
+    },
+    {
+      "id": "luxapallila-creek-watershed-plan",
+      "variants": [
+        "luxapallila-creek-watershed-plan-2004"
+      ],
+      "variantCount": 1,
+      "anyCost": false,
+      "anyAdaptive": false,
+      "representative": "luxapallila-creek-watershed-plan-2004"
+    },
+    {
+      "id": "magees-creek-watershed-plan",
+      "variants": [
+        "magees-creek-watershed-plan-2007"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "magees-creek-watershed-plan-2007"
+    },
+    {
+      "id": "middle-porter-bayou-watershed-plan",
+      "variants": [
+        "middle-porter-bayou-watershed-plan-2013"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "middle-porter-bayou-watershed-plan-2013"
+    },
+    {
+      "id": "mill-creek-watershed-plan",
+      "variants": [
+        "mill-creek-watershed-plan-2005",
+        "mill-creek-watershed-plan"
+      ],
+      "variantCount": 2,
+      "anyCost": false,
+      "anyAdaptive": false,
+      "representative": "mill-creek-watershed-plan-2005"
+    },
+    {
+      "id": "muddy-bayou-opossum-bayou-9-key-element-plan",
+      "variants": [
+        "muddy-bayou-opossum-bayou-9-key-element-plan-2022"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "muddy-bayou-opossum-bayou-9-key-element-plan-2022"
+    },
+    {
+      "id": "north-tippah-creek-watershed-plan",
+      "variants": [
+        "north-tippah-creek-watershed-plan-2013"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "north-tippah-creek-watershed-plan-2013"
+    },
+    {
+      "id": "old-fort-bayou-watershed-plan",
+      "variants": [
+        "old-fort-bayou-watershed-plan-2019-2"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "old-fort-bayou-watershed-plan-2019-2"
+    },
+    {
+      "id": "overcup-slough-watershed-plan",
+      "variants": [
+        "overcup-slough-watershed-plan-2013"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "overcup-slough-watershed-plan-2013"
+    },
+    {
+      "id": "owl-creek-little-hatchie-river-9-key-element-plan",
+      "variants": [
+        "owl-creek-little-hatchie-river-9-key-element-plan-2020"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "owl-creek-little-hatchie-river-9-key-element-plan-2020"
+    },
+    {
+      "id": "pickwick-reservoir-watershed-plan",
+      "variants": [
+        "pickwick-reservoir-watershed-plan-2009"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "pickwick-reservoir-watershed-plan-2009"
+    },
+    {
+      "id": "platner-bayou-tippo-bayou-9-key-element-plan",
+      "variants": [
+        "platner-bayou-tippo-bayou-9-key-element-plan-2021"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "platner-bayou-tippo-bayou-9-key-element-plan-2021"
+    },
+    {
+      "id": "red-bud-catalpa-creek-watershed-phase-1-plan",
+      "variants": [
+        "red-bud-catalpa-creek-watershed-phase-1-plan-2017"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": false,
+      "representative": "red-bud-catalpa-creek-watershed-phase-1-plan-2017"
+    },
+    {
+      "id": "red-bud-catalpa-creek-watershed-plan",
+      "variants": [
+        "red-bud-catalpa-creek-watershed-plan-2016"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "red-bud-catalpa-creek-watershed-plan-2016"
+    },
+    {
+      "id": "red-creek-watershed-action-plan",
+      "variants": [
+        "red-creek-watershed-action-plan-2007",
+        "red-creek-watershed-action-plan"
+      ],
+      "variantCount": 2,
+      "anyCost": false,
+      "anyAdaptive": false,
+      "representative": "red-creek-watershed-action-plan"
+    },
+    {
+      "id": "ross-barnett-reservoir-watershed-plan",
+      "variants": [
+        "ross-barnett-reservoir-watershed-plan-2011"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "ross-barnett-reservoir-watershed-plan-2011"
+    },
+    {
+      "id": "rotten-bayou-watershed-plan",
+      "variants": [
+        "rotten-bayou-watershed-plan-2015-2"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": false,
+      "representative": "rotten-bayou-watershed-plan-2015-2"
+    },
+    {
+      "id": "sample",
+      "variants": [
+        "sample"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "sample"
+    },
+    {
+      "id": "sherman-creek-panola-quitman-floodway-9-key-element-plan",
+      "variants": [
+        "sherman-creek-panola-quitman-floodway-9-key-element-plan-2018"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "sherman-creek-panola-quitman-floodway-9-key-element-plan-2018"
+    },
+    {
+      "id": "steele-bayou-watershed-plan",
+      "variants": [
+        "steele-bayou-watershed-plan-2009"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "steele-bayou-watershed-plan-2009"
+    },
+    {
+      "id": "synthetic-goal-demo",
+      "variants": [
+        "synthetic-goal-demo"
+      ],
+      "variantCount": 1,
+      "anyCost": false,
+      "anyAdaptive": false,
+      "representative": "synthetic-goal-demo"
+    },
+    {
+      "id": "tarebreeches-creek-tuscumbia-river-canal-watersehd-plan",
+      "variants": [
+        "tarebreeches-creek-tuscumbia-river-canal-watersehd-plan-2012"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "tarebreeches-creek-tuscumbia-river-canal-watersehd-plan-2012"
+    },
+    {
+      "id": "tchoutacabouffa-river-watershed-action-plan",
+      "variants": [
+        "tchoutacabouffa-river-watershed-action-plan-2007",
+        "tchoutacabouffa-river-watershed-action-plan"
+      ],
+      "variantCount": 2,
+      "anyCost": false,
+      "anyAdaptive": false,
+      "representative": "tchoutacabouffa-river-watershed-action-plan-2007"
+    },
+    {
+      "id": "turkey-creek-watershed-plan",
+      "variants": [
+        "turkey-creek-watershed-plan-2006"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "turkey-creek-watershed-plan-2006"
+    },
+    {
+      "id": "upper-bay-of-st-louis-watershed-action-plan",
+      "variants": [
+        "upper-bay-of-st-louis-watershed-action-plan-2007"
+      ],
+      "variantCount": 1,
+      "anyCost": false,
+      "anyAdaptive": false,
+      "representative": "upper-bay-of-st-louis-watershed-action-plan-2007"
+    },
+    {
+      "id": "upper-little-bayou-pierre-watershed-plan",
+      "variants": [
+        "upper-little-bayou-pierre-watershed-plan-2018"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "upper-little-bayou-pierre-watershed-plan-2018"
+    },
+    {
+      "id": "upper-piney-creek-9-key-element-plan",
+      "variants": [
+        "upper-piney-creek-9-key-element-plan-2022"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "upper-piney-creek-9-key-element-plan-2022"
+    },
+    {
+      "id": "upper-porter-bayou-watershed-plan",
+      "variants": [
+        "upper-porter-bayou-watershed-plan-2013"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "upper-porter-bayou-watershed-plan-2013"
+    },
+    {
+      "id": "west-boley-creek-watershed-action-plan",
+      "variants": [
+        "west-boley-creek-watershed-action-plan-2007",
+        "west-boley-creek-watershed-action-plan"
+      ],
+      "variantCount": 2,
+      "anyCost": false,
+      "anyAdaptive": false,
+      "representative": "west-boley-creek-watershed-action-plan"
+    },
+    {
+      "id": "wolf-lake-broad-lake-watershed-plan",
+      "variants": [
+        "wolf-lake-broad-lake-watershed-plan-2009"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "wolf-lake-broad-lake-watershed-plan-2009"
+    },
+    {
+      "id": "wolf-river-watershed-plan",
+      "variants": [
+        "wolf-river-watershed-plan-2009"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "wolf-river-watershed-plan-2009"
+    },
+    {
+      "id": "yazoo-pass-9-key-element-plan",
+      "variants": [
+        "yazoo-pass-9-key-element-plan-2021"
+      ],
+      "variantCount": 1,
+      "anyCost": true,
+      "anyAdaptive": true,
+      "representative": "yazoo-pass-9-key-element-plan-2021"
+    }
+  ]
+}

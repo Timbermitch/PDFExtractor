@@ -1,0 +1,2267 @@
+{
+  "id": "owl-creek-little-hatchie-river-9-key-element-plan-2020",
+  "summary": {
+    "totalGoals": 6,
+    "totalBMPs": 24,
+    "totalActivities": 0,
+    "primaryGoals": 3,
+    "completionRate": 0,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 6,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "General": 22,
+      "Livestock Exclusion": 2
+    },
+    "avgGoalConfidence": 0.15500000000000003,
+    "strongGoals": 0
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "The ultimate goal is to bring about behavior changes and the use of  \"Waste Pesticide Disposal Event\" - The primary goal of this program is to help Goal: Reduce the Nutrient and Sediment loads entering into the Owl Creek-Little Hatchie River BMP installation.",
+      "status": "planned",
+      "pollutant": "sediment",
+      "parameter": "sediment",
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The ultimate goal is to bring about behavior changes and the use of  \"Waste Pesticide Disposal Event\" - The primary goal of this program is to help Goal: Reduce the Nutrient and Sediment loads entering into the Owl Creek-Little Hatchie River BMP installation.",
+      "confidence": 0.25,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "fullParagraph": "as, solutions to its problems. The ultimate goal is to bring about behavior changes and the use of  “Waste Pesticide Disposal Event” - The primary goal of this program is to help Goal: Reduce the Nutrient and Sediment loads entering into the Owl Creek-Little Hatchie River BMP installation. Provided below is summary of estimated costs for potential BMPs and overall Unit Cost Grade Stabilization Structure ea 40 $10,000.00 $400,000 Streambank and Shoreline Protection ea 40 $7,500.00 $300,000 Fencing ft 90000 $4.00 $360,000 Heavy Use Area sq ft 30000 $4.72 $141,600 Watering Facility ea 55 $2,045.00 $112,475 Stream Crossing ea 6 $10,000.00 $60,000 *Monitoring $70,328 *Technical Assistance $60,000",
+      "description": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of  “Waste Pesticide Disposal Event” - The primary goal of this program is to help Goal: Reduce the Nutrient and Sediment loads entering into the Owl Creek-Little Hatchie River BMP installation. Provided below is summary of estimated costs for potential BMPs and overall Unit Cost Grade Stabilization Structure ea 40 $10,000.00 $400,000 Streambank and Shoreline Protection ea 40 $7,500.00 $300,000 Fencing ft 90000 $4.00 $360,000 Heavy Use Area sq ft 30000 $4.72 $141,600 Watering Facility ea 55 $2,045.00 $112,475 Stream Crossing ea 6 $10,000.00 $60,000 *Monitoring $70,328 *Technical Assistance $60,000",
+      "originalSentence": "The ultimate goal is to bring about behavior changes and the use of  \"Waste Pesticide Disposal Event\" - The primary goal of this program is to help Goal: Reduce the Nutrient and Sediment loads entering into the Owl Creek-Little Hatchie River BMP installation.",
+      "shortTitle": "The ultimate goal is to bring about behavior changes and the use of …"
+    },
+    {
+      "id": "G2",
+      "title": "The sediment TMDL developed for Little Hatchie River (MS201E) and applicable for waters within the Owl Creek-Little Hatchie River watershed concluded that yields would need to be reduced by 50-94% in order to reflect stable conditions.",
+      "status": "planned",
+      "pollutant": "sediment",
+      "parameter": "sediment",
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": 94,
+      "targetUnit": "%",
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The sediment TMDL developed for Little Hatchie River (MS201E) and applicable for waters within the Owl Creek-Little Hatchie River watershed concluded that yields would need to be reduced by 50-94% in order to reflect stable conditions.",
+      "confidence": 0.2,
+      "fullParagraph": "The sediment TMDL developed for Little Hatchie River (MS201E) and applicable for waters within the Owl Creek-Little Hatchie River watershed concluded that yields would need to be reduced by 50-94% in order to reflect stable conditions. The United States Department of Agriculture (USDA) Natural Resource Conservation Service (NRCS) has a list of approved BMPS to address sedimentation and this list will be used to identify candidate BMPs in Owl Creek-Little Hatchie River watershed. While these sedimentation practices are for sedimentation, there is an additional benefit in the reduction of nutrients because nutrients attach to sediment particles. This list will be used to identify candidate BMPs in the Owl Creek-Little Hatchie River watershed. 4 Element c: Proposed Management Measures Coordinating partners with MDEQ include the Mississippi Soil and Water Conservation Commission (MSWCC), the Natural Resource Conservation Service (NRCS), and the local Soil",
+      "description": "The sediment TMDL developed for Little Hatchie River (MS201E) and applicable for waters within the Owl Creek-Little Hatchie River watershed concluded that yields would need to be reduced by 50-94% in order to reflect stable conditions. The United States Department of Agriculture (USDA) Natural Resource Conservation Service (NRCS) has a list of approved BMPS to address sedimentation and this list will be used to identify candidate BMPs in Owl Creek-Little Hatchie River watershed. While these sedimentation practices are for sedimentation, there is an additional benefit in the reduction of nutrients because nutrients attach to sediment particles. This list will be used to identify candidate BMPs in the Owl Creek-Little Hatchie River watershed. 4 Element c: Proposed Management Measures Coordinating partners with MDEQ include the Mississippi Soil and Water Conservation Commission (MSWCC), the Natural Resource Conservation Service (NRCS), and the local Soil",
+      "originalSentence": "The sediment TMDL developed for Little Hatchie River (MS201E) and applicable for waters within the Owl Creek-Little Hatchie River watershed concluded that yields would need to be reduced by 50-94% in order to reflect stable conditions.",
+      "shortTitle": "The sediment TMDL developed for Little Hatchie River (MS201E) and applicable for waters within…"
+    },
+    {
+      "id": "G3",
+      "title": "as, solutions to its problems. The ultimate goal is to bring about behavior changes and the use of",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "as, solutions to its problems.  The ultimate goal is to bring about behavior changes and the use of",
+      "confidence": 0.05,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "description": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of",
+      "originalSentence": "as, solutions to its problems. The ultimate goal is to bring about behavior changes and the use of",
+      "shortTitle": "as, solutions to its problems. The ultimate goal is to bring about behavior changes and the use of"
+    },
+    {
+      "id": "G4",
+      "title": "Reduce the Nutrient and Sediment loads entering into the Owl Creek-Little Hatchie River",
+      "status": "planned",
+      "pollutant": "sediment",
+      "parameter": "sediment",
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "Goal:  Reduce the Nutrient and Sediment loads entering into the Owl Creek-Little Hatchie River",
+      "confidence": 0.18000000000000002,
+      "description": "Reduce the Nutrient and Sediment loads entering into the Owl Creek-Little Hatchie River",
+      "originalSentence": "Reduce the Nutrient and Sediment loads entering into the Owl Creek-Little Hatchie River",
+      "shortTitle": "Reduce the Nutrient and Sediment loads entering into the Owl Creek-Little Hatchie River"
+    },
+    {
+      "id": "G5",
+      "title": "and unstable yield values, a reduction of 50% to 94% is recommended in HUC 08010207.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": 50,
+      "baselineUnit": "%",
+      "targetValue": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "and unstable yield values, a reduction of 50% to 94% is recommended in HUC 08010207.",
+      "confidence": 0.2,
+      "fullParagraph": "and unstable yield values, a reduction of 50% to 94% is recommended in HUC 08010207. Nonpoint loading of sediment in a water body results from the transport of the material into receiving waters by several processes including mass wasting, head cutting, gullying, and sheet and rill erosion. Sources of sediment come from improper agricultural and silviculture practices as well as from a plethora of other improper land-use activities, e.g. construction, mining, channel alterations. Element b: Expected Load Reduction The sediment TMDL developed for Little Hatchie River (MS201E) and applicable for waters within the Owl Creek-Little Hatchie River watershed concluded that yields would need to be reduced by 50-94% in order to reflect stable conditions. The United States Department of Agriculture (USDA) Natural Resource Conservation Service (NRCS) has a list of approved BMPS to address sedimentation and this list will be used to identify candidate BMPs in Owl Creek-Little Hatchie River watershed.",
+      "description": "and unstable yield values, a reduction of 50% to 94% is recommended in HUC 08010207. Nonpoint loading of sediment in a water body results from the transport of the material into receiving waters by several processes including mass wasting, head cutting, gullying, and sheet and rill erosion. Sources of sediment come from improper agricultural and silviculture practices as well as from a plethora of other improper land-use activities, e.g. construction, mining, channel alterations. Element b: Expected Load Reduction The sediment TMDL developed for Little Hatchie River (MS201E) and applicable for waters within the Owl Creek-Little Hatchie River watershed concluded that yields would need to be reduced by 50-94% in order to reflect stable conditions. The United States Department of Agriculture (USDA) Natural Resource Conservation Service (NRCS) has a list of approved BMPS to address sedimentation and this list will be used to identify candidate BMPs in Owl Creek-Little Hatchie River watershed.",
+      "originalSentence": "and unstable yield values, a reduction of 50% to 94% is recommended in HUC 08010207.",
+      "shortTitle": "and unstable yield values, a reduction of 50% to 94% is recommended in HUC 08010207."
+    },
+    {
+      "id": "G6",
+      "title": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help",
+      "confidence": 0.05,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "fullParagraph": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help Goal: Reduce the Nutrient and Sediment loads entering into the Owl Creek-Little Hatchie River BMP installation. Provided below is summary of estimated costs for potential BMPs and overall Unit Cost Grade Stabilization Structure ea 40 $10,000.00 $400,000 Streambank and Shoreline Protection ea 40 $7,500.00 $300,000 Fencing ft 90000 $4.00 $360,000 Heavy Use Area sq ft 30000 $4.72 $141,600 Watering Facility ea 55 $2,045.00 $112,475 Stream Crossing ea 6 $10,000.00 $60,000 *Monitoring $70,328 *Technical Assistance $60,000 *Education/Outreach $27,800",
+      "description": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help Goal: Reduce the Nutrient and Sediment loads entering into the Owl Creek-Little Hatchie River BMP installation. Provided below is summary of estimated costs for potential BMPs and overall Unit Cost Grade Stabilization Structure ea 40 $10,000.00 $400,000 Streambank and Shoreline Protection ea 40 $7,500.00 $300,000 Fencing ft 90000 $4.00 $360,000 Heavy Use Area sq ft 30000 $4.72 $141,600 Watering Facility ea 55 $2,045.00 $112,475 Stream Crossing ea 6 $10,000.00 $60,000 *Monitoring $70,328 *Technical Assistance $60,000 *Education/Outreach $27,800",
+      "originalSentence": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help",
+      "shortTitle": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help"
+    }
+  ],
+  "mainGoals": [
+    {
+      "id": "G1",
+      "title": "The ultimate goal is to bring about behavior changes and the use of  \"Waste Pesticide Disposal Event\" - The primary goal of this program is to help Goal: Reduce the Nutrient and Sediment loads entering into the Owl Creek-Little Hatchie River BMP installation.",
+      "status": "planned",
+      "pollutant": "sediment",
+      "parameter": "sediment",
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The ultimate goal is to bring about behavior changes and the use of  \"Waste Pesticide Disposal Event\" - The primary goal of this program is to help Goal: Reduce the Nutrient and Sediment loads entering into the Owl Creek-Little Hatchie River BMP installation.",
+      "confidence": 0.25,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "fullParagraph": "as, solutions to its problems. The ultimate goal is to bring about behavior changes and the use of  “Waste Pesticide Disposal Event” - The primary goal of this program is to help Goal: Reduce the Nutrient and Sediment loads entering into the Owl Creek-Little Hatchie River BMP installation. Provided below is summary of estimated costs for potential BMPs and overall Unit Cost Grade Stabilization Structure ea 40 $10,000.00 $400,000 Streambank and Shoreline Protection ea 40 $7,500.00 $300,000 Fencing ft 90000 $4.00 $360,000 Heavy Use Area sq ft 30000 $4.72 $141,600 Watering Facility ea 55 $2,045.00 $112,475 Stream Crossing ea 6 $10,000.00 $60,000 *Monitoring $70,328 *Technical Assistance $60,000",
+      "description": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of  “Waste Pesticide Disposal Event” - The primary goal of this program is to help Goal: Reduce the Nutrient and Sediment loads entering into the Owl Creek-Little Hatchie River BMP installation. Provided below is summary of estimated costs for potential BMPs and overall Unit Cost Grade Stabilization Structure ea 40 $10,000.00 $400,000 Streambank and Shoreline Protection ea 40 $7,500.00 $300,000 Fencing ft 90000 $4.00 $360,000 Heavy Use Area sq ft 30000 $4.72 $141,600 Watering Facility ea 55 $2,045.00 $112,475 Stream Crossing ea 6 $10,000.00 $60,000 *Monitoring $70,328 *Technical Assistance $60,000",
+      "originalSentence": "The ultimate goal is to bring about behavior changes and the use of  \"Waste Pesticide Disposal Event\" - The primary goal of this program is to help Goal: Reduce the Nutrient and Sediment loads entering into the Owl Creek-Little Hatchie River BMP installation.",
+      "shortTitle": "The ultimate goal is to bring about behavior changes and the use of …"
+    },
+    {
+      "id": "G3",
+      "title": "as, solutions to its problems. The ultimate goal is to bring about behavior changes and the use of",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "as, solutions to its problems.  The ultimate goal is to bring about behavior changes and the use of",
+      "confidence": 0.05,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "description": "solutions to its problems. The ultimate goal is to bring about behavior changes and the use of",
+      "originalSentence": "as, solutions to its problems. The ultimate goal is to bring about behavior changes and the use of",
+      "shortTitle": "as, solutions to its problems. The ultimate goal is to bring about behavior changes and the use of"
+    },
+    {
+      "id": "G6",
+      "title": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help",
+      "confidence": 0.05,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "fullParagraph": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help Goal: Reduce the Nutrient and Sediment loads entering into the Owl Creek-Little Hatchie River BMP installation. Provided below is summary of estimated costs for potential BMPs and overall Unit Cost Grade Stabilization Structure ea 40 $10,000.00 $400,000 Streambank and Shoreline Protection ea 40 $7,500.00 $300,000 Fencing ft 90000 $4.00 $360,000 Heavy Use Area sq ft 30000 $4.72 $141,600 Watering Facility ea 55 $2,045.00 $112,475 Stream Crossing ea 6 $10,000.00 $60,000 *Monitoring $70,328 *Technical Assistance $60,000 *Education/Outreach $27,800",
+      "description": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help Goal: Reduce the Nutrient and Sediment loads entering into the Owl Creek-Little Hatchie River BMP installation. Provided below is summary of estimated costs for potential BMPs and overall Unit Cost Grade Stabilization Structure ea 40 $10,000.00 $400,000 Streambank and Shoreline Protection ea 40 $7,500.00 $300,000 Fencing ft 90000 $4.00 $360,000 Heavy Use Area sq ft 30000 $4.72 $141,600 Watering Facility ea 55 $2,045.00 $112,475 Stream Crossing ea 6 $10,000.00 $60,000 *Monitoring $70,328 *Technical Assistance $60,000 *Education/Outreach $27,800",
+      "originalSentence": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help",
+      "shortTitle": " “Waste Pesticide Disposal Event” - The primary goal of this program is to help"
+    }
+  ],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "BMP installation.  Provided below is summary of estimated costs for potential BMPs and overall",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "BMP installation.  Provided below is summary of estimated costs for potential BMPs and overall"
+    },
+    {
+      "id": "B2",
+      "name": "Unit Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Unit Cost"
+    },
+    {
+      "id": "B3",
+      "name": "Grade Stabilization Structure ea 40",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Grade Stabilization Structure ea 40 $10,000.00 $400,000|name_cost_tail_trim",
+      "originalName": "Grade Stabilization Structure ea 40 $10,000.00 $400,000"
+    },
+    {
+      "id": "B4",
+      "name": "Streambank and Shoreline Protection ea 40",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Streambank and Shoreline Protection ea 40 $7,500.00 $300,000|name_cost_tail_trim",
+      "originalName": "Streambank and Shoreline Protection ea 40 $7,500.00 $300,000"
+    },
+    {
+      "id": "B5",
+      "name": "Fencing ft 90000",
+      "category": "Livestock Exclusion",
+      "keyword": "Fencing",
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.45,
+      "source": "Fencing ft 90000 $4.00 $360,000|name_cost_tail_trim",
+      "originalName": "Fencing ft 90000 $4.00 $360,000"
+    },
+    {
+      "id": "B6",
+      "name": "Heavy Use Area sq ft 30000",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.05,
+      "source": "Heavy Use Area sq ft 30000 $4.72 $141,600|name_cost_tail_trim",
+      "originalName": "Heavy Use Area sq ft 30000 $4.72 $141,600"
+    },
+    {
+      "id": "B7",
+      "name": "Watering Facility ea 55",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Watering Facility ea 55 $2,045.00 $112,475|name_cost_tail_trim",
+      "originalName": "Watering Facility ea 55 $2,045.00 $112,475"
+    },
+    {
+      "id": "B8",
+      "name": "Stream Crossing ea 6",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Stream Crossing ea 6 $10,000.00 $60,000|name_cost_tail_trim",
+      "originalName": "Stream Crossing ea 6 $10,000.00 $60,000"
+    },
+    {
+      "id": "B9",
+      "name": "*Monitoring",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "*Monitoring          $70,328|name_cost_tail_trim",
+      "originalName": "*Monitoring          $70,328"
+    },
+    {
+      "id": "B10",
+      "name": "*Technical Assistance",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "*Technical Assistance          $60,000|name_cost_tail_trim",
+      "originalName": "*Technical Assistance          $60,000"
+    },
+    {
+      "id": "B11",
+      "name": "*Education/Outreach",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "*Education/Outreach          $27,800|name_cost_tail_trim",
+      "originalName": "*Education/Outreach          $27,800"
+    },
+    {
+      "id": "B12",
+      "name": "$101,490",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$101,490"
+    },
+    {
+      "id": "B13",
+      "name": "Total Estimated Project Cost",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Total Estimated Project Cost                                        $1,633,693|name_cost_tail_trim",
+      "originalName": "Total Estimated Project Cost                                        $1,633,693"
+    },
+    {
+      "id": "B14",
+      "name": "Grade Stabilization Structure ea 15",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Grade Stabilization Structure ea 15 $10,000.00 $150,000.00|name_cost_tail_trim",
+      "originalName": "Grade Stabilization Structure ea 15 $10,000.00 $150,000.00"
+    },
+    {
+      "id": "B15",
+      "name": "Streambank and Shoreline Protection  ea 15",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Streambank and Shoreline Protection  ea 15 $7,500.00 $112,500.00|name_cost_tail_trim",
+      "originalName": "Streambank and Shoreline Protection  ea 15 $7,500.00 $112,500.00"
+    },
+    {
+      "id": "B16",
+      "name": "Fencing ft 6000",
+      "category": "Livestock Exclusion",
+      "keyword": "Fencing",
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.45,
+      "source": "Fencing ft 6000 $2.50 $15,000.00|name_cost_tail_trim",
+      "originalName": "Fencing ft 6000 $2.50 $15,000.00"
+    },
+    {
+      "id": "B17",
+      "name": "Heavy Use Area sq ft 4800",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.05,
+      "source": "Heavy Use Area sq ft 4800 $3.50 $16,800.00|name_cost_tail_trim",
+      "originalName": "Heavy Use Area sq ft 4800 $3.50 $16,800.00"
+    },
+    {
+      "id": "B18",
+      "name": "Watering Facility ea 4",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Watering Facility ea 4 $1,000.00 $4,000.00|name_cost_tail_trim",
+      "originalName": "Watering Facility ea 4 $1,000.00 $4,000.00"
+    },
+    {
+      "id": "B19",
+      "name": "Stream Crossing ea 2",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Stream Crossing ea 2 $10,000.00 $20,000.00|name_cost_tail_trim",
+      "originalName": "Stream Crossing ea 2 $10,000.00 $20,000.00"
+    },
+    {
+      "id": "B20",
+      "name": "$70,328.00",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$70,328.00"
+    },
+    {
+      "id": "B21",
+      "name": "$20,000.00",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$20,000.00"
+    },
+    {
+      "id": "B22",
+      "name": "$13,900.00",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$13,900.00"
+    },
+    {
+      "id": "B23",
+      "name": "$33,830.00",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$33,830.00"
+    },
+    {
+      "id": "B24",
+      "name": "$456,358.00",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$456,358.00"
+    }
+  ],
+  "bmpCostTable": {
+    "id": "adaptive_generic_costs",
+    "title": "Grade Stabilization Structure ea 40 $10,000.00 $400,000",
+    "table": {
+      "columns": [
+        "Item",
+        "Cost",
+        "Extra?"
+      ],
+      "rows": [
+        {
+          "Item": "Grade Stabilization Structure ea 40",
+          "Cost": "$10,000.00",
+          "Extra": "$400,000"
+        },
+        {
+          "Item": "Streambank and Shoreline Protection ea 40",
+          "Cost": "$7,500.00",
+          "Extra": "$300,000"
+        },
+        {
+          "Item": "Fencing ft 90000",
+          "Cost": "$4.00",
+          "Extra": "$360,000"
+        },
+        {
+          "Item": "Heavy Use Area sq ft 30000",
+          "Cost": "$4.72",
+          "Extra": "$141,600"
+        },
+        {
+          "Item": "Watering Facility ea 55",
+          "Cost": "$2,045.00",
+          "Extra": "$112,475"
+        },
+        {
+          "Item": "Stream Crossing ea 6",
+          "Cost": "$10,000.00",
+          "Extra": "$60,000"
+        },
+        {
+          "Item": "*Monitoring",
+          "Cost": "$70,328",
+          "Extra": null
+        },
+        {
+          "Item": "*Technical Assistance",
+          "Cost": "$60,000",
+          "Extra": null
+        },
+        {
+          "Item": "*Education/Outreach",
+          "Cost": "$27,800",
+          "Extra": null
+        },
+        {
+          "Item": "Total Estimated Project Cost",
+          "Cost": "$1,633,693",
+          "Extra": null
+        }
+      ],
+      "total": null
+    },
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTableNormalized": {
+    "id": "adaptive_generic_costs",
+    "title": "Grade Stabilization Structure ea 40 $10,000.00 $400,000",
+    "rows": [
+      {
+        "name": "Grade Stabilization Structure ea 40",
+        "totalCost": 10000,
+        "rawCost": "$10,000.00"
+      },
+      {
+        "name": "Streambank and Shoreline Protection ea 40",
+        "totalCost": 7500,
+        "rawCost": "$7,500.00"
+      },
+      {
+        "name": "Fencing ft 90000",
+        "totalCost": 4,
+        "rawCost": "$4.00"
+      },
+      {
+        "name": "Heavy Use Area sq ft 30000",
+        "totalCost": 4.72,
+        "rawCost": "$4.72"
+      },
+      {
+        "name": "Watering Facility ea 55",
+        "totalCost": 2045,
+        "rawCost": "$2,045.00"
+      },
+      {
+        "name": "Stream Crossing ea 6",
+        "totalCost": 10000,
+        "rawCost": "$10,000.00"
+      },
+      {
+        "name": "*Monitoring",
+        "totalCost": 70328,
+        "rawCost": "$70,328"
+      },
+      {
+        "name": "*Technical Assistance",
+        "totalCost": 60000,
+        "rawCost": "$60,000"
+      },
+      {
+        "name": "*Education/Outreach",
+        "totalCost": 27800,
+        "rawCost": "$27,800"
+      },
+      {
+        "name": "Total Estimated Project Cost",
+        "totalCost": 1633693,
+        "rawCost": "$1,633,693"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 1821374.72,
+    "discrepancy": null,
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTables": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Grade Stabilization Structure ea 40 $10,000.00 $400,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Grade Stabilization Structure ea 40",
+            "Cost": "$10,000.00",
+            "Extra": "$400,000"
+          },
+          {
+            "Item": "Streambank and Shoreline Protection ea 40",
+            "Cost": "$7,500.00",
+            "Extra": "$300,000"
+          },
+          {
+            "Item": "Fencing ft 90000",
+            "Cost": "$4.00",
+            "Extra": "$360,000"
+          },
+          {
+            "Item": "Heavy Use Area sq ft 30000",
+            "Cost": "$4.72",
+            "Extra": "$141,600"
+          },
+          {
+            "Item": "Watering Facility ea 55",
+            "Cost": "$2,045.00",
+            "Extra": "$112,475"
+          },
+          {
+            "Item": "Stream Crossing ea 6",
+            "Cost": "$10,000.00",
+            "Extra": "$60,000"
+          },
+          {
+            "Item": "*Monitoring",
+            "Cost": "$70,328",
+            "Extra": null
+          },
+          {
+            "Item": "*Technical Assistance",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "*Education/Outreach",
+            "Cost": "$27,800",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$1,633,693",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Streambank and Shoreline Protection ea 40 $7,500.00 $300,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Streambank and Shoreline Protection ea 40",
+            "Cost": "$7,500.00",
+            "Extra": "$300,000"
+          },
+          {
+            "Item": "Fencing ft 90000",
+            "Cost": "$4.00",
+            "Extra": "$360,000"
+          },
+          {
+            "Item": "Heavy Use Area sq ft 30000",
+            "Cost": "$4.72",
+            "Extra": "$141,600"
+          },
+          {
+            "Item": "Watering Facility ea 55",
+            "Cost": "$2,045.00",
+            "Extra": "$112,475"
+          },
+          {
+            "Item": "Stream Crossing ea 6",
+            "Cost": "$10,000.00",
+            "Extra": "$60,000"
+          },
+          {
+            "Item": "*Monitoring",
+            "Cost": "$70,328",
+            "Extra": null
+          },
+          {
+            "Item": "*Technical Assistance",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "*Education/Outreach",
+            "Cost": "$27,800",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$1,633,693",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Fencing ft 90000 $4.00 $360,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Fencing ft 90000",
+            "Cost": "$4.00",
+            "Extra": "$360,000"
+          },
+          {
+            "Item": "Heavy Use Area sq ft 30000",
+            "Cost": "$4.72",
+            "Extra": "$141,600"
+          },
+          {
+            "Item": "Watering Facility ea 55",
+            "Cost": "$2,045.00",
+            "Extra": "$112,475"
+          },
+          {
+            "Item": "Stream Crossing ea 6",
+            "Cost": "$10,000.00",
+            "Extra": "$60,000"
+          },
+          {
+            "Item": "*Monitoring",
+            "Cost": "$70,328",
+            "Extra": null
+          },
+          {
+            "Item": "*Technical Assistance",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "*Education/Outreach",
+            "Cost": "$27,800",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$1,633,693",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Heavy Use Area sq ft 30000 $4.72 $141,600",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Heavy Use Area sq ft 30000",
+            "Cost": "$4.72",
+            "Extra": "$141,600"
+          },
+          {
+            "Item": "Watering Facility ea 55",
+            "Cost": "$2,045.00",
+            "Extra": "$112,475"
+          },
+          {
+            "Item": "Stream Crossing ea 6",
+            "Cost": "$10,000.00",
+            "Extra": "$60,000"
+          },
+          {
+            "Item": "*Monitoring",
+            "Cost": "$70,328",
+            "Extra": null
+          },
+          {
+            "Item": "*Technical Assistance",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "*Education/Outreach",
+            "Cost": "$27,800",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$1,633,693",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Watering Facility ea 55 $2,045.00 $112,475",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Watering Facility ea 55",
+            "Cost": "$2,045.00",
+            "Extra": "$112,475"
+          },
+          {
+            "Item": "Stream Crossing ea 6",
+            "Cost": "$10,000.00",
+            "Extra": "$60,000"
+          },
+          {
+            "Item": "*Monitoring",
+            "Cost": "$70,328",
+            "Extra": null
+          },
+          {
+            "Item": "*Technical Assistance",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "*Education/Outreach",
+            "Cost": "$27,800",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$1,633,693",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Stream Crossing ea 6 $10,000.00 $60,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Stream Crossing ea 6",
+            "Cost": "$10,000.00",
+            "Extra": "$60,000"
+          },
+          {
+            "Item": "*Monitoring",
+            "Cost": "$70,328",
+            "Extra": null
+          },
+          {
+            "Item": "*Technical Assistance",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "*Education/Outreach",
+            "Cost": "$27,800",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$1,633,693",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "*Monitoring          $70,328",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "*Monitoring",
+            "Cost": "$70,328",
+            "Extra": null
+          },
+          {
+            "Item": "*Technical Assistance",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "*Education/Outreach",
+            "Cost": "$27,800",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$1,633,693",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure ea 15",
+            "Cost": "$10,000.00",
+            "Extra": "$150,000.00"
+          },
+          {
+            "Item": "Streambank and Shoreline Protection  ea 15",
+            "Cost": "$7,500.00",
+            "Extra": "$112,500.00"
+          },
+          {
+            "Item": "Fencing ft 6000",
+            "Cost": "$2.50",
+            "Extra": "$15,000.00"
+          },
+          {
+            "Item": "Heavy Use Area sq ft 4800",
+            "Cost": "$3.50",
+            "Extra": "$16,800.00"
+          },
+          {
+            "Item": "Watering Facility ea 4",
+            "Cost": "$1,000.00",
+            "Extra": "$4,000.00"
+          },
+          {
+            "Item": "Stream Crossing ea 2",
+            "Cost": "$10,000.00",
+            "Extra": "$20,000.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "*Technical Assistance          $60,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "*Technical Assistance",
+            "Cost": "$60,000",
+            "Extra": null
+          },
+          {
+            "Item": "*Education/Outreach",
+            "Cost": "$27,800",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$1,633,693",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure ea 15",
+            "Cost": "$10,000.00",
+            "Extra": "$150,000.00"
+          },
+          {
+            "Item": "Streambank and Shoreline Protection  ea 15",
+            "Cost": "$7,500.00",
+            "Extra": "$112,500.00"
+          },
+          {
+            "Item": "Fencing ft 6000",
+            "Cost": "$2.50",
+            "Extra": "$15,000.00"
+          },
+          {
+            "Item": "Heavy Use Area sq ft 4800",
+            "Cost": "$3.50",
+            "Extra": "$16,800.00"
+          },
+          {
+            "Item": "Watering Facility ea 4",
+            "Cost": "$1,000.00",
+            "Extra": "$4,000.00"
+          },
+          {
+            "Item": "Stream Crossing ea 2",
+            "Cost": "$10,000.00",
+            "Extra": "$20,000.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "*Education/Outreach          $27,800",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "*Education/Outreach",
+            "Cost": "$27,800",
+            "Extra": null
+          },
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$1,633,693",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure ea 15",
+            "Cost": "$10,000.00",
+            "Extra": "$150,000.00"
+          },
+          {
+            "Item": "Streambank and Shoreline Protection  ea 15",
+            "Cost": "$7,500.00",
+            "Extra": "$112,500.00"
+          },
+          {
+            "Item": "Fencing ft 6000",
+            "Cost": "$2.50",
+            "Extra": "$15,000.00"
+          },
+          {
+            "Item": "Heavy Use Area sq ft 4800",
+            "Cost": "$3.50",
+            "Extra": "$16,800.00"
+          },
+          {
+            "Item": "Watering Facility ea 4",
+            "Cost": "$1,000.00",
+            "Extra": "$4,000.00"
+          },
+          {
+            "Item": "Stream Crossing ea 2",
+            "Cost": "$10,000.00",
+            "Extra": "$20,000.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$101,490",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$1,633,693",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure ea 15",
+            "Cost": "$10,000.00",
+            "Extra": "$150,000.00"
+          },
+          {
+            "Item": "Streambank and Shoreline Protection  ea 15",
+            "Cost": "$7,500.00",
+            "Extra": "$112,500.00"
+          },
+          {
+            "Item": "Fencing ft 6000",
+            "Cost": "$2.50",
+            "Extra": "$15,000.00"
+          },
+          {
+            "Item": "Heavy Use Area sq ft 4800",
+            "Cost": "$3.50",
+            "Extra": "$16,800.00"
+          },
+          {
+            "Item": "Watering Facility ea 4",
+            "Cost": "$1,000.00",
+            "Extra": "$4,000.00"
+          },
+          {
+            "Item": "Stream Crossing ea 2",
+            "Cost": "$10,000.00",
+            "Extra": "$20,000.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total Estimated Project Cost                                        $1,633,693",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Total Estimated Project Cost",
+            "Cost": "$1,633,693",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure ea 15",
+            "Cost": "$10,000.00",
+            "Extra": "$150,000.00"
+          },
+          {
+            "Item": "Streambank and Shoreline Protection  ea 15",
+            "Cost": "$7,500.00",
+            "Extra": "$112,500.00"
+          },
+          {
+            "Item": "Fencing ft 6000",
+            "Cost": "$2.50",
+            "Extra": "$15,000.00"
+          },
+          {
+            "Item": "Heavy Use Area sq ft 4800",
+            "Cost": "$3.50",
+            "Extra": "$16,800.00"
+          },
+          {
+            "Item": "Watering Facility ea 4",
+            "Cost": "$1,000.00",
+            "Extra": "$4,000.00"
+          },
+          {
+            "Item": "Stream Crossing ea 2",
+            "Cost": "$10,000.00",
+            "Extra": "$20,000.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Grade Stabilization Structure ea 15 $10,000.00 $150,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Grade Stabilization Structure ea 15",
+            "Cost": "$10,000.00",
+            "Extra": "$150,000.00"
+          },
+          {
+            "Item": "Streambank and Shoreline Protection  ea 15",
+            "Cost": "$7,500.00",
+            "Extra": "$112,500.00"
+          },
+          {
+            "Item": "Fencing ft 6000",
+            "Cost": "$2.50",
+            "Extra": "$15,000.00"
+          },
+          {
+            "Item": "Heavy Use Area sq ft 4800",
+            "Cost": "$3.50",
+            "Extra": "$16,800.00"
+          },
+          {
+            "Item": "Watering Facility ea 4",
+            "Cost": "$1,000.00",
+            "Extra": "$4,000.00"
+          },
+          {
+            "Item": "Stream Crossing ea 2",
+            "Cost": "$10,000.00",
+            "Extra": "$20,000.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Streambank and Shoreline Protection  ea 15 $7,500.00 $112,500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Streambank and Shoreline Protection  ea 15",
+            "Cost": "$7,500.00",
+            "Extra": "$112,500.00"
+          },
+          {
+            "Item": "Fencing ft 6000",
+            "Cost": "$2.50",
+            "Extra": "$15,000.00"
+          },
+          {
+            "Item": "Heavy Use Area sq ft 4800",
+            "Cost": "$3.50",
+            "Extra": "$16,800.00"
+          },
+          {
+            "Item": "Watering Facility ea 4",
+            "Cost": "$1,000.00",
+            "Extra": "$4,000.00"
+          },
+          {
+            "Item": "Stream Crossing ea 2",
+            "Cost": "$10,000.00",
+            "Extra": "$20,000.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Fencing ft 6000 $2.50 $15,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Fencing ft 6000",
+            "Cost": "$2.50",
+            "Extra": "$15,000.00"
+          },
+          {
+            "Item": "Heavy Use Area sq ft 4800",
+            "Cost": "$3.50",
+            "Extra": "$16,800.00"
+          },
+          {
+            "Item": "Watering Facility ea 4",
+            "Cost": "$1,000.00",
+            "Extra": "$4,000.00"
+          },
+          {
+            "Item": "Stream Crossing ea 2",
+            "Cost": "$10,000.00",
+            "Extra": "$20,000.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Heavy Use Area sq ft 4800 $3.50 $16,800.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Heavy Use Area sq ft 4800",
+            "Cost": "$3.50",
+            "Extra": "$16,800.00"
+          },
+          {
+            "Item": "Watering Facility ea 4",
+            "Cost": "$1,000.00",
+            "Extra": "$4,000.00"
+          },
+          {
+            "Item": "Stream Crossing ea 2",
+            "Cost": "$10,000.00",
+            "Extra": "$20,000.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Grade Stabilization Structure ea 40 $10,000.00 $400,000",
+      "rows": [
+        {
+          "name": "Grade Stabilization Structure ea 40",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "Streambank and Shoreline Protection ea 40",
+          "totalCost": 7500,
+          "rawCost": "$7,500.00"
+        },
+        {
+          "name": "Fencing ft 90000",
+          "totalCost": 4,
+          "rawCost": "$4.00"
+        },
+        {
+          "name": "Heavy Use Area sq ft 30000",
+          "totalCost": 4.72,
+          "rawCost": "$4.72"
+        },
+        {
+          "name": "Watering Facility ea 55",
+          "totalCost": 2045,
+          "rawCost": "$2,045.00"
+        },
+        {
+          "name": "Stream Crossing ea 6",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "*Monitoring",
+          "totalCost": 70328,
+          "rawCost": "$70,328"
+        },
+        {
+          "name": "*Technical Assistance",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "*Education/Outreach",
+          "totalCost": 27800,
+          "rawCost": "$27,800"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 1633693,
+          "rawCost": "$1,633,693"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1821374.72,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Streambank and Shoreline Protection ea 40 $7,500.00 $300,000",
+      "rows": [
+        {
+          "name": "Streambank and Shoreline Protection ea 40",
+          "totalCost": 7500,
+          "rawCost": "$7,500.00"
+        },
+        {
+          "name": "Fencing ft 90000",
+          "totalCost": 4,
+          "rawCost": "$4.00"
+        },
+        {
+          "name": "Heavy Use Area sq ft 30000",
+          "totalCost": 4.72,
+          "rawCost": "$4.72"
+        },
+        {
+          "name": "Watering Facility ea 55",
+          "totalCost": 2045,
+          "rawCost": "$2,045.00"
+        },
+        {
+          "name": "Stream Crossing ea 6",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "*Monitoring",
+          "totalCost": 70328,
+          "rawCost": "$70,328"
+        },
+        {
+          "name": "*Technical Assistance",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "*Education/Outreach",
+          "totalCost": 27800,
+          "rawCost": "$27,800"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 1633693,
+          "rawCost": "$1,633,693"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1811374.72,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Fencing ft 90000 $4.00 $360,000",
+      "rows": [
+        {
+          "name": "Fencing ft 90000",
+          "totalCost": 4,
+          "rawCost": "$4.00"
+        },
+        {
+          "name": "Heavy Use Area sq ft 30000",
+          "totalCost": 4.72,
+          "rawCost": "$4.72"
+        },
+        {
+          "name": "Watering Facility ea 55",
+          "totalCost": 2045,
+          "rawCost": "$2,045.00"
+        },
+        {
+          "name": "Stream Crossing ea 6",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "*Monitoring",
+          "totalCost": 70328,
+          "rawCost": "$70,328"
+        },
+        {
+          "name": "*Technical Assistance",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "*Education/Outreach",
+          "totalCost": 27800,
+          "rawCost": "$27,800"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 1633693,
+          "rawCost": "$1,633,693"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1803874.72,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Heavy Use Area sq ft 30000 $4.72 $141,600",
+      "rows": [
+        {
+          "name": "Heavy Use Area sq ft 30000",
+          "totalCost": 4.72,
+          "rawCost": "$4.72"
+        },
+        {
+          "name": "Watering Facility ea 55",
+          "totalCost": 2045,
+          "rawCost": "$2,045.00"
+        },
+        {
+          "name": "Stream Crossing ea 6",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "*Monitoring",
+          "totalCost": 70328,
+          "rawCost": "$70,328"
+        },
+        {
+          "name": "*Technical Assistance",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "*Education/Outreach",
+          "totalCost": 27800,
+          "rawCost": "$27,800"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 1633693,
+          "rawCost": "$1,633,693"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1803870.72,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Watering Facility ea 55 $2,045.00 $112,475",
+      "rows": [
+        {
+          "name": "Watering Facility ea 55",
+          "totalCost": 2045,
+          "rawCost": "$2,045.00"
+        },
+        {
+          "name": "Stream Crossing ea 6",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "*Monitoring",
+          "totalCost": 70328,
+          "rawCost": "$70,328"
+        },
+        {
+          "name": "*Technical Assistance",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "*Education/Outreach",
+          "totalCost": 27800,
+          "rawCost": "$27,800"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 1633693,
+          "rawCost": "$1,633,693"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1803866,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Stream Crossing ea 6 $10,000.00 $60,000",
+      "rows": [
+        {
+          "name": "Stream Crossing ea 6",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "*Monitoring",
+          "totalCost": 70328,
+          "rawCost": "$70,328"
+        },
+        {
+          "name": "*Technical Assistance",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "*Education/Outreach",
+          "totalCost": 27800,
+          "rawCost": "$27,800"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 1633693,
+          "rawCost": "$1,633,693"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1801821,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "*Monitoring          $70,328",
+      "rows": [
+        {
+          "name": "*Monitoring",
+          "totalCost": 70328,
+          "rawCost": "$70,328"
+        },
+        {
+          "name": "*Technical Assistance",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "*Education/Outreach",
+          "totalCost": 27800,
+          "rawCost": "$27,800"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 1633693,
+          "rawCost": "$1,633,693"
+        },
+        {
+          "name": "Grade Stabilization Structure ea 15",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "Streambank and Shoreline Protection  ea 15",
+          "totalCost": 7500,
+          "rawCost": "$7,500.00"
+        },
+        {
+          "name": "Fencing ft 6000",
+          "totalCost": 2.5,
+          "rawCost": "$2.50"
+        },
+        {
+          "name": "Heavy Use Area sq ft 4800",
+          "totalCost": 3.5,
+          "rawCost": "$3.50"
+        },
+        {
+          "name": "Watering Facility ea 4",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Stream Crossing ea 2",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1820327,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "*Technical Assistance          $60,000",
+      "rows": [
+        {
+          "name": "*Technical Assistance",
+          "totalCost": 60000,
+          "rawCost": "$60,000"
+        },
+        {
+          "name": "*Education/Outreach",
+          "totalCost": 27800,
+          "rawCost": "$27,800"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 1633693,
+          "rawCost": "$1,633,693"
+        },
+        {
+          "name": "Grade Stabilization Structure ea 15",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "Streambank and Shoreline Protection  ea 15",
+          "totalCost": 7500,
+          "rawCost": "$7,500.00"
+        },
+        {
+          "name": "Fencing ft 6000",
+          "totalCost": 2.5,
+          "rawCost": "$2.50"
+        },
+        {
+          "name": "Heavy Use Area sq ft 4800",
+          "totalCost": 3.5,
+          "rawCost": "$3.50"
+        },
+        {
+          "name": "Watering Facility ea 4",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Stream Crossing ea 2",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1749999,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "*Education/Outreach          $27,800",
+      "rows": [
+        {
+          "name": "*Education/Outreach",
+          "totalCost": 27800,
+          "rawCost": "$27,800"
+        },
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 1633693,
+          "rawCost": "$1,633,693"
+        },
+        {
+          "name": "Grade Stabilization Structure ea 15",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "Streambank and Shoreline Protection  ea 15",
+          "totalCost": 7500,
+          "rawCost": "$7,500.00"
+        },
+        {
+          "name": "Fencing ft 6000",
+          "totalCost": 2.5,
+          "rawCost": "$2.50"
+        },
+        {
+          "name": "Heavy Use Area sq ft 4800",
+          "totalCost": 3.5,
+          "rawCost": "$3.50"
+        },
+        {
+          "name": "Watering Facility ea 4",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Stream Crossing ea 2",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1689999,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "$101,490",
+      "rows": [
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 1633693,
+          "rawCost": "$1,633,693"
+        },
+        {
+          "name": "Grade Stabilization Structure ea 15",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "Streambank and Shoreline Protection  ea 15",
+          "totalCost": 7500,
+          "rawCost": "$7,500.00"
+        },
+        {
+          "name": "Fencing ft 6000",
+          "totalCost": 2.5,
+          "rawCost": "$2.50"
+        },
+        {
+          "name": "Heavy Use Area sq ft 4800",
+          "totalCost": 3.5,
+          "rawCost": "$3.50"
+        },
+        {
+          "name": "Watering Facility ea 4",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Stream Crossing ea 2",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1662199,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Total Estimated Project Cost                                        $1,633,693",
+      "rows": [
+        {
+          "name": "Total Estimated Project Cost",
+          "totalCost": 1633693,
+          "rawCost": "$1,633,693"
+        },
+        {
+          "name": "Grade Stabilization Structure ea 15",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "Streambank and Shoreline Protection  ea 15",
+          "totalCost": 7500,
+          "rawCost": "$7,500.00"
+        },
+        {
+          "name": "Fencing ft 6000",
+          "totalCost": 2.5,
+          "rawCost": "$2.50"
+        },
+        {
+          "name": "Heavy Use Area sq ft 4800",
+          "totalCost": 3.5,
+          "rawCost": "$3.50"
+        },
+        {
+          "name": "Watering Facility ea 4",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Stream Crossing ea 2",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1662199,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Grade Stabilization Structure ea 15 $10,000.00 $150,000.00",
+      "rows": [
+        {
+          "name": "Grade Stabilization Structure ea 15",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        },
+        {
+          "name": "Streambank and Shoreline Protection  ea 15",
+          "totalCost": 7500,
+          "rawCost": "$7,500.00"
+        },
+        {
+          "name": "Fencing ft 6000",
+          "totalCost": 2.5,
+          "rawCost": "$2.50"
+        },
+        {
+          "name": "Heavy Use Area sq ft 4800",
+          "totalCost": 3.5,
+          "rawCost": "$3.50"
+        },
+        {
+          "name": "Watering Facility ea 4",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Stream Crossing ea 2",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 28506,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Streambank and Shoreline Protection  ea 15 $7,500.00 $112,500.00",
+      "rows": [
+        {
+          "name": "Streambank and Shoreline Protection  ea 15",
+          "totalCost": 7500,
+          "rawCost": "$7,500.00"
+        },
+        {
+          "name": "Fencing ft 6000",
+          "totalCost": 2.5,
+          "rawCost": "$2.50"
+        },
+        {
+          "name": "Heavy Use Area sq ft 4800",
+          "totalCost": 3.5,
+          "rawCost": "$3.50"
+        },
+        {
+          "name": "Watering Facility ea 4",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Stream Crossing ea 2",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 18506,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Fencing ft 6000 $2.50 $15,000.00",
+      "rows": [
+        {
+          "name": "Fencing ft 6000",
+          "totalCost": 2.5,
+          "rawCost": "$2.50"
+        },
+        {
+          "name": "Heavy Use Area sq ft 4800",
+          "totalCost": 3.5,
+          "rawCost": "$3.50"
+        },
+        {
+          "name": "Watering Facility ea 4",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Stream Crossing ea 2",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 11006,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Heavy Use Area sq ft 4800 $3.50 $16,800.00",
+      "rows": [
+        {
+          "name": "Heavy Use Area sq ft 4800",
+          "totalCost": 3.5,
+          "rawCost": "$3.50"
+        },
+        {
+          "name": "Watering Facility ea 4",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Stream Crossing ea 2",
+          "totalCost": 10000,
+          "rawCost": "$10,000.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 11003.5,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-02T13:23:25.577Z",
+  "metadata": {
+    "sourceId": "owl-creek-little-hatchie-river-9-key-element-plan-2020",
+    "sourceFile": "owl-creek-little-hatchie-river-9-key-element-plan-2020.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Grade Stabilization Structure ea 40 $10,000.00 $400,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1821374.72
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Streambank and Shoreline Protection ea 40 $7,500.00 $300,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1811374.72
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Fencing ft 90000 $4.00 $360,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1803874.72
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Heavy Use Area sq ft 30000 $4.72 $141,600",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1803870.72
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Watering Facility ea 55 $2,045.00 $112,475",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1803866
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Stream Crossing ea 6 $10,000.00 $60,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1801821
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "*Monitoring          $70,328",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1820327
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "*Technical Assistance          $60,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1749999
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "*Education/Outreach          $27,800",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1689999
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "$101,490",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1662199
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Total Estimated Project Cost                                        $1,633,693",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 1662199
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Grade Stabilization Structure ea 15 $10,000.00 $150,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 28506
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Streambank and Shoreline Protection  ea 15 $7,500.00 $112,500.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 18506
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Fencing ft 6000 $2.50 $15,000.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 11006
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Heavy Use Area sq ft 4800 $3.50 $16,800.00",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 11003.5
+      }
+    ]
+  }
+}

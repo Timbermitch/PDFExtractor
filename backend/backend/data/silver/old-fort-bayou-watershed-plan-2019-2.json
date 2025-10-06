@@ -1,0 +1,2585 @@
+{
+  "id": "old-fort-bayou-watershed-plan-2019-2",
+  "summary": {
+    "totalGoals": 5,
+    "totalBMPs": 14,
+    "totalActivities": 0,
+    "primaryGoals": 1,
+    "completionRate": 0,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 5,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "General": 13,
+      "Erosion Control": 1
+    },
+    "avgGoalConfidence": 0.08600000000000001,
+    "strongGoals": 0
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "The goal of BMPs are to reduce or eliminate contaminants collected by stormwater as it moves meet and/or exceed the goal of a 35% reduction as put forth by the 2002 TMDL.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": 35,
+      "reductionSrc": "inline",
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": 35,
+      "targetUnit": "%",
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": "2002",
+      "achievedYear": null,
+      "targetYear": "2002",
+      "responsible": null,
+      "source": "The goal of BMPs are to reduce or eliminate contaminants collected by stormwater as it moves meet and/or exceed the goal of a 35% reduction as put forth by the 2002 TMDL.",
+      "confidence": 0.2,
+      "fullParagraph": "quality. The goal of BMPs are to reduce or eliminate contaminants collected by stormwater as it moves meet and/or exceed the goal of a 35% reduction as put forth by the 2002 TMDL. Actual Fort Bayou Watershed Implementation Plan and overarching goal of improving water",
+      "description": "quality. The goal of BMPs are to reduce or eliminate contaminants collected by stormwater as it moves meet and/or exceed the goal of a 35% reduction as put forth by the 2002 TMDL. Actual Fort Bayou Watershed Implementation Plan and overarching goal of improving water",
+      "originalSentence": "The goal of BMPs are to reduce or eliminate contaminants collected by stormwater as it moves meet and/or exceed the goal of a 35% reduction as put forth by the 2002 TMDL.",
+      "shortTitle": "The goal of BMPs are to reduce or eliminate contaminants collected by stormwater as…"
+    },
+    {
+      "id": "G2",
+      "title": "quality. The goal of BMPs are to reduce or eliminate contaminants collected by stormwater as it moves",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "quality.  The goal of BMPs are to reduce or eliminate contaminants collected by stormwater as it moves",
+      "confidence": 0,
+      "description": "quality. The goal of BMPs are to reduce or eliminate contaminants collected by stormwater as it moves",
+      "originalSentence": "quality. The goal of BMPs are to reduce or eliminate contaminants collected by stormwater as it moves",
+      "shortTitle": "quality. The goal of BMPs are to reduce or eliminate contaminants collected by stormwater as it moves"
+    },
+    {
+      "id": "G3",
+      "title": "December 17, 2018 and has been incorporated throughout the plan from the visioning and goal quality.",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": "2018",
+      "achievedYear": null,
+      "targetYear": "2018",
+      "responsible": null,
+      "source": "December 17, 2018 and has been incorporated throughout the plan from the visioning and goal quality.",
+      "confidence": 0,
+      "fullParagraph": "December 17, 2018 and has been incorporated throughout the plan from the visioning and goal quality. The goal of BMPs are to reduce or eliminate contaminants collected by stormwater as it moves meet and/or exceed the goal of a 35% reduction as put forth by the 2002 TMDL. Actual Fort Bayou Watershed Implementation Plan and overarching goal of improving water",
+      "description": "December 17, 2018 and has been incorporated throughout the plan from the visioning and goal quality. The goal of BMPs are to reduce or eliminate contaminants collected by stormwater as it moves meet and/or exceed the goal of a 35% reduction as put forth by the 2002 TMDL. Actual Fort Bayou Watershed Implementation Plan and overarching goal of improving water",
+      "originalSentence": "December 17, 2018 and has been incorporated throughout the plan from the visioning and goal quality.",
+      "shortTitle": "December 17, 2018 and has been incorporated throughout the plan from the visioning and goal quality."
+    },
+    {
+      "id": "G4",
+      "title": "Actual Fort Bayou Watershed Implementation Plan and overarching goal of improving water",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "Actual Fort Bayou Watershed Implementation Plan and overarching goal of improving water",
+      "confidence": 0.05,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "description": "Actual Fort Bayou Watershed Implementation Plan and overarching goal of improving water",
+      "originalSentence": "Actual Fort Bayou Watershed Implementation Plan and overarching goal of improving water",
+      "shortTitle": "Actual Fort Bayou Watershed Implementation Plan and overarching goal of improving water"
+    },
+    {
+      "id": "G5",
+      "title": "meet and/or exceed the goal of a 35% reduction as put forth by the 2002 TMDL. Actual",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": 35,
+      "reductionSrc": "inline",
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": 35,
+      "targetUnit": "%",
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": "2002",
+      "achievedYear": null,
+      "targetYear": "2002",
+      "responsible": null,
+      "source": "meet and/or exceed the goal of a 35% reduction as put forth by the 2002 TMDL.  Actual",
+      "confidence": 0.18000000000000002,
+      "description": "meet and/or exceed the goal of a 35% reduction as put forth by the 2002 TMDL. Actual",
+      "originalSentence": "meet and/or exceed the goal of a 35% reduction as put forth by the 2002 TMDL. Actual",
+      "shortTitle": "meet and/or exceed the goal of a 35% reduction as put forth by the 2002 TMDL. Actual"
+    }
+  ],
+  "mainGoals": [
+    {
+      "id": "G4",
+      "title": "Actual Fort Bayou Watershed Implementation Plan and overarching goal of improving water",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "Actual Fort Bayou Watershed Implementation Plan and overarching goal of improving water",
+      "confidence": 0.05,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "description": "Actual Fort Bayou Watershed Implementation Plan and overarching goal of improving water",
+      "originalSentence": "Actual Fort Bayou Watershed Implementation Plan and overarching goal of improving water",
+      "shortTitle": "Actual Fort Bayou Watershed Implementation Plan and overarching goal of improving water"
+    }
+  ],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "By January 1874, Antonio and his wife, Jane Franco, had spent",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.05,
+      "source": "By January 1874, Antonio and his wife, Jane Franco, had spent $850 for approximately two and a press releases and fact sheets.  The total project cost was $376,867.  Appendix J contains the|name_cost_tail_trim",
+      "originalName": "By January 1874, Antonio and his wife, Jane Franco, had spent $850 for approximately two and a press releases and fact sheets.  The total project cost was $376,867.  Appendix J contains the"
+    },
+    {
+      "id": "B2",
+      "name": "Watershed including responsible parties, potential funders, estimated costs and a",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Watershed including responsible parties, potential funders, estimated costs and a"
+    },
+    {
+      "id": "B3",
+      "name": "MDC pays loggers",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "MDC pays loggers $10 to $20 per acre and landowners $5 for every acre in|name_cost_tail_trim",
+      "originalName": "MDC pays loggers $10 to $20 per acre and landowners $5 for every acre in"
+    },
+    {
+      "id": "B4",
+      "name": "Critical Area Planting",
+      "category": "General",
+      "keyword": null,
+      "quantity": 32,
+      "unit": "acres",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "Critical Area Planting $248.10  32 acres $7,939.20|name_cost_tail_trim",
+      "originalName": "Critical Area Planting $248.10  32 acres $7,939.20"
+    },
+    {
+      "id": "B5",
+      "name": "Fence",
+      "category": "General",
+      "keyword": null,
+      "quantity": 12499,
+      "unit": "ft",
+      "verb": "fence",
+      "confidence": 0.4,
+      "source": "Fence $1.91 12,499 ft $23,873.09|name_cost_tail_trim",
+      "originalName": "Fence $1.91 12,499 ft $23,873.09"
+    },
+    {
+      "id": "B6",
+      "name": "Grade Stabilization Structures",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Grade Stabilization Structures $5,000 5 $25,000.00|name_cost_tail_trim",
+      "originalName": "Grade Stabilization Structures $5,000 5 $25,000.00"
+    },
+    {
+      "id": "B7",
+      "name": "Heavy Use Area",
+      "category": "General",
+      "keyword": null,
+      "quantity": 8000,
+      "unit": "acres",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "Heavy Use Area $1.04 8,000 acres $8,320.00|name_cost_tail_trim",
+      "originalName": "Heavy Use Area $1.04 8,000 acres $8,320.00"
+    },
+    {
+      "id": "B8",
+      "name": "Pipeline",
+      "category": "General",
+      "keyword": null,
+      "quantity": 3600,
+      "unit": "ft",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "Pipeline $1.75 3,600 ft $6,300.00|name_cost_tail_trim",
+      "originalName": "Pipeline $1.75 3,600 ft $6,300.00"
+    },
+    {
+      "id": "B9",
+      "name": "Stream Bank Protection",
+      "category": "General",
+      "keyword": null,
+      "quantity": 1588,
+      "unit": "acres",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "Stream Bank Protection $1.54 1,588 acres $2,445.52|name_cost_tail_trim",
+      "originalName": "Stream Bank Protection $1.54 1,588 acres $2,445.52"
+    },
+    {
+      "id": "B10",
+      "name": "Grassed Waterways",
+      "category": "Erosion Control",
+      "keyword": "Grassed Waterway",
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.4,
+      "source": "Grassed Waterways $1,648 13 $21,424.00|name_cost_tail_trim",
+      "originalName": "Grassed Waterways $1,648 13 $21,424.00"
+    },
+    {
+      "id": "B11",
+      "name": "Pond",
+      "category": "General",
+      "keyword": null,
+      "quantity": 2120,
+      "unit": "acres",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "Pond $3.77 2,120 acres $7,992.40|name_cost_tail_trim",
+      "originalName": "Pond $3.77 2,120 acres $7,992.40"
+    },
+    {
+      "id": "B12",
+      "name": "Tank/Trough",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Tank/Trough $4,600 10 $46,000.00|name_cost_tail_trim",
+      "originalName": "Tank/Trough $4,600 10 $46,000.00"
+    },
+    {
+      "id": "B13",
+      "name": "TOTAL",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "TOTAL     $149,294.21|name_cost_tail_trim",
+      "originalName": "TOTAL     $149,294.21"
+    },
+    {
+      "id": "B14",
+      "name": "Missouri Department of Conservation. BMP Cost-Share Funds Available for Loggers and Landowners. 30 January",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Missouri Department of Conservation. BMP Cost-Share Funds Available for Loggers and Landowners. 30 January"
+    }
+  ],
+  "bmpCostTable": {
+    "id": "adaptive_generic_costs",
+    "title": "By January 1874, Antonio and his wife, Jane Franco, had spent $850 for approximately two and a",
+    "table": {
+      "columns": [
+        "Item",
+        "Cost",
+        "Extra?"
+      ],
+      "rows": [
+        {
+          "Item": "By January 1874, Antonio and his wife, Jane Franco, had spent",
+          "Cost": "$850",
+          "Extra": null
+        },
+        {
+          "Item": "press releases and fact sheets.  The total project cost was",
+          "Cost": "$376,867",
+          "Extra": null
+        },
+        {
+          "Item": "MDC pays loggers",
+          "Cost": "$10",
+          "Extra": "$20"
+        },
+        {
+          "Item": "Critical Area Planting $248.10  32 acres",
+          "Cost": "$7,939.20",
+          "Extra": null
+        },
+        {
+          "Item": "Fence $1.91 12,499 ft",
+          "Cost": "$23,873.09",
+          "Extra": null
+        },
+        {
+          "Item": "Grade Stabilization Structures $5,000 5",
+          "Cost": "$25,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "Heavy Use Area $1.04 8,000 acres",
+          "Cost": "$8,320.00",
+          "Extra": null
+        },
+        {
+          "Item": "Pipeline $1.75 3,600 ft",
+          "Cost": "$6,300.00",
+          "Extra": null
+        },
+        {
+          "Item": "Stream Bank Protection $1.54 1,588 acres",
+          "Cost": "$2,445.52",
+          "Extra": null
+        },
+        {
+          "Item": "Grassed Waterways $1,648 13",
+          "Cost": "$21,424.00",
+          "Extra": null
+        },
+        {
+          "Item": "Pond $3.77 2,120 acres",
+          "Cost": "$7,992.40",
+          "Extra": null
+        },
+        {
+          "Item": "Tank/Trough $4,600 10",
+          "Cost": "$46,000.00",
+          "Extra": null
+        },
+        {
+          "Item": "TOTAL",
+          "Cost": "$149,294.21",
+          "Extra": null
+        }
+      ],
+      "total": null
+    },
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTableNormalized": {
+    "id": "adaptive_generic_costs",
+    "title": "By January 1874, Antonio and his wife, Jane Franco, had spent $850 for approximately two and a",
+    "rows": [
+      {
+        "name": "By January 1874, Antonio and his wife, Jane Franco, had spent",
+        "totalCost": 850,
+        "rawCost": "$850"
+      },
+      {
+        "name": "press releases and fact sheets.  The total project cost was",
+        "totalCost": 376867,
+        "rawCost": "$376,867"
+      },
+      {
+        "name": "MDC pays loggers",
+        "totalCost": 10,
+        "rawCost": "$10"
+      },
+      {
+        "name": "Critical Area Planting $248.10  32 acres",
+        "totalCost": 7939.2,
+        "rawCost": "$7,939.20"
+      },
+      {
+        "name": "Fence $1.91 12,499 ft",
+        "totalCost": 23873.09,
+        "rawCost": "$23,873.09"
+      },
+      {
+        "name": "Grade Stabilization Structures $5,000 5",
+        "totalCost": 25000,
+        "rawCost": "$25,000.00"
+      },
+      {
+        "name": "Heavy Use Area $1.04 8,000 acres",
+        "totalCost": 8320,
+        "rawCost": "$8,320.00"
+      },
+      {
+        "name": "Pipeline $1.75 3,600 ft",
+        "totalCost": 6300,
+        "rawCost": "$6,300.00"
+      },
+      {
+        "name": "Stream Bank Protection $1.54 1,588 acres",
+        "totalCost": 2445.52,
+        "rawCost": "$2,445.52"
+      },
+      {
+        "name": "Grassed Waterways $1,648 13",
+        "totalCost": 21424,
+        "rawCost": "$21,424.00"
+      },
+      {
+        "name": "Pond $3.77 2,120 acres",
+        "totalCost": 7992.4,
+        "rawCost": "$7,992.40"
+      },
+      {
+        "name": "Tank/Trough $4,600 10",
+        "totalCost": 46000,
+        "rawCost": "$46,000.00"
+      },
+      {
+        "name": "TOTAL",
+        "totalCost": 149294.21,
+        "rawCost": "$149,294.21"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 676315.42,
+    "discrepancy": null,
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTables": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "By January 1874, Antonio and his wife, Jane Franco, had spent $850 for approximately two and a",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "By January 1874, Antonio and his wife, Jane Franco, had spent",
+            "Cost": "$850",
+            "Extra": null
+          },
+          {
+            "Item": "press releases and fact sheets.  The total project cost was",
+            "Cost": "$376,867",
+            "Extra": null
+          },
+          {
+            "Item": "MDC pays loggers",
+            "Cost": "$10",
+            "Extra": "$20"
+          },
+          {
+            "Item": "Critical Area Planting $248.10  32 acres",
+            "Cost": "$7,939.20",
+            "Extra": null
+          },
+          {
+            "Item": "Fence $1.91 12,499 ft",
+            "Cost": "$23,873.09",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structures $5,000 5",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Area $1.04 8,000 acres",
+            "Cost": "$8,320.00",
+            "Extra": null
+          },
+          {
+            "Item": "Pipeline $1.75 3,600 ft",
+            "Cost": "$6,300.00",
+            "Extra": null
+          },
+          {
+            "Item": "Stream Bank Protection $1.54 1,588 acres",
+            "Cost": "$2,445.52",
+            "Extra": null
+          },
+          {
+            "Item": "Grassed Waterways $1,648 13",
+            "Cost": "$21,424.00",
+            "Extra": null
+          },
+          {
+            "Item": "Pond $3.77 2,120 acres",
+            "Cost": "$7,992.40",
+            "Extra": null
+          },
+          {
+            "Item": "Tank/Trough $4,600 10",
+            "Cost": "$46,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$149,294.21",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "press releases and fact sheets.  The total project cost was $376,867.  Appendix J contains the",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "press releases and fact sheets.  The total project cost was",
+            "Cost": "$376,867",
+            "Extra": null
+          },
+          {
+            "Item": "MDC pays loggers",
+            "Cost": "$10",
+            "Extra": "$20"
+          },
+          {
+            "Item": "Critical Area Planting $248.10  32 acres",
+            "Cost": "$7,939.20",
+            "Extra": null
+          },
+          {
+            "Item": "Fence $1.91 12,499 ft",
+            "Cost": "$23,873.09",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structures $5,000 5",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Area $1.04 8,000 acres",
+            "Cost": "$8,320.00",
+            "Extra": null
+          },
+          {
+            "Item": "Pipeline $1.75 3,600 ft",
+            "Cost": "$6,300.00",
+            "Extra": null
+          },
+          {
+            "Item": "Stream Bank Protection $1.54 1,588 acres",
+            "Cost": "$2,445.52",
+            "Extra": null
+          },
+          {
+            "Item": "Grassed Waterways $1,648 13",
+            "Cost": "$21,424.00",
+            "Extra": null
+          },
+          {
+            "Item": "Pond $3.77 2,120 acres",
+            "Cost": "$7,992.40",
+            "Extra": null
+          },
+          {
+            "Item": "Tank/Trough $4,600 10",
+            "Cost": "$46,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$149,294.21",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "MDC pays loggers $10 to $20 per acre and landowners $5 for every acre in",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "MDC pays loggers",
+            "Cost": "$10",
+            "Extra": "$20"
+          },
+          {
+            "Item": "Critical Area Planting $248.10  32 acres",
+            "Cost": "$7,939.20",
+            "Extra": null
+          },
+          {
+            "Item": "Fence $1.91 12,499 ft",
+            "Cost": "$23,873.09",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structures $5,000 5",
+            "Cost": "$25,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Area $1.04 8,000 acres",
+            "Cost": "$8,320.00",
+            "Extra": null
+          },
+          {
+            "Item": "Pipeline $1.75 3,600 ft",
+            "Cost": "$6,300.00",
+            "Extra": null
+          },
+          {
+            "Item": "Stream Bank Protection $1.54 1,588 acres",
+            "Cost": "$2,445.52",
+            "Extra": null
+          },
+          {
+            "Item": "Grassed Waterways $1,648 13",
+            "Cost": "$21,424.00",
+            "Extra": null
+          },
+          {
+            "Item": "Pond $3.77 2,120 acres",
+            "Cost": "$7,992.40",
+            "Extra": null
+          },
+          {
+            "Item": "Tank/Trough $4,600 10",
+            "Cost": "$46,000.00",
+            "Extra": null
+          },
+          {
+            "Item": "TOTAL",
+            "Cost": "$149,294.21",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "practice_unit_cost_range",
+      "title": "Critical Area Planting $248.10  32 acres $7,939.20",
+      "table": {
+        "columns": [
+          "Practice",
+          "Unit Cost",
+          "Number of Units",
+          "Total Cost"
+        ],
+        "rows": [
+          {
+            "Practice": "Fence",
+            "Unit Cost": "1.91",
+            "Number of Units": "12,499 ft",
+            "Total Cost": "23,873.09"
+          },
+          {
+            "Practice": "Grade Stabilization Structures",
+            "Unit Cost": "5,000",
+            "Number of Units": "5",
+            "Total Cost": "25,000.00"
+          },
+          {
+            "Practice": "Heavy Use Area",
+            "Unit Cost": "1.04",
+            "Number of Units": "8,000 acres",
+            "Total Cost": "8,320.00"
+          },
+          {
+            "Practice": "Pipeline",
+            "Unit Cost": "1.75",
+            "Number of Units": "3,600 ft",
+            "Total Cost": "6,300.00"
+          },
+          {
+            "Practice": "Stream Bank Protection",
+            "Unit Cost": "1.54",
+            "Number of Units": "1,588 acres",
+            "Total Cost": "2,445.52"
+          },
+          {
+            "Practice": "Grassed Waterways",
+            "Unit Cost": "1,648",
+            "Number of Units": "13",
+            "Total Cost": "21,424.00"
+          },
+          {
+            "Practice": "Pond",
+            "Unit Cost": "3.77",
+            "Number of Units": "2,120 acres",
+            "Total Cost": "7,992.40"
+          },
+          {
+            "Practice": "Tank/Trough",
+            "Unit Cost": "4,600",
+            "Number of Units": "10",
+            "Total Cost": "46,000.00"
+          }
+        ],
+        "total": 149294.21
+      },
+      "patternId": "practice_unit_cost_range",
+      "patternConfidence": 0.78
+    },
+    {
+      "id": "activity_unit_cost_range",
+      "title": "Critical Area Planting $248.10  32 acres $7,939.20",
+      "table": {
+        "columns": [
+          "Activity",
+          "Unit cost*",
+          "Number of units",
+          "Total cost"
+        ],
+        "rows": [
+          {
+            "Activity": "Fence",
+            "Unit cost*": "1.91",
+            "Number of units": "12,499 ft",
+            "Total cost": "23,873.09"
+          },
+          {
+            "Activity": "Grade Stabilization Structures",
+            "Unit cost*": "5,000",
+            "Number of units": "5",
+            "Total cost": "25,000.00"
+          },
+          {
+            "Activity": "Heavy Use Area",
+            "Unit cost*": "1.04",
+            "Number of units": "8,000 acres",
+            "Total cost": "8,320.00"
+          },
+          {
+            "Activity": "Pipeline",
+            "Unit cost*": "1.75",
+            "Number of units": "3,600 ft",
+            "Total cost": "6,300.00"
+          },
+          {
+            "Activity": "Stream Bank Protection",
+            "Unit cost*": "1.54",
+            "Number of units": "1,588 acres",
+            "Total cost": "2,445.52"
+          },
+          {
+            "Activity": "Grassed Waterways",
+            "Unit cost*": "1,648",
+            "Number of units": "13",
+            "Total cost": "21,424.00"
+          },
+          {
+            "Activity": "Pond",
+            "Unit cost*": "3.77",
+            "Number of units": "2,120 acres",
+            "Total cost": "7,992.40"
+          },
+          {
+            "Activity": "Tank/Trough",
+            "Unit cost*": "4,600",
+            "Number of units": "10",
+            "Total cost": "46,000.00"
+          }
+        ],
+        "total": 149294.21
+      },
+      "patternId": "activity_unit_cost_range",
+      "patternConfidence": 0.75
+    },
+    {
+      "id": "practice_unit_cost_range",
+      "title": "Fence $1.91 12,499 ft $23,873.09",
+      "table": {
+        "columns": [
+          "Practice",
+          "Unit Cost",
+          "Number of Units",
+          "Total Cost"
+        ],
+        "rows": [
+          {
+            "Practice": "Grade Stabilization Structures",
+            "Unit Cost": "5,000",
+            "Number of Units": "5",
+            "Total Cost": "25,000.00"
+          },
+          {
+            "Practice": "Heavy Use Area",
+            "Unit Cost": "1.04",
+            "Number of Units": "8,000 acres",
+            "Total Cost": "8,320.00"
+          },
+          {
+            "Practice": "Pipeline",
+            "Unit Cost": "1.75",
+            "Number of Units": "3,600 ft",
+            "Total Cost": "6,300.00"
+          },
+          {
+            "Practice": "Stream Bank Protection",
+            "Unit Cost": "1.54",
+            "Number of Units": "1,588 acres",
+            "Total Cost": "2,445.52"
+          },
+          {
+            "Practice": "Grassed Waterways",
+            "Unit Cost": "1,648",
+            "Number of Units": "13",
+            "Total Cost": "21,424.00"
+          },
+          {
+            "Practice": "Pond",
+            "Unit Cost": "3.77",
+            "Number of Units": "2,120 acres",
+            "Total Cost": "7,992.40"
+          },
+          {
+            "Practice": "Tank/Trough",
+            "Unit Cost": "4,600",
+            "Number of Units": "10",
+            "Total Cost": "46,000.00"
+          }
+        ],
+        "total": 149294.21
+      },
+      "patternId": "practice_unit_cost_range",
+      "patternConfidence": 0.78
+    },
+    {
+      "id": "activity_unit_cost_range",
+      "title": "Fence $1.91 12,499 ft $23,873.09",
+      "table": {
+        "columns": [
+          "Activity",
+          "Unit cost*",
+          "Number of units",
+          "Total cost"
+        ],
+        "rows": [
+          {
+            "Activity": "Grade Stabilization Structures",
+            "Unit cost*": "5,000",
+            "Number of units": "5",
+            "Total cost": "25,000.00"
+          },
+          {
+            "Activity": "Heavy Use Area",
+            "Unit cost*": "1.04",
+            "Number of units": "8,000 acres",
+            "Total cost": "8,320.00"
+          },
+          {
+            "Activity": "Pipeline",
+            "Unit cost*": "1.75",
+            "Number of units": "3,600 ft",
+            "Total cost": "6,300.00"
+          },
+          {
+            "Activity": "Stream Bank Protection",
+            "Unit cost*": "1.54",
+            "Number of units": "1,588 acres",
+            "Total cost": "2,445.52"
+          },
+          {
+            "Activity": "Grassed Waterways",
+            "Unit cost*": "1,648",
+            "Number of units": "13",
+            "Total cost": "21,424.00"
+          },
+          {
+            "Activity": "Pond",
+            "Unit cost*": "3.77",
+            "Number of units": "2,120 acres",
+            "Total cost": "7,992.40"
+          },
+          {
+            "Activity": "Tank/Trough",
+            "Unit cost*": "4,600",
+            "Number of units": "10",
+            "Total cost": "46,000.00"
+          }
+        ],
+        "total": 149294.21
+      },
+      "patternId": "activity_unit_cost_range",
+      "patternConfidence": 0.75
+    },
+    {
+      "id": "practice_unit_cost_range",
+      "title": "Heavy Use Area $1.04 8,000 acres $8,320.00",
+      "table": {
+        "columns": [
+          "Practice",
+          "Unit Cost",
+          "Number of Units",
+          "Total Cost"
+        ],
+        "rows": [
+          {
+            "Practice": "Pipeline",
+            "Unit Cost": "1.75",
+            "Number of Units": "3,600 ft",
+            "Total Cost": "6,300.00"
+          },
+          {
+            "Practice": "Stream Bank Protection",
+            "Unit Cost": "1.54",
+            "Number of Units": "1,588 acres",
+            "Total Cost": "2,445.52"
+          },
+          {
+            "Practice": "Grassed Waterways",
+            "Unit Cost": "1,648",
+            "Number of Units": "13",
+            "Total Cost": "21,424.00"
+          },
+          {
+            "Practice": "Pond",
+            "Unit Cost": "3.77",
+            "Number of Units": "2,120 acres",
+            "Total Cost": "7,992.40"
+          },
+          {
+            "Practice": "Tank/Trough",
+            "Unit Cost": "4,600",
+            "Number of Units": "10",
+            "Total Cost": "46,000.00"
+          }
+        ],
+        "total": 149294.21
+      },
+      "patternId": "practice_unit_cost_range",
+      "patternConfidence": 0.78
+    },
+    {
+      "id": "activity_unit_cost_range",
+      "title": "Heavy Use Area $1.04 8,000 acres $8,320.00",
+      "table": {
+        "columns": [
+          "Activity",
+          "Unit cost*",
+          "Number of units",
+          "Total cost"
+        ],
+        "rows": [
+          {
+            "Activity": "Pipeline",
+            "Unit cost*": "1.75",
+            "Number of units": "3,600 ft",
+            "Total cost": "6,300.00"
+          },
+          {
+            "Activity": "Stream Bank Protection",
+            "Unit cost*": "1.54",
+            "Number of units": "1,588 acres",
+            "Total cost": "2,445.52"
+          },
+          {
+            "Activity": "Grassed Waterways",
+            "Unit cost*": "1,648",
+            "Number of units": "13",
+            "Total cost": "21,424.00"
+          },
+          {
+            "Activity": "Pond",
+            "Unit cost*": "3.77",
+            "Number of units": "2,120 acres",
+            "Total cost": "7,992.40"
+          },
+          {
+            "Activity": "Tank/Trough",
+            "Unit cost*": "4,600",
+            "Number of units": "10",
+            "Total cost": "46,000.00"
+          }
+        ],
+        "total": 149294.21
+      },
+      "patternId": "activity_unit_cost_range",
+      "patternConfidence": 0.75
+    },
+    {
+      "id": "practice_unit_cost_range",
+      "title": "Pipeline $1.75 3,600 ft $6,300.00",
+      "table": {
+        "columns": [
+          "Practice",
+          "Unit Cost",
+          "Number of Units",
+          "Total Cost"
+        ],
+        "rows": [
+          {
+            "Practice": "Stream Bank Protection",
+            "Unit Cost": "1.54",
+            "Number of Units": "1,588 acres",
+            "Total Cost": "2,445.52"
+          },
+          {
+            "Practice": "Grassed Waterways",
+            "Unit Cost": "1,648",
+            "Number of Units": "13",
+            "Total Cost": "21,424.00"
+          },
+          {
+            "Practice": "Pond",
+            "Unit Cost": "3.77",
+            "Number of Units": "2,120 acres",
+            "Total Cost": "7,992.40"
+          },
+          {
+            "Practice": "Tank/Trough",
+            "Unit Cost": "4,600",
+            "Number of Units": "10",
+            "Total Cost": "46,000.00"
+          }
+        ],
+        "total": 149294.21
+      },
+      "patternId": "practice_unit_cost_range",
+      "patternConfidence": 0.78
+    },
+    {
+      "id": "activity_unit_cost_range",
+      "title": "Pipeline $1.75 3,600 ft $6,300.00",
+      "table": {
+        "columns": [
+          "Activity",
+          "Unit cost*",
+          "Number of units",
+          "Total cost"
+        ],
+        "rows": [
+          {
+            "Activity": "Stream Bank Protection",
+            "Unit cost*": "1.54",
+            "Number of units": "1,588 acres",
+            "Total cost": "2,445.52"
+          },
+          {
+            "Activity": "Grassed Waterways",
+            "Unit cost*": "1,648",
+            "Number of units": "13",
+            "Total cost": "21,424.00"
+          },
+          {
+            "Activity": "Pond",
+            "Unit cost*": "3.77",
+            "Number of units": "2,120 acres",
+            "Total cost": "7,992.40"
+          },
+          {
+            "Activity": "Tank/Trough",
+            "Unit cost*": "4,600",
+            "Number of units": "10",
+            "Total cost": "46,000.00"
+          }
+        ],
+        "total": 149294.21
+      },
+      "patternId": "activity_unit_cost_range",
+      "patternConfidence": 0.75
+    },
+    {
+      "id": "practice_unit_cost_range",
+      "title": "Stream Bank Protection $1.54 1,588 acres $2,445.52",
+      "table": {
+        "columns": [
+          "Practice",
+          "Unit Cost",
+          "Number of Units",
+          "Total Cost"
+        ],
+        "rows": [
+          {
+            "Practice": "Grassed Waterways",
+            "Unit Cost": "1,648",
+            "Number of Units": "13",
+            "Total Cost": "21,424.00"
+          },
+          {
+            "Practice": "Pond",
+            "Unit Cost": "3.77",
+            "Number of Units": "2,120 acres",
+            "Total Cost": "7,992.40"
+          },
+          {
+            "Practice": "Tank/Trough",
+            "Unit Cost": "4,600",
+            "Number of Units": "10",
+            "Total Cost": "46,000.00"
+          }
+        ],
+        "total": 149294.21
+      },
+      "patternId": "practice_unit_cost_range",
+      "patternConfidence": 0.78
+    },
+    {
+      "id": "activity_unit_cost_range",
+      "title": "Stream Bank Protection $1.54 1,588 acres $2,445.52",
+      "table": {
+        "columns": [
+          "Activity",
+          "Unit cost*",
+          "Number of units",
+          "Total cost"
+        ],
+        "rows": [
+          {
+            "Activity": "Grassed Waterways",
+            "Unit cost*": "1,648",
+            "Number of units": "13",
+            "Total cost": "21,424.00"
+          },
+          {
+            "Activity": "Pond",
+            "Unit cost*": "3.77",
+            "Number of units": "2,120 acres",
+            "Total cost": "7,992.40"
+          },
+          {
+            "Activity": "Tank/Trough",
+            "Unit cost*": "4,600",
+            "Number of units": "10",
+            "Total cost": "46,000.00"
+          }
+        ],
+        "total": 149294.21
+      },
+      "patternId": "activity_unit_cost_range",
+      "patternConfidence": 0.75
+    },
+    {
+      "id": "practice_unit_cost_range",
+      "title": "Grassed Waterways $1,648 13 $21,424.00",
+      "table": {
+        "columns": [
+          "Practice",
+          "Unit Cost",
+          "Number of Units",
+          "Total Cost"
+        ],
+        "rows": [
+          {
+            "Practice": "Pond",
+            "Unit Cost": "3.77",
+            "Number of Units": "2,120 acres",
+            "Total Cost": "7,992.40"
+          },
+          {
+            "Practice": "Tank/Trough",
+            "Unit Cost": "4,600",
+            "Number of Units": "10",
+            "Total Cost": "46,000.00"
+          }
+        ],
+        "total": 149294.21
+      },
+      "patternId": "practice_unit_cost_range",
+      "patternConfidence": 0.78
+    },
+    {
+      "id": "activity_unit_cost_range",
+      "title": "Grassed Waterways $1,648 13 $21,424.00",
+      "table": {
+        "columns": [
+          "Activity",
+          "Unit cost*",
+          "Number of units",
+          "Total cost"
+        ],
+        "rows": [
+          {
+            "Activity": "Pond",
+            "Unit cost*": "3.77",
+            "Number of units": "2,120 acres",
+            "Total cost": "7,992.40"
+          },
+          {
+            "Activity": "Tank/Trough",
+            "Unit cost*": "4,600",
+            "Number of units": "10",
+            "Total cost": "46,000.00"
+          }
+        ],
+        "total": 149294.21
+      },
+      "patternId": "activity_unit_cost_range",
+      "patternConfidence": 0.75
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "By January 1874, Antonio and his wife, Jane Franco, had spent $850 for approximately two and a",
+      "rows": [
+        {
+          "name": "By January 1874, Antonio and his wife, Jane Franco, had spent",
+          "totalCost": 850,
+          "rawCost": "$850"
+        },
+        {
+          "name": "press releases and fact sheets.  The total project cost was",
+          "totalCost": 376867,
+          "rawCost": "$376,867"
+        },
+        {
+          "name": "MDC pays loggers",
+          "totalCost": 10,
+          "rawCost": "$10"
+        },
+        {
+          "name": "Critical Area Planting $248.10  32 acres",
+          "totalCost": 7939.2,
+          "rawCost": "$7,939.20"
+        },
+        {
+          "name": "Fence $1.91 12,499 ft",
+          "totalCost": 23873.09,
+          "rawCost": "$23,873.09"
+        },
+        {
+          "name": "Grade Stabilization Structures $5,000 5",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Heavy Use Area $1.04 8,000 acres",
+          "totalCost": 8320,
+          "rawCost": "$8,320.00"
+        },
+        {
+          "name": "Pipeline $1.75 3,600 ft",
+          "totalCost": 6300,
+          "rawCost": "$6,300.00"
+        },
+        {
+          "name": "Stream Bank Protection $1.54 1,588 acres",
+          "totalCost": 2445.52,
+          "rawCost": "$2,445.52"
+        },
+        {
+          "name": "Grassed Waterways $1,648 13",
+          "totalCost": 21424,
+          "rawCost": "$21,424.00"
+        },
+        {
+          "name": "Pond $3.77 2,120 acres",
+          "totalCost": 7992.4,
+          "rawCost": "$7,992.40"
+        },
+        {
+          "name": "Tank/Trough $4,600 10",
+          "totalCost": 46000,
+          "rawCost": "$46,000.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 149294.21,
+          "rawCost": "$149,294.21"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 676315.42,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "press releases and fact sheets.  The total project cost was $376,867.  Appendix J contains the",
+      "rows": [
+        {
+          "name": "press releases and fact sheets.  The total project cost was",
+          "totalCost": 376867,
+          "rawCost": "$376,867"
+        },
+        {
+          "name": "MDC pays loggers",
+          "totalCost": 10,
+          "rawCost": "$10"
+        },
+        {
+          "name": "Critical Area Planting $248.10  32 acres",
+          "totalCost": 7939.2,
+          "rawCost": "$7,939.20"
+        },
+        {
+          "name": "Fence $1.91 12,499 ft",
+          "totalCost": 23873.09,
+          "rawCost": "$23,873.09"
+        },
+        {
+          "name": "Grade Stabilization Structures $5,000 5",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Heavy Use Area $1.04 8,000 acres",
+          "totalCost": 8320,
+          "rawCost": "$8,320.00"
+        },
+        {
+          "name": "Pipeline $1.75 3,600 ft",
+          "totalCost": 6300,
+          "rawCost": "$6,300.00"
+        },
+        {
+          "name": "Stream Bank Protection $1.54 1,588 acres",
+          "totalCost": 2445.52,
+          "rawCost": "$2,445.52"
+        },
+        {
+          "name": "Grassed Waterways $1,648 13",
+          "totalCost": 21424,
+          "rawCost": "$21,424.00"
+        },
+        {
+          "name": "Pond $3.77 2,120 acres",
+          "totalCost": 7992.4,
+          "rawCost": "$7,992.40"
+        },
+        {
+          "name": "Tank/Trough $4,600 10",
+          "totalCost": 46000,
+          "rawCost": "$46,000.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 149294.21,
+          "rawCost": "$149,294.21"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 675465.42,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "MDC pays loggers $10 to $20 per acre and landowners $5 for every acre in",
+      "rows": [
+        {
+          "name": "MDC pays loggers",
+          "totalCost": 10,
+          "rawCost": "$10"
+        },
+        {
+          "name": "Critical Area Planting $248.10  32 acres",
+          "totalCost": 7939.2,
+          "rawCost": "$7,939.20"
+        },
+        {
+          "name": "Fence $1.91 12,499 ft",
+          "totalCost": 23873.09,
+          "rawCost": "$23,873.09"
+        },
+        {
+          "name": "Grade Stabilization Structures $5,000 5",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Heavy Use Area $1.04 8,000 acres",
+          "totalCost": 8320,
+          "rawCost": "$8,320.00"
+        },
+        {
+          "name": "Pipeline $1.75 3,600 ft",
+          "totalCost": 6300,
+          "rawCost": "$6,300.00"
+        },
+        {
+          "name": "Stream Bank Protection $1.54 1,588 acres",
+          "totalCost": 2445.52,
+          "rawCost": "$2,445.52"
+        },
+        {
+          "name": "Grassed Waterways $1,648 13",
+          "totalCost": 21424,
+          "rawCost": "$21,424.00"
+        },
+        {
+          "name": "Pond $3.77 2,120 acres",
+          "totalCost": 7992.4,
+          "rawCost": "$7,992.40"
+        },
+        {
+          "name": "Tank/Trough $4,600 10",
+          "totalCost": 46000,
+          "rawCost": "$46,000.00"
+        },
+        {
+          "name": "TOTAL",
+          "totalCost": 149294.21,
+          "rawCost": "$149,294.21"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 298598.42000000004,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "practice_unit_cost_range",
+      "title": "Critical Area Planting $248.10  32 acres $7,939.20",
+      "rows": [
+        {
+          "name": "Fence",
+          "quantity": 12499,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 1.91,
+          "totalCost": 23873.09,
+          "rawSize": "12,499 ft",
+          "rawCost": "23,873.09",
+          "unitCostMin": 1.91,
+          "unitCostMax": 1.91,
+          "totalCostMin": 23873.09,
+          "totalCostMax": 23873.09
+        },
+        {
+          "name": "Grade Stabilization Structures",
+          "quantity": 5,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 5000,
+          "totalCost": 25000,
+          "rawSize": "5",
+          "rawCost": "25,000.00",
+          "unitCostMin": 5000,
+          "unitCostMax": 5000,
+          "totalCostMin": 25000,
+          "totalCostMax": 25000
+        },
+        {
+          "name": "Heavy Use Area",
+          "quantity": 8000,
+          "unit": "acre",
+          "unitRaw": "acres",
+          "unitCost": 1.04,
+          "totalCost": 8320,
+          "rawSize": "8,000 acres",
+          "rawCost": "8,320.00",
+          "unitCostMin": 1.04,
+          "unitCostMax": 1.04,
+          "totalCostMin": 8320,
+          "totalCostMax": 8320
+        },
+        {
+          "name": "Pipeline",
+          "quantity": 3600,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 1.75,
+          "totalCost": 6300,
+          "rawSize": "3,600 ft",
+          "rawCost": "6,300.00",
+          "unitCostMin": 1.75,
+          "unitCostMax": 1.75,
+          "totalCostMin": 6300,
+          "totalCostMax": 6300
+        },
+        {
+          "name": "Stream Bank Protection",
+          "quantity": 1588,
+          "unit": "acre",
+          "unitRaw": "acres",
+          "unitCost": 1.54,
+          "totalCost": 2445.52,
+          "rawSize": "1,588 acres",
+          "rawCost": "2,445.52",
+          "unitCostMin": 1.54,
+          "unitCostMax": 1.54,
+          "totalCostMin": 2445.52,
+          "totalCostMax": 2445.52
+        },
+        {
+          "name": "Grassed Waterways",
+          "quantity": 13,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 1648,
+          "totalCost": 21424,
+          "rawSize": "13",
+          "rawCost": "21,424.00",
+          "unitCostMin": 1648,
+          "unitCostMax": 1648,
+          "totalCostMin": 21424,
+          "totalCostMax": 21424
+        },
+        {
+          "name": "Pond",
+          "quantity": 2120,
+          "unit": "acre",
+          "unitRaw": "acres",
+          "unitCost": 3.77,
+          "totalCost": 7992.4,
+          "rawSize": "2,120 acres",
+          "rawCost": "7,992.40",
+          "unitCostMin": 3.77,
+          "unitCostMax": 3.77,
+          "totalCostMin": 7992.4,
+          "totalCostMax": 7992.4
+        },
+        {
+          "name": "Tank/Trough",
+          "quantity": 10,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 4600,
+          "totalCost": 46000,
+          "rawSize": "10",
+          "rawCost": "46,000.00",
+          "unitCostMin": 4600,
+          "unitCostMax": 4600,
+          "totalCostMin": 46000,
+          "totalCostMax": 46000
+        }
+      ],
+      "totalReported": 149294.21,
+      "totalComputed": 141355.01,
+      "discrepancy": 7939.1999999999825,
+      "patternId": "practice_unit_cost_range",
+      "patternConfidence": 0.78
+    },
+    {
+      "id": "activity_unit_cost_range",
+      "title": "Critical Area Planting $248.10  32 acres $7,939.20",
+      "rows": [
+        {
+          "name": "Fence",
+          "quantity": 12499,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 1.91,
+          "totalCost": 23873.09,
+          "rawSize": "12,499 ft",
+          "rawCost": "23,873.09",
+          "unitCostMin": 1.91,
+          "unitCostMax": 1.91,
+          "totalCostMin": 23873.09,
+          "totalCostMax": 23873.09
+        },
+        {
+          "name": "Grade Stabilization Structures",
+          "quantity": 5,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 5000,
+          "totalCost": 25000,
+          "rawSize": "5",
+          "rawCost": "25,000.00",
+          "unitCostMin": 5000,
+          "unitCostMax": 5000,
+          "totalCostMin": 25000,
+          "totalCostMax": 25000
+        },
+        {
+          "name": "Heavy Use Area",
+          "quantity": 8000,
+          "unit": "acre",
+          "unitRaw": "acres",
+          "unitCost": 1.04,
+          "totalCost": 8320,
+          "rawSize": "8,000 acres",
+          "rawCost": "8,320.00",
+          "unitCostMin": 1.04,
+          "unitCostMax": 1.04,
+          "totalCostMin": 8320,
+          "totalCostMax": 8320
+        },
+        {
+          "name": "Pipeline",
+          "quantity": 3600,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 1.75,
+          "totalCost": 6300,
+          "rawSize": "3,600 ft",
+          "rawCost": "6,300.00",
+          "unitCostMin": 1.75,
+          "unitCostMax": 1.75,
+          "totalCostMin": 6300,
+          "totalCostMax": 6300
+        },
+        {
+          "name": "Stream Bank Protection",
+          "quantity": 1588,
+          "unit": "acre",
+          "unitRaw": "acres",
+          "unitCost": 1.54,
+          "totalCost": 2445.52,
+          "rawSize": "1,588 acres",
+          "rawCost": "2,445.52",
+          "unitCostMin": 1.54,
+          "unitCostMax": 1.54,
+          "totalCostMin": 2445.52,
+          "totalCostMax": 2445.52
+        },
+        {
+          "name": "Grassed Waterways",
+          "quantity": 13,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 1648,
+          "totalCost": 21424,
+          "rawSize": "13",
+          "rawCost": "21,424.00",
+          "unitCostMin": 1648,
+          "unitCostMax": 1648,
+          "totalCostMin": 21424,
+          "totalCostMax": 21424
+        },
+        {
+          "name": "Pond",
+          "quantity": 2120,
+          "unit": "acre",
+          "unitRaw": "acres",
+          "unitCost": 3.77,
+          "totalCost": 7992.4,
+          "rawSize": "2,120 acres",
+          "rawCost": "7,992.40",
+          "unitCostMin": 3.77,
+          "unitCostMax": 3.77,
+          "totalCostMin": 7992.4,
+          "totalCostMax": 7992.4
+        },
+        {
+          "name": "Tank/Trough",
+          "quantity": 10,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 4600,
+          "totalCost": 46000,
+          "rawSize": "10",
+          "rawCost": "46,000.00",
+          "unitCostMin": 4600,
+          "unitCostMax": 4600,
+          "totalCostMin": 46000,
+          "totalCostMax": 46000
+        }
+      ],
+      "totalReported": 149294.21,
+      "totalComputed": 141355.01,
+      "discrepancy": 7939.1999999999825,
+      "patternId": "activity_unit_cost_range",
+      "patternConfidence": 0.75
+    },
+    {
+      "id": "practice_unit_cost_range",
+      "title": "Fence $1.91 12,499 ft $23,873.09",
+      "rows": [
+        {
+          "name": "Grade Stabilization Structures",
+          "quantity": 5,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 5000,
+          "totalCost": 25000,
+          "rawSize": "5",
+          "rawCost": "25,000.00",
+          "unitCostMin": 5000,
+          "unitCostMax": 5000,
+          "totalCostMin": 25000,
+          "totalCostMax": 25000
+        },
+        {
+          "name": "Heavy Use Area",
+          "quantity": 8000,
+          "unit": "acre",
+          "unitRaw": "acres",
+          "unitCost": 1.04,
+          "totalCost": 8320,
+          "rawSize": "8,000 acres",
+          "rawCost": "8,320.00",
+          "unitCostMin": 1.04,
+          "unitCostMax": 1.04,
+          "totalCostMin": 8320,
+          "totalCostMax": 8320
+        },
+        {
+          "name": "Pipeline",
+          "quantity": 3600,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 1.75,
+          "totalCost": 6300,
+          "rawSize": "3,600 ft",
+          "rawCost": "6,300.00",
+          "unitCostMin": 1.75,
+          "unitCostMax": 1.75,
+          "totalCostMin": 6300,
+          "totalCostMax": 6300
+        },
+        {
+          "name": "Stream Bank Protection",
+          "quantity": 1588,
+          "unit": "acre",
+          "unitRaw": "acres",
+          "unitCost": 1.54,
+          "totalCost": 2445.52,
+          "rawSize": "1,588 acres",
+          "rawCost": "2,445.52",
+          "unitCostMin": 1.54,
+          "unitCostMax": 1.54,
+          "totalCostMin": 2445.52,
+          "totalCostMax": 2445.52
+        },
+        {
+          "name": "Grassed Waterways",
+          "quantity": 13,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 1648,
+          "totalCost": 21424,
+          "rawSize": "13",
+          "rawCost": "21,424.00",
+          "unitCostMin": 1648,
+          "unitCostMax": 1648,
+          "totalCostMin": 21424,
+          "totalCostMax": 21424
+        },
+        {
+          "name": "Pond",
+          "quantity": 2120,
+          "unit": "acre",
+          "unitRaw": "acres",
+          "unitCost": 3.77,
+          "totalCost": 7992.4,
+          "rawSize": "2,120 acres",
+          "rawCost": "7,992.40",
+          "unitCostMin": 3.77,
+          "unitCostMax": 3.77,
+          "totalCostMin": 7992.4,
+          "totalCostMax": 7992.4
+        },
+        {
+          "name": "Tank/Trough",
+          "quantity": 10,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 4600,
+          "totalCost": 46000,
+          "rawSize": "10",
+          "rawCost": "46,000.00",
+          "unitCostMin": 4600,
+          "unitCostMax": 4600,
+          "totalCostMin": 46000,
+          "totalCostMax": 46000
+        }
+      ],
+      "totalReported": 149294.21,
+      "totalComputed": 117481.92,
+      "discrepancy": 31812.289999999994,
+      "patternId": "practice_unit_cost_range",
+      "patternConfidence": 0.78
+    },
+    {
+      "id": "activity_unit_cost_range",
+      "title": "Fence $1.91 12,499 ft $23,873.09",
+      "rows": [
+        {
+          "name": "Grade Stabilization Structures",
+          "quantity": 5,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 5000,
+          "totalCost": 25000,
+          "rawSize": "5",
+          "rawCost": "25,000.00",
+          "unitCostMin": 5000,
+          "unitCostMax": 5000,
+          "totalCostMin": 25000,
+          "totalCostMax": 25000
+        },
+        {
+          "name": "Heavy Use Area",
+          "quantity": 8000,
+          "unit": "acre",
+          "unitRaw": "acres",
+          "unitCost": 1.04,
+          "totalCost": 8320,
+          "rawSize": "8,000 acres",
+          "rawCost": "8,320.00",
+          "unitCostMin": 1.04,
+          "unitCostMax": 1.04,
+          "totalCostMin": 8320,
+          "totalCostMax": 8320
+        },
+        {
+          "name": "Pipeline",
+          "quantity": 3600,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 1.75,
+          "totalCost": 6300,
+          "rawSize": "3,600 ft",
+          "rawCost": "6,300.00",
+          "unitCostMin": 1.75,
+          "unitCostMax": 1.75,
+          "totalCostMin": 6300,
+          "totalCostMax": 6300
+        },
+        {
+          "name": "Stream Bank Protection",
+          "quantity": 1588,
+          "unit": "acre",
+          "unitRaw": "acres",
+          "unitCost": 1.54,
+          "totalCost": 2445.52,
+          "rawSize": "1,588 acres",
+          "rawCost": "2,445.52",
+          "unitCostMin": 1.54,
+          "unitCostMax": 1.54,
+          "totalCostMin": 2445.52,
+          "totalCostMax": 2445.52
+        },
+        {
+          "name": "Grassed Waterways",
+          "quantity": 13,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 1648,
+          "totalCost": 21424,
+          "rawSize": "13",
+          "rawCost": "21,424.00",
+          "unitCostMin": 1648,
+          "unitCostMax": 1648,
+          "totalCostMin": 21424,
+          "totalCostMax": 21424
+        },
+        {
+          "name": "Pond",
+          "quantity": 2120,
+          "unit": "acre",
+          "unitRaw": "acres",
+          "unitCost": 3.77,
+          "totalCost": 7992.4,
+          "rawSize": "2,120 acres",
+          "rawCost": "7,992.40",
+          "unitCostMin": 3.77,
+          "unitCostMax": 3.77,
+          "totalCostMin": 7992.4,
+          "totalCostMax": 7992.4
+        },
+        {
+          "name": "Tank/Trough",
+          "quantity": 10,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 4600,
+          "totalCost": 46000,
+          "rawSize": "10",
+          "rawCost": "46,000.00",
+          "unitCostMin": 4600,
+          "unitCostMax": 4600,
+          "totalCostMin": 46000,
+          "totalCostMax": 46000
+        }
+      ],
+      "totalReported": 149294.21,
+      "totalComputed": 117481.92,
+      "discrepancy": 31812.289999999994,
+      "patternId": "activity_unit_cost_range",
+      "patternConfidence": 0.75
+    },
+    {
+      "id": "practice_unit_cost_range",
+      "title": "Heavy Use Area $1.04 8,000 acres $8,320.00",
+      "rows": [
+        {
+          "name": "Pipeline",
+          "quantity": 3600,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 1.75,
+          "totalCost": 6300,
+          "rawSize": "3,600 ft",
+          "rawCost": "6,300.00",
+          "unitCostMin": 1.75,
+          "unitCostMax": 1.75,
+          "totalCostMin": 6300,
+          "totalCostMax": 6300
+        },
+        {
+          "name": "Stream Bank Protection",
+          "quantity": 1588,
+          "unit": "acre",
+          "unitRaw": "acres",
+          "unitCost": 1.54,
+          "totalCost": 2445.52,
+          "rawSize": "1,588 acres",
+          "rawCost": "2,445.52",
+          "unitCostMin": 1.54,
+          "unitCostMax": 1.54,
+          "totalCostMin": 2445.52,
+          "totalCostMax": 2445.52
+        },
+        {
+          "name": "Grassed Waterways",
+          "quantity": 13,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 1648,
+          "totalCost": 21424,
+          "rawSize": "13",
+          "rawCost": "21,424.00",
+          "unitCostMin": 1648,
+          "unitCostMax": 1648,
+          "totalCostMin": 21424,
+          "totalCostMax": 21424
+        },
+        {
+          "name": "Pond",
+          "quantity": 2120,
+          "unit": "acre",
+          "unitRaw": "acres",
+          "unitCost": 3.77,
+          "totalCost": 7992.4,
+          "rawSize": "2,120 acres",
+          "rawCost": "7,992.40",
+          "unitCostMin": 3.77,
+          "unitCostMax": 3.77,
+          "totalCostMin": 7992.4,
+          "totalCostMax": 7992.4
+        },
+        {
+          "name": "Tank/Trough",
+          "quantity": 10,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 4600,
+          "totalCost": 46000,
+          "rawSize": "10",
+          "rawCost": "46,000.00",
+          "unitCostMin": 4600,
+          "unitCostMax": 4600,
+          "totalCostMin": 46000,
+          "totalCostMax": 46000
+        }
+      ],
+      "totalReported": 149294.21,
+      "totalComputed": 84161.92,
+      "discrepancy": 65132.28999999999,
+      "patternId": "practice_unit_cost_range",
+      "patternConfidence": 0.78
+    },
+    {
+      "id": "activity_unit_cost_range",
+      "title": "Heavy Use Area $1.04 8,000 acres $8,320.00",
+      "rows": [
+        {
+          "name": "Pipeline",
+          "quantity": 3600,
+          "unit": "ft",
+          "unitRaw": "ft",
+          "unitCost": 1.75,
+          "totalCost": 6300,
+          "rawSize": "3,600 ft",
+          "rawCost": "6,300.00",
+          "unitCostMin": 1.75,
+          "unitCostMax": 1.75,
+          "totalCostMin": 6300,
+          "totalCostMax": 6300
+        },
+        {
+          "name": "Stream Bank Protection",
+          "quantity": 1588,
+          "unit": "acre",
+          "unitRaw": "acres",
+          "unitCost": 1.54,
+          "totalCost": 2445.52,
+          "rawSize": "1,588 acres",
+          "rawCost": "2,445.52",
+          "unitCostMin": 1.54,
+          "unitCostMax": 1.54,
+          "totalCostMin": 2445.52,
+          "totalCostMax": 2445.52
+        },
+        {
+          "name": "Grassed Waterways",
+          "quantity": 13,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 1648,
+          "totalCost": 21424,
+          "rawSize": "13",
+          "rawCost": "21,424.00",
+          "unitCostMin": 1648,
+          "unitCostMax": 1648,
+          "totalCostMin": 21424,
+          "totalCostMax": 21424
+        },
+        {
+          "name": "Pond",
+          "quantity": 2120,
+          "unit": "acre",
+          "unitRaw": "acres",
+          "unitCost": 3.77,
+          "totalCost": 7992.4,
+          "rawSize": "2,120 acres",
+          "rawCost": "7,992.40",
+          "unitCostMin": 3.77,
+          "unitCostMax": 3.77,
+          "totalCostMin": 7992.4,
+          "totalCostMax": 7992.4
+        },
+        {
+          "name": "Tank/Trough",
+          "quantity": 10,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 4600,
+          "totalCost": 46000,
+          "rawSize": "10",
+          "rawCost": "46,000.00",
+          "unitCostMin": 4600,
+          "unitCostMax": 4600,
+          "totalCostMin": 46000,
+          "totalCostMax": 46000
+        }
+      ],
+      "totalReported": 149294.21,
+      "totalComputed": 84161.92,
+      "discrepancy": 65132.28999999999,
+      "patternId": "activity_unit_cost_range",
+      "patternConfidence": 0.75
+    },
+    {
+      "id": "practice_unit_cost_range",
+      "title": "Pipeline $1.75 3,600 ft $6,300.00",
+      "rows": [
+        {
+          "name": "Stream Bank Protection",
+          "quantity": 1588,
+          "unit": "acre",
+          "unitRaw": "acres",
+          "unitCost": 1.54,
+          "totalCost": 2445.52,
+          "rawSize": "1,588 acres",
+          "rawCost": "2,445.52",
+          "unitCostMin": 1.54,
+          "unitCostMax": 1.54,
+          "totalCostMin": 2445.52,
+          "totalCostMax": 2445.52
+        },
+        {
+          "name": "Grassed Waterways",
+          "quantity": 13,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 1648,
+          "totalCost": 21424,
+          "rawSize": "13",
+          "rawCost": "21,424.00",
+          "unitCostMin": 1648,
+          "unitCostMax": 1648,
+          "totalCostMin": 21424,
+          "totalCostMax": 21424
+        },
+        {
+          "name": "Pond",
+          "quantity": 2120,
+          "unit": "acre",
+          "unitRaw": "acres",
+          "unitCost": 3.77,
+          "totalCost": 7992.4,
+          "rawSize": "2,120 acres",
+          "rawCost": "7,992.40",
+          "unitCostMin": 3.77,
+          "unitCostMax": 3.77,
+          "totalCostMin": 7992.4,
+          "totalCostMax": 7992.4
+        },
+        {
+          "name": "Tank/Trough",
+          "quantity": 10,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 4600,
+          "totalCost": 46000,
+          "rawSize": "10",
+          "rawCost": "46,000.00",
+          "unitCostMin": 4600,
+          "unitCostMax": 4600,
+          "totalCostMin": 46000,
+          "totalCostMax": 46000
+        }
+      ],
+      "totalReported": 149294.21,
+      "totalComputed": 77861.92,
+      "discrepancy": 71432.29,
+      "patternId": "practice_unit_cost_range",
+      "patternConfidence": 0.78
+    },
+    {
+      "id": "activity_unit_cost_range",
+      "title": "Pipeline $1.75 3,600 ft $6,300.00",
+      "rows": [
+        {
+          "name": "Stream Bank Protection",
+          "quantity": 1588,
+          "unit": "acre",
+          "unitRaw": "acres",
+          "unitCost": 1.54,
+          "totalCost": 2445.52,
+          "rawSize": "1,588 acres",
+          "rawCost": "2,445.52",
+          "unitCostMin": 1.54,
+          "unitCostMax": 1.54,
+          "totalCostMin": 2445.52,
+          "totalCostMax": 2445.52
+        },
+        {
+          "name": "Grassed Waterways",
+          "quantity": 13,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 1648,
+          "totalCost": 21424,
+          "rawSize": "13",
+          "rawCost": "21,424.00",
+          "unitCostMin": 1648,
+          "unitCostMax": 1648,
+          "totalCostMin": 21424,
+          "totalCostMax": 21424
+        },
+        {
+          "name": "Pond",
+          "quantity": 2120,
+          "unit": "acre",
+          "unitRaw": "acres",
+          "unitCost": 3.77,
+          "totalCost": 7992.4,
+          "rawSize": "2,120 acres",
+          "rawCost": "7,992.40",
+          "unitCostMin": 3.77,
+          "unitCostMax": 3.77,
+          "totalCostMin": 7992.4,
+          "totalCostMax": 7992.4
+        },
+        {
+          "name": "Tank/Trough",
+          "quantity": 10,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 4600,
+          "totalCost": 46000,
+          "rawSize": "10",
+          "rawCost": "46,000.00",
+          "unitCostMin": 4600,
+          "unitCostMax": 4600,
+          "totalCostMin": 46000,
+          "totalCostMax": 46000
+        }
+      ],
+      "totalReported": 149294.21,
+      "totalComputed": 77861.92,
+      "discrepancy": 71432.29,
+      "patternId": "activity_unit_cost_range",
+      "patternConfidence": 0.75
+    },
+    {
+      "id": "practice_unit_cost_range",
+      "title": "Stream Bank Protection $1.54 1,588 acres $2,445.52",
+      "rows": [
+        {
+          "name": "Grassed Waterways",
+          "quantity": 13,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 1648,
+          "totalCost": 21424,
+          "rawSize": "13",
+          "rawCost": "21,424.00",
+          "unitCostMin": 1648,
+          "unitCostMax": 1648,
+          "totalCostMin": 21424,
+          "totalCostMax": 21424
+        },
+        {
+          "name": "Pond",
+          "quantity": 2120,
+          "unit": "acre",
+          "unitRaw": "acres",
+          "unitCost": 3.77,
+          "totalCost": 7992.4,
+          "rawSize": "2,120 acres",
+          "rawCost": "7,992.40",
+          "unitCostMin": 3.77,
+          "unitCostMax": 3.77,
+          "totalCostMin": 7992.4,
+          "totalCostMax": 7992.4
+        },
+        {
+          "name": "Tank/Trough",
+          "quantity": 10,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 4600,
+          "totalCost": 46000,
+          "rawSize": "10",
+          "rawCost": "46,000.00",
+          "unitCostMin": 4600,
+          "unitCostMax": 4600,
+          "totalCostMin": 46000,
+          "totalCostMax": 46000
+        }
+      ],
+      "totalReported": 149294.21,
+      "totalComputed": 75416.4,
+      "discrepancy": 73877.81,
+      "patternId": "practice_unit_cost_range",
+      "patternConfidence": 0.78
+    },
+    {
+      "id": "activity_unit_cost_range",
+      "title": "Stream Bank Protection $1.54 1,588 acres $2,445.52",
+      "rows": [
+        {
+          "name": "Grassed Waterways",
+          "quantity": 13,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 1648,
+          "totalCost": 21424,
+          "rawSize": "13",
+          "rawCost": "21,424.00",
+          "unitCostMin": 1648,
+          "unitCostMax": 1648,
+          "totalCostMin": 21424,
+          "totalCostMax": 21424
+        },
+        {
+          "name": "Pond",
+          "quantity": 2120,
+          "unit": "acre",
+          "unitRaw": "acres",
+          "unitCost": 3.77,
+          "totalCost": 7992.4,
+          "rawSize": "2,120 acres",
+          "rawCost": "7,992.40",
+          "unitCostMin": 3.77,
+          "unitCostMax": 3.77,
+          "totalCostMin": 7992.4,
+          "totalCostMax": 7992.4
+        },
+        {
+          "name": "Tank/Trough",
+          "quantity": 10,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 4600,
+          "totalCost": 46000,
+          "rawSize": "10",
+          "rawCost": "46,000.00",
+          "unitCostMin": 4600,
+          "unitCostMax": 4600,
+          "totalCostMin": 46000,
+          "totalCostMax": 46000
+        }
+      ],
+      "totalReported": 149294.21,
+      "totalComputed": 75416.4,
+      "discrepancy": 73877.81,
+      "patternId": "activity_unit_cost_range",
+      "patternConfidence": 0.75
+    },
+    {
+      "id": "practice_unit_cost_range",
+      "title": "Grassed Waterways $1,648 13 $21,424.00",
+      "rows": [
+        {
+          "name": "Pond",
+          "quantity": 2120,
+          "unit": "acre",
+          "unitRaw": "acres",
+          "unitCost": 3.77,
+          "totalCost": 7992.4,
+          "rawSize": "2,120 acres",
+          "rawCost": "7,992.40",
+          "unitCostMin": 3.77,
+          "unitCostMax": 3.77,
+          "totalCostMin": 7992.4,
+          "totalCostMax": 7992.4
+        },
+        {
+          "name": "Tank/Trough",
+          "quantity": 10,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 4600,
+          "totalCost": 46000,
+          "rawSize": "10",
+          "rawCost": "46,000.00",
+          "unitCostMin": 4600,
+          "unitCostMax": 4600,
+          "totalCostMin": 46000,
+          "totalCostMax": 46000
+        }
+      ],
+      "totalReported": 149294.21,
+      "totalComputed": 53992.4,
+      "discrepancy": 95301.81,
+      "patternId": "practice_unit_cost_range",
+      "patternConfidence": 0.78
+    },
+    {
+      "id": "activity_unit_cost_range",
+      "title": "Grassed Waterways $1,648 13 $21,424.00",
+      "rows": [
+        {
+          "name": "Pond",
+          "quantity": 2120,
+          "unit": "acre",
+          "unitRaw": "acres",
+          "unitCost": 3.77,
+          "totalCost": 7992.4,
+          "rawSize": "2,120 acres",
+          "rawCost": "7,992.40",
+          "unitCostMin": 3.77,
+          "unitCostMax": 3.77,
+          "totalCostMin": 7992.4,
+          "totalCostMax": 7992.4
+        },
+        {
+          "name": "Tank/Trough",
+          "quantity": 10,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": 4600,
+          "totalCost": 46000,
+          "rawSize": "10",
+          "rawCost": "46,000.00",
+          "unitCostMin": 4600,
+          "unitCostMax": 4600,
+          "totalCostMin": 46000,
+          "totalCostMax": 46000
+        }
+      ],
+      "totalReported": 149294.21,
+      "totalComputed": 53992.4,
+      "discrepancy": 95301.81,
+      "patternId": "activity_unit_cost_range",
+      "patternConfidence": 0.75
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-02T17:24:41.308Z",
+  "metadata": {
+    "sourceId": "old-fort-bayou-watershed-plan-2019-2",
+    "sourceFile": "old-fort-bayou-watershed-plan-2019-2.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "adaptive_generic_costs",
+        "title": "By January 1874, Antonio and his wife, Jane Franco, had spent $850 for approximately two and a",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 676315.42
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "press releases and fact sheets.  The total project cost was $376,867.  Appendix J contains the",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 675465.42
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "MDC pays loggers $10 to $20 per acre and landowners $5 for every acre in",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 298598.42000000004
+      },
+      {
+        "id": "practice_unit_cost_range",
+        "title": "Critical Area Planting $248.10  32 acres $7,939.20",
+        "confidence": 0.78,
+        "totalReported": 149294.21,
+        "totalComputed": 141355.01
+      },
+      {
+        "id": "activity_unit_cost_range",
+        "title": "Critical Area Planting $248.10  32 acres $7,939.20",
+        "confidence": 0.75,
+        "totalReported": 149294.21,
+        "totalComputed": 141355.01
+      },
+      {
+        "id": "practice_unit_cost_range",
+        "title": "Fence $1.91 12,499 ft $23,873.09",
+        "confidence": 0.78,
+        "totalReported": 149294.21,
+        "totalComputed": 117481.92
+      },
+      {
+        "id": "activity_unit_cost_range",
+        "title": "Fence $1.91 12,499 ft $23,873.09",
+        "confidence": 0.75,
+        "totalReported": 149294.21,
+        "totalComputed": 117481.92
+      },
+      {
+        "id": "practice_unit_cost_range",
+        "title": "Heavy Use Area $1.04 8,000 acres $8,320.00",
+        "confidence": 0.78,
+        "totalReported": 149294.21,
+        "totalComputed": 84161.92
+      },
+      {
+        "id": "activity_unit_cost_range",
+        "title": "Heavy Use Area $1.04 8,000 acres $8,320.00",
+        "confidence": 0.75,
+        "totalReported": 149294.21,
+        "totalComputed": 84161.92
+      },
+      {
+        "id": "practice_unit_cost_range",
+        "title": "Pipeline $1.75 3,600 ft $6,300.00",
+        "confidence": 0.78,
+        "totalReported": 149294.21,
+        "totalComputed": 77861.92
+      },
+      {
+        "id": "activity_unit_cost_range",
+        "title": "Pipeline $1.75 3,600 ft $6,300.00",
+        "confidence": 0.75,
+        "totalReported": 149294.21,
+        "totalComputed": 77861.92
+      },
+      {
+        "id": "practice_unit_cost_range",
+        "title": "Stream Bank Protection $1.54 1,588 acres $2,445.52",
+        "confidence": 0.78,
+        "totalReported": 149294.21,
+        "totalComputed": 75416.4
+      },
+      {
+        "id": "activity_unit_cost_range",
+        "title": "Stream Bank Protection $1.54 1,588 acres $2,445.52",
+        "confidence": 0.75,
+        "totalReported": 149294.21,
+        "totalComputed": 75416.4
+      },
+      {
+        "id": "practice_unit_cost_range",
+        "title": "Grassed Waterways $1,648 13 $21,424.00",
+        "confidence": 0.78,
+        "totalReported": 149294.21,
+        "totalComputed": 53992.4
+      },
+      {
+        "id": "activity_unit_cost_range",
+        "title": "Grassed Waterways $1,648 13 $21,424.00",
+        "confidence": 0.75,
+        "totalReported": 149294.21,
+        "totalComputed": 53992.4
+      }
+    ]
+  }
+}

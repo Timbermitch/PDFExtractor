@@ -1,0 +1,6182 @@
+{
+  "id": "magees-creek-watershed-plan-2007",
+  "summary": {
+    "totalGoals": 1,
+    "totalBMPs": 10,
+    "totalActivities": 0,
+    "primaryGoals": 1,
+    "completionRate": 1,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 1,
+      "inProgress": 0,
+      "planned": 0,
+      "pctCompleted": 1,
+      "pctInProgress": 0,
+      "pctPlanned": 0
+    },
+    "bmpCategories": {
+      "General": 10
+    },
+    "avgGoalConfidence": 0,
+    "strongGoals": 0
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "17 This Watershed Implementation Plan has the goals of reducing Goal Who What Where When Contact The goal and objective of this management action is to reduce the fecal PLT's goal goals have been achieved, and second, to determine if it reflects the current Cycle, progress towards the goals of this watershed implementation plan will be progress toward plan goals is achievement of all state water quality criteria in level compatible with water quality goals.",
+      "status": "completed",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "Goals/Objectives 17 This Watershed Implementation Plan has the goals of reducing Goal Who What Where When Contact Goals/Objectives The goal and objective of this management action is to reduce the fecal PLT's goal goals have been achieved, and second, to determine if it reflects the current Cycle, progress towards the goals of this watershed implementation plan will be progress toward plan goals is achievement of all state water quality criteria in level compatible with water quality goals.",
+      "confidence": 0,
+      "isPrimary": true,
+      "primaryReason": "fallback_top_confidence",
+      "description": "17 This Watershed Implementation Plan has the goals of reducing Goal Who What Where When Contact The goal and objective of this management action is to reduce the fecal PLT's goal goals have been achieved, and second, to determine if it reflects the current Cycle, progress towards the goals of this watershed implementation plan will be progress toward plan goals is achievement of all state water quality criteria in level compatible with water quality goals.",
+      "originalSentence": "17 This Watershed Implementation Plan has the goals of reducing Goal Who What Where When Contact The goal and objective of this management action is to reduce the fecal PLT's goal goals have been achieved, and second, to determine if it reflects the current Cycle, progress towards the goals of this watershed implementation plan will be progress toward plan goals is achievement of all state water quality criteria in level compatible with water quality goals.",
+      "shortTitle": "17 This Watershed Implementation Plan has the goals of reducing Goal Who What Where…",
+      "_present": false
+    }
+  ],
+  "mainGoals": [
+    {
+      "id": "G1",
+      "title": "17 This Watershed Implementation Plan has the goals of reducing Goal Who What Where When Contact The goal and objective of this management action is to reduce the fecal PLT's goal goals have been achieved, and second, to determine if it reflects the current Cycle, progress towards the goals of this watershed implementation plan will be progress toward plan goals is achievement of all state water quality criteria in level compatible with water quality goals.",
+      "status": "completed",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "Goals/Objectives 17 This Watershed Implementation Plan has the goals of reducing Goal Who What Where When Contact Goals/Objectives The goal and objective of this management action is to reduce the fecal PLT's goal goals have been achieved, and second, to determine if it reflects the current Cycle, progress towards the goals of this watershed implementation plan will be progress toward plan goals is achievement of all state water quality criteria in level compatible with water quality goals.",
+      "confidence": 0,
+      "isPrimary": true,
+      "primaryReason": "fallback_top_confidence",
+      "description": "17 This Watershed Implementation Plan has the goals of reducing Goal Who What Where When Contact The goal and objective of this management action is to reduce the fecal PLT's goal goals have been achieved, and second, to determine if it reflects the current Cycle, progress towards the goals of this watershed implementation plan will be progress toward plan goals is achievement of all state water quality criteria in level compatible with water quality goals.",
+      "originalSentence": "17 This Watershed Implementation Plan has the goals of reducing Goal Who What Where When Contact The goal and objective of this management action is to reduce the fecal PLT's goal goals have been achieved, and second, to determine if it reflects the current Cycle, progress towards the goals of this watershed implementation plan will be progress toward plan goals is achievement of all state water quality criteria in level compatible with water quality goals.",
+      "shortTitle": "17 This Watershed Implementation Plan has the goals of reducing Goal Who What Where…",
+      "_present": false
+    }
+  ],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "Contractual Services for BMP Design",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.25,
+      "source": "summary_line:Contractual Services for BMP Design $8,333",
+      "_present": true
+    },
+    {
+      "id": "B2",
+      "name": "Technical Assistance",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.55,
+      "source": "summary_line:Technical Assistance $25,000",
+      "_present": true
+    },
+    {
+      "id": "B3",
+      "name": "Signage",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.25,
+      "source": "summary_line:Signage   $2,000.00",
+      "_present": true
+    },
+    {
+      "id": "B4",
+      "name": "Field Days",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.25,
+      "source": "summary_line:Field Days   $13,667.00",
+      "_present": true
+    },
+    {
+      "id": "B5",
+      "name": "Fact Sheets",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.25,
+      "source": "summary_line:Fact Sheets   $1,000.00",
+      "_present": true
+    },
+    {
+      "id": "B6",
+      "name": "Project Learning Tree",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.25,
+      "source": "summary_line:Project Learning Tree   $1,350.00",
+      "_present": true
+    },
+    {
+      "id": "B7",
+      "name": "Watershed Harmony Puppet Show",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.25,
+      "source": "summary_line:Watershed Harmony Puppet Show   $500.00",
+      "_present": true
+    },
+    {
+      "id": "B8",
+      "name": "BMPs",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.25,
+      "source": "summary_line:BMPs $504,767.00",
+      "_present": true
+    },
+    {
+      "id": "B9",
+      "name": "Contractual Services",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.25,
+      "source": "summary_line:Contractual Services $8,333.00",
+      "_present": true
+    },
+    {
+      "id": "B10",
+      "name": "Education",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.25,
+      "source": "summary_line:Education $20,017.00",
+      "_present": true
+    }
+  ],
+  "bmpCostTable": {
+    "id": "adaptive_generic_costs",
+    "title": "Critical Area Planting 25 acres $200/ac $5,000",
+    "table": {
+      "columns": [
+        "Item",
+        "Cost",
+        "Extra?"
+      ],
+      "rows": [
+        {
+          "Item": "Critical Area Planting 25 acres $200/ac",
+          "Cost": "$5,000",
+          "Extra": null
+        },
+        {
+          "Item": "Grade Stabilization Structure 5 structures $1,500/ea",
+          "Cost": "$7,500",
+          "Extra": null
+        },
+        {
+          "Item": "Pasture & Hayland Planting 75 acres $100/ac",
+          "Cost": "$7,500",
+          "Extra": null
+        },
+        {
+          "Item": "3 basins $2,500/ea",
+          "Cost": "$7,500",
+          "Extra": null
+        },
+        {
+          "Item": "Nutrient Management 500 acres $154/ac",
+          "Cost": "$77,000",
+          "Extra": null
+        },
+        {
+          "Item": "Livestock Watering Pond 10 ponds $3,000/ea",
+          "Cost": "$30,000",
+          "Extra": null
+        },
+        {
+          "Item": "Tank/Trough 10 tanks $2,000/ea",
+          "Cost": "$20,000",
+          "Extra": null
+        },
+        {
+          "Item": "Stream Crossing 5 crossings $3,000/ea",
+          "Cost": "$15,000",
+          "Extra": null
+        },
+        {
+          "Item": "Fencing 40,000 feet $1.10/ft",
+          "Cost": "$44,000",
+          "Extra": null
+        },
+        {
+          "Item": "Waste Treatment Lagoon 2 lagoons $17,000/ea",
+          "Cost": "$34,000",
+          "Extra": null
+        },
+        {
+          "Item": "Waste Storage Facility 2 facilities $17,000/ea",
+          "Cost": "$34,000",
+          "Extra": null
+        },
+        {
+          "Item": "Composting Facilities 4 facilities $17,000/ea",
+          "Cost": "$68,000",
+          "Extra": null
+        },
+        {
+          "Item": "Grassed Waterways 5 acres $500/ac",
+          "Cost": "$2,500",
+          "Extra": null
+        },
+        {
+          "Item": "Prescribed Grazing 200 acres $11/ac",
+          "Cost": "$6,600",
+          "Extra": null
+        },
+        {
+          "Item": "Incinerator 5 units",
+          "Cost": "$5,500",
+          "Extra": "$27,500"
+        },
+        {
+          "Item": "Tree Planting 100 acres $94/ac",
+          "Cost": "$9,400",
+          "Extra": null
+        },
+        {
+          "Item": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+          "Cost": "$72,000",
+          "Extra": null
+        },
+        {
+          "Item": "Conservation Cover 200 acres $176/ac",
+          "Cost": "$35,200",
+          "Extra": null
+        },
+        {
+          "Item": "Chiseling and Subsoiling 200 acres $10/ac",
+          "Cost": "$2,000",
+          "Extra": null
+        },
+        {
+          "Item": "Total",
+          "Cost": "$504,700",
+          "Extra": null
+        }
+      ],
+      "total": null
+    },
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTableNormalized": {
+    "id": "adaptive_generic_costs",
+    "title": "Critical Area Planting 25 acres $200/ac $5,000",
+    "rows": [
+      {
+        "name": "Critical Area Planting 25 acres $200/ac",
+        "totalCost": 5000,
+        "rawCost": "$5,000"
+      },
+      {
+        "name": "Grade Stabilization Structure 5 structures $1,500/ea",
+        "totalCost": 7500,
+        "rawCost": "$7,500"
+      },
+      {
+        "name": "Pasture & Hayland Planting 75 acres $100/ac",
+        "totalCost": 7500,
+        "rawCost": "$7,500"
+      },
+      {
+        "name": "3 basins $2,500/ea",
+        "totalCost": 7500,
+        "rawCost": "$7,500"
+      },
+      {
+        "name": "Nutrient Management 500 acres $154/ac",
+        "totalCost": 77000,
+        "rawCost": "$77,000"
+      },
+      {
+        "name": "Livestock Watering Pond 10 ponds $3,000/ea",
+        "totalCost": 30000,
+        "rawCost": "$30,000"
+      },
+      {
+        "name": "Tank/Trough 10 tanks $2,000/ea",
+        "totalCost": 20000,
+        "rawCost": "$20,000"
+      },
+      {
+        "name": "Stream Crossing 5 crossings $3,000/ea",
+        "totalCost": 15000,
+        "rawCost": "$15,000"
+      },
+      {
+        "name": "Fencing 40,000 feet $1.10/ft",
+        "totalCost": 44000,
+        "rawCost": "$44,000"
+      },
+      {
+        "name": "Waste Treatment Lagoon 2 lagoons $17,000/ea",
+        "totalCost": 34000,
+        "rawCost": "$34,000"
+      },
+      {
+        "name": "Waste Storage Facility 2 facilities $17,000/ea",
+        "totalCost": 34000,
+        "rawCost": "$34,000"
+      },
+      {
+        "name": "Composting Facilities 4 facilities $17,000/ea",
+        "totalCost": 68000,
+        "rawCost": "$68,000"
+      },
+      {
+        "name": "Grassed Waterways 5 acres $500/ac",
+        "totalCost": 2500,
+        "rawCost": "$2,500"
+      },
+      {
+        "name": "Prescribed Grazing 200 acres $11/ac",
+        "totalCost": 6600,
+        "rawCost": "$6,600"
+      },
+      {
+        "name": "Incinerator 5 units",
+        "totalCost": 5500,
+        "rawCost": "$5,500"
+      },
+      {
+        "name": "Tree Planting 100 acres $94/ac",
+        "totalCost": 9400,
+        "rawCost": "$9,400"
+      },
+      {
+        "name": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+        "totalCost": 72000,
+        "rawCost": "$72,000"
+      },
+      {
+        "name": "Conservation Cover 200 acres $176/ac",
+        "totalCost": 35200,
+        "rawCost": "$35,200"
+      },
+      {
+        "name": "Chiseling and Subsoiling 200 acres $10/ac",
+        "totalCost": 2000,
+        "rawCost": "$2,000"
+      },
+      {
+        "name": "Total",
+        "totalCost": 504700,
+        "rawCost": "$504,700"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 987400,
+    "discrepancy": null,
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTables": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Critical Area Planting 25 acres $200/ac $5,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Critical Area Planting 25 acres $200/ac",
+            "Cost": "$5,000",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure 5 structures $1,500/ea",
+            "Cost": "$7,500",
+            "Extra": null
+          },
+          {
+            "Item": "Pasture & Hayland Planting 75 acres $100/ac",
+            "Cost": "$7,500",
+            "Extra": null
+          },
+          {
+            "Item": "3 basins $2,500/ea",
+            "Cost": "$7,500",
+            "Extra": null
+          },
+          {
+            "Item": "Nutrient Management 500 acres $154/ac",
+            "Cost": "$77,000",
+            "Extra": null
+          },
+          {
+            "Item": "Livestock Watering Pond 10 ponds $3,000/ea",
+            "Cost": "$30,000",
+            "Extra": null
+          },
+          {
+            "Item": "Tank/Trough 10 tanks $2,000/ea",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "Stream Crossing 5 crossings $3,000/ea",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Fencing 40,000 feet $1.10/ft",
+            "Cost": "$44,000",
+            "Extra": null
+          },
+          {
+            "Item": "Waste Treatment Lagoon 2 lagoons $17,000/ea",
+            "Cost": "$34,000",
+            "Extra": null
+          },
+          {
+            "Item": "Waste Storage Facility 2 facilities $17,000/ea",
+            "Cost": "$34,000",
+            "Extra": null
+          },
+          {
+            "Item": "Composting Facilities 4 facilities $17,000/ea",
+            "Cost": "$68,000",
+            "Extra": null
+          },
+          {
+            "Item": "Grassed Waterways 5 acres $500/ac",
+            "Cost": "$2,500",
+            "Extra": null
+          },
+          {
+            "Item": "Prescribed Grazing 200 acres $11/ac",
+            "Cost": "$6,600",
+            "Extra": null
+          },
+          {
+            "Item": "Incinerator 5 units",
+            "Cost": "$5,500",
+            "Extra": "$27,500"
+          },
+          {
+            "Item": "Tree Planting 100 acres $94/ac",
+            "Cost": "$9,400",
+            "Extra": null
+          },
+          {
+            "Item": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+            "Cost": "$72,000",
+            "Extra": null
+          },
+          {
+            "Item": "Conservation Cover 200 acres $176/ac",
+            "Cost": "$35,200",
+            "Extra": null
+          },
+          {
+            "Item": "Chiseling and Subsoiling 200 acres $10/ac",
+            "Cost": "$2,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$504,700",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Grade Stabilization Structure 5 structures $1,500/ea $7,500",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Grade Stabilization Structure 5 structures $1,500/ea",
+            "Cost": "$7,500",
+            "Extra": null
+          },
+          {
+            "Item": "Pasture & Hayland Planting 75 acres $100/ac",
+            "Cost": "$7,500",
+            "Extra": null
+          },
+          {
+            "Item": "3 basins $2,500/ea",
+            "Cost": "$7,500",
+            "Extra": null
+          },
+          {
+            "Item": "Nutrient Management 500 acres $154/ac",
+            "Cost": "$77,000",
+            "Extra": null
+          },
+          {
+            "Item": "Livestock Watering Pond 10 ponds $3,000/ea",
+            "Cost": "$30,000",
+            "Extra": null
+          },
+          {
+            "Item": "Tank/Trough 10 tanks $2,000/ea",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "Stream Crossing 5 crossings $3,000/ea",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Fencing 40,000 feet $1.10/ft",
+            "Cost": "$44,000",
+            "Extra": null
+          },
+          {
+            "Item": "Waste Treatment Lagoon 2 lagoons $17,000/ea",
+            "Cost": "$34,000",
+            "Extra": null
+          },
+          {
+            "Item": "Waste Storage Facility 2 facilities $17,000/ea",
+            "Cost": "$34,000",
+            "Extra": null
+          },
+          {
+            "Item": "Composting Facilities 4 facilities $17,000/ea",
+            "Cost": "$68,000",
+            "Extra": null
+          },
+          {
+            "Item": "Grassed Waterways 5 acres $500/ac",
+            "Cost": "$2,500",
+            "Extra": null
+          },
+          {
+            "Item": "Prescribed Grazing 200 acres $11/ac",
+            "Cost": "$6,600",
+            "Extra": null
+          },
+          {
+            "Item": "Incinerator 5 units",
+            "Cost": "$5,500",
+            "Extra": "$27,500"
+          },
+          {
+            "Item": "Tree Planting 100 acres $94/ac",
+            "Cost": "$9,400",
+            "Extra": null
+          },
+          {
+            "Item": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+            "Cost": "$72,000",
+            "Extra": null
+          },
+          {
+            "Item": "Conservation Cover 200 acres $176/ac",
+            "Cost": "$35,200",
+            "Extra": null
+          },
+          {
+            "Item": "Chiseling and Subsoiling 200 acres $10/ac",
+            "Cost": "$2,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$504,700",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Pasture & Hayland Planting 75 acres $100/ac $7,500",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Pasture & Hayland Planting 75 acres $100/ac",
+            "Cost": "$7,500",
+            "Extra": null
+          },
+          {
+            "Item": "3 basins $2,500/ea",
+            "Cost": "$7,500",
+            "Extra": null
+          },
+          {
+            "Item": "Nutrient Management 500 acres $154/ac",
+            "Cost": "$77,000",
+            "Extra": null
+          },
+          {
+            "Item": "Livestock Watering Pond 10 ponds $3,000/ea",
+            "Cost": "$30,000",
+            "Extra": null
+          },
+          {
+            "Item": "Tank/Trough 10 tanks $2,000/ea",
+            "Cost": "$20,000",
+            "Extra": null
+          },
+          {
+            "Item": "Stream Crossing 5 crossings $3,000/ea",
+            "Cost": "$15,000",
+            "Extra": null
+          },
+          {
+            "Item": "Fencing 40,000 feet $1.10/ft",
+            "Cost": "$44,000",
+            "Extra": null
+          },
+          {
+            "Item": "Waste Treatment Lagoon 2 lagoons $17,000/ea",
+            "Cost": "$34,000",
+            "Extra": null
+          },
+          {
+            "Item": "Waste Storage Facility 2 facilities $17,000/ea",
+            "Cost": "$34,000",
+            "Extra": null
+          },
+          {
+            "Item": "Composting Facilities 4 facilities $17,000/ea",
+            "Cost": "$68,000",
+            "Extra": null
+          },
+          {
+            "Item": "Grassed Waterways 5 acres $500/ac",
+            "Cost": "$2,500",
+            "Extra": null
+          },
+          {
+            "Item": "Prescribed Grazing 200 acres $11/ac",
+            "Cost": "$6,600",
+            "Extra": null
+          },
+          {
+            "Item": "Incinerator 5 units",
+            "Cost": "$5,500",
+            "Extra": "$27,500"
+          },
+          {
+            "Item": "Tree Planting 100 acres $94/ac",
+            "Cost": "$9,400",
+            "Extra": null
+          },
+          {
+            "Item": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+            "Cost": "$72,000",
+            "Extra": null
+          },
+          {
+            "Item": "Conservation Cover 200 acres $176/ac",
+            "Cost": "$35,200",
+            "Extra": null
+          },
+          {
+            "Item": "Chiseling and Subsoiling 200 acres $10/ac",
+            "Cost": "$2,000",
+            "Extra": null
+          },
+          {
+            "Item": "Total",
+            "Cost": "$504,700",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "3 basins $2,500/ea $7,500",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "3 basins $2,500/ea",
+            "Cost": "$7,500"
+          },
+          {
+            "Item": "Nutrient Management 500 acres $154/ac",
+            "Cost": "$77,000"
+          },
+          {
+            "Item": "Livestock Watering Pond 10 ponds $3,000/ea",
+            "Cost": "$30,000"
+          },
+          {
+            "Item": "Tank/Trough 10 tanks $2,000/ea",
+            "Cost": "$20,000"
+          },
+          {
+            "Item": "Stream Crossing 5 crossings $3,000/ea",
+            "Cost": "$15,000"
+          },
+          {
+            "Item": "Fencing 40,000 feet $1.10/ft",
+            "Cost": "$44,000"
+          },
+          {
+            "Item": "Waste Treatment Lagoon 2 lagoons $17,000/ea",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Waste Storage Facility 2 facilities $17,000/ea",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Composting Facilities 4 facilities $17,000/ea",
+            "Cost": "$68,000"
+          },
+          {
+            "Item": "Grassed Waterways 5 acres $500/ac",
+            "Cost": "$2,500"
+          },
+          {
+            "Item": "Prescribed Grazing 200 acres $11/ac",
+            "Cost": "$6,600"
+          },
+          {
+            "Item": "Incinerator 5 units $5,500",
+            "Cost": "$27,500"
+          },
+          {
+            "Item": "Tree Planting 100 acres $94/ac",
+            "Cost": "$9,400"
+          },
+          {
+            "Item": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+            "Cost": "$72,000"
+          },
+          {
+            "Item": "Conservation Cover 200 acres $176/ac",
+            "Cost": "$35,200"
+          },
+          {
+            "Item": "Chiseling and Subsoiling 200 acres $10/ac",
+            "Cost": "$2,000"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$504,700"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Nutrient Management 500 acres $154/ac $77,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Nutrient Management 500 acres $154/ac",
+            "Cost": "$77,000"
+          },
+          {
+            "Item": "Livestock Watering Pond 10 ponds $3,000/ea",
+            "Cost": "$30,000"
+          },
+          {
+            "Item": "Tank/Trough 10 tanks $2,000/ea",
+            "Cost": "$20,000"
+          },
+          {
+            "Item": "Stream Crossing 5 crossings $3,000/ea",
+            "Cost": "$15,000"
+          },
+          {
+            "Item": "Fencing 40,000 feet $1.10/ft",
+            "Cost": "$44,000"
+          },
+          {
+            "Item": "Waste Treatment Lagoon 2 lagoons $17,000/ea",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Waste Storage Facility 2 facilities $17,000/ea",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Composting Facilities 4 facilities $17,000/ea",
+            "Cost": "$68,000"
+          },
+          {
+            "Item": "Grassed Waterways 5 acres $500/ac",
+            "Cost": "$2,500"
+          },
+          {
+            "Item": "Prescribed Grazing 200 acres $11/ac",
+            "Cost": "$6,600"
+          },
+          {
+            "Item": "Incinerator 5 units $5,500",
+            "Cost": "$27,500"
+          },
+          {
+            "Item": "Tree Planting 100 acres $94/ac",
+            "Cost": "$9,400"
+          },
+          {
+            "Item": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+            "Cost": "$72,000"
+          },
+          {
+            "Item": "Conservation Cover 200 acres $176/ac",
+            "Cost": "$35,200"
+          },
+          {
+            "Item": "Chiseling and Subsoiling 200 acres $10/ac",
+            "Cost": "$2,000"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$504,700"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Livestock Watering Pond 10 ponds $3,000/ea $30,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Livestock Watering Pond 10 ponds $3,000/ea",
+            "Cost": "$30,000"
+          },
+          {
+            "Item": "Tank/Trough 10 tanks $2,000/ea",
+            "Cost": "$20,000"
+          },
+          {
+            "Item": "Stream Crossing 5 crossings $3,000/ea",
+            "Cost": "$15,000"
+          },
+          {
+            "Item": "Fencing 40,000 feet $1.10/ft",
+            "Cost": "$44,000"
+          },
+          {
+            "Item": "Waste Treatment Lagoon 2 lagoons $17,000/ea",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Waste Storage Facility 2 facilities $17,000/ea",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Composting Facilities 4 facilities $17,000/ea",
+            "Cost": "$68,000"
+          },
+          {
+            "Item": "Grassed Waterways 5 acres $500/ac",
+            "Cost": "$2,500"
+          },
+          {
+            "Item": "Prescribed Grazing 200 acres $11/ac",
+            "Cost": "$6,600"
+          },
+          {
+            "Item": "Incinerator 5 units $5,500",
+            "Cost": "$27,500"
+          },
+          {
+            "Item": "Tree Planting 100 acres $94/ac",
+            "Cost": "$9,400"
+          },
+          {
+            "Item": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+            "Cost": "$72,000"
+          },
+          {
+            "Item": "Conservation Cover 200 acres $176/ac",
+            "Cost": "$35,200"
+          },
+          {
+            "Item": "Chiseling and Subsoiling 200 acres $10/ac",
+            "Cost": "$2,000"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$504,700"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Tank/Trough 10 tanks $2,000/ea $20,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Tank/Trough 10 tanks $2,000/ea",
+            "Cost": "$20,000"
+          },
+          {
+            "Item": "Stream Crossing 5 crossings $3,000/ea",
+            "Cost": "$15,000"
+          },
+          {
+            "Item": "Fencing 40,000 feet $1.10/ft",
+            "Cost": "$44,000"
+          },
+          {
+            "Item": "Waste Treatment Lagoon 2 lagoons $17,000/ea",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Waste Storage Facility 2 facilities $17,000/ea",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Composting Facilities 4 facilities $17,000/ea",
+            "Cost": "$68,000"
+          },
+          {
+            "Item": "Grassed Waterways 5 acres $500/ac",
+            "Cost": "$2,500"
+          },
+          {
+            "Item": "Prescribed Grazing 200 acres $11/ac",
+            "Cost": "$6,600"
+          },
+          {
+            "Item": "Incinerator 5 units $5,500",
+            "Cost": "$27,500"
+          },
+          {
+            "Item": "Tree Planting 100 acres $94/ac",
+            "Cost": "$9,400"
+          },
+          {
+            "Item": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+            "Cost": "$72,000"
+          },
+          {
+            "Item": "Conservation Cover 200 acres $176/ac",
+            "Cost": "$35,200"
+          },
+          {
+            "Item": "Chiseling and Subsoiling 200 acres $10/ac",
+            "Cost": "$2,000"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$504,700"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Stream Crossing 5 crossings $3,000/ea $15,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Stream Crossing 5 crossings $3,000/ea",
+            "Cost": "$15,000"
+          },
+          {
+            "Item": "Fencing 40,000 feet $1.10/ft",
+            "Cost": "$44,000"
+          },
+          {
+            "Item": "Waste Treatment Lagoon 2 lagoons $17,000/ea",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Waste Storage Facility 2 facilities $17,000/ea",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Composting Facilities 4 facilities $17,000/ea",
+            "Cost": "$68,000"
+          },
+          {
+            "Item": "Grassed Waterways 5 acres $500/ac",
+            "Cost": "$2,500"
+          },
+          {
+            "Item": "Prescribed Grazing 200 acres $11/ac",
+            "Cost": "$6,600"
+          },
+          {
+            "Item": "Incinerator 5 units $5,500",
+            "Cost": "$27,500"
+          },
+          {
+            "Item": "Tree Planting 100 acres $94/ac",
+            "Cost": "$9,400"
+          },
+          {
+            "Item": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+            "Cost": "$72,000"
+          },
+          {
+            "Item": "Conservation Cover 200 acres $176/ac",
+            "Cost": "$35,200"
+          },
+          {
+            "Item": "Chiseling and Subsoiling 200 acres $10/ac",
+            "Cost": "$2,000"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$504,700"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Fencing 40,000 feet $1.10/ft $44,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Fencing 40,000 feet $1.10/ft",
+            "Cost": "$44,000"
+          },
+          {
+            "Item": "Waste Treatment Lagoon 2 lagoons $17,000/ea",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Waste Storage Facility 2 facilities $17,000/ea",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Composting Facilities 4 facilities $17,000/ea",
+            "Cost": "$68,000"
+          },
+          {
+            "Item": "Grassed Waterways 5 acres $500/ac",
+            "Cost": "$2,500"
+          },
+          {
+            "Item": "Prescribed Grazing 200 acres $11/ac",
+            "Cost": "$6,600"
+          },
+          {
+            "Item": "Incinerator 5 units $5,500",
+            "Cost": "$27,500"
+          },
+          {
+            "Item": "Tree Planting 100 acres $94/ac",
+            "Cost": "$9,400"
+          },
+          {
+            "Item": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+            "Cost": "$72,000"
+          },
+          {
+            "Item": "Conservation Cover 200 acres $176/ac",
+            "Cost": "$35,200"
+          },
+          {
+            "Item": "Chiseling and Subsoiling 200 acres $10/ac",
+            "Cost": "$2,000"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$504,700"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Waste Treatment Lagoon 2 lagoons $17,000/ea $34,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Waste Treatment Lagoon 2 lagoons $17,000/ea",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Waste Storage Facility 2 facilities $17,000/ea",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Composting Facilities 4 facilities $17,000/ea",
+            "Cost": "$68,000"
+          },
+          {
+            "Item": "Grassed Waterways 5 acres $500/ac",
+            "Cost": "$2,500"
+          },
+          {
+            "Item": "Prescribed Grazing 200 acres $11/ac",
+            "Cost": "$6,600"
+          },
+          {
+            "Item": "Incinerator 5 units $5,500",
+            "Cost": "$27,500"
+          },
+          {
+            "Item": "Tree Planting 100 acres $94/ac",
+            "Cost": "$9,400"
+          },
+          {
+            "Item": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+            "Cost": "$72,000"
+          },
+          {
+            "Item": "Conservation Cover 200 acres $176/ac",
+            "Cost": "$35,200"
+          },
+          {
+            "Item": "Chiseling and Subsoiling 200 acres $10/ac",
+            "Cost": "$2,000"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$504,700"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Waste Storage Facility 2 facilities $17,000/ea $34,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Waste Storage Facility 2 facilities $17,000/ea",
+            "Cost": "$34,000"
+          },
+          {
+            "Item": "Composting Facilities 4 facilities $17,000/ea",
+            "Cost": "$68,000"
+          },
+          {
+            "Item": "Grassed Waterways 5 acres $500/ac",
+            "Cost": "$2,500"
+          },
+          {
+            "Item": "Prescribed Grazing 200 acres $11/ac",
+            "Cost": "$6,600"
+          },
+          {
+            "Item": "Incinerator 5 units $5,500",
+            "Cost": "$27,500"
+          },
+          {
+            "Item": "Tree Planting 100 acres $94/ac",
+            "Cost": "$9,400"
+          },
+          {
+            "Item": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+            "Cost": "$72,000"
+          },
+          {
+            "Item": "Conservation Cover 200 acres $176/ac",
+            "Cost": "$35,200"
+          },
+          {
+            "Item": "Chiseling and Subsoiling 200 acres $10/ac",
+            "Cost": "$2,000"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$504,700"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Composting Facilities 4 facilities $17,000/ea $68,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Composting Facilities 4 facilities $17,000/ea",
+            "Cost": "$68,000"
+          },
+          {
+            "Item": "Grassed Waterways 5 acres $500/ac",
+            "Cost": "$2,500"
+          },
+          {
+            "Item": "Prescribed Grazing 200 acres $11/ac",
+            "Cost": "$6,600"
+          },
+          {
+            "Item": "Incinerator 5 units $5,500",
+            "Cost": "$27,500"
+          },
+          {
+            "Item": "Tree Planting 100 acres $94/ac",
+            "Cost": "$9,400"
+          },
+          {
+            "Item": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+            "Cost": "$72,000"
+          },
+          {
+            "Item": "Conservation Cover 200 acres $176/ac",
+            "Cost": "$35,200"
+          },
+          {
+            "Item": "Chiseling and Subsoiling 200 acres $10/ac",
+            "Cost": "$2,000"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$504,700"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Grassed Waterways 5 acres $500/ac $2,500",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Grassed Waterways 5 acres $500/ac",
+            "Cost": "$2,500"
+          },
+          {
+            "Item": "Prescribed Grazing 200 acres $11/ac",
+            "Cost": "$6,600"
+          },
+          {
+            "Item": "Incinerator 5 units $5,500",
+            "Cost": "$27,500"
+          },
+          {
+            "Item": "Tree Planting 100 acres $94/ac",
+            "Cost": "$9,400"
+          },
+          {
+            "Item": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+            "Cost": "$72,000"
+          },
+          {
+            "Item": "Conservation Cover 200 acres $176/ac",
+            "Cost": "$35,200"
+          },
+          {
+            "Item": "Chiseling and Subsoiling 200 acres $10/ac",
+            "Cost": "$2,000"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$504,700"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Prescribed Grazing 200 acres $11/ac $6,600",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Prescribed Grazing 200 acres $11/ac",
+            "Cost": "$6,600"
+          },
+          {
+            "Item": "Incinerator 5 units $5,500",
+            "Cost": "$27,500"
+          },
+          {
+            "Item": "Tree Planting 100 acres $94/ac",
+            "Cost": "$9,400"
+          },
+          {
+            "Item": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+            "Cost": "$72,000"
+          },
+          {
+            "Item": "Conservation Cover 200 acres $176/ac",
+            "Cost": "$35,200"
+          },
+          {
+            "Item": "Chiseling and Subsoiling 200 acres $10/ac",
+            "Cost": "$2,000"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$504,700"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Incinerator 5 units $5,500 $27,500",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Incinerator 5 units $5,500",
+            "Cost": "$27,500"
+          },
+          {
+            "Item": "Tree Planting 100 acres $94/ac",
+            "Cost": "$9,400"
+          },
+          {
+            "Item": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+            "Cost": "$72,000"
+          },
+          {
+            "Item": "Conservation Cover 200 acres $176/ac",
+            "Cost": "$35,200"
+          },
+          {
+            "Item": "Chiseling and Subsoiling 200 acres $10/ac",
+            "Cost": "$2,000"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$504,700"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Tree Planting 100 acres $94/ac $9,400",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Tree Planting 100 acres $94/ac",
+            "Cost": "$9,400"
+          },
+          {
+            "Item": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+            "Cost": "$72,000"
+          },
+          {
+            "Item": "Conservation Cover 200 acres $176/ac",
+            "Cost": "$35,200"
+          },
+          {
+            "Item": "Chiseling and Subsoiling 200 acres $10/ac",
+            "Cost": "$2,000"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$504,700"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Alum Treatment in Poultry Houses 36 houses $2000/ea $72,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+            "Cost": "$72,000"
+          },
+          {
+            "Item": "Conservation Cover 200 acres $176/ac",
+            "Cost": "$35,200"
+          },
+          {
+            "Item": "Chiseling and Subsoiling 200 acres $10/ac",
+            "Cost": "$2,000"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$504,700"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $504,700",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$504,700"
+          },
+          {
+            "Item": "Contractual Services for BMP Design",
+            "Cost": "$8,333"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$8,333"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$25,000"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$25,000"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$2,000.00"
+          },
+          {
+            "Item": "Event Flyers 375 .80/each",
+            "Cost": "$300.00"
+          },
+          {
+            "Item": "Mailing/Delivery 375 .39/each",
+            "Cost": "$146.25"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$13,667.00"
+          },
+          {
+            "Item": "Printing 1,000 1.00/each",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,500.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "tech_assistance",
+      "title": "Item Cost",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Contractual Services for BMP Design",
+            "Cost": "$8,333"
+          }
+        ],
+        "total": 8333
+      },
+      "patternId": "tech_assistance",
+      "patternConfidence": 0.85
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Contractual Services for BMP Design $8,333",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Contractual Services for BMP Design",
+            "Cost": "$8,333"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$8,333"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$25,000"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$25,000"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$2,000.00"
+          },
+          {
+            "Item": "Event Flyers 375 .80/each",
+            "Cost": "$300.00"
+          },
+          {
+            "Item": "Mailing/Delivery 375 .39/each",
+            "Cost": "$146.25"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$13,667.00"
+          },
+          {
+            "Item": "Printing 1,000 1.00/each",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,350.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total $8,333",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$8,333"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$25,000"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$25,000"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$2,000.00"
+          },
+          {
+            "Item": "Event Flyers 375 .80/each",
+            "Cost": "$300.00"
+          },
+          {
+            "Item": "Mailing/Delivery 375 .39/each",
+            "Cost": "$146.25"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$13,667.00"
+          },
+          {
+            "Item": "Printing 1,000 1.00/each",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,350.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "tech_assistance",
+      "title": "Item Cost",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$25,000"
+          }
+        ],
+        "total": 25000
+      },
+      "patternId": "tech_assistance",
+      "patternConfidence": 0.85
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Technical Assistance $25,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$25,000"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$25,000"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$2,000.00"
+          },
+          {
+            "Item": "Event Flyers 375 .80/each",
+            "Cost": "$300.00"
+          },
+          {
+            "Item": "Mailing/Delivery 375 .39/each",
+            "Cost": "$146.25"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$13,667.00"
+          },
+          {
+            "Item": "Printing 1,000 1.00/each",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,350.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total $25,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$25,000"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$2,000.00"
+          },
+          {
+            "Item": "Event Flyers 375 .80/each",
+            "Cost": "$300.00"
+          },
+          {
+            "Item": "Mailing/Delivery 375 .39/each",
+            "Cost": "$146.25"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$13,667.00"
+          },
+          {
+            "Item": "Printing 1,000 1.00/each",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,350.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $2,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$2,000.00"
+          },
+          {
+            "Item": "Event Flyers 375 .80/each",
+            "Cost": "$300.00"
+          },
+          {
+            "Item": "Mailing/Delivery 375 .39/each",
+            "Cost": "$146.25"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$13,667.00"
+          },
+          {
+            "Item": "Printing 1,000 1.00/each",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,350.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$500.00"
+          },
+          {
+            "Item": "Signage",
+            "Cost": "$2,000.00"
+          },
+          {
+            "Item": "Field Days",
+            "Cost": "$13,667.00"
+          },
+          {
+            "Item": "Fact Sheets",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Adopt-A-Stream",
+            "Cost": "$1,500.00"
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00"
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$504,767.00"
+          },
+          {
+            "Item": "Contractual Services",
+            "Cost": "$8,333.00"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$25,000.00"
+          },
+          {
+            "Item": "Education",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$558,117.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Event Flyers 375 .80/each $300.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Event Flyers 375 .80/each",
+            "Cost": "$300.00"
+          },
+          {
+            "Item": "Mailing/Delivery 375 .39/each",
+            "Cost": "$146.25"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$13,667.00"
+          },
+          {
+            "Item": "Printing 1,000 1.00/each",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,350.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$500.00"
+          },
+          {
+            "Item": "Signage",
+            "Cost": "$2,000.00"
+          },
+          {
+            "Item": "Field Days",
+            "Cost": "$13,667.00"
+          },
+          {
+            "Item": "Fact Sheets",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Adopt-A-Stream",
+            "Cost": "$1,500.00"
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00"
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$504,767.00"
+          },
+          {
+            "Item": "Contractual Services",
+            "Cost": "$8,333.00"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$25,000.00"
+          },
+          {
+            "Item": "Education",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$558,117.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Mailing/Delivery 375 .39/each $146.25",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Mailing/Delivery 375 .39/each",
+            "Cost": "$146.25"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$13,667.00"
+          },
+          {
+            "Item": "Printing 1,000 1.00/each",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,350.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$500.00"
+          },
+          {
+            "Item": "Signage",
+            "Cost": "$2,000.00"
+          },
+          {
+            "Item": "Field Days",
+            "Cost": "$13,667.00"
+          },
+          {
+            "Item": "Fact Sheets",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Adopt-A-Stream",
+            "Cost": "$1,500.00"
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00"
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$504,767.00"
+          },
+          {
+            "Item": "Contractual Services",
+            "Cost": "$8,333.00"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$25,000.00"
+          },
+          {
+            "Item": "Education",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$558,117.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $1,500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$1,500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$1,350.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$500.00"
+          },
+          {
+            "Item": "Signage",
+            "Cost": "$2,000.00"
+          },
+          {
+            "Item": "Field Days",
+            "Cost": "$13,667.00"
+          },
+          {
+            "Item": "Fact Sheets",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Adopt-A-Stream",
+            "Cost": "$1,500.00"
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00"
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$504,767.00"
+          },
+          {
+            "Item": "Contractual Services",
+            "Cost": "$8,333.00"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$25,000.00"
+          },
+          {
+            "Item": "Education",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$558,117.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $1,350.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$1,350.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$500.00"
+          },
+          {
+            "Item": "Signage",
+            "Cost": "$2,000.00"
+          },
+          {
+            "Item": "Field Days",
+            "Cost": "$13,667.00"
+          },
+          {
+            "Item": "Fact Sheets",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Adopt-A-Stream",
+            "Cost": "$1,500.00"
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00"
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$504,767.00"
+          },
+          {
+            "Item": "Contractual Services",
+            "Cost": "$8,333.00"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$25,000.00"
+          },
+          {
+            "Item": "Education",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$558,117.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$500.00"
+          },
+          {
+            "Item": "Signage",
+            "Cost": "$2,000.00"
+          },
+          {
+            "Item": "Field Days",
+            "Cost": "$13,667.00"
+          },
+          {
+            "Item": "Fact Sheets",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Adopt-A-Stream",
+            "Cost": "$1,500.00"
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00"
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$504,767.00"
+          },
+          {
+            "Item": "Contractual Services",
+            "Cost": "$8,333.00"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$25,000.00"
+          },
+          {
+            "Item": "Education",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$558,117.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Signage   $2,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Signage",
+            "Cost": "$2,000.00"
+          },
+          {
+            "Item": "Field Days",
+            "Cost": "$13,667.00"
+          },
+          {
+            "Item": "Fact Sheets",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Adopt-A-Stream",
+            "Cost": "$1,500.00"
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00"
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$504,767.00"
+          },
+          {
+            "Item": "Contractual Services",
+            "Cost": "$8,333.00"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$25,000.00"
+          },
+          {
+            "Item": "Education",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$558,117.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Signage   $2,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Signage",
+            "Cost": "$2,000.00"
+          },
+          {
+            "Item": "Field Days",
+            "Cost": "$13,667.00"
+          },
+          {
+            "Item": "Fact Sheets",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "AdoptA-Stream",
+            "Cost": "$1,500.00"
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00"
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$20,017.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Field Days   $13,667.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Field Days",
+            "Cost": "$13,667.00"
+          },
+          {
+            "Item": "Fact Sheets",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Adopt-A-Stream",
+            "Cost": "$1,500.00"
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00"
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$504,767.00"
+          },
+          {
+            "Item": "Contractual Services",
+            "Cost": "$8,333.00"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$25,000.00"
+          },
+          {
+            "Item": "Education",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$558,117.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Field Days   $13,667.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Field Days",
+            "Cost": "$13,667.00"
+          },
+          {
+            "Item": "Fact Sheets",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "AdoptA-Stream",
+            "Cost": "$1,500.00"
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00"
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$20,017.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Fact Sheets   $1,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Fact Sheets",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "Adopt-A-Stream",
+            "Cost": "$1,500.00"
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00"
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$504,767.00"
+          },
+          {
+            "Item": "Contractual Services",
+            "Cost": "$8,333.00"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$25,000.00"
+          },
+          {
+            "Item": "Education",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$558,117.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Fact Sheets   $1,000.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Fact Sheets",
+            "Cost": "$1,000.00"
+          },
+          {
+            "Item": "AdoptA-Stream",
+            "Cost": "$1,500.00"
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00"
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$20,017.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Adopt-A-Stream   $1,500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Adopt-A-Stream",
+            "Cost": "$1,500.00"
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00"
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$504,767.00"
+          },
+          {
+            "Item": "Contractual Services",
+            "Cost": "$8,333.00"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$25,000.00"
+          },
+          {
+            "Item": "Education",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$558,117.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Adopt-A-Stream   $1,500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "AdoptA-Stream",
+            "Cost": "$1,500.00"
+          },
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00"
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$20,017.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Project Learning Tree   $1,350.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Project Learning Tree",
+            "Cost": "$1,350.00"
+          },
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$504,767.00"
+          },
+          {
+            "Item": "Contractual Services",
+            "Cost": "$8,333.00"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$25,000.00"
+          },
+          {
+            "Item": "Education",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$558,117.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Watershed Harmony Puppet Show   $500.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Watershed Harmony Puppet Show",
+            "Cost": "$500.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$504,767.00"
+          },
+          {
+            "Item": "Contractual Services",
+            "Cost": "$8,333.00"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$25,000.00"
+          },
+          {
+            "Item": "Education",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$558,117.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $20,017.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Total",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "BMPs",
+            "Cost": "$504,767.00"
+          },
+          {
+            "Item": "Contractual Services",
+            "Cost": "$8,333.00"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$25,000.00"
+          },
+          {
+            "Item": "Education",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$558,117.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "BMPs $504,767.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "BMPs",
+            "Cost": "$504,767.00"
+          },
+          {
+            "Item": "Contractual Services",
+            "Cost": "$8,333.00"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$25,000.00"
+          },
+          {
+            "Item": "Education",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$558,117.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "BMPs $504,767.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "BMPs",
+            "Cost": "$504,767.00"
+          },
+          {
+            "Item": "Contractual Services",
+            "Cost": "$8,333.00"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$25,000.00"
+          },
+          {
+            "Item": "Education",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$558,117.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Contractual Services $8,333.00",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Contractual Services",
+            "Cost": "$8,333.00"
+          },
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$25,000.00"
+          },
+          {
+            "Item": "Education",
+            "Cost": "$20,017.00"
+          },
+          {
+            "Item": "Total",
+            "Cost": "$558,117.00"
+          }
+        ],
+        "total": null
+      },
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "cost_table",
+      "title": "Table 8.3 Technical Assistance",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost"
+        ],
+        "rows": [
+          {
+            "Item": "Technical Assistance",
+            "Cost": "$25,000"
+          }
+        ],
+        "total": 25000
+      },
+      "patternId": "tech_assistance_format",
+      "patternConfidence": 0.6
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Critical Area Planting 25 acres $200/ac $5,000",
+      "rows": [
+        {
+          "name": "Critical Area Planting 25 acres $200/ac",
+          "totalCost": 5000,
+          "rawCost": "$5,000"
+        },
+        {
+          "name": "Grade Stabilization Structure 5 structures $1,500/ea",
+          "totalCost": 7500,
+          "rawCost": "$7,500"
+        },
+        {
+          "name": "Pasture & Hayland Planting 75 acres $100/ac",
+          "totalCost": 7500,
+          "rawCost": "$7,500"
+        },
+        {
+          "name": "3 basins $2,500/ea",
+          "totalCost": 7500,
+          "rawCost": "$7,500"
+        },
+        {
+          "name": "Nutrient Management 500 acres $154/ac",
+          "totalCost": 77000,
+          "rawCost": "$77,000"
+        },
+        {
+          "name": "Livestock Watering Pond 10 ponds $3,000/ea",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        },
+        {
+          "name": "Tank/Trough 10 tanks $2,000/ea",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Stream Crossing 5 crossings $3,000/ea",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Fencing 40,000 feet $1.10/ft",
+          "totalCost": 44000,
+          "rawCost": "$44,000"
+        },
+        {
+          "name": "Waste Treatment Lagoon 2 lagoons $17,000/ea",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Waste Storage Facility 2 facilities $17,000/ea",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Composting Facilities 4 facilities $17,000/ea",
+          "totalCost": 68000,
+          "rawCost": "$68,000"
+        },
+        {
+          "name": "Grassed Waterways 5 acres $500/ac",
+          "totalCost": 2500,
+          "rawCost": "$2,500"
+        },
+        {
+          "name": "Prescribed Grazing 200 acres $11/ac",
+          "totalCost": 6600,
+          "rawCost": "$6,600"
+        },
+        {
+          "name": "Incinerator 5 units",
+          "totalCost": 5500,
+          "rawCost": "$5,500"
+        },
+        {
+          "name": "Tree Planting 100 acres $94/ac",
+          "totalCost": 9400,
+          "rawCost": "$9,400"
+        },
+        {
+          "name": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+          "totalCost": 72000,
+          "rawCost": "$72,000"
+        },
+        {
+          "name": "Conservation Cover 200 acres $176/ac",
+          "totalCost": 35200,
+          "rawCost": "$35,200"
+        },
+        {
+          "name": "Chiseling and Subsoiling 200 acres $10/ac",
+          "totalCost": 2000,
+          "rawCost": "$2,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 504700,
+          "rawCost": "$504,700"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 987400,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Grade Stabilization Structure 5 structures $1,500/ea $7,500",
+      "rows": [
+        {
+          "name": "Grade Stabilization Structure 5 structures $1,500/ea",
+          "totalCost": 7500,
+          "rawCost": "$7,500"
+        },
+        {
+          "name": "Pasture & Hayland Planting 75 acres $100/ac",
+          "totalCost": 7500,
+          "rawCost": "$7,500"
+        },
+        {
+          "name": "3 basins $2,500/ea",
+          "totalCost": 7500,
+          "rawCost": "$7,500"
+        },
+        {
+          "name": "Nutrient Management 500 acres $154/ac",
+          "totalCost": 77000,
+          "rawCost": "$77,000"
+        },
+        {
+          "name": "Livestock Watering Pond 10 ponds $3,000/ea",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        },
+        {
+          "name": "Tank/Trough 10 tanks $2,000/ea",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Stream Crossing 5 crossings $3,000/ea",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Fencing 40,000 feet $1.10/ft",
+          "totalCost": 44000,
+          "rawCost": "$44,000"
+        },
+        {
+          "name": "Waste Treatment Lagoon 2 lagoons $17,000/ea",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Waste Storage Facility 2 facilities $17,000/ea",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Composting Facilities 4 facilities $17,000/ea",
+          "totalCost": 68000,
+          "rawCost": "$68,000"
+        },
+        {
+          "name": "Grassed Waterways 5 acres $500/ac",
+          "totalCost": 2500,
+          "rawCost": "$2,500"
+        },
+        {
+          "name": "Prescribed Grazing 200 acres $11/ac",
+          "totalCost": 6600,
+          "rawCost": "$6,600"
+        },
+        {
+          "name": "Incinerator 5 units",
+          "totalCost": 5500,
+          "rawCost": "$5,500"
+        },
+        {
+          "name": "Tree Planting 100 acres $94/ac",
+          "totalCost": 9400,
+          "rawCost": "$9,400"
+        },
+        {
+          "name": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+          "totalCost": 72000,
+          "rawCost": "$72,000"
+        },
+        {
+          "name": "Conservation Cover 200 acres $176/ac",
+          "totalCost": 35200,
+          "rawCost": "$35,200"
+        },
+        {
+          "name": "Chiseling and Subsoiling 200 acres $10/ac",
+          "totalCost": 2000,
+          "rawCost": "$2,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 504700,
+          "rawCost": "$504,700"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 982400,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Pasture & Hayland Planting 75 acres $100/ac $7,500",
+      "rows": [
+        {
+          "name": "Pasture & Hayland Planting 75 acres $100/ac",
+          "totalCost": 7500,
+          "rawCost": "$7,500"
+        },
+        {
+          "name": "3 basins $2,500/ea",
+          "totalCost": 7500,
+          "rawCost": "$7,500"
+        },
+        {
+          "name": "Nutrient Management 500 acres $154/ac",
+          "totalCost": 77000,
+          "rawCost": "$77,000"
+        },
+        {
+          "name": "Livestock Watering Pond 10 ponds $3,000/ea",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        },
+        {
+          "name": "Tank/Trough 10 tanks $2,000/ea",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Stream Crossing 5 crossings $3,000/ea",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Fencing 40,000 feet $1.10/ft",
+          "totalCost": 44000,
+          "rawCost": "$44,000"
+        },
+        {
+          "name": "Waste Treatment Lagoon 2 lagoons $17,000/ea",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Waste Storage Facility 2 facilities $17,000/ea",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Composting Facilities 4 facilities $17,000/ea",
+          "totalCost": 68000,
+          "rawCost": "$68,000"
+        },
+        {
+          "name": "Grassed Waterways 5 acres $500/ac",
+          "totalCost": 2500,
+          "rawCost": "$2,500"
+        },
+        {
+          "name": "Prescribed Grazing 200 acres $11/ac",
+          "totalCost": 6600,
+          "rawCost": "$6,600"
+        },
+        {
+          "name": "Incinerator 5 units",
+          "totalCost": 5500,
+          "rawCost": "$5,500"
+        },
+        {
+          "name": "Tree Planting 100 acres $94/ac",
+          "totalCost": 9400,
+          "rawCost": "$9,400"
+        },
+        {
+          "name": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+          "totalCost": 72000,
+          "rawCost": "$72,000"
+        },
+        {
+          "name": "Conservation Cover 200 acres $176/ac",
+          "totalCost": 35200,
+          "rawCost": "$35,200"
+        },
+        {
+          "name": "Chiseling and Subsoiling 200 acres $10/ac",
+          "totalCost": 2000,
+          "rawCost": "$2,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 504700,
+          "rawCost": "$504,700"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 974900,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "3 basins $2,500/ea $7,500",
+      "rows": [
+        {
+          "name": "3 basins $2,500/ea",
+          "totalCost": 7500,
+          "rawCost": "$7,500"
+        },
+        {
+          "name": "Nutrient Management 500 acres $154/ac",
+          "totalCost": 77000,
+          "rawCost": "$77,000"
+        },
+        {
+          "name": "Livestock Watering Pond 10 ponds $3,000/ea",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        },
+        {
+          "name": "Tank/Trough 10 tanks $2,000/ea",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Stream Crossing 5 crossings $3,000/ea",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Fencing 40,000 feet $1.10/ft",
+          "totalCost": 44000,
+          "rawCost": "$44,000"
+        },
+        {
+          "name": "Waste Treatment Lagoon 2 lagoons $17,000/ea",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Waste Storage Facility 2 facilities $17,000/ea",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Composting Facilities 4 facilities $17,000/ea",
+          "totalCost": 68000,
+          "rawCost": "$68,000"
+        },
+        {
+          "name": "Grassed Waterways 5 acres $500/ac",
+          "totalCost": 2500,
+          "rawCost": "$2,500"
+        },
+        {
+          "name": "Prescribed Grazing 200 acres $11/ac",
+          "totalCost": 6600,
+          "rawCost": "$6,600"
+        },
+        {
+          "name": "Incinerator 5 units $5,500",
+          "totalCost": 27500,
+          "rawCost": "$27,500"
+        },
+        {
+          "name": "Tree Planting 100 acres $94/ac",
+          "totalCost": 9400,
+          "rawCost": "$9,400"
+        },
+        {
+          "name": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+          "totalCost": 72000,
+          "rawCost": "$72,000"
+        },
+        {
+          "name": "Conservation Cover 200 acres $176/ac",
+          "totalCost": 35200,
+          "rawCost": "$35,200"
+        },
+        {
+          "name": "Chiseling and Subsoiling 200 acres $10/ac",
+          "totalCost": 2000,
+          "rawCost": "$2,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 504700,
+          "rawCost": "$504,700"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 989400,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Nutrient Management 500 acres $154/ac $77,000",
+      "rows": [
+        {
+          "name": "Nutrient Management 500 acres $154/ac",
+          "totalCost": 77000,
+          "rawCost": "$77,000"
+        },
+        {
+          "name": "Livestock Watering Pond 10 ponds $3,000/ea",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        },
+        {
+          "name": "Tank/Trough 10 tanks $2,000/ea",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Stream Crossing 5 crossings $3,000/ea",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Fencing 40,000 feet $1.10/ft",
+          "totalCost": 44000,
+          "rawCost": "$44,000"
+        },
+        {
+          "name": "Waste Treatment Lagoon 2 lagoons $17,000/ea",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Waste Storage Facility 2 facilities $17,000/ea",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Composting Facilities 4 facilities $17,000/ea",
+          "totalCost": 68000,
+          "rawCost": "$68,000"
+        },
+        {
+          "name": "Grassed Waterways 5 acres $500/ac",
+          "totalCost": 2500,
+          "rawCost": "$2,500"
+        },
+        {
+          "name": "Prescribed Grazing 200 acres $11/ac",
+          "totalCost": 6600,
+          "rawCost": "$6,600"
+        },
+        {
+          "name": "Incinerator 5 units $5,500",
+          "totalCost": 27500,
+          "rawCost": "$27,500"
+        },
+        {
+          "name": "Tree Planting 100 acres $94/ac",
+          "totalCost": 9400,
+          "rawCost": "$9,400"
+        },
+        {
+          "name": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+          "totalCost": 72000,
+          "rawCost": "$72,000"
+        },
+        {
+          "name": "Conservation Cover 200 acres $176/ac",
+          "totalCost": 35200,
+          "rawCost": "$35,200"
+        },
+        {
+          "name": "Chiseling and Subsoiling 200 acres $10/ac",
+          "totalCost": 2000,
+          "rawCost": "$2,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 504700,
+          "rawCost": "$504,700"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 981900,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Livestock Watering Pond 10 ponds $3,000/ea $30,000",
+      "rows": [
+        {
+          "name": "Livestock Watering Pond 10 ponds $3,000/ea",
+          "totalCost": 30000,
+          "rawCost": "$30,000"
+        },
+        {
+          "name": "Tank/Trough 10 tanks $2,000/ea",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Stream Crossing 5 crossings $3,000/ea",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Fencing 40,000 feet $1.10/ft",
+          "totalCost": 44000,
+          "rawCost": "$44,000"
+        },
+        {
+          "name": "Waste Treatment Lagoon 2 lagoons $17,000/ea",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Waste Storage Facility 2 facilities $17,000/ea",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Composting Facilities 4 facilities $17,000/ea",
+          "totalCost": 68000,
+          "rawCost": "$68,000"
+        },
+        {
+          "name": "Grassed Waterways 5 acres $500/ac",
+          "totalCost": 2500,
+          "rawCost": "$2,500"
+        },
+        {
+          "name": "Prescribed Grazing 200 acres $11/ac",
+          "totalCost": 6600,
+          "rawCost": "$6,600"
+        },
+        {
+          "name": "Incinerator 5 units $5,500",
+          "totalCost": 27500,
+          "rawCost": "$27,500"
+        },
+        {
+          "name": "Tree Planting 100 acres $94/ac",
+          "totalCost": 9400,
+          "rawCost": "$9,400"
+        },
+        {
+          "name": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+          "totalCost": 72000,
+          "rawCost": "$72,000"
+        },
+        {
+          "name": "Conservation Cover 200 acres $176/ac",
+          "totalCost": 35200,
+          "rawCost": "$35,200"
+        },
+        {
+          "name": "Chiseling and Subsoiling 200 acres $10/ac",
+          "totalCost": 2000,
+          "rawCost": "$2,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 504700,
+          "rawCost": "$504,700"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 904900,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Tank/Trough 10 tanks $2,000/ea $20,000",
+      "rows": [
+        {
+          "name": "Tank/Trough 10 tanks $2,000/ea",
+          "totalCost": 20000,
+          "rawCost": "$20,000"
+        },
+        {
+          "name": "Stream Crossing 5 crossings $3,000/ea",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Fencing 40,000 feet $1.10/ft",
+          "totalCost": 44000,
+          "rawCost": "$44,000"
+        },
+        {
+          "name": "Waste Treatment Lagoon 2 lagoons $17,000/ea",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Waste Storage Facility 2 facilities $17,000/ea",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Composting Facilities 4 facilities $17,000/ea",
+          "totalCost": 68000,
+          "rawCost": "$68,000"
+        },
+        {
+          "name": "Grassed Waterways 5 acres $500/ac",
+          "totalCost": 2500,
+          "rawCost": "$2,500"
+        },
+        {
+          "name": "Prescribed Grazing 200 acres $11/ac",
+          "totalCost": 6600,
+          "rawCost": "$6,600"
+        },
+        {
+          "name": "Incinerator 5 units $5,500",
+          "totalCost": 27500,
+          "rawCost": "$27,500"
+        },
+        {
+          "name": "Tree Planting 100 acres $94/ac",
+          "totalCost": 9400,
+          "rawCost": "$9,400"
+        },
+        {
+          "name": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+          "totalCost": 72000,
+          "rawCost": "$72,000"
+        },
+        {
+          "name": "Conservation Cover 200 acres $176/ac",
+          "totalCost": 35200,
+          "rawCost": "$35,200"
+        },
+        {
+          "name": "Chiseling and Subsoiling 200 acres $10/ac",
+          "totalCost": 2000,
+          "rawCost": "$2,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 504700,
+          "rawCost": "$504,700"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 874900,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Stream Crossing 5 crossings $3,000/ea $15,000",
+      "rows": [
+        {
+          "name": "Stream Crossing 5 crossings $3,000/ea",
+          "totalCost": 15000,
+          "rawCost": "$15,000"
+        },
+        {
+          "name": "Fencing 40,000 feet $1.10/ft",
+          "totalCost": 44000,
+          "rawCost": "$44,000"
+        },
+        {
+          "name": "Waste Treatment Lagoon 2 lagoons $17,000/ea",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Waste Storage Facility 2 facilities $17,000/ea",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Composting Facilities 4 facilities $17,000/ea",
+          "totalCost": 68000,
+          "rawCost": "$68,000"
+        },
+        {
+          "name": "Grassed Waterways 5 acres $500/ac",
+          "totalCost": 2500,
+          "rawCost": "$2,500"
+        },
+        {
+          "name": "Prescribed Grazing 200 acres $11/ac",
+          "totalCost": 6600,
+          "rawCost": "$6,600"
+        },
+        {
+          "name": "Incinerator 5 units $5,500",
+          "totalCost": 27500,
+          "rawCost": "$27,500"
+        },
+        {
+          "name": "Tree Planting 100 acres $94/ac",
+          "totalCost": 9400,
+          "rawCost": "$9,400"
+        },
+        {
+          "name": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+          "totalCost": 72000,
+          "rawCost": "$72,000"
+        },
+        {
+          "name": "Conservation Cover 200 acres $176/ac",
+          "totalCost": 35200,
+          "rawCost": "$35,200"
+        },
+        {
+          "name": "Chiseling and Subsoiling 200 acres $10/ac",
+          "totalCost": 2000,
+          "rawCost": "$2,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 504700,
+          "rawCost": "$504,700"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 854900,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Fencing 40,000 feet $1.10/ft $44,000",
+      "rows": [
+        {
+          "name": "Fencing 40,000 feet $1.10/ft",
+          "totalCost": 44000,
+          "rawCost": "$44,000"
+        },
+        {
+          "name": "Waste Treatment Lagoon 2 lagoons $17,000/ea",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Waste Storage Facility 2 facilities $17,000/ea",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Composting Facilities 4 facilities $17,000/ea",
+          "totalCost": 68000,
+          "rawCost": "$68,000"
+        },
+        {
+          "name": "Grassed Waterways 5 acres $500/ac",
+          "totalCost": 2500,
+          "rawCost": "$2,500"
+        },
+        {
+          "name": "Prescribed Grazing 200 acres $11/ac",
+          "totalCost": 6600,
+          "rawCost": "$6,600"
+        },
+        {
+          "name": "Incinerator 5 units $5,500",
+          "totalCost": 27500,
+          "rawCost": "$27,500"
+        },
+        {
+          "name": "Tree Planting 100 acres $94/ac",
+          "totalCost": 9400,
+          "rawCost": "$9,400"
+        },
+        {
+          "name": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+          "totalCost": 72000,
+          "rawCost": "$72,000"
+        },
+        {
+          "name": "Conservation Cover 200 acres $176/ac",
+          "totalCost": 35200,
+          "rawCost": "$35,200"
+        },
+        {
+          "name": "Chiseling and Subsoiling 200 acres $10/ac",
+          "totalCost": 2000,
+          "rawCost": "$2,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 504700,
+          "rawCost": "$504,700"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 839900,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Waste Treatment Lagoon 2 lagoons $17,000/ea $34,000",
+      "rows": [
+        {
+          "name": "Waste Treatment Lagoon 2 lagoons $17,000/ea",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Waste Storage Facility 2 facilities $17,000/ea",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Composting Facilities 4 facilities $17,000/ea",
+          "totalCost": 68000,
+          "rawCost": "$68,000"
+        },
+        {
+          "name": "Grassed Waterways 5 acres $500/ac",
+          "totalCost": 2500,
+          "rawCost": "$2,500"
+        },
+        {
+          "name": "Prescribed Grazing 200 acres $11/ac",
+          "totalCost": 6600,
+          "rawCost": "$6,600"
+        },
+        {
+          "name": "Incinerator 5 units $5,500",
+          "totalCost": 27500,
+          "rawCost": "$27,500"
+        },
+        {
+          "name": "Tree Planting 100 acres $94/ac",
+          "totalCost": 9400,
+          "rawCost": "$9,400"
+        },
+        {
+          "name": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+          "totalCost": 72000,
+          "rawCost": "$72,000"
+        },
+        {
+          "name": "Conservation Cover 200 acres $176/ac",
+          "totalCost": 35200,
+          "rawCost": "$35,200"
+        },
+        {
+          "name": "Chiseling and Subsoiling 200 acres $10/ac",
+          "totalCost": 2000,
+          "rawCost": "$2,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 504700,
+          "rawCost": "$504,700"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 795900,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Waste Storage Facility 2 facilities $17,000/ea $34,000",
+      "rows": [
+        {
+          "name": "Waste Storage Facility 2 facilities $17,000/ea",
+          "totalCost": 34000,
+          "rawCost": "$34,000"
+        },
+        {
+          "name": "Composting Facilities 4 facilities $17,000/ea",
+          "totalCost": 68000,
+          "rawCost": "$68,000"
+        },
+        {
+          "name": "Grassed Waterways 5 acres $500/ac",
+          "totalCost": 2500,
+          "rawCost": "$2,500"
+        },
+        {
+          "name": "Prescribed Grazing 200 acres $11/ac",
+          "totalCost": 6600,
+          "rawCost": "$6,600"
+        },
+        {
+          "name": "Incinerator 5 units $5,500",
+          "totalCost": 27500,
+          "rawCost": "$27,500"
+        },
+        {
+          "name": "Tree Planting 100 acres $94/ac",
+          "totalCost": 9400,
+          "rawCost": "$9,400"
+        },
+        {
+          "name": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+          "totalCost": 72000,
+          "rawCost": "$72,000"
+        },
+        {
+          "name": "Conservation Cover 200 acres $176/ac",
+          "totalCost": 35200,
+          "rawCost": "$35,200"
+        },
+        {
+          "name": "Chiseling and Subsoiling 200 acres $10/ac",
+          "totalCost": 2000,
+          "rawCost": "$2,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 504700,
+          "rawCost": "$504,700"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 761900,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Composting Facilities 4 facilities $17,000/ea $68,000",
+      "rows": [
+        {
+          "name": "Composting Facilities 4 facilities $17,000/ea",
+          "totalCost": 68000,
+          "rawCost": "$68,000"
+        },
+        {
+          "name": "Grassed Waterways 5 acres $500/ac",
+          "totalCost": 2500,
+          "rawCost": "$2,500"
+        },
+        {
+          "name": "Prescribed Grazing 200 acres $11/ac",
+          "totalCost": 6600,
+          "rawCost": "$6,600"
+        },
+        {
+          "name": "Incinerator 5 units $5,500",
+          "totalCost": 27500,
+          "rawCost": "$27,500"
+        },
+        {
+          "name": "Tree Planting 100 acres $94/ac",
+          "totalCost": 9400,
+          "rawCost": "$9,400"
+        },
+        {
+          "name": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+          "totalCost": 72000,
+          "rawCost": "$72,000"
+        },
+        {
+          "name": "Conservation Cover 200 acres $176/ac",
+          "totalCost": 35200,
+          "rawCost": "$35,200"
+        },
+        {
+          "name": "Chiseling and Subsoiling 200 acres $10/ac",
+          "totalCost": 2000,
+          "rawCost": "$2,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 504700,
+          "rawCost": "$504,700"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 727900,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Grassed Waterways 5 acres $500/ac $2,500",
+      "rows": [
+        {
+          "name": "Grassed Waterways 5 acres $500/ac",
+          "totalCost": 2500,
+          "rawCost": "$2,500"
+        },
+        {
+          "name": "Prescribed Grazing 200 acres $11/ac",
+          "totalCost": 6600,
+          "rawCost": "$6,600"
+        },
+        {
+          "name": "Incinerator 5 units $5,500",
+          "totalCost": 27500,
+          "rawCost": "$27,500"
+        },
+        {
+          "name": "Tree Planting 100 acres $94/ac",
+          "totalCost": 9400,
+          "rawCost": "$9,400"
+        },
+        {
+          "name": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+          "totalCost": 72000,
+          "rawCost": "$72,000"
+        },
+        {
+          "name": "Conservation Cover 200 acres $176/ac",
+          "totalCost": 35200,
+          "rawCost": "$35,200"
+        },
+        {
+          "name": "Chiseling and Subsoiling 200 acres $10/ac",
+          "totalCost": 2000,
+          "rawCost": "$2,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 504700,
+          "rawCost": "$504,700"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 659900,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Prescribed Grazing 200 acres $11/ac $6,600",
+      "rows": [
+        {
+          "name": "Prescribed Grazing 200 acres $11/ac",
+          "totalCost": 6600,
+          "rawCost": "$6,600"
+        },
+        {
+          "name": "Incinerator 5 units $5,500",
+          "totalCost": 27500,
+          "rawCost": "$27,500"
+        },
+        {
+          "name": "Tree Planting 100 acres $94/ac",
+          "totalCost": 9400,
+          "rawCost": "$9,400"
+        },
+        {
+          "name": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+          "totalCost": 72000,
+          "rawCost": "$72,000"
+        },
+        {
+          "name": "Conservation Cover 200 acres $176/ac",
+          "totalCost": 35200,
+          "rawCost": "$35,200"
+        },
+        {
+          "name": "Chiseling and Subsoiling 200 acres $10/ac",
+          "totalCost": 2000,
+          "rawCost": "$2,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 504700,
+          "rawCost": "$504,700"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 657400,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Incinerator 5 units $5,500 $27,500",
+      "rows": [
+        {
+          "name": "Incinerator 5 units $5,500",
+          "totalCost": 27500,
+          "rawCost": "$27,500"
+        },
+        {
+          "name": "Tree Planting 100 acres $94/ac",
+          "totalCost": 9400,
+          "rawCost": "$9,400"
+        },
+        {
+          "name": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+          "totalCost": 72000,
+          "rawCost": "$72,000"
+        },
+        {
+          "name": "Conservation Cover 200 acres $176/ac",
+          "totalCost": 35200,
+          "rawCost": "$35,200"
+        },
+        {
+          "name": "Chiseling and Subsoiling 200 acres $10/ac",
+          "totalCost": 2000,
+          "rawCost": "$2,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 504700,
+          "rawCost": "$504,700"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 650800,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Tree Planting 100 acres $94/ac $9,400",
+      "rows": [
+        {
+          "name": "Tree Planting 100 acres $94/ac",
+          "totalCost": 9400,
+          "rawCost": "$9,400"
+        },
+        {
+          "name": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+          "totalCost": 72000,
+          "rawCost": "$72,000"
+        },
+        {
+          "name": "Conservation Cover 200 acres $176/ac",
+          "totalCost": 35200,
+          "rawCost": "$35,200"
+        },
+        {
+          "name": "Chiseling and Subsoiling 200 acres $10/ac",
+          "totalCost": 2000,
+          "rawCost": "$2,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 504700,
+          "rawCost": "$504,700"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 623300,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Alum Treatment in Poultry Houses 36 houses $2000/ea $72,000",
+      "rows": [
+        {
+          "name": "Alum Treatment in Poultry Houses 36 houses $2000/ea",
+          "totalCost": 72000,
+          "rawCost": "$72,000"
+        },
+        {
+          "name": "Conservation Cover 200 acres $176/ac",
+          "totalCost": 35200,
+          "rawCost": "$35,200"
+        },
+        {
+          "name": "Chiseling and Subsoiling 200 acres $10/ac",
+          "totalCost": 2000,
+          "rawCost": "$2,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 504700,
+          "rawCost": "$504,700"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 613900,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $504,700",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 504700,
+          "rawCost": "$504,700"
+        },
+        {
+          "name": "Contractual Services for BMP Design",
+          "totalCost": 8333,
+          "rawCost": "$8,333"
+        },
+        {
+          "name": "Total",
+          "totalCost": 8333,
+          "rawCost": "$8,333"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Event Flyers 375 .80/each",
+          "totalCost": 300,
+          "rawCost": "$300.00"
+        },
+        {
+          "name": "Mailing/Delivery 375 .39/each",
+          "totalCost": 146.25,
+          "rawCost": "$146.25"
+        },
+        {
+          "name": "Total",
+          "totalCost": 13667,
+          "rawCost": "$13,667.00"
+        },
+        {
+          "name": "Printing 1,000 1.00/each",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 590979.25,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "tech_assistance",
+      "title": "Item Cost",
+      "rows": [
+        {
+          "name": "Contractual Services for BMP Design",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 8333,
+          "rawSize": "N/A",
+          "rawCost": "$8,333"
+        }
+      ],
+      "totalReported": 8333,
+      "totalComputed": 8333,
+      "discrepancy": 0,
+      "patternId": "tech_assistance",
+      "patternConfidence": 0.85
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Contractual Services for BMP Design $8,333",
+      "rows": [
+        {
+          "name": "Contractual Services for BMP Design",
+          "totalCost": 8333,
+          "rawCost": "$8,333"
+        },
+        {
+          "name": "Total",
+          "totalCost": 8333,
+          "rawCost": "$8,333"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Event Flyers 375 .80/each",
+          "totalCost": 300,
+          "rawCost": "$300.00"
+        },
+        {
+          "name": "Mailing/Delivery 375 .39/each",
+          "totalCost": 146.25,
+          "rawCost": "$146.25"
+        },
+        {
+          "name": "Total",
+          "totalCost": 13667,
+          "rawCost": "$13,667.00"
+        },
+        {
+          "name": "Printing 1,000 1.00/each",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 87629.25,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total $8,333",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 8333,
+          "rawCost": "$8,333"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Event Flyers 375 .80/each",
+          "totalCost": 300,
+          "rawCost": "$300.00"
+        },
+        {
+          "name": "Mailing/Delivery 375 .39/each",
+          "totalCost": 146.25,
+          "rawCost": "$146.25"
+        },
+        {
+          "name": "Total",
+          "totalCost": 13667,
+          "rawCost": "$13,667.00"
+        },
+        {
+          "name": "Printing 1,000 1.00/each",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 79296.25,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "tech_assistance",
+      "title": "Item Cost",
+      "rows": [
+        {
+          "name": "Technical Assistance",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 25000,
+          "rawSize": "N/A",
+          "rawCost": "$25,000"
+        }
+      ],
+      "totalReported": 25000,
+      "totalComputed": 25000,
+      "discrepancy": 0,
+      "patternId": "tech_assistance",
+      "patternConfidence": 0.85
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Technical Assistance $25,000",
+      "rows": [
+        {
+          "name": "Technical Assistance",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Event Flyers 375 .80/each",
+          "totalCost": 300,
+          "rawCost": "$300.00"
+        },
+        {
+          "name": "Mailing/Delivery 375 .39/each",
+          "totalCost": 146.25,
+          "rawCost": "$146.25"
+        },
+        {
+          "name": "Total",
+          "totalCost": 13667,
+          "rawCost": "$13,667.00"
+        },
+        {
+          "name": "Printing 1,000 1.00/each",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 70963.25,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total $25,000",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 25000,
+          "rawCost": "$25,000"
+        },
+        {
+          "name": "Total",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Event Flyers 375 .80/each",
+          "totalCost": 300,
+          "rawCost": "$300.00"
+        },
+        {
+          "name": "Mailing/Delivery 375 .39/each",
+          "totalCost": 146.25,
+          "rawCost": "$146.25"
+        },
+        {
+          "name": "Total",
+          "totalCost": 13667,
+          "rawCost": "$13,667.00"
+        },
+        {
+          "name": "Printing 1,000 1.00/each",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 45963.25,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $2,000.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Event Flyers 375 .80/each",
+          "totalCost": 300,
+          "rawCost": "$300.00"
+        },
+        {
+          "name": "Mailing/Delivery 375 .39/each",
+          "totalCost": 146.25,
+          "rawCost": "$146.25"
+        },
+        {
+          "name": "Total",
+          "totalCost": 13667,
+          "rawCost": "$13,667.00"
+        },
+        {
+          "name": "Printing 1,000 1.00/each",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Signage",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Field Days",
+          "totalCost": 13667,
+          "rawCost": "$13,667.00"
+        },
+        {
+          "name": "Fact Sheets",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Adopt-A-Stream",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 504767,
+          "rawCost": "$504,767.00"
+        },
+        {
+          "name": "Contractual Services",
+          "totalCost": 8333,
+          "rawCost": "$8,333.00"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Education",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 558117,
+          "rawCost": "$558,117.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1177731.25,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Event Flyers 375 .80/each $300.00",
+      "rows": [
+        {
+          "name": "Event Flyers 375 .80/each",
+          "totalCost": 300,
+          "rawCost": "$300.00"
+        },
+        {
+          "name": "Mailing/Delivery 375 .39/each",
+          "totalCost": 146.25,
+          "rawCost": "$146.25"
+        },
+        {
+          "name": "Total",
+          "totalCost": 13667,
+          "rawCost": "$13,667.00"
+        },
+        {
+          "name": "Printing 1,000 1.00/each",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Signage",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Field Days",
+          "totalCost": 13667,
+          "rawCost": "$13,667.00"
+        },
+        {
+          "name": "Fact Sheets",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Adopt-A-Stream",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 504767,
+          "rawCost": "$504,767.00"
+        },
+        {
+          "name": "Contractual Services",
+          "totalCost": 8333,
+          "rawCost": "$8,333.00"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Education",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 558117,
+          "rawCost": "$558,117.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1175731.25,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Mailing/Delivery 375 .39/each $146.25",
+      "rows": [
+        {
+          "name": "Mailing/Delivery 375 .39/each",
+          "totalCost": 146.25,
+          "rawCost": "$146.25"
+        },
+        {
+          "name": "Total",
+          "totalCost": 13667,
+          "rawCost": "$13,667.00"
+        },
+        {
+          "name": "Printing 1,000 1.00/each",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Signage",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Field Days",
+          "totalCost": 13667,
+          "rawCost": "$13,667.00"
+        },
+        {
+          "name": "Fact Sheets",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Adopt-A-Stream",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 504767,
+          "rawCost": "$504,767.00"
+        },
+        {
+          "name": "Contractual Services",
+          "totalCost": 8333,
+          "rawCost": "$8,333.00"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Education",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 558117,
+          "rawCost": "$558,117.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1175431.25,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $1,500.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Signage",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Field Days",
+          "totalCost": 13667,
+          "rawCost": "$13,667.00"
+        },
+        {
+          "name": "Fact Sheets",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Adopt-A-Stream",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 504767,
+          "rawCost": "$504,767.00"
+        },
+        {
+          "name": "Contractual Services",
+          "totalCost": 8333,
+          "rawCost": "$8,333.00"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Education",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 558117,
+          "rawCost": "$558,117.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1159618,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $1,350.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Signage",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Field Days",
+          "totalCost": 13667,
+          "rawCost": "$13,667.00"
+        },
+        {
+          "name": "Fact Sheets",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Adopt-A-Stream",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 504767,
+          "rawCost": "$504,767.00"
+        },
+        {
+          "name": "Contractual Services",
+          "totalCost": 8333,
+          "rawCost": "$8,333.00"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Education",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 558117,
+          "rawCost": "$558,117.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1158118,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $500.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Signage",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Field Days",
+          "totalCost": 13667,
+          "rawCost": "$13,667.00"
+        },
+        {
+          "name": "Fact Sheets",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Adopt-A-Stream",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 504767,
+          "rawCost": "$504,767.00"
+        },
+        {
+          "name": "Contractual Services",
+          "totalCost": 8333,
+          "rawCost": "$8,333.00"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Education",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 558117,
+          "rawCost": "$558,117.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1156768,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Signage   $2,000.00",
+      "rows": [
+        {
+          "name": "Signage",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Field Days",
+          "totalCost": 13667,
+          "rawCost": "$13,667.00"
+        },
+        {
+          "name": "Fact Sheets",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Adopt-A-Stream",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 504767,
+          "rawCost": "$504,767.00"
+        },
+        {
+          "name": "Contractual Services",
+          "totalCost": 8333,
+          "rawCost": "$8,333.00"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Education",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 558117,
+          "rawCost": "$558,117.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1156268,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Signage   $2,000.00",
+      "rows": [
+        {
+          "name": "Signage",
+          "totalCost": 2000,
+          "rawCost": "$2,000.00"
+        },
+        {
+          "name": "Field Days",
+          "totalCost": 13667,
+          "rawCost": "$13,667.00"
+        },
+        {
+          "name": "Fact Sheets",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "AdoptA-Stream",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 40034,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Field Days   $13,667.00",
+      "rows": [
+        {
+          "name": "Field Days",
+          "totalCost": 13667,
+          "rawCost": "$13,667.00"
+        },
+        {
+          "name": "Fact Sheets",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Adopt-A-Stream",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 504767,
+          "rawCost": "$504,767.00"
+        },
+        {
+          "name": "Contractual Services",
+          "totalCost": 8333,
+          "rawCost": "$8,333.00"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Education",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 558117,
+          "rawCost": "$558,117.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1154268,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Field Days   $13,667.00",
+      "rows": [
+        {
+          "name": "Field Days",
+          "totalCost": 13667,
+          "rawCost": "$13,667.00"
+        },
+        {
+          "name": "Fact Sheets",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "AdoptA-Stream",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 38034,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Fact Sheets   $1,000.00",
+      "rows": [
+        {
+          "name": "Fact Sheets",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "Adopt-A-Stream",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 504767,
+          "rawCost": "$504,767.00"
+        },
+        {
+          "name": "Contractual Services",
+          "totalCost": 8333,
+          "rawCost": "$8,333.00"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Education",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 558117,
+          "rawCost": "$558,117.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1140601,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Fact Sheets   $1,000.00",
+      "rows": [
+        {
+          "name": "Fact Sheets",
+          "totalCost": 1000,
+          "rawCost": "$1,000.00"
+        },
+        {
+          "name": "AdoptA-Stream",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 24367,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Adopt-A-Stream   $1,500.00",
+      "rows": [
+        {
+          "name": "Adopt-A-Stream",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 504767,
+          "rawCost": "$504,767.00"
+        },
+        {
+          "name": "Contractual Services",
+          "totalCost": 8333,
+          "rawCost": "$8,333.00"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Education",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 558117,
+          "rawCost": "$558,117.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1139601,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Adopt-A-Stream   $1,500.00",
+      "rows": [
+        {
+          "name": "AdoptA-Stream",
+          "totalCost": 1500,
+          "rawCost": "$1,500.00"
+        },
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 23367,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Project Learning Tree   $1,350.00",
+      "rows": [
+        {
+          "name": "Project Learning Tree",
+          "totalCost": 1350,
+          "rawCost": "$1,350.00"
+        },
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 504767,
+          "rawCost": "$504,767.00"
+        },
+        {
+          "name": "Contractual Services",
+          "totalCost": 8333,
+          "rawCost": "$8,333.00"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Education",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 558117,
+          "rawCost": "$558,117.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1138101,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Watershed Harmony Puppet Show   $500.00",
+      "rows": [
+        {
+          "name": "Watershed Harmony Puppet Show",
+          "totalCost": 500,
+          "rawCost": "$500.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 504767,
+          "rawCost": "$504,767.00"
+        },
+        {
+          "name": "Contractual Services",
+          "totalCost": 8333,
+          "rawCost": "$8,333.00"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Education",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 558117,
+          "rawCost": "$558,117.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1136751,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "Total   $20,017.00",
+      "rows": [
+        {
+          "name": "Total",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "BMPs",
+          "totalCost": 504767,
+          "rawCost": "$504,767.00"
+        },
+        {
+          "name": "Contractual Services",
+          "totalCost": 8333,
+          "rawCost": "$8,333.00"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Education",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 558117,
+          "rawCost": "$558,117.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1136251,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "sparse_inline_costs",
+      "title": "BMPs $504,767.00",
+      "rows": [
+        {
+          "name": "BMPs",
+          "totalCost": 504767,
+          "rawCost": "$504,767.00"
+        },
+        {
+          "name": "Contractual Services",
+          "totalCost": 8333,
+          "rawCost": "$8,333.00"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Education",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 558117,
+          "rawCost": "$558,117.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1116234,
+      "discrepancy": null,
+      "patternId": "sparse_inline_costs",
+      "patternConfidence": 0.45
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "BMPs $504,767.00",
+      "rows": [
+        {
+          "name": "BMPs",
+          "totalCost": 504767,
+          "rawCost": "$504,767.00"
+        },
+        {
+          "name": "Contractual Services",
+          "totalCost": 8333,
+          "rawCost": "$8,333.00"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Education",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 558117,
+          "rawCost": "$558,117.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 1116234,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "narrative_cost_block",
+      "title": "Contractual Services $8,333.00",
+      "rows": [
+        {
+          "name": "Contractual Services",
+          "totalCost": 8333,
+          "rawCost": "$8,333.00"
+        },
+        {
+          "name": "Technical Assistance",
+          "totalCost": 25000,
+          "rawCost": "$25,000.00"
+        },
+        {
+          "name": "Education",
+          "totalCost": 20017,
+          "rawCost": "$20,017.00"
+        },
+        {
+          "name": "Total",
+          "totalCost": 558117,
+          "rawCost": "$558,117.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 611467,
+      "discrepancy": null,
+      "patternId": "narrative_cost_block",
+      "patternConfidence": 0.55
+    },
+    {
+      "id": "cost_table",
+      "title": "Table 8.3 Technical Assistance",
+      "patternId": "tech_assistance_format",
+      "patternConfidence": 0.6,
+      "rows": [
+        {
+          "name": "Technical Assistance",
+          "quantity": null,
+          "unit": null,
+          "unitRaw": null,
+          "unitCost": null,
+          "totalCost": 25000,
+          "rawSize": "N/A",
+          "rawCost": "$25,000"
+        }
+      ],
+      "totalReported": 25000,
+      "totalComputed": 25000,
+      "discrepancy": 0
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-06T01:30:37.596Z",
+  "metadata": {
+    "sourceId": "magees-creek-watershed-plan-2007",
+    "sourceFile": "magees-creek-watershed-plan-2007.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": true,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Critical Area Planting 25 acres $200/ac $5,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 987400
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Grade Stabilization Structure 5 structures $1,500/ea $7,500",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 982400
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Pasture & Hayland Planting 75 acres $100/ac $7,500",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 974900
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "3 basins $2,500/ea $7,500",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 989400
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Nutrient Management 500 acres $154/ac $77,000",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 981900
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Livestock Watering Pond 10 ponds $3,000/ea $30,000",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 904900
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Tank/Trough 10 tanks $2,000/ea $20,000",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 874900
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Stream Crossing 5 crossings $3,000/ea $15,000",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 854900
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Fencing 40,000 feet $1.10/ft $44,000",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 839900
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Waste Treatment Lagoon 2 lagoons $17,000/ea $34,000",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 795900
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Waste Storage Facility 2 facilities $17,000/ea $34,000",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 761900
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Composting Facilities 4 facilities $17,000/ea $68,000",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 727900
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Grassed Waterways 5 acres $500/ac $2,500",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 659900
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Prescribed Grazing 200 acres $11/ac $6,600",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 657400
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Incinerator 5 units $5,500 $27,500",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 650800
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Tree Planting 100 acres $94/ac $9,400",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 623300
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Alum Treatment in Poultry Houses 36 houses $2000/ea $72,000",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 613900
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Total   $504,700",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 590979.25
+      },
+      {
+        "id": "tech_assistance",
+        "title": "Item Cost",
+        "confidence": 0.85,
+        "totalReported": 8333,
+        "totalComputed": 8333
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Contractual Services for BMP Design $8,333",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 87629.25
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Total $8,333",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 79296.25
+      },
+      {
+        "id": "tech_assistance",
+        "title": "Item Cost",
+        "confidence": 0.85,
+        "totalReported": 25000,
+        "totalComputed": 25000
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Technical Assistance $25,000",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 70963.25
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Total $25,000",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 45963.25
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Total   $2,000.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 1177731.25
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Event Flyers 375 .80/each $300.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 1175731.25
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Mailing/Delivery 375 .39/each $146.25",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 1175431.25
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Total   $1,500.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 1159618
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Total   $1,350.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 1158118
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Total   $500.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 1156768
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Signage   $2,000.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 1156268
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Signage   $2,000.00",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 40034
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Field Days   $13,667.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 1154268
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Field Days   $13,667.00",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 38034
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Fact Sheets   $1,000.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 1140601
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Fact Sheets   $1,000.00",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 24367
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Adopt-A-Stream   $1,500.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 1139601
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Adopt-A-Stream   $1,500.00",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 23367
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Project Learning Tree   $1,350.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 1138101
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Watershed Harmony Puppet Show   $500.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 1136751
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "Total   $20,017.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 1136251
+      },
+      {
+        "id": "sparse_inline_costs",
+        "title": "BMPs $504,767.00",
+        "confidence": 0.45,
+        "totalReported": null,
+        "totalComputed": 1116234
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "BMPs $504,767.00",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 1116234
+      },
+      {
+        "id": "narrative_cost_block",
+        "title": "Contractual Services $8,333.00",
+        "confidence": 0.55,
+        "totalReported": null,
+        "totalComputed": 611467
+      },
+      {
+        "id": "tech_assistance_format",
+        "title": "Table 8.3 Technical Assistance",
+        "confidence": 0.6,
+        "totalReported": 25000,
+        "totalComputed": 25000
+      }
+    ],
+    "originalName": "Magees_Creek_Watershed_Plan_2007.pdf",
+    "presence": {
+      "goals": 0,
+      "bmps": 10,
+      "implementation": 0,
+      "monitoring": 0,
+      "outreach": 0
+    }
+  }
+}

@@ -1,0 +1,3060 @@
+{
+  "globalStats": {
+    "totalFiles": 337,
+    "withCostHeader": 83,
+    "withCostLines": 226,
+    "withActivities": 313,
+    "suspectedTruncation": 7
+  },
+  "summary": [
+    {
+      "file": "basket-creek-hickahala-creek-9-key-element-plan-2018-1.json",
+      "costHeader": false,
+      "costLines": 8,
+      "activityLines": 34,
+      "bmpLines": 8,
+      "suspectedTrunc": true,
+      "length": 18000
+    },
+    {
+      "file": "basket-creek-hickahala-creek-9-key-element-plan-2018-2.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 12,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 6746
+    },
+    {
+      "file": "basket-creek-hickahala-creek-9-key-element-plan-2018.json",
+      "costHeader": false,
+      "costLines": 8,
+      "activityLines": 46,
+      "bmpLines": 8,
+      "suspectedTrunc": false,
+      "length": 24746
+    },
+    {
+      "file": "bear-creek-watershed-plan-2007-1.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 14,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "bear-creek-watershed-plan-2007-2.json",
+      "costHeader": false,
+      "costLines": 21,
+      "activityLines": 16,
+      "bmpLines": 10,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "bear-creek-watershed-plan-2007-3.json",
+      "costHeader": false,
+      "costLines": 13,
+      "activityLines": 50,
+      "bmpLines": 3,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "bear-creek-watershed-plan-2007-4.json",
+      "costHeader": false,
+      "costLines": 5,
+      "activityLines": 34,
+      "bmpLines": 5,
+      "suspectedTrunc": false,
+      "length": 14731
+    },
+    {
+      "file": "bear-creek-watershed-plan-2007.json",
+      "costHeader": false,
+      "costLines": 38,
+      "activityLines": 114,
+      "bmpLines": 18,
+      "suspectedTrunc": false,
+      "length": 68731
+    },
+    {
+      "file": "bear-lake-9-key-elelment-plan-2018-1.json",
+      "costHeader": true,
+      "costLines": 18,
+      "activityLines": 30,
+      "bmpLines": 10,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "bear-lake-9-key-elelment-plan-2018-2.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 21,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 7680
+    },
+    {
+      "file": "bear-lake-9-key-elelment-plan-2018.json",
+      "costHeader": true,
+      "costLines": 18,
+      "activityLines": 51,
+      "bmpLines": 10,
+      "suspectedTrunc": false,
+      "length": 25680
+    },
+    {
+      "file": "bee-lake-watershed-plan-2006-1.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 13,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "bee-lake-watershed-plan-2006-2.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 11,
+      "bmpLines": 2,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "bee-lake-watershed-plan-2006-3.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 24,
+      "bmpLines": 10,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "bee-lake-watershed-plan-2006-4.json",
+      "costHeader": false,
+      "costLines": 27,
+      "activityLines": 23,
+      "bmpLines": 2,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "bee-lake-watershed-plan-2006-5.json",
+      "costHeader": false,
+      "costLines": 63,
+      "activityLines": 16,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "bee-lake-watershed-plan-2006-6.json",
+      "costHeader": false,
+      "costLines": 39,
+      "activityLines": 38,
+      "bmpLines": 5,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "bee-lake-watershed-plan-2006-7.json",
+      "costHeader": false,
+      "costLines": 64,
+      "activityLines": 5,
+      "bmpLines": 1,
+      "suspectedTrunc": false,
+      "length": 4659
+    },
+    {
+      "file": "bell-creek-muddy-creek-watershed-plan-2012-10.json",
+      "costHeader": false,
+      "costLines": 58,
+      "activityLines": 84,
+      "bmpLines": 24,
+      "suspectedTrunc": false,
+      "length": 62547
+    },
+    {
+      "file": "bell-creek-muddy-creek-watershed-plan-2012-2.json",
+      "costHeader": false,
+      "costLines": 58,
+      "activityLines": 84,
+      "bmpLines": 24,
+      "suspectedTrunc": false,
+      "length": 62547
+    },
+    {
+      "file": "bell-creek-muddy-creek-watershed-plan-2012-3.json",
+      "costHeader": false,
+      "costLines": 58,
+      "activityLines": 84,
+      "bmpLines": 24,
+      "suspectedTrunc": false,
+      "length": 62547
+    },
+    {
+      "file": "bell-creek-muddy-creek-watershed-plan-2012-4.json",
+      "costHeader": false,
+      "costLines": 58,
+      "activityLines": 84,
+      "bmpLines": 24,
+      "suspectedTrunc": false,
+      "length": 62547
+    },
+    {
+      "file": "bell-creek-muddy-creek-watershed-plan-2012-5.json",
+      "costHeader": false,
+      "costLines": 58,
+      "activityLines": 84,
+      "bmpLines": 24,
+      "suspectedTrunc": false,
+      "length": 62547
+    },
+    {
+      "file": "bell-creek-muddy-creek-watershed-plan-2012-6.json",
+      "costHeader": false,
+      "costLines": 58,
+      "activityLines": 84,
+      "bmpLines": 24,
+      "suspectedTrunc": false,
+      "length": 62547
+    },
+    {
+      "file": "bell-creek-muddy-creek-watershed-plan-2012-7.json",
+      "costHeader": false,
+      "costLines": 58,
+      "activityLines": 84,
+      "bmpLines": 24,
+      "suspectedTrunc": false,
+      "length": 62547
+    },
+    {
+      "file": "bell-creek-muddy-creek-watershed-plan-2012-8.json",
+      "costHeader": false,
+      "costLines": 58,
+      "activityLines": 84,
+      "bmpLines": 24,
+      "suspectedTrunc": false,
+      "length": 62547
+    },
+    {
+      "file": "bell-creek-muddy-creek-watershed-plan-2012-9.json",
+      "costHeader": false,
+      "costLines": 58,
+      "activityLines": 84,
+      "bmpLines": 24,
+      "suspectedTrunc": false,
+      "length": 62547
+    },
+    {
+      "file": "bell-creek-muddy-creek-watershed-plan-2012.json",
+      "costHeader": false,
+      "costLines": 58,
+      "activityLines": 84,
+      "bmpLines": 24,
+      "suspectedTrunc": false,
+      "length": 62547
+    },
+    {
+      "file": "bogue-chitto-creek-watershed-plan-2004-2.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 0,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 292
+    },
+    {
+      "file": "bogue-chitto-creek-watershed-plan-2004.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 0,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 292
+    },
+    {
+      "file": "booths-creek-bayou-pierre-watershed-plan-2017-2.json",
+      "costHeader": false,
+      "costLines": 75,
+      "activityLines": 32,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 21789
+    },
+    {
+      "file": "booths-creek-bayou-pierre-watershed-plan-2017-3.json",
+      "costHeader": false,
+      "costLines": 75,
+      "activityLines": 32,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 21789
+    },
+    {
+      "file": "booths-creek-bayou-pierre-watershed-plan-2017-4.json",
+      "costHeader": false,
+      "costLines": 75,
+      "activityLines": 32,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 21789
+    },
+    {
+      "file": "booths-creek-bayou-pierre-watershed-plan-2017-5.json",
+      "costHeader": false,
+      "costLines": 75,
+      "activityLines": 32,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 21789
+    },
+    {
+      "file": "booths-creek-bayou-pierre-watershed-plan-2017.json",
+      "costHeader": false,
+      "costLines": 75,
+      "activityLines": 32,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 21789
+    },
+    {
+      "file": "broken-pumpkin-9-key-element-plan-2019-1.json",
+      "costHeader": true,
+      "costLines": 50,
+      "activityLines": 35,
+      "bmpLines": 14,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "broken-pumpkin-9-key-element-plan-2019-2.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 20,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 7115
+    },
+    {
+      "file": "broken-pumpkin-9-key-element-plan-2019.json",
+      "costHeader": true,
+      "costLines": 50,
+      "activityLines": 55,
+      "bmpLines": 14,
+      "suspectedTrunc": false,
+      "length": 25115
+    },
+    {
+      "file": "buttahatchee-river-watershed-plan-2004.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 0,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 216
+    },
+    {
+      "file": "carmichael-creek-town-creek-9-key-element-plan-2019-1.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 6,
+      "bmpLines": 6,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "carmichael-creek-town-creek-9-key-element-plan-2019-2.json",
+      "costHeader": true,
+      "costLines": 37,
+      "activityLines": 54,
+      "bmpLines": 8,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "carmichael-creek-town-creek-9-key-element-plan-2019-3.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 5,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 1035
+    },
+    {
+      "file": "carmichael-creek-town-creek-9-key-element-plan-2019.json",
+      "costHeader": true,
+      "costLines": 37,
+      "activityLines": 65,
+      "bmpLines": 14,
+      "suspectedTrunc": false,
+      "length": 37035
+    },
+    {
+      "file": "chunky-okatibbee-watershed-plan-2007-2.json",
+      "costHeader": false,
+      "costLines": 26,
+      "activityLines": 181,
+      "bmpLines": 29,
+      "suspectedTrunc": false,
+      "length": 156077
+    },
+    {
+      "file": "chunky-okatibbee-watershed-plan-2007-3.json",
+      "costHeader": false,
+      "costLines": 26,
+      "activityLines": 181,
+      "bmpLines": 29,
+      "suspectedTrunc": false,
+      "length": 156077
+    },
+    {
+      "file": "chunky-okatibbee-watershed-plan-2007-4.json",
+      "costHeader": false,
+      "costLines": 26,
+      "activityLines": 181,
+      "bmpLines": 29,
+      "suspectedTrunc": false,
+      "length": 156077
+    },
+    {
+      "file": "chunky-okatibbee-watershed-plan-2007-5.json",
+      "costHeader": false,
+      "costLines": 26,
+      "activityLines": 181,
+      "bmpLines": 29,
+      "suspectedTrunc": false,
+      "length": 156077
+    },
+    {
+      "file": "chunky-okatibbee-watershed-plan-2007.json",
+      "costHeader": false,
+      "costLines": 26,
+      "activityLines": 181,
+      "bmpLines": 29,
+      "suspectedTrunc": false,
+      "length": 156077
+    },
+    {
+      "file": "coldwater-river-watershed-plan-2013-1.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 29,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "coldwater-river-watershed-plan-2013-2.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 22,
+      "bmpLines": 3,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "coldwater-river-watershed-plan-2013-3.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 30,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 10899
+    },
+    {
+      "file": "deer-creek-watershed-plan-2008-1.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 18,
+      "bmpLines": 2,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "deer-creek-watershed-plan-2008-2.json",
+      "costHeader": false,
+      "costLines": 2,
+      "activityLines": 13,
+      "bmpLines": 3,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "deer-creek-watershed-plan-2008-3.json",
+      "costHeader": false,
+      "costLines": 15,
+      "activityLines": 6,
+      "bmpLines": 14,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "deer-creek-watershed-plan-2008-4.json",
+      "costHeader": false,
+      "costLines": 30,
+      "activityLines": 22,
+      "bmpLines": 3,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "deer-creek-watershed-plan-2008-5.json",
+      "costHeader": false,
+      "costLines": 3,
+      "activityLines": 28,
+      "bmpLines": 3,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "deer-creek-watershed-plan-2008-6.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 3,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 7775
+    },
+    {
+      "file": "dry-creek-9-key-element-plan-2017-10.json",
+      "costHeader": true,
+      "costLines": 16,
+      "activityLines": 47,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 23166
+    },
+    {
+      "file": "dry-creek-9-key-element-plan-2017-11.json",
+      "costHeader": true,
+      "costLines": 16,
+      "activityLines": 47,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 23166
+    },
+    {
+      "file": "dry-creek-9-key-element-plan-2017-12.json",
+      "costHeader": true,
+      "costLines": 16,
+      "activityLines": 47,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 23166
+    },
+    {
+      "file": "dry-creek-9-key-element-plan-2017-13.json",
+      "costHeader": true,
+      "costLines": 16,
+      "activityLines": 47,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 23166
+    },
+    {
+      "file": "dry-creek-9-key-element-plan-2017-14.json",
+      "costHeader": true,
+      "costLines": 16,
+      "activityLines": 47,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 23166
+    },
+    {
+      "file": "dry-creek-9-key-element-plan-2017-15.json",
+      "costHeader": true,
+      "costLines": 16,
+      "activityLines": 47,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 23166
+    },
+    {
+      "file": "dry-creek-9-key-element-plan-2017-16.json",
+      "costHeader": true,
+      "costLines": 16,
+      "activityLines": 47,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 23166
+    },
+    {
+      "file": "dry-creek-9-key-element-plan-2017-17.json",
+      "costHeader": true,
+      "costLines": 16,
+      "activityLines": 47,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 23166
+    },
+    {
+      "file": "dry-creek-9-key-element-plan-2017-18.json",
+      "costHeader": true,
+      "costLines": 16,
+      "activityLines": 47,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 23166
+    },
+    {
+      "file": "dry-creek-9-key-element-plan-2017-2.json",
+      "costHeader": true,
+      "costLines": 16,
+      "activityLines": 47,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 23166
+    },
+    {
+      "file": "dry-creek-9-key-element-plan-2017-3.json",
+      "costHeader": true,
+      "costLines": 16,
+      "activityLines": 47,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 23166
+    },
+    {
+      "file": "dry-creek-9-key-element-plan-2017-4.json",
+      "costHeader": true,
+      "costLines": 16,
+      "activityLines": 47,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 23166
+    },
+    {
+      "file": "dry-creek-9-key-element-plan-2017-5.json",
+      "costHeader": true,
+      "costLines": 16,
+      "activityLines": 47,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 23166
+    },
+    {
+      "file": "dry-creek-9-key-element-plan-2017-6.json",
+      "costHeader": true,
+      "costLines": 16,
+      "activityLines": 47,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 23166
+    },
+    {
+      "file": "dry-creek-9-key-element-plan-2017-7.json",
+      "costHeader": true,
+      "costLines": 16,
+      "activityLines": 47,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 23166
+    },
+    {
+      "file": "dry-creek-9-key-element-plan-2017-8.json",
+      "costHeader": true,
+      "costLines": 16,
+      "activityLines": 47,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 23166
+    },
+    {
+      "file": "dry-creek-9-key-element-plan-2017-9.json",
+      "costHeader": true,
+      "costLines": 16,
+      "activityLines": 47,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 23166
+    },
+    {
+      "file": "dry-creek-9-key-element-plan-2017.json",
+      "costHeader": true,
+      "costLines": 16,
+      "activityLines": 47,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 23166
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-10.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-11.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-12.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-13.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-14.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-15.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-16.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-17.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-18.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-19.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-2.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-20.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-21.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-22.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-23.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-24.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-25.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-26.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-27.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-28.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-29.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-3.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-30.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-31.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-32.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-33.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-34.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-35.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-36.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-37.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-38.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-39.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-4.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-5.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-6.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-7.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-8.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021-9.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "ellison-creek-9-key-element-plan-2021.json",
+      "costHeader": true,
+      "costLines": 30,
+      "activityLines": 54,
+      "bmpLines": 17,
+      "suspectedTrunc": false,
+      "length": 26077
+    },
+    {
+      "file": "fannegusha-creek-watershed-plan-2009-1.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 22,
+      "bmpLines": 4,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "fannegusha-creek-watershed-plan-2009-2.json",
+      "costHeader": false,
+      "costLines": 41,
+      "activityLines": 30,
+      "bmpLines": 6,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "fannegusha-creek-watershed-plan-2009-3.json",
+      "costHeader": false,
+      "costLines": 2,
+      "activityLines": 14,
+      "bmpLines": 8,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "fannegusha-creek-watershed-plan-2009-4.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 9,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 3327
+    },
+    {
+      "file": "fannegusha-creek-watershed-plan-2009.json",
+      "costHeader": false,
+      "costLines": 43,
+      "activityLines": 75,
+      "bmpLines": 18,
+      "suspectedTrunc": false,
+      "length": 57327
+    },
+    {
+      "file": "fourteen-mile-bakers-creek-watershed-plan-2009-1.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 23,
+      "bmpLines": 2,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "fourteen-mile-bakers-creek-watershed-plan-2009-2.json",
+      "costHeader": false,
+      "costLines": 25,
+      "activityLines": 16,
+      "bmpLines": 7,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "fourteen-mile-bakers-creek-watershed-plan-2009-3.json",
+      "costHeader": false,
+      "costLines": 14,
+      "activityLines": 28,
+      "bmpLines": 3,
+      "suspectedTrunc": true,
+      "length": 18000
+    },
+    {
+      "file": "fourteen-mile-bakers-creek-watershed-plan-2009-4.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 10,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 8439
+    },
+    {
+      "file": "fuller-creek-town-creek-9-key-element-plan-2022-1.json",
+      "costHeader": true,
+      "costLines": 27,
+      "activityLines": 34,
+      "bmpLines": 12,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "fuller-creek-town-creek-9-key-element-plan-2022-2.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 23,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 8699
+    },
+    {
+      "file": "hickahala-creek-watershed-plan-2009-1.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 18,
+      "bmpLines": 1,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "hickahala-creek-watershed-plan-2009-2.json",
+      "costHeader": false,
+      "costLines": 24,
+      "activityLines": 12,
+      "bmpLines": 7,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "hickahala-creek-watershed-plan-2009-3.json",
+      "costHeader": false,
+      "costLines": 12,
+      "activityLines": 34,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "hickahala-creek-watershed-plan-2009-4.json",
+      "costHeader": false,
+      "costLines": 4,
+      "activityLines": 10,
+      "bmpLines": 6,
+      "suspectedTrunc": false,
+      "length": 17007
+    },
+    {
+      "file": "hickahala-creek-watershed-plan-2009.json",
+      "costHeader": false,
+      "costLines": 40,
+      "activityLines": 74,
+      "bmpLines": 14,
+      "suspectedTrunc": false,
+      "length": 71007
+    },
+    {
+      "file": "jasper-creek-watershed-plan-2019-1.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 18,
+      "bmpLines": 4,
+      "suspectedTrunc": true,
+      "length": 18000
+    },
+    {
+      "file": "jasper-creek-watershed-plan-2019-2.json",
+      "costHeader": false,
+      "costLines": 13,
+      "activityLines": 20,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "jasper-creek-watershed-plan-2019-3.json",
+      "costHeader": false,
+      "costLines": 21,
+      "activityLines": 43,
+      "bmpLines": 4,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "jasper-creek-watershed-plan-2019-4.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 8,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 3751
+    },
+    {
+      "file": "lake-washington-watershed-plan-2007-1.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 13,
+      "bmpLines": 1,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "lake-washington-watershed-plan-2007-10.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 2,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 5745
+    },
+    {
+      "file": "lake-washington-watershed-plan-2007-2.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 15,
+      "bmpLines": 1,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "lake-washington-watershed-plan-2007-3.json",
+      "costHeader": false,
+      "costLines": 1,
+      "activityLines": 4,
+      "bmpLines": 6,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "lake-washington-watershed-plan-2007-4.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 12,
+      "bmpLines": 1,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "lake-washington-watershed-plan-2007-5.json",
+      "costHeader": false,
+      "costLines": 4,
+      "activityLines": 6,
+      "bmpLines": 2,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "lake-washington-watershed-plan-2007-6.json",
+      "costHeader": false,
+      "costLines": 3,
+      "activityLines": 10,
+      "bmpLines": 3,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "lake-washington-watershed-plan-2007-7.json",
+      "costHeader": false,
+      "costLines": 30,
+      "activityLines": 19,
+      "bmpLines": 1,
+      "suspectedTrunc": true,
+      "length": 18000
+    },
+    {
+      "file": "lake-washington-watershed-plan-2007-8.json",
+      "costHeader": false,
+      "costLines": 12,
+      "activityLines": 20,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "lake-washington-watershed-plan-2007-9.json",
+      "costHeader": false,
+      "costLines": 7,
+      "activityLines": 31,
+      "bmpLines": 1,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "luxapallila-creek-watershed-plan-2004-2.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 0,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 224
+    },
+    {
+      "file": "luxapallila-creek-watershed-plan-2004-3.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 0,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 224
+    },
+    {
+      "file": "luxapallila-creek-watershed-plan-2004-4.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 0,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 224
+    },
+    {
+      "file": "luxapallila-creek-watershed-plan-2004-5.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 0,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 224
+    },
+    {
+      "file": "luxapallila-creek-watershed-plan-2004.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 0,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 224
+    },
+    {
+      "file": "magees-creek-watershed-plan-2007-1.json",
+      "costHeader": false,
+      "costLines": 2,
+      "activityLines": 23,
+      "bmpLines": 11,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "magees-creek-watershed-plan-2007-2.json",
+      "costHeader": false,
+      "costLines": 50,
+      "activityLines": 39,
+      "bmpLines": 5,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "magees-creek-watershed-plan-2007-3.json",
+      "costHeader": false,
+      "costLines": 2,
+      "activityLines": 9,
+      "bmpLines": 8,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "magees-creek-watershed-plan-2007-4.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 6,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 1428
+    },
+    {
+      "file": "middle-porter-bayou-watershed-plan-2013-1.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 14,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "middle-porter-bayou-watershed-plan-2013-2.json",
+      "costHeader": false,
+      "costLines": 2,
+      "activityLines": 1,
+      "bmpLines": 1,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "middle-porter-bayou-watershed-plan-2013-3.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 3,
+      "bmpLines": 4,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "middle-porter-bayou-watershed-plan-2013-4.json",
+      "costHeader": false,
+      "costLines": 4,
+      "activityLines": 9,
+      "bmpLines": 3,
+      "suspectedTrunc": true,
+      "length": 18000
+    },
+    {
+      "file": "middle-porter-bayou-watershed-plan-2013-5.json",
+      "costHeader": false,
+      "costLines": 8,
+      "activityLines": 7,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "middle-porter-bayou-watershed-plan-2013-6.json",
+      "costHeader": false,
+      "costLines": 11,
+      "activityLines": 48,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "middle-porter-bayou-watershed-plan-2013-7.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 0,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 477
+    },
+    {
+      "file": "mill-creek-watershed-plan-2005.json",
+      "costHeader": false,
+      "costLines": 3,
+      "activityLines": 5,
+      "bmpLines": 4,
+      "suspectedTrunc": false,
+      "length": 13381
+    },
+    {
+      "file": "muddy-bayou-opossum-bayou-9-key-element-plan-2022-1.json",
+      "costHeader": true,
+      "costLines": 23,
+      "activityLines": 28,
+      "bmpLines": 11,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "muddy-bayou-opossum-bayou-9-key-element-plan-2022-2.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 21,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 8102
+    },
+    {
+      "file": "north-tippah-creek-watershed-plan-2013-1.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 29,
+      "bmpLines": 4,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "north-tippah-creek-watershed-plan-2013-2.json",
+      "costHeader": false,
+      "costLines": 58,
+      "activityLines": 30,
+      "bmpLines": 5,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "north-tippah-creek-watershed-plan-2013-3.json",
+      "costHeader": false,
+      "costLines": 3,
+      "activityLines": 41,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 11395
+    },
+    {
+      "file": "old-fort-bayou-watershed-plan-2019.json",
+      "costHeader": false,
+      "costLines": 13,
+      "activityLines": 155,
+      "bmpLines": 47,
+      "suspectedTrunc": false,
+      "length": 153000
+    },
+    {
+      "file": "overcup-slough-watershed-plan-2013-1.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 12,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "overcup-slough-watershed-plan-2013-2.json",
+      "costHeader": false,
+      "costLines": 2,
+      "activityLines": 2,
+      "bmpLines": 2,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "overcup-slough-watershed-plan-2013-3.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 3,
+      "bmpLines": 1,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "overcup-slough-watershed-plan-2013-4.json",
+      "costHeader": false,
+      "costLines": 3,
+      "activityLines": 6,
+      "bmpLines": 5,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "overcup-slough-watershed-plan-2013-5.json",
+      "costHeader": false,
+      "costLines": 17,
+      "activityLines": 31,
+      "bmpLines": 2,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "overcup-slough-watershed-plan-2013-6.json",
+      "costHeader": false,
+      "costLines": 1,
+      "activityLines": 23,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 10087
+    },
+    {
+      "file": "owl-creek-little-hatchie-river-9-key-element-plan-2020-1.json",
+      "costHeader": true,
+      "costLines": 22,
+      "activityLines": 32,
+      "bmpLines": 12,
+      "suspectedTrunc": true,
+      "length": 18000
+    },
+    {
+      "file": "owl-creek-little-hatchie-river-9-key-element-plan-2020-2.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 28,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 9684
+    },
+    {
+      "file": "pickwick-reservoir-watershed-plan-2009-1.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 5,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "pickwick-reservoir-watershed-plan-2009-2.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 13,
+      "bmpLines": 3,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "pickwick-reservoir-watershed-plan-2009-3.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 37,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "pickwick-reservoir-watershed-plan-2009-4.json",
+      "costHeader": false,
+      "costLines": 28,
+      "activityLines": 27,
+      "bmpLines": 1,
+      "suspectedTrunc": false,
+      "length": 13802
+    },
+    {
+      "file": "platner-bayou-tippo-bayou-9-key-element-plan-2021-1.json",
+      "costHeader": true,
+      "costLines": 27,
+      "activityLines": 24,
+      "bmpLines": 20,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "platner-bayou-tippo-bayou-9-key-element-plan-2021-2.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 31,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 10369
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-phase-1-plan-2017-1.json",
+      "costHeader": false,
+      "costLines": 3,
+      "activityLines": 52,
+      "bmpLines": 6,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-phase-1-plan-2017-2.json",
+      "costHeader": false,
+      "costLines": 13,
+      "activityLines": 24,
+      "bmpLines": 47,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-phase-1-plan-2017-3.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 66,
+      "bmpLines": 4,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-phase-1-plan-2017-4.json",
+      "costHeader": false,
+      "costLines": 5,
+      "activityLines": 67,
+      "bmpLines": 10,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-phase-1-plan-2017-5.json",
+      "costHeader": false,
+      "costLines": 4,
+      "activityLines": 11,
+      "bmpLines": 16,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-phase-1-plan-2017-6.json",
+      "costHeader": false,
+      "costLines": 3,
+      "activityLines": 10,
+      "bmpLines": 19,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-phase-1-plan-2017-7.json",
+      "costHeader": false,
+      "costLines": 11,
+      "activityLines": 35,
+      "bmpLines": 7,
+      "suspectedTrunc": true,
+      "length": 18000
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-phase-1-plan-2017-8.json",
+      "costHeader": false,
+      "costLines": 45,
+      "activityLines": 34,
+      "bmpLines": 28,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-phase-1-plan-2017-9.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 20,
+      "bmpLines": 7,
+      "suspectedTrunc": false,
+      "length": 11791
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-1.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 20,
+      "bmpLines": 3,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-10.json",
+      "costHeader": false,
+      "costLines": 58,
+      "activityLines": 16,
+      "bmpLines": 12,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-11.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 3,
+      "bmpLines": 15,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-12.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 25,
+      "bmpLines": 2,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-13.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 27,
+      "bmpLines": 13,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-14.json",
+      "costHeader": false,
+      "costLines": 6,
+      "activityLines": 35,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-15.json",
+      "costHeader": false,
+      "costLines": 21,
+      "activityLines": 27,
+      "bmpLines": 1,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-16.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 23,
+      "bmpLines": 7,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-17.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 21,
+      "bmpLines": 2,
+      "suspectedTrunc": false,
+      "length": 11315
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-2.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 22,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-3.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 19,
+      "bmpLines": 2,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-4.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 0,
+      "bmpLines": 6,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-5.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 1,
+      "bmpLines": 1,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-6.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 0,
+      "bmpLines": 5,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-7.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 10,
+      "bmpLines": 5,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-8.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 20,
+      "bmpLines": 7,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "red-bud-catalpa-creek-watershed-plan-2016-9.json",
+      "costHeader": false,
+      "costLines": 3,
+      "activityLines": 2,
+      "bmpLines": 10,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "red-creek-watershed-action-plan-2007.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 0,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 86
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-1.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 8,
+      "bmpLines": 13,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-10.json",
+      "costHeader": false,
+      "costLines": 7,
+      "activityLines": 5,
+      "bmpLines": 15,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-11.json",
+      "costHeader": false,
+      "costLines": 6,
+      "activityLines": 2,
+      "bmpLines": 22,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-12.json",
+      "costHeader": false,
+      "costLines": 4,
+      "activityLines": 4,
+      "bmpLines": 22,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-13.json",
+      "costHeader": false,
+      "costLines": 4,
+      "activityLines": 59,
+      "bmpLines": 1,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-14.json",
+      "costHeader": false,
+      "costLines": 3,
+      "activityLines": 29,
+      "bmpLines": 4,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-15.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 22,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-16.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 0,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-17.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 0,
+      "bmpLines": 1,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-18.json",
+      "costHeader": false,
+      "costLines": 5,
+      "activityLines": 10,
+      "bmpLines": 6,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-19.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 2,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-2.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 8,
+      "bmpLines": 7,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-20.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 5,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-21.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 1,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-22.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 3,
+      "bmpLines": 1,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-23.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 2,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-24.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 0,
+      "bmpLines": 1,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-25.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 1,
+      "bmpLines": 2,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-26.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 6,
+      "bmpLines": 7,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-27.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 0,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-28.json",
+      "costHeader": false,
+      "costLines": 3,
+      "activityLines": 3,
+      "bmpLines": 4,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-29.json",
+      "costHeader": false,
+      "costLines": 1,
+      "activityLines": 6,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-3.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 8,
+      "bmpLines": 2,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-30.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 1,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-31.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 3,
+      "bmpLines": 1,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-32.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 4,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-33.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 0,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-34.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 1,
+      "bmpLines": 3,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-35.json",
+      "costHeader": false,
+      "costLines": 5,
+      "activityLines": 3,
+      "bmpLines": 14,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-36.json",
+      "costHeader": false,
+      "costLines": 3,
+      "activityLines": 12,
+      "bmpLines": 12,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-37.json",
+      "costHeader": false,
+      "costLines": 5,
+      "activityLines": 5,
+      "bmpLines": 30,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-38.json",
+      "costHeader": false,
+      "costLines": 4,
+      "activityLines": 3,
+      "bmpLines": 1,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-39.json",
+      "costHeader": false,
+      "costLines": 10,
+      "activityLines": 4,
+      "bmpLines": 11,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-4.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 5,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-40.json",
+      "costHeader": false,
+      "costLines": 6,
+      "activityLines": 5,
+      "bmpLines": 3,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-41.json",
+      "costHeader": false,
+      "costLines": 7,
+      "activityLines": 5,
+      "bmpLines": 2,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-42.json",
+      "costHeader": false,
+      "costLines": 1,
+      "activityLines": 6,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-43.json",
+      "costHeader": false,
+      "costLines": 1,
+      "activityLines": 7,
+      "bmpLines": 47,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-44.json",
+      "costHeader": false,
+      "costLines": 1,
+      "activityLines": 4,
+      "bmpLines": 37,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-45.json",
+      "costHeader": false,
+      "costLines": 4,
+      "activityLines": 1,
+      "bmpLines": 34,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-46.json",
+      "costHeader": false,
+      "costLines": 2,
+      "activityLines": 11,
+      "bmpLines": 11,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-47.json",
+      "costHeader": false,
+      "costLines": 4,
+      "activityLines": 6,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-48.json",
+      "costHeader": false,
+      "costLines": 7,
+      "activityLines": 4,
+      "bmpLines": 15,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-49.json",
+      "costHeader": false,
+      "costLines": 5,
+      "activityLines": 5,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-5.json",
+      "costHeader": false,
+      "costLines": 3,
+      "activityLines": 9,
+      "bmpLines": 3,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-50.json",
+      "costHeader": false,
+      "costLines": 6,
+      "activityLines": 6,
+      "bmpLines": 16,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-51.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 3,
+      "bmpLines": 10,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-52.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 5,
+      "bmpLines": 16,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-53.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 0,
+      "bmpLines": 1,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-54.json",
+      "costHeader": false,
+      "costLines": 1,
+      "activityLines": 5,
+      "bmpLines": 5,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-55.json",
+      "costHeader": true,
+      "costLines": 4,
+      "activityLines": 2,
+      "bmpLines": 12,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-56.json",
+      "costHeader": true,
+      "costLines": 12,
+      "activityLines": 0,
+      "bmpLines": 16,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-57.json",
+      "costHeader": false,
+      "costLines": 44,
+      "activityLines": 6,
+      "bmpLines": 16,
+      "suspectedTrunc": false,
+      "length": 13493
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-6.json",
+      "costHeader": false,
+      "costLines": 1,
+      "activityLines": 2,
+      "bmpLines": 1,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-7.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 4,
+      "bmpLines": 15,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-8.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 14,
+      "bmpLines": 7,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "ross-barnett-reservoir-watershed-plan-2011-9.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 4,
+      "bmpLines": 21,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "rotten-bayou-watershed-plan-2015.json",
+      "costHeader": false,
+      "costLines": 73,
+      "activityLines": 270,
+      "bmpLines": 134,
+      "suspectedTrunc": false,
+      "length": 603098
+    },
+    {
+      "file": "sample.json",
+      "costHeader": true,
+      "costLines": 5,
+      "activityLines": 2,
+      "bmpLines": 7,
+      "suspectedTrunc": false,
+      "length": 661
+    },
+    {
+      "file": "sherman-creek-panola-quitman-floodway-9-key-element-plan-2018-1.json",
+      "costHeader": true,
+      "costLines": 41,
+      "activityLines": 22,
+      "bmpLines": 14,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "sherman-creek-panola-quitman-floodway-9-key-element-plan-2018-2.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 31,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 13306
+    },
+    {
+      "file": "sherman-creek-panola-quitman-floodway-9-key-element-plan-2018.json",
+      "costHeader": true,
+      "costLines": 41,
+      "activityLines": 53,
+      "bmpLines": 14,
+      "suspectedTrunc": false,
+      "length": 31306
+    },
+    {
+      "file": "steele-bayou-watershed-plan-2009-10.json",
+      "costHeader": false,
+      "costLines": 41,
+      "activityLines": 73,
+      "bmpLines": 6,
+      "suspectedTrunc": false,
+      "length": 47649
+    },
+    {
+      "file": "steele-bayou-watershed-plan-2009-11.json",
+      "costHeader": false,
+      "costLines": 41,
+      "activityLines": 73,
+      "bmpLines": 6,
+      "suspectedTrunc": false,
+      "length": 47649
+    },
+    {
+      "file": "steele-bayou-watershed-plan-2009-12.json",
+      "costHeader": false,
+      "costLines": 41,
+      "activityLines": 73,
+      "bmpLines": 6,
+      "suspectedTrunc": false,
+      "length": 47649
+    },
+    {
+      "file": "steele-bayou-watershed-plan-2009-13.json",
+      "costHeader": false,
+      "costLines": 41,
+      "activityLines": 73,
+      "bmpLines": 6,
+      "suspectedTrunc": false,
+      "length": 47649
+    },
+    {
+      "file": "steele-bayou-watershed-plan-2009-14.json",
+      "costHeader": false,
+      "costLines": 41,
+      "activityLines": 73,
+      "bmpLines": 6,
+      "suspectedTrunc": false,
+      "length": 47649
+    },
+    {
+      "file": "steele-bayou-watershed-plan-2009-15.json",
+      "costHeader": false,
+      "costLines": 41,
+      "activityLines": 73,
+      "bmpLines": 6,
+      "suspectedTrunc": false,
+      "length": 47649
+    },
+    {
+      "file": "steele-bayou-watershed-plan-2009-16.json",
+      "costHeader": false,
+      "costLines": 41,
+      "activityLines": 73,
+      "bmpLines": 6,
+      "suspectedTrunc": false,
+      "length": 47649
+    },
+    {
+      "file": "steele-bayou-watershed-plan-2009-17.json",
+      "costHeader": false,
+      "costLines": 41,
+      "activityLines": 73,
+      "bmpLines": 6,
+      "suspectedTrunc": false,
+      "length": 47649
+    },
+    {
+      "file": "steele-bayou-watershed-plan-2009-18.json",
+      "costHeader": false,
+      "costLines": 41,
+      "activityLines": 73,
+      "bmpLines": 6,
+      "suspectedTrunc": false,
+      "length": 47649
+    },
+    {
+      "file": "steele-bayou-watershed-plan-2009-2.json",
+      "costHeader": false,
+      "costLines": 41,
+      "activityLines": 73,
+      "bmpLines": 6,
+      "suspectedTrunc": false,
+      "length": 47649
+    },
+    {
+      "file": "steele-bayou-watershed-plan-2009-3.json",
+      "costHeader": false,
+      "costLines": 41,
+      "activityLines": 73,
+      "bmpLines": 6,
+      "suspectedTrunc": false,
+      "length": 47649
+    },
+    {
+      "file": "steele-bayou-watershed-plan-2009-4.json",
+      "costHeader": false,
+      "costLines": 41,
+      "activityLines": 73,
+      "bmpLines": 6,
+      "suspectedTrunc": false,
+      "length": 47649
+    },
+    {
+      "file": "steele-bayou-watershed-plan-2009-5.json",
+      "costHeader": false,
+      "costLines": 41,
+      "activityLines": 73,
+      "bmpLines": 6,
+      "suspectedTrunc": false,
+      "length": 47649
+    },
+    {
+      "file": "steele-bayou-watershed-plan-2009-6.json",
+      "costHeader": false,
+      "costLines": 41,
+      "activityLines": 73,
+      "bmpLines": 6,
+      "suspectedTrunc": false,
+      "length": 47649
+    },
+    {
+      "file": "steele-bayou-watershed-plan-2009-7.json",
+      "costHeader": false,
+      "costLines": 41,
+      "activityLines": 73,
+      "bmpLines": 6,
+      "suspectedTrunc": false,
+      "length": 47649
+    },
+    {
+      "file": "steele-bayou-watershed-plan-2009-8.json",
+      "costHeader": false,
+      "costLines": 41,
+      "activityLines": 73,
+      "bmpLines": 6,
+      "suspectedTrunc": false,
+      "length": 47649
+    },
+    {
+      "file": "steele-bayou-watershed-plan-2009-9.json",
+      "costHeader": false,
+      "costLines": 41,
+      "activityLines": 73,
+      "bmpLines": 6,
+      "suspectedTrunc": false,
+      "length": 47649
+    },
+    {
+      "file": "steele-bayou-watershed-plan-2009.json",
+      "costHeader": false,
+      "costLines": 41,
+      "activityLines": 73,
+      "bmpLines": 6,
+      "suspectedTrunc": false,
+      "length": 47649
+    },
+    {
+      "file": "synthetic-goal-demo.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 0,
+      "bmpLines": 1,
+      "suspectedTrunc": false,
+      "length": 169
+    },
+    {
+      "file": "tarebreeches-creek-tuscumbia-river-canal-watersehd-plan-2012-1.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 24,
+      "bmpLines": 5,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "tarebreeches-creek-tuscumbia-river-canal-watersehd-plan-2012-2.json",
+      "costHeader": false,
+      "costLines": 24,
+      "activityLines": 18,
+      "bmpLines": 13,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "tarebreeches-creek-tuscumbia-river-canal-watersehd-plan-2012-3.json",
+      "costHeader": false,
+      "costLines": 31,
+      "activityLines": 26,
+      "bmpLines": 1,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "tarebreeches-creek-tuscumbia-river-canal-watersehd-plan-2012-4.json",
+      "costHeader": false,
+      "costLines": 4,
+      "activityLines": 17,
+      "bmpLines": 4,
+      "suspectedTrunc": false,
+      "length": 10503
+    },
+    {
+      "file": "tarebreeches-creek-tuscumbia-river-canal-watersehd-plan-2012.json",
+      "costHeader": false,
+      "costLines": 59,
+      "activityLines": 85,
+      "bmpLines": 23,
+      "suspectedTrunc": false,
+      "length": 64503
+    },
+    {
+      "file": "tchoutacabouffa-river-watershed-action-plan-2007-1.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 14,
+      "bmpLines": 7,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "tchoutacabouffa-river-watershed-action-plan-2007-2.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 10,
+      "bmpLines": 2,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "tchoutacabouffa-river-watershed-action-plan-2007-3.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 0,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 216
+    },
+    {
+      "file": "turkey-creek-watershed-plan-2006-1.json",
+      "costHeader": false,
+      "costLines": 1,
+      "activityLines": 29,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "turkey-creek-watershed-plan-2006-2.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 19,
+      "bmpLines": 4,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "turkey-creek-watershed-plan-2006-3.json",
+      "costHeader": false,
+      "costLines": 31,
+      "activityLines": 23,
+      "bmpLines": 7,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "turkey-creek-watershed-plan-2006-4.json",
+      "costHeader": false,
+      "costLines": 20,
+      "activityLines": 20,
+      "bmpLines": 4,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "turkey-creek-watershed-plan-2006-5.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 15,
+      "bmpLines": 1,
+      "suspectedTrunc": false,
+      "length": 14623
+    },
+    {
+      "file": "turkey-creek-watershed-plan-2010.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 0,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 20
+    },
+    {
+      "file": "upper-bay-of-st-louis-watershed-action-plan-2007-1.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 8,
+      "bmpLines": 6,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "upper-bay-of-st-louis-watershed-action-plan-2007-2.json",
+      "costHeader": false,
+      "costLines": 1,
+      "activityLines": 17,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "upper-bay-of-st-louis-watershed-action-plan-2007-3.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 0,
+      "bmpLines": 1,
+      "suspectedTrunc": false,
+      "length": 3452
+    },
+    {
+      "file": "upper-little-bayou-pierre-watershed-plan-2018-1.json",
+      "costHeader": false,
+      "costLines": 9,
+      "activityLines": 23,
+      "bmpLines": 8,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "upper-little-bayou-pierre-watershed-plan-2018-2.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 26,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 11266
+    },
+    {
+      "file": "upper-piney-creek-9-key-element-plan-2022-10.json",
+      "costHeader": true,
+      "costLines": 17,
+      "activityLines": 59,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 28033
+    },
+    {
+      "file": "upper-piney-creek-9-key-element-plan-2022-11.json",
+      "costHeader": true,
+      "costLines": 17,
+      "activityLines": 59,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 28033
+    },
+    {
+      "file": "upper-piney-creek-9-key-element-plan-2022-2.json",
+      "costHeader": true,
+      "costLines": 17,
+      "activityLines": 59,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 28033
+    },
+    {
+      "file": "upper-piney-creek-9-key-element-plan-2022-3.json",
+      "costHeader": true,
+      "costLines": 17,
+      "activityLines": 59,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 28033
+    },
+    {
+      "file": "upper-piney-creek-9-key-element-plan-2022-4.json",
+      "costHeader": true,
+      "costLines": 17,
+      "activityLines": 59,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 28033
+    },
+    {
+      "file": "upper-piney-creek-9-key-element-plan-2022-5.json",
+      "costHeader": true,
+      "costLines": 17,
+      "activityLines": 59,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 28033
+    },
+    {
+      "file": "upper-piney-creek-9-key-element-plan-2022-6.json",
+      "costHeader": true,
+      "costLines": 17,
+      "activityLines": 59,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 28033
+    },
+    {
+      "file": "upper-piney-creek-9-key-element-plan-2022-7.json",
+      "costHeader": true,
+      "costLines": 17,
+      "activityLines": 59,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 28033
+    },
+    {
+      "file": "upper-piney-creek-9-key-element-plan-2022-8.json",
+      "costHeader": true,
+      "costLines": 17,
+      "activityLines": 59,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 28033
+    },
+    {
+      "file": "upper-piney-creek-9-key-element-plan-2022-9.json",
+      "costHeader": true,
+      "costLines": 17,
+      "activityLines": 59,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 28033
+    },
+    {
+      "file": "upper-piney-creek-9-key-element-plan-2022.json",
+      "costHeader": true,
+      "costLines": 17,
+      "activityLines": 59,
+      "bmpLines": 9,
+      "suspectedTrunc": false,
+      "length": 28033
+    },
+    {
+      "file": "upper-porter-bayou-watershed-plan-2013-1.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 16,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "upper-porter-bayou-watershed-plan-2013-2.json",
+      "costHeader": false,
+      "costLines": 2,
+      "activityLines": 2,
+      "bmpLines": 1,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "upper-porter-bayou-watershed-plan-2013-3.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 2,
+      "bmpLines": 4,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "upper-porter-bayou-watershed-plan-2013-4.json",
+      "costHeader": false,
+      "costLines": 4,
+      "activityLines": 5,
+      "bmpLines": 5,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "upper-porter-bayou-watershed-plan-2013-5.json",
+      "costHeader": false,
+      "costLines": 14,
+      "activityLines": 19,
+      "bmpLines": 7,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "upper-porter-bayou-watershed-plan-2013-6.json",
+      "costHeader": false,
+      "costLines": 4,
+      "activityLines": 32,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 11671
+    },
+    {
+      "file": "west-boley-creek-watershed-action-plan-2007.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 0,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 80
+    },
+    {
+      "file": "wolf-lake-broad-lake-watershed-plan-2009-1.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 18,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "wolf-lake-broad-lake-watershed-plan-2009-2.json",
+      "costHeader": false,
+      "costLines": 10,
+      "activityLines": 24,
+      "bmpLines": 5,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "wolf-lake-broad-lake-watershed-plan-2009-3.json",
+      "costHeader": false,
+      "costLines": 3,
+      "activityLines": 29,
+      "bmpLines": 5,
+      "suspectedTrunc": false,
+      "length": 11087
+    },
+    {
+      "file": "wolf-river-watershed-plan-2009-1.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 15,
+      "bmpLines": 1,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "wolf-river-watershed-plan-2009-2.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 32,
+      "bmpLines": 4,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "wolf-river-watershed-plan-2009-3.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 10,
+      "bmpLines": 4,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "wolf-river-watershed-plan-2009-4.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 20,
+      "bmpLines": 7,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "wolf-river-watershed-plan-2009-5.json",
+      "costHeader": false,
+      "costLines": 10,
+      "activityLines": 47,
+      "bmpLines": 5,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "wolf-river-watershed-plan-2009-6.json",
+      "costHeader": false,
+      "costLines": 9,
+      "activityLines": 50,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 17707
+    },
+    {
+      "file": "yazoo-pass-9-key-element-plan-2021-1.json",
+      "costHeader": false,
+      "costLines": 19,
+      "activityLines": 33,
+      "bmpLines": 10,
+      "suspectedTrunc": false,
+      "length": 18000
+    },
+    {
+      "file": "yazoo-pass-9-key-element-plan-2021-2.json",
+      "costHeader": false,
+      "costLines": 0,
+      "activityLines": 25,
+      "bmpLines": 0,
+      "suspectedTrunc": false,
+      "length": 10908
+    }
+  ],
+  "multipartFindings": [
+    {
+      "base": "middle-porter-bayou-watershed-plan-2013",
+      "parts": 7,
+      "min": 477,
+      "max": 18000,
+      "ratio": 37.74
+    },
+    {
+      "base": "tchoutacabouffa-river-watershed-action-plan-2007",
+      "parts": 3,
+      "min": 216,
+      "max": 18000,
+      "ratio": 83.33
+    }
+  ]
+}

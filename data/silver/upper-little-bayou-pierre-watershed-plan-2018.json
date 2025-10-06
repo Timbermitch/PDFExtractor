@@ -1,0 +1,887 @@
+{
+  "id": "upper-little-bayou-pierre-watershed-plan-2018",
+  "summary": {
+    "totalGoals": 2,
+    "totalBMPs": 9,
+    "totalActivities": 0,
+    "primaryGoals": 2,
+    "completionRate": 0,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 2,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {
+      "General": 8,
+      "Erosion Control": 1
+    },
+    "avgGoalConfidence": 0.15,
+    "strongGoals": 0
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "The ultimate goal is to bring about behavior Goal: Reduce the pathogen and sediment loads entering waters in the Upper Little Bayou Pierre",
+      "status": "planned",
+      "pollutant": "sediment",
+      "parameter": "sediment",
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The ultimate goal is to bring about behavior Goal: Reduce the pathogen and sediment loads entering waters in the Upper Little Bayou Pierre",
+      "confidence": 0.25,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "fullParagraph": "watershed, as well as, solutions to its problems. The ultimate goal is to bring about behavior Goal: Reduce the pathogen and sediment loads entering waters in the Upper Little Bayou Pierre",
+      "description": "watershed, as well as, solutions to its problems. The ultimate goal is to bring about behavior Goal: Reduce the pathogen and sediment loads entering waters in the Upper Little Bayou Pierre",
+      "originalSentence": "The ultimate goal is to bring about behavior Goal: Reduce the pathogen and sediment loads entering waters in the Upper Little Bayou Pierre",
+      "shortTitle": "The ultimate goal is to bring about behavior Goal: Reduce the pathogen and sediment loads entering waters in the Upper Little Bayou Pierre"
+    },
+    {
+      "id": "G2",
+      "title": "watershed, as well as, solutions to its problems. The ultimate goal is to bring about behavior",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "watershed, as well as, solutions to its problems.  The ultimate goal is to bring about behavior",
+      "confidence": 0.05,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "fullParagraph": "watershed, as well as, solutions to its problems. The ultimate goal is to bring about behavior Goal: Reduce the pathogen and sediment loads entering waters in the Upper Little Bayou Pierre",
+      "description": "watershed, as well as, solutions to its problems. The ultimate goal is to bring about behavior Goal: Reduce the pathogen and sediment loads entering waters in the Upper Little Bayou Pierre",
+      "originalSentence": "watershed, as well as, solutions to its problems. The ultimate goal is to bring about behavior",
+      "shortTitle": "watershed, as well as, solutions to its problems. The ultimate goal is to bring about behavior"
+    }
+  ],
+  "mainGoals": [
+    {
+      "id": "G1",
+      "title": "The ultimate goal is to bring about behavior Goal: Reduce the pathogen and sediment loads entering waters in the Upper Little Bayou Pierre",
+      "status": "planned",
+      "pollutant": "sediment",
+      "parameter": "sediment",
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "The ultimate goal is to bring about behavior Goal: Reduce the pathogen and sediment loads entering waters in the Upper Little Bayou Pierre",
+      "confidence": 0.25,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "fullParagraph": "watershed, as well as, solutions to its problems. The ultimate goal is to bring about behavior Goal: Reduce the pathogen and sediment loads entering waters in the Upper Little Bayou Pierre",
+      "description": "watershed, as well as, solutions to its problems. The ultimate goal is to bring about behavior Goal: Reduce the pathogen and sediment loads entering waters in the Upper Little Bayou Pierre",
+      "originalSentence": "The ultimate goal is to bring about behavior Goal: Reduce the pathogen and sediment loads entering waters in the Upper Little Bayou Pierre",
+      "shortTitle": "The ultimate goal is to bring about behavior Goal: Reduce the pathogen and sediment loads entering waters in the Upper Little Bayou Pierre"
+    },
+    {
+      "id": "G2",
+      "title": "watershed, as well as, solutions to its problems. The ultimate goal is to bring about behavior",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "watershed, as well as, solutions to its problems.  The ultimate goal is to bring about behavior",
+      "confidence": 0.05,
+      "isPrimary": true,
+      "primaryReason": "explicit_phrase",
+      "fullParagraph": "watershed, as well as, solutions to its problems. The ultimate goal is to bring about behavior Goal: Reduce the pathogen and sediment loads entering waters in the Upper Little Bayou Pierre",
+      "description": "watershed, as well as, solutions to its problems. The ultimate goal is to bring about behavior Goal: Reduce the pathogen and sediment loads entering waters in the Upper Little Bayou Pierre",
+      "originalSentence": "watershed, as well as, solutions to its problems. The ultimate goal is to bring about behavior",
+      "shortTitle": "watershed, as well as, solutions to its problems. The ultimate goal is to bring about behavior"
+    }
+  ],
+  "bmps": [
+    {
+      "id": "B1",
+      "name": "Critical Area Planting",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Critical Area Planting 43ac @ $178 7,654|name_cost_tail_trim",
+      "originalName": "Critical Area Planting 43ac @ $178 7,654"
+    },
+    {
+      "id": "B2",
+      "name": "@$2.05",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "@$2.05"
+    },
+    {
+      "id": "B3",
+      "name": "Grade Stabilization Structure",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Grade Stabilization Structure 28 ea. @ $5,000 140,000|name_cost_tail_trim",
+      "originalName": "Grade Stabilization Structure 28 ea. @ $5,000 140,000"
+    },
+    {
+      "id": "B4",
+      "name": "Streambank and Shoreline Protection",
+      "category": "General",
+      "keyword": null,
+      "quantity": 630,
+      "unit": "ft",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "Streambank and Shoreline Protection 630ft @ $111 69,930|name_cost_tail_trim",
+      "originalName": "Streambank and Shoreline Protection 630ft @ $111 69,930"
+    },
+    {
+      "id": "B5",
+      "name": "Grassed Waterway",
+      "category": "Erosion Control",
+      "keyword": "Grassed Waterway",
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0.4,
+      "source": "Grassed Waterway 12ac @ $1,755 21,060|name_cost_tail_trim",
+      "originalName": "Grassed Waterway 12ac @ $1,755 21,060"
+    },
+    {
+      "id": "B6",
+      "name": "Water and Sediment Control Basin",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Water and Sediment Control Basin 5ea @ $5,000 25,000|name_cost_tail_trim",
+      "originalName": "Water and Sediment Control Basin 5ea @ $5,000 25,000"
+    },
+    {
+      "id": "B7",
+      "name": "Tank or Trough",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "Tank or Trough 7 ea. @ $3,000 21,000|name_cost_tail_trim",
+      "originalName": "Tank or Trough 7 ea. @ $3,000 21,000"
+    },
+    {
+      "id": "B8",
+      "name": "Heavy Use Area Protection",
+      "category": "General",
+      "keyword": null,
+      "quantity": 4500,
+      "unit": "ft",
+      "verb": null,
+      "confidence": 0.25,
+      "source": "Heavy Use Area Protection 4,500 ft. @$1.00 4,500|name_cost_tail_trim",
+      "originalName": "Heavy Use Area Protection 4,500 ft. @$1.00 4,500"
+    },
+    {
+      "id": "B9",
+      "name": "$416,501",
+      "category": "General",
+      "keyword": null,
+      "quantity": null,
+      "unit": null,
+      "verb": null,
+      "confidence": 0,
+      "source": "$416,501"
+    }
+  ],
+  "bmpCostTable": {
+    "id": "adaptive_generic_costs",
+    "title": "Critical Area Planting 43ac @ $178 7,654",
+    "table": {
+      "columns": [
+        "Item",
+        "Cost",
+        "Extra?"
+      ],
+      "rows": [
+        {
+          "Item": "Critical Area Planting 43ac @",
+          "Cost": "$178",
+          "Extra": null
+        },
+        {
+          "Item": "Grade Stabilization Structure 28 ea. @",
+          "Cost": "$5,000",
+          "Extra": null
+        },
+        {
+          "Item": "Streambank and Shoreline Protection 630ft @",
+          "Cost": "$111",
+          "Extra": null
+        },
+        {
+          "Item": "Grassed Waterway 12ac @",
+          "Cost": "$1,755",
+          "Extra": null
+        },
+        {
+          "Item": "Water and Sediment Control Basin 5ea @",
+          "Cost": "$5,000",
+          "Extra": null
+        },
+        {
+          "Item": "Tank or Trough 7 ea. @",
+          "Cost": "$3,000",
+          "Extra": null
+        },
+        {
+          "Item": "Heavy Use Area Protection 4,500 ft. @",
+          "Cost": "$1.00",
+          "Extra": null
+        }
+      ],
+      "total": null
+    },
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTableNormalized": {
+    "id": "adaptive_generic_costs",
+    "title": "Critical Area Planting 43ac @ $178 7,654",
+    "rows": [
+      {
+        "name": "Critical Area Planting 43ac @",
+        "totalCost": 178,
+        "rawCost": "$178"
+      },
+      {
+        "name": "Grade Stabilization Structure 28 ea. @",
+        "totalCost": 5000,
+        "rawCost": "$5,000"
+      },
+      {
+        "name": "Streambank and Shoreline Protection 630ft @",
+        "totalCost": 111,
+        "rawCost": "$111"
+      },
+      {
+        "name": "Grassed Waterway 12ac @",
+        "totalCost": 1755,
+        "rawCost": "$1,755"
+      },
+      {
+        "name": "Water and Sediment Control Basin 5ea @",
+        "totalCost": 5000,
+        "rawCost": "$5,000"
+      },
+      {
+        "name": "Tank or Trough 7 ea. @",
+        "totalCost": 3000,
+        "rawCost": "$3,000"
+      },
+      {
+        "name": "Heavy Use Area Protection 4,500 ft. @",
+        "totalCost": 1,
+        "rawCost": "$1.00"
+      }
+    ],
+    "totalReported": null,
+    "totalComputed": 15045,
+    "discrepancy": null,
+    "patternId": "adaptive_generic_costs",
+    "patternConfidence": 0.5
+  },
+  "bmpCostTables": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Critical Area Planting 43ac @ $178 7,654",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Critical Area Planting 43ac @",
+            "Cost": "$178",
+            "Extra": null
+          },
+          {
+            "Item": "Grade Stabilization Structure 28 ea. @",
+            "Cost": "$5,000",
+            "Extra": null
+          },
+          {
+            "Item": "Streambank and Shoreline Protection 630ft @",
+            "Cost": "$111",
+            "Extra": null
+          },
+          {
+            "Item": "Grassed Waterway 12ac @",
+            "Cost": "$1,755",
+            "Extra": null
+          },
+          {
+            "Item": "Water and Sediment Control Basin 5ea @",
+            "Cost": "$5,000",
+            "Extra": null
+          },
+          {
+            "Item": "Tank or Trough 7 ea. @",
+            "Cost": "$3,000",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Area Protection 4,500 ft. @",
+            "Cost": "$1.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "@$2.05",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Grade Stabilization Structure 28 ea. @",
+            "Cost": "$5,000",
+            "Extra": null
+          },
+          {
+            "Item": "Streambank and Shoreline Protection 630ft @",
+            "Cost": "$111",
+            "Extra": null
+          },
+          {
+            "Item": "Grassed Waterway 12ac @",
+            "Cost": "$1,755",
+            "Extra": null
+          },
+          {
+            "Item": "Water and Sediment Control Basin 5ea @",
+            "Cost": "$5,000",
+            "Extra": null
+          },
+          {
+            "Item": "Tank or Trough 7 ea. @",
+            "Cost": "$3,000",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Area Protection 4,500 ft. @",
+            "Cost": "$1.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Grade Stabilization Structure 28 ea. @ $5,000 140,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Grade Stabilization Structure 28 ea. @",
+            "Cost": "$5,000",
+            "Extra": null
+          },
+          {
+            "Item": "Streambank and Shoreline Protection 630ft @",
+            "Cost": "$111",
+            "Extra": null
+          },
+          {
+            "Item": "Grassed Waterway 12ac @",
+            "Cost": "$1,755",
+            "Extra": null
+          },
+          {
+            "Item": "Water and Sediment Control Basin 5ea @",
+            "Cost": "$5,000",
+            "Extra": null
+          },
+          {
+            "Item": "Tank or Trough 7 ea. @",
+            "Cost": "$3,000",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Area Protection 4,500 ft. @",
+            "Cost": "$1.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Streambank and Shoreline Protection 630ft @ $111 69,930",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Streambank and Shoreline Protection 630ft @",
+            "Cost": "$111",
+            "Extra": null
+          },
+          {
+            "Item": "Grassed Waterway 12ac @",
+            "Cost": "$1,755",
+            "Extra": null
+          },
+          {
+            "Item": "Water and Sediment Control Basin 5ea @",
+            "Cost": "$5,000",
+            "Extra": null
+          },
+          {
+            "Item": "Tank or Trough 7 ea. @",
+            "Cost": "$3,000",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Area Protection 4,500 ft. @",
+            "Cost": "$1.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Grassed Waterway 12ac @ $1,755 21,060",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Grassed Waterway 12ac @",
+            "Cost": "$1,755",
+            "Extra": null
+          },
+          {
+            "Item": "Water and Sediment Control Basin 5ea @",
+            "Cost": "$5,000",
+            "Extra": null
+          },
+          {
+            "Item": "Tank or Trough 7 ea. @",
+            "Cost": "$3,000",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Area Protection 4,500 ft. @",
+            "Cost": "$1.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Water and Sediment Control Basin 5ea @ $5,000 25,000",
+      "table": {
+        "columns": [
+          "Item",
+          "Cost",
+          "Extra?"
+        ],
+        "rows": [
+          {
+            "Item": "Water and Sediment Control Basin 5ea @",
+            "Cost": "$5,000",
+            "Extra": null
+          },
+          {
+            "Item": "Tank or Trough 7 ea. @",
+            "Cost": "$3,000",
+            "Extra": null
+          },
+          {
+            "Item": "Heavy Use Area Protection 4,500 ft. @",
+            "Cost": "$1.00",
+            "Extra": null
+          }
+        ],
+        "total": null
+      },
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "bmpCostTablesNormalized": [
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Critical Area Planting 43ac @ $178 7,654",
+      "rows": [
+        {
+          "name": "Critical Area Planting 43ac @",
+          "totalCost": 178,
+          "rawCost": "$178"
+        },
+        {
+          "name": "Grade Stabilization Structure 28 ea. @",
+          "totalCost": 5000,
+          "rawCost": "$5,000"
+        },
+        {
+          "name": "Streambank and Shoreline Protection 630ft @",
+          "totalCost": 111,
+          "rawCost": "$111"
+        },
+        {
+          "name": "Grassed Waterway 12ac @",
+          "totalCost": 1755,
+          "rawCost": "$1,755"
+        },
+        {
+          "name": "Water and Sediment Control Basin 5ea @",
+          "totalCost": 5000,
+          "rawCost": "$5,000"
+        },
+        {
+          "name": "Tank or Trough 7 ea. @",
+          "totalCost": 3000,
+          "rawCost": "$3,000"
+        },
+        {
+          "name": "Heavy Use Area Protection 4,500 ft. @",
+          "totalCost": 1,
+          "rawCost": "$1.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 15045,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "@$2.05",
+      "rows": [
+        {
+          "name": "Grade Stabilization Structure 28 ea. @",
+          "totalCost": 5000,
+          "rawCost": "$5,000"
+        },
+        {
+          "name": "Streambank and Shoreline Protection 630ft @",
+          "totalCost": 111,
+          "rawCost": "$111"
+        },
+        {
+          "name": "Grassed Waterway 12ac @",
+          "totalCost": 1755,
+          "rawCost": "$1,755"
+        },
+        {
+          "name": "Water and Sediment Control Basin 5ea @",
+          "totalCost": 5000,
+          "rawCost": "$5,000"
+        },
+        {
+          "name": "Tank or Trough 7 ea. @",
+          "totalCost": 3000,
+          "rawCost": "$3,000"
+        },
+        {
+          "name": "Heavy Use Area Protection 4,500 ft. @",
+          "totalCost": 1,
+          "rawCost": "$1.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 14867,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Grade Stabilization Structure 28 ea. @ $5,000 140,000",
+      "rows": [
+        {
+          "name": "Grade Stabilization Structure 28 ea. @",
+          "totalCost": 5000,
+          "rawCost": "$5,000"
+        },
+        {
+          "name": "Streambank and Shoreline Protection 630ft @",
+          "totalCost": 111,
+          "rawCost": "$111"
+        },
+        {
+          "name": "Grassed Waterway 12ac @",
+          "totalCost": 1755,
+          "rawCost": "$1,755"
+        },
+        {
+          "name": "Water and Sediment Control Basin 5ea @",
+          "totalCost": 5000,
+          "rawCost": "$5,000"
+        },
+        {
+          "name": "Tank or Trough 7 ea. @",
+          "totalCost": 3000,
+          "rawCost": "$3,000"
+        },
+        {
+          "name": "Heavy Use Area Protection 4,500 ft. @",
+          "totalCost": 1,
+          "rawCost": "$1.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 14867,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Streambank and Shoreline Protection 630ft @ $111 69,930",
+      "rows": [
+        {
+          "name": "Streambank and Shoreline Protection 630ft @",
+          "totalCost": 111,
+          "rawCost": "$111"
+        },
+        {
+          "name": "Grassed Waterway 12ac @",
+          "totalCost": 1755,
+          "rawCost": "$1,755"
+        },
+        {
+          "name": "Water and Sediment Control Basin 5ea @",
+          "totalCost": 5000,
+          "rawCost": "$5,000"
+        },
+        {
+          "name": "Tank or Trough 7 ea. @",
+          "totalCost": 3000,
+          "rawCost": "$3,000"
+        },
+        {
+          "name": "Heavy Use Area Protection 4,500 ft. @",
+          "totalCost": 1,
+          "rawCost": "$1.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 9867,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Grassed Waterway 12ac @ $1,755 21,060",
+      "rows": [
+        {
+          "name": "Grassed Waterway 12ac @",
+          "totalCost": 1755,
+          "rawCost": "$1,755"
+        },
+        {
+          "name": "Water and Sediment Control Basin 5ea @",
+          "totalCost": 5000,
+          "rawCost": "$5,000"
+        },
+        {
+          "name": "Tank or Trough 7 ea. @",
+          "totalCost": 3000,
+          "rawCost": "$3,000"
+        },
+        {
+          "name": "Heavy Use Area Protection 4,500 ft. @",
+          "totalCost": 1,
+          "rawCost": "$1.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 9756,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    },
+    {
+      "id": "adaptive_generic_costs",
+      "title": "Water and Sediment Control Basin 5ea @ $5,000 25,000",
+      "rows": [
+        {
+          "name": "Water and Sediment Control Basin 5ea @",
+          "totalCost": 5000,
+          "rawCost": "$5,000"
+        },
+        {
+          "name": "Tank or Trough 7 ea. @",
+          "totalCost": 3000,
+          "rawCost": "$3,000"
+        },
+        {
+          "name": "Heavy Use Area Protection 4,500 ft. @",
+          "totalCost": 1,
+          "rawCost": "$1.00"
+        }
+      ],
+      "totalReported": null,
+      "totalComputed": 8001,
+      "discrepancy": null,
+      "patternId": "adaptive_generic_costs",
+      "patternConfidence": 0.5
+    }
+  ],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-02T13:23:26.364Z",
+  "metadata": {
+    "sourceId": "upper-little-bayou-pierre-watershed-plan-2018",
+    "sourceFile": "upper-little-bayou-pierre-watershed-plan-2018.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": [
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Critical Area Planting 43ac @ $178 7,654",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 15045
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "@$2.05",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 14867
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Grade Stabilization Structure 28 ea. @ $5,000 140,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 14867
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Streambank and Shoreline Protection 630ft @ $111 69,930",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 9867
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Grassed Waterway 12ac @ $1,755 21,060",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 9756
+      },
+      {
+        "id": "adaptive_generic_costs",
+        "title": "Water and Sediment Control Basin 5ea @ $5,000 25,000",
+        "confidence": 0.5,
+        "totalReported": null,
+        "totalComputed": 8001
+      }
+    ]
+  }
+}

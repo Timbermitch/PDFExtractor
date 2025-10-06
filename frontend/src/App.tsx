@@ -7,6 +7,7 @@ import { api } from './services/api';
 import { AccuracyRequirements } from './components/AccuracyRequirements';
 import { LoadingOverlay } from './components/ui/LoadingOverlay';
 import type { ExtractedReport, ReportListItem } from './types';
+import { DebugBar } from './components/ui/DebugBar';
 
 function App() {
   const [bronze, setBronze] = useState<{ id: string; rawText: string } | null>(null);
@@ -27,6 +28,13 @@ function App() {
     try {
       const res = await api.upload(file);
       setBronze(res);
+    } catch (e:any) {
+      // Provide a clearer surfaced message for typical Axios "Network Error" (backend unreachable)
+      const msg = e?.message || 'Upload failed';
+      // eslint-disable-next-line no-console
+      console.error('[ui] upload failed', e);
+      // Basic inline notification (could be replaced with toast system later)
+      window.alert(`Upload failed: ${msg}\n\nTroubleshooting:\n 1. Ensure backend is running (check http://localhost:5200/health).\n 2. If backend started on a different port (5201/5202), set REACT_APP_API_BASE to that port and restart frontend.\n 3. See console for details.`);
     } finally { setLoading(false); }
   }
 
@@ -132,6 +140,7 @@ function App() {
         </div>
       </main>
       <footer style={{marginTop:'2rem', textAlign:'center'}} className="muted">{compact && 'Compact mode enabled'}</footer>
+      <DebugBar />
     </div>
   );
 }

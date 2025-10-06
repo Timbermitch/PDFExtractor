@@ -1,0 +1,71 @@
+{
+  "id": "coldwater-river-watershed-plan-2013",
+  "summary": {
+    "totalGoals": 1,
+    "totalBMPs": 0,
+    "totalActivities": 0,
+    "primaryGoals": 0,
+    "completionRate": 0,
+    "totalMetrics": 0,
+    "goalStatus": {
+      "completed": 0,
+      "inProgress": 0,
+      "planned": 1,
+      "pctCompleted": 0,
+      "pctInProgress": 0,
+      "pctPlanned": 1
+    },
+    "bmpCategories": {},
+    "avgGoalConfidence": 0,
+    "strongGoals": 0
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "title": "29 The goal of this plan is to provide guidance for implementing and evaluating conservation 5.1 Goal 6.1 Goal",
+      "status": "planned",
+      "pollutant": null,
+      "parameter": null,
+      "reductionPercent": null,
+      "baselineValue": null,
+      "baselineUnit": null,
+      "targetValue": null,
+      "targetUnit": null,
+      "achievedValue": null,
+      "achievedUnit": null,
+      "loadReductionValue": null,
+      "loadReductionUnit": null,
+      "deadline": null,
+      "deadlineYear": null,
+      "baselineYear": null,
+      "achievedYear": null,
+      "targetYear": null,
+      "responsible": null,
+      "source": "29 The goal of this plan is to provide guidance for implementing and evaluating conservation 5.1 Goal 6.1 Goal",
+      "confidence": 0,
+      "description": "29 The goal of this plan is to provide guidance for implementing and evaluating conservation 5.1 Goal 6.1 Goal",
+      "originalSentence": "29 The goal of this plan is to provide guidance for implementing and evaluating conservation 5.1 Goal 6.1 Goal",
+      "shortTitle": "29 The goal of this plan is to provide guidance for implementing and evaluating conservation 5.1 Goal 6.1 Goal"
+    }
+  ],
+  "mainGoals": [],
+  "bmps": [],
+  "bmpCostTable": null,
+  "bmpCostTableNormalized": null,
+  "bmpCostTables": [],
+  "bmpCostTablesNormalized": [],
+  "activities": [],
+  "implementation": [],
+  "monitoring": [],
+  "outreach": [],
+  "geographicAreas": [],
+  "generatedAt": "2025-10-02T17:24:48.839Z",
+  "metadata": {
+    "sourceId": "coldwater-river-watershed-plan-2013",
+    "sourceFile": "coldwater-river-watershed-plan-2013.pdf",
+    "enrichmentVersion": 3,
+    "fallbackGoalHeuristicUsed": false,
+    "bmpFallbackApplied": false,
+    "costPatternsDetected": []
+  }
+}
