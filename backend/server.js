@@ -40,17 +40,56 @@ function resolveFrontendDir(){
     path.join(process.cwd(), 'frontend'),             // raw frontend folder
     path.join(process.cwd(), '..', 'frontend'),       // running from backend/ subdir
   ];
-  for(const dir of candidates){
+  console.log('[diagnostic] resolveFrontendDir() cwd=', process.cwd());
+  let chosen = candidates[2];
+  candidates.forEach((dir, idx) => {
+    let stat = 'missing';
+    let idxExists = false;
     try {
-      if(fs.existsSync(path.join(dir,'index.html'))){
-        return dir;
-      }
-    } catch(_) { /* ignore */ }
+      if(fs.existsSync(dir)) stat = 'exists';
+      idxExists = fs.existsSync(path.join(dir,'index.html'));
+    } catch(e){ stat = 'err:' + e.code; }
+    console.log(`[diagnostic] candidate[${idx}] dir=${dir} dirState=${stat} indexHtml=${idxExists}`);
+    if(!chosen && idxExists) chosen = dir;
+    if(idxExists && !chosen) chosen = dir;
+  });
+  // Prefer first with index.html
+  for(const dir of candidates){
+    try { if(fs.existsSync(path.join(dir,'index.html'))) { chosen = dir; break; } } catch(_){}
   }
-  return candidates[2]; // default to /frontend even if missing
+  return chosen;
 }
 const frontendDir = resolveFrontendDir();
-console.log('[startup] frontendDir resolved to', frontendDir);
+console.log('[startup] frontendDir resolved to', frontendDir, 'index.html exists=', fs.existsSync(path.join(frontendDir,'index.html')));
+
+// Expose a lightweight diagnostics endpoint to introspect deployment state (safe, no secrets)
+app.get('/__diag', (_req, res) => {
+  const candidates = [
+    path.join(process.cwd(), 'frontend_build'),
+    path.join(process.cwd(), 'frontend', 'build'),
+    path.join(process.cwd(), 'frontend'),
+    path.join(process.cwd(), '..', 'frontend'),
+  ];
+  const candidateInfo = candidates.map(d => {
+    let exists = false, indexExists = false;
+    try { exists = fs.existsSync(d); indexExists = fs.existsSync(path.join(d,'index.html')); } catch(_){}
+    return { dir: d, exists, indexHtml: indexExists };
+  });
+  res.json({
+    cwd: process.cwd(),
+    dirname: __dirname,
+    frontendDir,
+    frontendIndexExists: fs.existsSync(path.join(frontendDir,'index.html')),
+    portEnv: process.env.PORT || null,
+    nodeEnv: process.env.NODE_ENV || null,
+    gitSha: process.env.GIT_SHA || null,
+    buildTime: process.env.BUILD_TIME || null,
+    candidates: candidateInfo,
+    memory: process.memoryUsage(),
+    uptimeSeconds: process.uptime(),
+    routesSample: (app._router?.stack||[]).filter(l=>l.route && l.route.path).slice(0,30).map(l=>({path:l.route.path, methods:Object.keys(l.route.methods)})),
+  });
+});
 app.use(express.static(frontendDir));
 app.get('/', (req, res) => {
   const idx = path.join(frontendDir, 'index.html');
@@ -96,6 +135,34 @@ app.use('/debug', debugGoalsRouter);
 app.use('/report', reportGetRouter); // singular fetch by id
 app.use('/reports', reportSummaryRouter);
 app.use('/reports', metricsRouter);
+
+// Diagnostic: log registered top-level GET routes to ensure '/' is present (Render debugging)
+function logRegisteredRoutes(){
+  try {
+    const routes = [];
+    app._router.stack.forEach(layer => {
+      if(layer.route && layer.route.path){
+        const methods = Object.keys(layer.route.methods).filter(m=>layer.route.methods[m]);
+        routes.push(methods.join(',').toUpperCase() + ' ' + layer.route.path);
+      } else if(layer.name === 'router' && layer.handle && layer.handle.stack){
+        layer.handle.stack.forEach(r => {
+          if(r.route && r.route.path){
+            const methods = Object.keys(r.route.methods).filter(m=>r.route.methods[m]);
+            routes.push(methods.join(',').toUpperCase() + ' ' + (layer.regexp?.source || '') + r.route.path);
+          }
+        });
+      }
+    });
+    console.log('[startup] Registered routes count=' + routes.length);
+    const sample = routes.filter(r=>r.includes('GET')).slice(0, 25);
+    console.log('[startup] First GET routes:', sample);
+    if(!routes.some(r=>r.startsWith('GET / ')) && !routes.some(r=>r === 'GET /')){
+      console.warn('[startup] WARNING: root GET / route not detected in route stack');
+    }
+  } catch(e){
+    console.warn('[startup] route introspection failed', e.message);
+  }
+}
 
 app.use(notFoundHandler);
 app.use(errorHandler);
@@ -221,5 +288,7 @@ export { app, startServer };
 // Only auto-start if this file is the entry point (not imported by a test script)
 const isDirect = process.argv[1] && path.basename(process.argv[1]) === 'server.js';
 if (isDirect) {
-  startServer();
+  const { server } = startServer();
+  // Delay a tick to allow routes to register fully then log
+  setTimeout(logRegisteredRoutes, 300);
 }
