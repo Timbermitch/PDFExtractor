@@ -4,7 +4,21 @@ services:
     env: node
     rootDir: backend
     plan: free
-    buildCommand: npm install
+    buildCommand: |
+      echo '[render] installing backend dependencies'
+      npm install
+      echo '[render] building minimal frontend (if package.json exists)'
+      if [ -f ../frontend/package.json ]; then \
+        cd ../frontend && npm install --omit=dev && (npm run build || echo 'no build script, using raw files') && cd - ; \
+        # Prefer built assets if build/ exists; else copy raw index/app
+        if [ -d ../frontend/build ]; then \
+          cp -R ../frontend/build ./frontend_build ; \
+        else \
+          mkdir -p frontend_build && cp ../frontend/index.html frontend_build/index.html 2>/dev/null || true && cp ../frontend/app.js frontend_build/app.js 2>/dev/null || true ; \
+        fi ; \
+      else \
+        echo '[render] no frontend/package.json found - skipping frontend build'; \
+      fi
     startCommand: node server.js
     envVars:
       - key: NODE_ENV

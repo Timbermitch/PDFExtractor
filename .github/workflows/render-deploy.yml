@@ -1,0 +1,37 @@
+name: Render Deploy
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - 'backend/**'
+      - 'frontend/**'
+      - 'render.yaml'
+      - '.github/workflows/render-deploy.yml'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    if: ${{ github.ref == 'refs/heads/main' }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install backend deps (for helper script)
+        working-directory: backend
+        run: npm ci || npm install
+
+      - name: Trigger Render Deploy
+        env:
+          RENDER_API_KEY: ${{ secrets.RENDER_API_KEY }}
+          RENDER_SERVICE_ID: ${{ secrets.RENDER_SERVICE_ID }}
+        run: |
+          node backend/scripts/triggerRenderDeploy.js $RENDER_SERVICE_ID
+
+      - name: Note
+        run: echo 'Deploy triggered. Monitor Render dashboard for progress.'

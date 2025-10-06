@@ -156,6 +156,28 @@ If using the minimal static `frontend/index.html` (non-CRA) you can omit the sep
 | PDF parse fails both methods | Corrupt / scanned (image only) PDF | Integrate OCR (future) or reject with actionable error. |
 | High memory usage | Multiple large PDFs concurrently | Queue uploads or scale instance memory. |
 | Frontend cannot reach API | Wrong API base / port blocked | Set `REACT_APP_API_BASE` or serve static from backend. |
+| `/health` returns 404 in deploy | Wrong entrypoint / old commit / crash before route registration | Use `bootstrap.js` start command temporarily to emit route diagnostics. |
+
+### Deep Diagnostics with bootstrap.js
+If a deployed instance returns `Cannot GET /health` even though `server.js` defines the route, switch the start command to:
+```
+node bootstrap.js
+```
+This emits:
+* Environment + cwd
+* Frontend candidate detection
+* Directory listing (first 40 entries)
+* Route registration snapshots at ~0.4s and 2s
+
+After confirming the issue (e.g., route truly missing or process running from unexpected directory), revert the start command to `node server.js`.
+
+### Remote Endpoint Smoke Script
+Run locally to verify a deployed base URL:
+```
+node backend/scripts/checkRemote.js https://your-service.onrender.com
+```
+Outputs status codes and first 400 bytes for `/`, `/health`, `/version`, `/__diag`.
+
 
 ## Manual One-Liner Smoke (After Deploy)
 ```

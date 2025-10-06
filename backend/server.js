@@ -61,6 +61,12 @@ function resolveFrontendDir(){
 }
 const frontendDir = resolveFrontendDir();
 console.log('[startup] frontendDir resolved to', frontendDir, 'index.html exists=', fs.existsSync(path.join(frontendDir,'index.html')));
+// Additional explicit build dir (if created by render build step) gets priority for static assets
+const explicitBuildDir = path.join(process.cwd(),'frontend_build');
+if(fs.existsSync(explicitBuildDir)){
+  console.log('[startup] Serving explicit build dir at / (priority)', explicitBuildDir);
+  app.use(express.static(explicitBuildDir));
+}
 
 // Expose a lightweight diagnostics endpoint to introspect deployment state (safe, no secrets)
 app.get('/__diag', (_req, res) => {
@@ -93,12 +99,71 @@ app.get('/__diag', (_req, res) => {
 app.use(express.static(frontendDir));
 app.get('/', (req, res) => {
   const idx = path.join(frontendDir, 'index.html');
-  if(fs.existsSync(idx)){
+  if (fs.existsSync(idx)) {
     return res.sendFile(idx);
   }
-  // Fallback minimal inline UI so Render root is never blank.
-  res.setHeader('Content-Type','text/html; charset=utf-8');
-  return res.end(`<!doctype html><html><head><meta charset=utf-8><title>PDF Extractor Backend</title><style>body{font-family:system-ui,Arial,sans-serif;background:#111;color:#eee;padding:2rem;line-height:1.5;}code{background:#222;padding:.15rem .4rem;border-radius:4px;}a{color:#7fb3ff;text-decoration:none;}a:hover{text-decoration:underline;}h1{margin-top:0;font-size:1.4rem;}ul{margin:0 0 1rem 1.2rem;padding:0;}li{margin:.25rem 0;}</style></head><body><h1>PDF Extraction Service</h1><p>No <code>index.html</code> frontend was found at runtime. The API is live.</p><h2>Endpoints</h2><ul><li><code>/health</code> – liveness</li><li><code>/version</code> – build metadata</li><li><code>/upload</code> – multipart PDF upload (field <code>file</code>)</li><li><code>/process</code> – build structured report (POST JSON: { id })</li><li><code>/reports</code> – list processed reports</li><li><code>/report/:id</code> – fetch single report</li><li><code>/export/:id?format=csv|json</code> – export data</li></ul><p>To deploy the UI, include a <code>frontend/index.html</code> or CRA build (served from <code>frontend/build</code> or <code>frontend_build</code>).</p><p><em>Render Fallback Mode</em></p></body></html>`);
+  // Richer fallback inline UI with diagnostics so we can tell if the container is fresh.
+  res.setHeader('Content-Type', 'text/html; charset=utf-8');
+  const now = new Date().toISOString();
+  const envInfo = {
+    node: process.version,
+    pid: process.pid,
+    cwd: process.cwd(),
+    frontendDir,
+    frontendIndexExists: fs.existsSync(path.join(frontendDir, 'index.html')),
+    PORT: process.env.PORT || null,
+    NODE_ENV: process.env.NODE_ENV || null,
+    GIT_SHA: process.env.GIT_SHA || null,
+    BUILD_TIME: process.env.BUILD_TIME || null,
+  };
+  const diagPre = JSON.stringify(envInfo, null, 2)
+    .replace(/[&]/g, '&amp;')
+    .replace(/[<]/g, '&lt;');
+  return res.end(`<!doctype html><html><head><meta charset=utf-8><title>PDF Extractor Backend – Fallback</title><style>
+    :root { color-scheme: dark; }
+    body{font-family:system-ui,Segoe UI,Arial,sans-serif;background:#0c1116;color:#e2e8f0;margin:0;padding:2rem;line-height:1.5;}
+    h1{margin-top:0;font-size:1.55rem;letter-spacing:.5px;}
+    h2{margin-top:2.2rem;font-size:1.05rem;text-transform:uppercase;letter-spacing:.08em;color:#93c5fd;}
+    code{background:#1e293b;padding:.15rem .4rem;border-radius:4px;font-size:.85rem;}
+    pre{background:#0f172a;padding:1rem;border-radius:8px;overflow:auto;font-size:.8rem;}
+    a{color:#60a5fa;text-decoration:none;}a:hover{text-decoration:underline;}
+    ul{margin:.4rem 0 1rem 1.1rem;padding:0;}li{margin:.25rem 0;}
+    .pill{display:inline-block;background:#1e293b;padding:.25rem .6rem;border-radius:999px;font-size:.7rem;text-transform:uppercase;letter-spacing:.1em;margin-left:.5rem;color:#93c5fd;}
+    .warn{color:#fbbf24;}
+    .ok{color:#34d399;}
+  </style></head><body>
+  <h1>PDF Extraction Service <span class="pill">Fallback</span></h1>
+  <p class="warn">No <code>index.html</code> UI was found inside <code>${frontendDir}</code> at runtime. You're viewing the embedded fallback page.</p>
+  <p>To replace this page, ensure one of these exists at deploy time (with <code>index.html</code>):</p>
+  <ol>
+    <li><code>backend/frontend_build/</code> (preferred copied build output)</li>
+    <li><code>backend/frontend/build/</code> (CRA / Vite build)</li>
+    <li><code>backend/frontend/</code> (raw static assets)</li>
+  </ol>
+  <h2>Primary API Endpoints</h2>
+  <ul>
+    <li><code>/health</code> – liveness probe</li>
+    <li><code>/version</code> – build metadata</li>
+    <li><code>/upload</code> – multipart PDF upload (field <code>file</code>)</li>
+    <li><code>/process</code> – POST JSON <code>{ id }</code> to generate report</li>
+    <li><code>/reports</code> – list processed reports</li>
+    <li><code>/report/:id</code> – fetch single report</li>
+    <li><code>/export/:id?format=csv|json</code> – export data</li>
+    <li><code>/__diag</code> – diagnostics (frontend detection)</li>
+  </ul>
+  <h2>Current Deployment Diagnostics</h2>
+  <pre>${diagPre}</pre>
+  <h2>Next Steps To Show Real UI</h2>
+  <ol>
+    <li>Add or update <code>backend/frontend/index.html</code> (or build output) locally.</li>
+    <li>Commit: <code>git add backend/frontend && git commit -m "add embedded ui"</code></li>
+    <li>Push: <code>git push</code></li>
+    <li>Trigger a new deploy (Render will auto-build or use GitHub Action). If using Docker, make sure build cache is cleared.</li>
+    <li>Refresh this page. The fallback banner should disappear.</li>
+  </ol>
+  <p>Timestamp: <code>${now}</code></p>
+  <p style="margin-top:3rem;font-size:.7rem;opacity:.6">If this timestamp doesn't change after a redeploy, the old container/image is still running.</p>
+  </body></html>`);
 });
 
 app.get('/health', (_req, res) => {
@@ -137,6 +202,7 @@ app.use('/reports', reportSummaryRouter);
 app.use('/reports', metricsRouter);
 
 // Diagnostic: log registered top-level GET routes to ensure '/' is present (Render debugging)
+// Exportable so bootstrap.js can reuse
 function logRegisteredRoutes(){
   try {
     const routes = [];
@@ -165,6 +231,8 @@ function logRegisteredRoutes(){
 }
 
 app.use(notFoundHandler);
+// 404 path logger (after notFoundHandler to avoid interfering with JSON error response)
+app.use((req,res,next)=>{ if(res.statusCode===404){ console.warn('[404]', req.method, req.originalUrl); } next(); });
 app.use(errorHandler);
 
 // Default port aligned with frontend proxy (5200) so fewer mismatches.
@@ -283,7 +351,7 @@ setInterval(() => {
 }, 15000).unref();
 
 // Export for programmatic tests
-export { app, startServer };
+export { app, startServer, logRegisteredRoutes };
 
 // Only auto-start if this file is the entry point (not imported by a test script)
 const isDirect = process.argv[1] && path.basename(process.argv[1]) === 'server.js';
