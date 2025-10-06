@@ -2,6 +2,20 @@
 
 This project now includes a modular cost table pattern registry, bulk PDF ingestion scripts, and verification utilities.
 
+### Live Demo (Render Deployment)
+
+Primary (Root UI / Fallback Page): https://pdf-extractor-backend.onrender.com
+
+Health Check (JSON): https://pdf-extractor-backend.onrender.com/health
+
+Version / Build Metadata: https://pdf-extractor-backend.onrender.com/version
+
+Notes:
+- The root URL will serve the bundled frontend if present; otherwise it shows a minimal inline fallback page with links to the API endpoints.
+- If you encounter a cold start delay (Render free tier), the first request may take ~20–40 seconds to wake the service.
+- Use the Version endpoint to confirm the deployed git commit (fields: gitSha, buildTime, env).
+
+
 ### Cost Table Enrichment Passes (Multi-Stage)
 Cost extraction proceeds in layered passes to maximize recall while keeping early passes precise:
 1. Inline (during initial silver build): Pattern registry (`parseCostTablesWithPatterns`) + legacy heuristics in `reportBuilder.js` capture well‑structured known formats (Booths Creek, Bell Creek, Phase 1 BMPs, Activity/Match, Practice Costs, Tech Assistance, Full / Phase 1 Implementation estimates).
@@ -920,3 +934,69 @@ Separating raw vs curated vs serving layers reduces reprocessing risk, enables s
 
 ## License
 MIT (adjust as needed).
+
+## Version & Build Metadata
+
+The backend now exposes a lightweight `/version` endpoint for deployment observability.
+
+Example response:
+```json
+{
+  "service": "pdf-extractor-backend",
+  "version": "1.0.0",
+  "commit": "a1b2c3d",
+  "buildTime": "2025-10-06T13:22:41Z",
+  "node": "v20.11.1",
+  "env": "production"
+}
+```
+
+Fields:
+- `service`: Static identifier.
+- `version`: From `backend/package.json`.
+- `commit`: Optional short git SHA (set in environment).
+- `buildTime`: Optional ISO build timestamp.
+- `node`: Running Node.js version.
+- `env`: `NODE_ENV` value.
+
+### Adding Commit & Build Info
+Populate two environment variables at build or release time:
+```
+GIT_SHA=$(git rev-parse --short HEAD)
+BUILD_TIME=$(date -u +%FT%TZ)
+```
+On Windows PowerShell (example):
+```powershell
+$env:GIT_SHA = (git rev-parse --short HEAD)
+$env:BUILD_TIME = (Get-Date).ToUniversalTime().ToString('s') + 'Z'
+```
+Ensure your process manager (PM2, Dockerfile, GitHub Actions workflow, etc.) exports them before starting the server. They are optional; absence yields `null` for those fields.
+
+### Health vs Version
+- `/health` is intended for liveliness probes; fast and minimal.
+- `/version` is stable metadata for release verification, cache busting, and attaching build provenance to logs.
+
+### Suggested CI Step (GitHub Actions Snippet)
+```yaml
+    - name: Set build metadata
+      run: |
+        echo "GIT_SHA=$(git rev-parse --short HEAD)" >> $GITHUB_ENV
+        echo "BUILD_TIME=$(date -u +%FT%TZ)" >> $GITHUB_ENV
+    - name: Start backend
+      env:
+        GIT_SHA: ${{ env.GIT_SHA }}
+        BUILD_TIME: ${{ env.BUILD_TIME }}
+      run: node backend/server.js &
+    - name: Verify version endpoint
+      run: |
+        sleep 3
+        curl -s http://localhost:5200/version | jq '.'
+```
+
+### Quick Manual Check
+```bash
+curl -s http://localhost:5200/version | jq '{version,commit,buildTime,node}'
+```
+
+If you redeploy rapidly and want clients to bust caches for static assets, you can include `?v=<commit>` query params in frontend script tags using the same `GIT_SHA`.
+
