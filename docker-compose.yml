@@ -1,0 +1,19 @@
+version: '3.9'
+services:
+  backend:
+    build: ./backend
+    environment:
+      PORT: 5200
+      NODE_ENV: production
+      BMP_FILTER: '1'
+    volumes:
+      - ./data:/app/data
+    ports:
+      - "5200:5200"
+  # Optional: build CRA frontend separately; if relying on static index.html served by backend omit this service.
+  # frontend:
+  #   build: ./frontend
+  #   depends_on:
+  #     - backend
+  #   ports:
+  #     - "3000:80"
