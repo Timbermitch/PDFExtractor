@@ -4,16 +4,22 @@ This project now includes a modular cost table pattern registry, bulk PDF ingest
 
 ### Live Demo (Render Deployment)
 
-Primary (Root UI / Fallback Page): https://pdf-extractor-backend.onrender.com
+Live App (Embedded Report Viewer): https://pdf-extractor-o2bx.onrender.com
 
-Health Check (JSON): https://pdf-extractor-backend.onrender.com/health
+Health Check (JSON): https://pdf-extractor-o2bx.onrender.com/health
 
-Version / Build Metadata: https://pdf-extractor-backend.onrender.com/version
+Version / Build Metadata: https://pdf-extractor-o2bx.onrender.com/version
+
+Diagnostics: https://pdf-extractor-o2bx.onrender.com/__diag
+
+The root now serves an embedded zero-build UI (upload → process → tabbed report viewer with Summary / Goals / BMPs / Cost Tables / Raw JSON, filtering, and JSON download). If a full React build is later added under `frontend/` it will automatically take precedence.
+
+> Previous placeholder link `pdf-extractor-backend.onrender.com` is superseded by the new service `pdf-extractor-o2bx.onrender.com`.
 
 Notes:
-- The root URL will serve the bundled frontend if present; otherwise it shows a minimal inline fallback page with links to the API endpoints.
-- If you encounter a cold start delay (Render free tier), the first request may take ~20–40 seconds to wake the service.
-- Use the Version endpoint to confirm the deployed git commit (fields: gitSha, buildTime, env).
+- First request after idle (Render free tier) may take ~20–40s (cold start).
+- Version endpoint exposes git SHA & build time when set (see bottom of README for build metadata usage).
+- Fallback inline HTML will appear only if `backend/frontend/index.html` is absent at deploy time.
 
 
 ### Cost Table Enrichment Passes (Multi-Stage)
