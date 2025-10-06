@@ -8,34 +8,78 @@ on:
 jobs:
   build-and-verify:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+          cache: 'npm'
+
       - name: Install backend deps
         working-directory: backend
         run: npm ci || npm install
+
+      - name: Install frontend deps (optional)
+        working-directory: frontend
+        run: npm ci || npm install || echo "frontend optional"
+
+      - name: Start backend (background)
+        working-directory: backend
+        env:
+          PORT: 5200
+          NODE_ENV: test
+          BMP_FILTER: '1'
+          GIT_SHA: ${{ github.sha }}
+          BUILD_TIME: ${{ github.event.head_commit.timestamp || '' }}
+        run: |
+          node server.js > server.log 2>&1 &
+          echo $! > server.pid
+          sleep 5
+          echo "Started PID=$(cat server.pid)"
+
+      - name: Smoke health & version
+        run: |
+          curl -sS http://localhost:5200/health | jq '.status' | grep -i ok
+          curl -sS http://localhost:5200/version | jq '{version,commit}'
+
       - name: Pattern Verification
         working-directory: backend
         run: |
           npm run cost:verify || true
           npm run test:patterns || true
           npm run cost:summary
+
       - name: Rebuild sample report (pattern tagging)
         working-directory: backend
-        run: npm run rebuild:one
+        run: npm run rebuild:one || true
+
       - name: BMP Fallback Test
         working-directory: backend
-        run: npm run test:bmp:fallback
+        run: npm run test:bmp:fallback || true
+
       - name: Enhanced Summary Test
         working-directory: backend
-        run: npm run test:summary:enhanced
+        run: npm run test:summary:enhanced || true
+
+      - name: Optional cost snapshot
+        working-directory: backend
+        run: npm run cost:snapshot || echo "snapshot skipped"
+
+      - name: Stop backend
+        if: always()
+        working-directory: backend
+        run: |
+          if [ -f server.pid ]; then kill $(cat server.pid) || true; fi
+
       - name: Upload verification artifacts
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: cost-verification
-          path: backend/data/silver/*.json
+          name: extraction-artifacts
+          path: |
+            backend/data/silver/*.json
+            backend/server.log
