@@ -33,20 +33,33 @@ const __dirname = path.dirname(__filename);
 app.use('/data', express.static(path.join(process.cwd(), 'data')));
 // Serve simple frontend UI if present (support running from repo root or backend/)
 function resolveFrontendDir(){
-  const cwdFrontend = path.join(process.cwd(), 'frontend');
-  if(fs.existsSync(path.join(cwdFrontend,'index.html'))) return cwdFrontend;
-  const upOne = path.join(process.cwd(), '..', 'frontend');
-  if(fs.existsSync(path.join(upOne,'index.html'))) return upOne;
-  return cwdFrontend; // default (will 404 later if missing)
+  // Candidate directories in priority order
+  const candidates = [
+    path.join(process.cwd(), 'frontend_build'),       // explicit copied build
+    path.join(process.cwd(), 'frontend', 'build'),    // CRA style build inside frontend
+    path.join(process.cwd(), 'frontend'),             // raw frontend folder
+    path.join(process.cwd(), '..', 'frontend'),       // running from backend/ subdir
+  ];
+  for(const dir of candidates){
+    try {
+      if(fs.existsSync(path.join(dir,'index.html'))){
+        return dir;
+      }
+    } catch(_) { /* ignore */ }
+  }
+  return candidates[2]; // default to /frontend even if missing
 }
 const frontendDir = resolveFrontendDir();
 console.log('[startup] frontendDir resolved to', frontendDir);
 app.use(express.static(frontendDir));
-app.get('/', (req, res, next) => {
+app.get('/', (req, res) => {
   const idx = path.join(frontendDir, 'index.html');
-  try {
-    return res.sendFile(idx, (err)=>{ if(err) next(err); });
-  } catch (e) { return next(e); }
+  if(fs.existsSync(idx)){
+    return res.sendFile(idx);
+  }
+  // Fallback minimal inline UI so Render root is never blank.
+  res.setHeader('Content-Type','text/html; charset=utf-8');
+  return res.end(`<!doctype html><html><head><meta charset=utf-8><title>PDF Extractor Backend</title><style>body{font-family:system-ui,Arial,sans-serif;background:#111;color:#eee;padding:2rem;line-height:1.5;}code{background:#222;padding:.15rem .4rem;border-radius:4px;}a{color:#7fb3ff;text-decoration:none;}a:hover{text-decoration:underline;}h1{margin-top:0;font-size:1.4rem;}ul{margin:0 0 1rem 1.2rem;padding:0;}li{margin:.25rem 0;}</style></head><body><h1>PDF Extraction Service</h1><p>No <code>index.html</code> frontend was found at runtime. The API is live.</p><h2>Endpoints</h2><ul><li><code>/health</code> – liveness</li><li><code>/version</code> – build metadata</li><li><code>/upload</code> – multipart PDF upload (field <code>file</code>)</li><li><code>/process</code> – build structured report (POST JSON: { id })</li><li><code>/reports</code> – list processed reports</li><li><code>/report/:id</code> – fetch single report</li><li><code>/export/:id?format=csv|json</code> – export data</li></ul><p>To deploy the UI, include a <code>frontend/index.html</code> or CRA build (served from <code>frontend/build</code> or <code>frontend_build</code>).</p><p><em>Render Fallback Mode</em></p></body></html>`);
 });
 
 app.get('/health', (_req, res) => {
