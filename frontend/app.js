@@ -3,6 +3,14 @@ console.log('[boot] start restore v-clean');
 const el = s => document.querySelector(s);
 const state = { raw:[], filtered:[], lastQuery:'', costFilter:'all', sort:'recent', selectedId:null };
 
+// Dynamic API base support for Netlify/Vercel static hosting:
+// Order of precedence:
+// 1. window.__API_BASE__ (inline script in index.html before this file)
+// 2. process.env.REACT_APP_API_BASE (when bundled by a build tool)
+// 3. '' (same-origin relative)
+const API_BASE = (typeof window !== 'undefined' && window.__API_BASE__) ||
+  (typeof process !== 'undefined' && process.env && process.env.REACT_APP_API_BASE) || '';
+function api(path){ return API_BASE + path; }
 // Utility
 function fmt(n){ return (n==null||isNaN(n))? '' : Number(n).toLocaleString(undefined,{maximumFractionDigits:0}); }
 function setStatus(sel,msg,cls=''){ const t=el(sel); if(t) t.innerHTML = msg? `<span class="${cls}">${msg}</span>`:''; }
